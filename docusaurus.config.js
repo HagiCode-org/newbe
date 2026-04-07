@@ -4,6 +4,16 @@
 const lightCodeTheme = require('prism-react-renderer').themes.github;
 const darkCodeTheme = require('prism-react-renderer').themes.dracula;
 
+const default51LAId = 'L6b88a5yK4h2Xnci';
+const la51Id = process.env.LI_51LA_ID || default51LAId;
+const isProduction = process.env.NODE_ENV === 'production';
+const is51LAEnabled =
+  process.env.LI_51LA_ENABLED !== 'false' &&
+  process.env.LI_51LA_ENABLED !== '0' &&
+  isProduction;
+const is51LADebug =
+  process.env.LI_51LA_DEBUG === 'true' || process.env.LI_51LA_DEBUG === '1';
+
 // Reverse the sidebar items ordering (including nested category items)
 function reverseSidebarItems(items) {
   // Reverse items in categories
@@ -73,6 +83,29 @@ const config = {
       }),
     ],
   ],
+
+  headTags: is51LAEnabled
+    ? [
+        {
+          tagName: 'script',
+          attributes: {
+            charset: 'UTF-8',
+            id: 'LA_COLLECT',
+            src: '//sdk.51.la/js-sdk-pro.min.js',
+          },
+        },
+        {
+          tagName: 'script',
+          attributes: {},
+          innerHTML: `
+if (typeof LA !== 'undefined' && typeof LA.init === 'function') {
+  LA.init({id:'${la51Id}',ck:'${la51Id}',autoTrack:true,hashMode:true,screenRecord:true});
+}
+${is51LADebug ? `console.log('[51LA Analytics] Enabled:', true, 'id:', '***${la51Id.slice(-4)}');` : ''}
+          `.trim(),
+        },
+      ]
+    : [],
 
   presets: [
     [
