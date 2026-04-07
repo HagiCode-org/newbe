@@ -215,59 +215,65 @@ const GithubMirrorLink: React.FC<GithubMirrorLinkProps> = ({
 
             {/* Content */}
             <div className={styles.content}>
-              {/* Mirror pages and modal share the same Hagicode copy to keep CTA text aligned. */}
-              <div className={styles.promoSection}>
-                <HagicodeRecommendation layout="modal" />
-              </div>
+              <div className={styles.contentGrid}>
+                <aside className={styles.contentSidebar}>
+                  {/* Mirror pages and modal share the same Hagicode copy to keep CTA text aligned. */}
+                  <div className={styles.promoSection}>
+                    <HagicodeRecommendation layout="modal" />
+                  </div>
 
-              {/* Official Source Section */}
-              <MirrorSection title="官方源" icon="🔗">
-                <MirrorCard
-                  mirror={officialSource}
-                  fullUrl={link}
-                  onCopy={copyToClipboard}
-                />
-              </MirrorSection>
+                  {/* Other Methods Section */}
+                  {oneDriveSupport && (
+                    <div className={styles.otherMethods}>
+                      <p className={styles.otherMethodsText}>
+                        如加速链接失效，关注公众号回复"加速"获取稳定下载地址
+                      </p>
+                      <button
+                        className={styles.qrToggleButton}
+                        onClick={handleToggleQRModal}
+                        type="button"
+                      >
+                        查看公众号二维码
+                      </button>
+                    </div>
+                  )}
+                </aside>
 
-              {/* Recommended Mirrors Section */}
-              <MirrorSection title="推荐加速器" icon="⭐">
-                {recommendedMirrors.map((mirror) => (
-                  <MirrorCard
-                    key={mirror.id}
-                    mirror={mirror}
-                    fullUrl={getMirrorUrl(mirror, link)}
-                    onCopy={copyToClipboard}
-                  />
-                ))}
-              </MirrorSection>
+                <div className={styles.contentMain}>
+                  {/* Official Source Section */}
+                  <MirrorSection title="官方源" icon="🔗">
+                    <MirrorCard
+                      mirror={officialSource}
+                      fullUrl={link}
+                      onCopy={copyToClipboard}
+                    />
+                  </MirrorSection>
 
-              {/* Backup Mirrors Section */}
-              <MirrorSection title="备用加速器" icon="📦">
-                {backupMirrors.map((mirror) => (
-                  <MirrorCard
-                    key={mirror.id}
-                    mirror={mirror}
-                    fullUrl={getMirrorUrl(mirror, link)}
-                    onCopy={copyToClipboard}
-                  />
-                ))}
-              </MirrorSection>
+                  {/* Recommended Mirrors Section */}
+                  <MirrorSection title="推荐加速器" icon="⭐">
+                    {recommendedMirrors.map((mirror) => (
+                      <MirrorCard
+                        key={mirror.id}
+                        mirror={mirror}
+                        fullUrl={getMirrorUrl(mirror, link)}
+                        onCopy={copyToClipboard}
+                      />
+                    ))}
+                  </MirrorSection>
 
-              {/* Other Methods Section */}
-              {oneDriveSupport && (
-                <div className={styles.otherMethods}>
-                  <p className={styles.otherMethodsText}>
-                    如加速链接失效，关注公众号回复"加速"获取稳定下载地址
-                  </p>
-                  <button
-                    className={styles.qrToggleButton}
-                    onClick={handleToggleQRModal}
-                    type="button"
-                  >
-                    查看公众号二维码
-                  </button>
+                  {/* Backup Mirrors Section */}
+                  <MirrorSection title="备用加速器" icon="📦">
+                    {backupMirrors.map((mirror) => (
+                      <MirrorCard
+                        key={mirror.id}
+                        mirror={mirror}
+                        fullUrl={getMirrorUrl(mirror, link)}
+                        onCopy={copyToClipboard}
+                      />
+                    ))}
+                  </MirrorSection>
                 </div>
-              )}
+              </div>
             </div>
           </div>
         </div>,

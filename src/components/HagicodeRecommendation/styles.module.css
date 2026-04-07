@@ -179,12 +179,12 @@
 }
 
 .modal .featureGrid {
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 0.75rem;
+  grid-template-columns: 1fr;
+  gap: 0.85rem;
 }
 
 .modal .featureCard:last-child {
-  grid-column: 1 / -1;
+  grid-column: auto;
 }
 
 .modal .featureVisual {
