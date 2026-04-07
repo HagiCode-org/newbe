@@ -93,7 +93,6 @@
 /Newbe.Claptrap/Reactive-In-Server-1/
 /Others/Full-Speed-To-Download-Netcore-Docker-Images/
 /Others/Speed-Up-MCR/
-/Mirrors/Mirrors-NetCore/
 /Newbe.Claptrap/How-Many-RAMs-In-Used-While-There-Are-One-Hundred-Thousand-Users-Online/
 /Newbe.Claptrap/Get-Started-1/
 /Newbe.Claptrap/Reactive-In-Server-2/
