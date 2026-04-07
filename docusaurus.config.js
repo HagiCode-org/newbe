@@ -3,6 +3,7 @@
 
 const lightCodeTheme = require('prism-react-renderer').themes.github;
 const darkCodeTheme = require('prism-react-renderer').themes.dracula;
+const { resolveNewbeFooterLinks } = require('./footer-sites');
 
 const default51LAId = 'L6b88a5yK4h2Xnci';
 const la51Id = process.env.LI_51LA_ID || default51LAId;
@@ -239,20 +240,10 @@ ${is51LADebug ? `console.log('[51LA Analytics] Enabled:', true, 'id:', '***${la5
           },
           {
             title: 'Hagicode',
-            items: [
-              {
-                label: 'Hagicode 官网',
-                to: 'https://hagicode.com/',
-              },
-              {
-                label: '实战视频',
-                to: 'https://www.bilibili.com/video/BV1pirZBuEzq',
-              },
-              {
-                label: '安装指南',
-                to: 'https://docs.hagicode.com/installation/desktop/',
-              },
-            ],
+            items: resolveNewbeFooterLinks().map((link) => ({
+              label: `${link.title} · ${link.description}`,
+              href: link.href,
+            })),
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} newbe36524, Built with Docusaurus.`,
