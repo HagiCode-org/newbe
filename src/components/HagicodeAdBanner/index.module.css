@@ -1,0 +1,764 @@
+/**
+ * HagicodeAdBanner Component - Gamified Styles
+ * Advanced visual effects with animated gradients, particles, and glassmorphism
+ */
+
+/* ============================================
+   CSS Custom Properties
+   ============================================ */
+
+:root {
+  --banner-bg-light: linear-gradient(135deg, #EFF6FF 0%, #DBEAFE 50%, #EFF6FF 100%);
+  --banner-bg-dark: linear-gradient(135deg, #0F172A 0%, #1E293B 50%, #0F172A 100%);
+  --banner-border-light: rgba(59, 130, 246, 0.3);
+  --banner-border-dark: rgba(59, 130, 246, 0.4);
+  --banner-text-light: #0F172A;
+  --banner-text-dark: #F1F5F9;
+  --banner-text-muted-light: #475569;
+  --banner-text-muted-dark: #94A3B8;
+  --banner-glass-light: rgba(255, 255, 255, 0.7);
+  --banner-glass-dark: rgba(15, 23, 42, 0.6);
+  --banner-blob-1: rgba(59, 130, 246, 0.4);
+  --banner-blob-2: rgba(249, 115, 22, 0.3);
+  --banner-blob-3: rgba(168, 85, 247, 0.25);
+  --banner-cta-primary: linear-gradient(135deg, #3B82F6 0%, #2563EB 100%);
+  --banner-cta-primary-hover: linear-gradient(135deg, #2563EB 0%, #1D4ED8 100%);
+  --banner-cta-secondary-light: rgba(255, 255, 255, 0.9);
+  --banner-cta-secondary-dark: rgba(30, 41, 59, 0.8);
+}
+
+/* ============================================
+   Banner Container
+   ============================================ */
+
+.bannerContainer {
+  position: relative;
+  width: 100%;
+  min-height: 72px;
+  background: var(--banner-bg-light);
+  border-bottom: 1px solid var(--banner-border-light);
+  overflow: hidden;
+  isolation: isolate;
+  animation: bannerSlideIn 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.bannerExiting {
+  animation: bannerSlideOut 0.3s cubic-bezier(0.4, 0, 1, 1) forwards;
+}
+
+@keyframes bannerSlideIn {
+  from {
+    opacity: 0;
+    transform: translateY(-100%);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes bannerSlideOut {
+  from {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  to {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+}
+
+/* ============================================
+   Animated Mesh Gradient Background
+   ============================================ */
+
+.meshGradient {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  filter: blur(60px);
+  opacity: 0.7;
+}
+
+.gradientBlob1,
+.gradientBlob2,
+.gradientBlob3 {
+  position: absolute;
+  border-radius: 50%;
+  animation: blobFloat 8s ease-in-out infinite;
+}
+
+.gradientBlob1 {
+  width: 300px;
+  height: 300px;
+  background: var(--banner-blob-1);
+  top: -100px;
+  left: -50px;
+  animation-delay: 0s;
+}
+
+.gradientBlob2 {
+  width: 250px;
+  height: 250px;
+  background: var(--banner-blob-2);
+  bottom: -80px;
+  right: -30px;
+  animation-delay: -2s;
+}
+
+.gradientBlob3 {
+  width: 200px;
+  height: 200px;
+  background: var(--banner-blob-3);
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  animation-delay: -4s;
+}
+
+@keyframes blobFloat {
+  0%, 100% {
+    transform: translate(0, 0) scale(1);
+  }
+  33% {
+    transform: translate(30px, -50px) scale(1.1);
+  }
+  66% {
+    transform: translate(-20px, 20px) scale(0.9);
+  }
+}
+
+/* ============================================
+   Particle Overlay
+   ============================================ */
+
+.particleOverlay {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.particle {
+  position: absolute;
+  width: 2px;
+  height: 2px;
+  background: radial-gradient(circle, rgba(59, 130, 246, 0.8), transparent);
+  border-radius: 50%;
+  left: var(--x);
+  top: var(--y);
+  animation: particleFloat var(--duration) ease-in-out infinite;
+  animation-delay: var(--delay);
+  opacity: 0;
+}
+
+@keyframes particleFloat {
+  0%, 100% {
+    opacity: 0;
+    transform: translate(0, 0);
+  }
+  10% {
+    opacity: 1;
+  }
+  90% {
+    opacity: 1;
+  }
+  50% {
+    transform: translate(
+      calc(var(--x) * 0.1 + 10px),
+      calc(var(--y) * 0.1 - 20px)
+    );
+  }
+}
+
+/* ============================================
+   Grid Pattern Overlay
+   ============================================ */
+
+.gridPattern {
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(rgba(59, 130, 246, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(59, 130, 246, 0.03) 1px, transparent 1px);
+  background-size: 20px 20px;
+  pointer-events: none;
+}
+
+/* ============================================
+   Shine Effect
+   ============================================ */
+
+.shineEffect {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255, 255, 255, 0.3),
+    transparent
+  );
+  transform: translateX(-100%);
+  transition: transform 0.8s ease;
+  pointer-events: none;
+}
+
+.bannerContainer:hover .shineEffect {
+  transform: translateX(100%);
+}
+
+/* ============================================
+   Banner Inner Content
+   ============================================ */
+
+.bannerInner {
+  position: relative;
+  z-index: 1;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 12px 20px;
+}
+
+.bannerContent {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  background: var(--banner-glass-light);
+  backdrop-filter: blur(16px) saturate(180%);
+  -webkit-backdrop-filter: blur(16px) saturate(180%);
+  border-radius: 14px;
+  padding: 14px 20px;
+  padding-right: 48px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow:
+    0 4px 24px rgba(59, 130, 246, 0.1),
+    inset 0 1px 0 rgba(255, 255, 255, 0.5);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.bannerContent:hover {
+  box-shadow:
+    0 8px 32px rgba(59, 130, 246, 0.15),
+    inset 0 1px 0 rgba(255, 255, 255, 0.6);
+}
+
+/* ============================================
+   Close Button
+   ============================================ */
+
+.closeButton {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(100, 116, 139, 0.1);
+  border: 1px solid rgba(100, 116, 139, 0.15);
+  border-radius: 8px;
+  cursor: pointer;
+  color: var(--banner-text-muted-light);
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  z-index: 10;
+}
+
+.closeButton:hover {
+  background: rgba(239, 68, 68, 0.15);
+  border-color: rgba(239, 68, 68, 0.3);
+  color: #DC2626;
+  transform: scale(1.05);
+}
+
+.closeButton:active {
+  transform: scale(0.95);
+}
+
+.closeButton:focus-visible {
+  outline: 2px solid #F97316;
+  outline-offset: 2px;
+}
+
+/* ============================================
+   Icon Section
+   ============================================ */
+
+.iconSection {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 56px;
+  height: 56px;
+  flex-shrink: 0;
+}
+
+.iconWrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  background: linear-gradient(135deg, #3B82F6, #2563EB);
+  border-radius: 14px;
+  box-shadow:
+    0 4px 16px rgba(59, 130, 246, 0.3),
+    inset 0 1px 0 rgba(255, 255, 255, 0.3);
+}
+
+.icon {
+  font-size: 1.5rem;
+  line-height: 1;
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));
+  animation: iconBounce 2s ease-in-out infinite;
+}
+
+@keyframes iconBounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-3px);
+  }
+}
+
+.iconPulse {
+  position: absolute;
+  inset: -8px;
+  border-radius: 16px;
+  border: 2px solid rgba(59, 130, 246, 0.4);
+  animation: pulseExpand 2s ease-out infinite;
+}
+
+.iconPulse2 {
+  position: absolute;
+  inset: -8px;
+  border-radius: 16px;
+  border: 2px solid rgba(59, 130, 246, 0.3);
+  animation: pulseExpand 2s ease-out infinite 1s;
+}
+
+@keyframes pulseExpand {
+  0% {
+    transform: scale(1);
+    opacity: 0.6;
+  }
+  100% {
+    transform: scale(1.4);
+    opacity: 0;
+  }
+}
+
+.glowOrb {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  background: radial-gradient(circle, rgba(59, 130, 246, 0.3), transparent 70%);
+  border-radius: 50%;
+  animation: orbPulse 3s ease-in-out infinite;
+}
+
+@keyframes orbPulse {
+  0%, 100% {
+    transform: scale(1);
+    opacity: 0.5;
+  }
+  50% {
+    transform: scale(1.2);
+    opacity: 0.8;
+  }
+}
+
+/* ============================================
+   Text Section
+   ============================================ */
+
+.textSection {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  flex: 1;
+  min-width: 0;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin: 0;
+  font-size: 0.9375rem;
+  font-weight: 600;
+  color: var(--banner-text-light);
+  line-height: 1.3;
+}
+
+.titleHighlight {
+  background: linear-gradient(135deg, #3B82F6, #2563EB);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-weight: 700;
+}
+
+.titleDash {
+  color: var(--banner-text-muted-light);
+}
+
+.titleText {
+  color: var(--banner-text-light);
+}
+
+/* ============================================
+   CTA Section
+   ============================================ */
+
+.ctaSection {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.ctaButton {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 38px;
+  padding: 0 14px;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+  white-space: nowrap;
+  overflow: hidden;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  transform: translateZ(0);
+}
+
+.ctaPrimary {
+  background: var(--banner-cta-primary);
+  color: white;
+  box-shadow:
+    0 2px 12px rgba(59, 130, 246, 0.3),
+    inset 0 1px 0 rgba(255, 255, 255, 0.2);
+}
+
+.ctaPrimary:hover {
+  background: var(--banner-cta-primary-hover);
+  box-shadow:
+    0 4px 20px rgba(59, 130, 246, 0.4),
+    inset 0 1px 0 rgba(255, 255, 255, 0.2);
+  transform: translateY(-2px);
+}
+
+.ctaPrimary:active {
+  transform: translateY(0) scale(0.98);
+}
+
+.ctaText {
+  position: relative;
+  z-index: 1;
+}
+
+.ctaGlow {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+  transform: translateX(-100%);
+  transition: transform 0.5s ease;
+}
+
+.ctaPrimary:hover .ctaGlow {
+  transform: translateX(100%);
+}
+
+.ctaIcon {
+  flex-shrink: 0;
+  transition: transform 0.2s ease;
+}
+
+.ctaPrimary:hover .ctaIcon {
+  transform: translateX(3px);
+}
+
+.ctaSecondary {
+  background: var(--banner-cta-secondary-light);
+  color: var(--banner-text-light);
+  border: 1px solid rgba(148, 163, 184, 0.25);
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.06);
+}
+
+.ctaSecondary:hover {
+  background: rgba(59, 130, 246, 0.1);
+  border-color: rgba(59, 130, 246, 0.35);
+  color: #2563EB;
+  box-shadow: 0 4px 12px rgba(59, 130, 246, 0.15);
+  transform: translateY(-2px);
+}
+
+.ctaSecondary:active {
+  transform: translateY(0) scale(0.98);
+}
+
+.playIcon {
+  flex-shrink: 0;
+  color: inherit;
+  transition: transform 0.2s ease;
+}
+
+.ctaSecondary:hover .playIcon {
+  transform: scale(1.15);
+}
+
+.ctaButton:focus-visible {
+  outline: 2px solid #F97316;
+  outline-offset: 2px;
+}
+
+/* ============================================
+   Dark Theme
+   ============================================ */
+
+[data-theme='dark'] .bannerContainer {
+  background: var(--banner-bg-dark);
+  border-bottom-color: var(--banner-border-dark);
+}
+
+[data-theme='dark'] .bannerContent {
+  background: var(--banner-glass-dark);
+  border-color: rgba(59, 130, 246, 0.2);
+  box-shadow:
+    0 4px 24px rgba(59, 130, 246, 0.15),
+    inset 0 1px 0 rgba(255, 255, 255, 0.1);
+}
+
+[data-theme='dark'] .bannerContent:hover {
+  box-shadow:
+    0 8px 32px rgba(59, 130, 246, 0.2),
+    inset 0 1px 0 rgba(255, 255, 255, 0.12);
+}
+
+[data-theme='dark'] .closeButton {
+  background: rgba(100, 116, 139, 0.2);
+  border-color: rgba(100, 116, 139, 0.25);
+  color: var(--banner-text-muted-dark);
+}
+
+[data-theme='dark'] .closeButton:hover {
+  background: rgba(239, 68, 68, 0.2);
+  border-color: rgba(239, 68, 68, 0.4);
+  color: #F87171;
+}
+
+[data-theme='dark'] .iconWrapper {
+  background: linear-gradient(135deg, #3B82F6, #60A5FA);
+  box-shadow:
+    0 4px 16px rgba(59, 130, 246, 0.4),
+    inset 0 1px 0 rgba(255, 255, 255, 0.2);
+}
+
+[data-theme='dark'] .glowOrb {
+  background: radial-gradient(circle, rgba(59, 130, 246, 0.4), transparent 70%);
+}
+
+[data-theme='dark'] .title {
+  color: var(--banner-text-dark);
+}
+
+[data-theme='dark'] .titleDash {
+  color: var(--banner-text-muted-dark);
+}
+
+[data-theme='dark'] .titleText {
+  color: var(--banner-text-dark);
+}
+
+[data-theme='dark'] .ctaPrimary {
+  background: linear-gradient(135deg, #3B82F6, #60A5FA);
+  box-shadow:
+    0 2px 12px rgba(59, 130, 246, 0.4),
+    inset 0 1px 0 rgba(255, 255, 255, 0.15);
+}
+
+[data-theme='dark'] .ctaPrimary:hover {
+  background: linear-gradient(135deg, #2563EB, #3B82F6);
+  box-shadow:
+    0 4px 20px rgba(59, 130, 246, 0.5),
+    inset 0 1px 0 rgba(255, 255, 255, 0.15);
+}
+
+[data-theme='dark'] .ctaSecondary {
+  background: var(--banner-cta-secondary-dark);
+  color: #E2E8F0;
+  border-color: rgba(100, 116, 139, 0.3);
+}
+
+[data-theme='dark'] .ctaSecondary:hover {
+  background: rgba(59, 130, 246, 0.15);
+  border-color: rgba(59, 130, 246, 0.4);
+  color: #60A5FA;
+}
+
+[data-theme='dark'] .gridPattern {
+  background-image:
+    linear-gradient(rgba(59, 130, 246, 0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(59, 130, 246, 0.05) 1px, transparent 1px);
+}
+
+/* ============================================
+   Responsive Design
+   ============================================ */
+
+/* Mobile (<768px) - Vertical layout */
+@media (max-width: 767px) {
+  .bannerInner {
+    padding: 10px 14px;
+  }
+
+  .bannerContent {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 12px 14px;
+    padding-right: 44px;
+  }
+
+  .iconSection {
+    width: 48px;
+    height: 48px;
+  }
+
+  .iconWrapper {
+    width: 40px;
+    height: 40px;
+  }
+
+  .icon {
+    font-size: 1.25rem;
+  }
+
+  .textSection {
+    width: 100%;
+  }
+
+  .title {
+    flex-wrap: wrap;
+    font-size: 0.875rem;
+  }
+
+  .ctaSection {
+    width: 100%;
+    flex-direction: column;
+  }
+
+  .ctaButton {
+    width: 100%;
+    justify-content: center;
+    min-height: 42px;
+  }
+
+  .closeButton {
+    top: 8px;
+    right: 8px;
+    width: 28px;
+    height: 28px;
+  }
+}
+
+/* Tablet (768px - 996px) */
+@media (min-width: 768px) and (max-width: 996px) {
+  .bannerInner {
+    padding: 12px 24px;
+  }
+
+  .bannerContent {
+    padding: 14px 20px;
+    padding-right: 52px;
+  }
+
+  .title {
+    font-size: 1rem;
+  }
+}
+
+/* Desktop (>996px) - Hide banner */
+@media (min-width: 997px) {
+  .bannerContainer {
+    display: none;
+  }
+}
+
+/* ============================================
+   Accessibility - Reduced Motion
+   ============================================ */
+
+@media (prefers-reduced-motion: reduce) {
+  .bannerContainer,
+  .gradientBlob1,
+  .gradientBlob2,
+  .gradientBlob3,
+  .particle,
+  .icon,
+  .iconPulse,
+  .iconPulse2,
+  .glowOrb,
+  .ctaButton,
+  .ctaGlow,
+  .ctaIcon,
+  .playIcon,
+  .closeButton,
+  .shineEffect,
+  .bannerContent {
+    animation: none !important;
+    transition: none !important;
+  }
+
+  .bannerContainer:hover,
+  .ctaButton:hover,
+  .closeButton:hover,
+  .bannerContent:hover {
+    transform: none !important;
+  }
+}
+
+/* ============================================
+   High Contrast Mode Support
+   ============================================ */
+
+@media (prefers-contrast: high) {
+  .bannerContainer {
+    border-bottom-width: 2px;
+  }
+
+  .bannerContent {
+    border-width: 2px;
+  }
+
+  .closeButton {
+    border-width: 2px;
+  }
+
+  .ctaButton {
+    border-width: 2px;
+    border-style: solid;
+  }
+
+  .ctaSecondary {
+    border-color: currentColor;
+  }
+}
+
+/* ============================================
+   Print Styles
+   ============================================ */
+
+@media print {
+  .bannerContainer {
+    display: none;
+  }
+}

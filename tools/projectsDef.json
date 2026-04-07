@@ -1,0 +1,359 @@
+﻿{
+    "projects":  [
+                     {
+                         "title":  "Akka.NET",
+                         "summury":  "Actor开发框架",
+                         "filename":  "akkadotnet.md"
+                     },
+                     {
+                         "title":  "AngleSharp",
+                         "summury":  "浏览器引擎",
+                         "filename":  "anglesharp.md"
+                     },
+                     {
+                         "title":  "ASP.NET SignalR",
+                         "summury":  "Web实时通信框架",
+                         "filename":  "asp.net-signalr.md"
+                     },
+                     {
+                         "title":  "ASP.NET MVC, Web API and Web Pages Razor",
+                         "summury":  "Web开发框架",
+                         "filename":  "aspnet-4.md"
+                     },
+                     {
+                         "title":  "ASP.NET Ajax Control Toolkit",
+                         "summury":  "Ajax开发工具",
+                         "filename":  "aspnet-ajax.md"
+                     },
+                     {
+                         "title":  "ASP.NET Core",
+                         "summury":  "新时代Web开发框架",
+                         "filename":  "aspnet-core.md"
+                     },
+                     {
+                         "title":  "AutoMapper",
+                         "summury":  "对象映射管理",
+                         "filename":  "automapper.md"
+                     },
+                     {
+                         "title":  "Microsoft Azure SDK for .NET",
+                         "summury":  "SDK",
+                         "filename":  "azure-sdk.md"
+                     },
+                     {
+                         "title":  "Microsoft Azure WebJobs SDK",
+                         "summury":  "SDK",
+                         "filename":  "azure-webjobs-sdk.md"
+                     },
+                     {
+                         "title":  "BenchmarkDotNet",
+                         "summury":  "基准测试框架",
+                         "filename":  "benchmarkdotnet.md"
+                     },
+                     {
+                         "title":  "Cake",
+                         "summury":  "本地自动化框架",
+                         "filename":  "cake.md"
+                     },
+                     {
+                         "title":  "Chemistry Add-in for Word",
+                         "summury":  "Word插件",
+                         "filename":  "chem4word.md"
+                     },
+                     {
+                         "title":  "Couchbase Lite for .NET",
+                         "summury":  "NoSQL引擎",
+                         "filename":  "couchbase-lite-for-.net.md"
+                     },
+                     {
+                         "title":  "DNN Platform",
+                         "summury":  "CMS系统",
+                         "filename":  "dnn-platform.md"
+                     },
+                     {
+                         "title":  ".NET Compiler Platform  Roslyn ",
+                         "summury":  "编译器",
+                         "filename":  "dotnet-compiler-platform.md"
+                     },
+                     {
+                         "title":  ".NET Micro Framework",
+                         "summury":  "嵌入式框架",
+                         "filename":  "dotnet-micro-framework.md"
+                     },
+                     {
+                         "title":  ".NET SDK For Hadoop",
+                         "summury":  "SDK",
+                         "filename":  "dotnet-sdk-for-hadoop.md"
+                     },
+                     {
+                         "title":  "DotVVM: Component-based MVVM framework for ASP.NET",
+                         "summury":  "Web服务端MVVM框架",
+                         "filename":  "dotvvm.md"
+                     },
+                     {
+                         "title":  "Entity Framework",
+                         "summury":  "ORM",
+                         "filename":  "entity-framework.md"
+                     },
+                     {
+                         "title":  "Humanizer",
+                         "summury":  "工具库",
+                         "filename":  "humanizer.md"
+                     },
+                     {
+                         "title":  "IdentityManager",
+                         "summury":  "身份认证数据管理工具",
+                         "filename":  "identitymanager.md"
+                     },
+                     {
+                         "title":  "IdentityModel",
+                         "summury":  "身份认证对接库",
+                         "filename":  "identitymodel.md"
+                     },
+                     {
+                         "title":  "IdentityServer",
+                         "summury":  "OAuth服务端",
+                         "filename":  "identityserver.md"
+                     },
+                     {
+                         "title":  "SixLabors.ImageSharp",
+                         "summury":  "2D绘图库",
+                         "filename":  "imagesharp.md"
+                     },
+                     {
+                         "title":  "DLR/IronPython2/IronPython3",
+                         "summury":  ".Net上运行Python",
+                         "filename":  "ironpython.md"
+                     },
+                     {
+                         "title":  "Json.NET",
+                         "summury":  "JSON处理库",
+                         "filename":  "jsondotnet.md"
+                     },
+                     {
+                         "title":  "Kudu  ",
+                         "summury":  "自动化框架",
+                         "filename":  "kudu.md"
+                     },
+                     {
+                         "title":  "LLILC",
+                         "summury":  "语言底层项目",
+                         "filename":  "llilc.md"
+                     },
+                     {
+                         "title":  "MailKit",
+                         "summury":  "邮件处理工具库",
+                         "filename":  "mailkit.md"
+                     },
+                     {
+                         "title":  "Managed Extensibility Framework MEF, MEF2",
+                         "summury":  "模块化工具库",
+                         "filename":  "mef.md"
+                     },
+                     {
+                         "title":  "Microsoft Web Protection Library",
+                         "summury":  "Web防攻击工具库",
+                         "filename":  "microsoft-web-protection-library.md"
+                     },
+                     {
+                         "title":  "MimeKit",
+                         "summury":  "MIME处理工具库",
+                         "filename":  "mimekit.md"
+                     },
+                     {
+                         "title":  "ML.NET",
+                         "summury":  "机器学习框架",
+                         "filename":  "mlnet.md"
+                     },
+                     {
+                         "title":  "Cecil",
+                         "summury":  "语言底层项目",
+                         "filename":  "mono.cecil.md"
+                     },
+                     {
+                         "title":  "Mono",
+                         "summury":  "语言跨平台底层项目",
+                         "filename":  "mono.md"
+                     },
+                     {
+                         "title":  "MSBuild",
+                         "summury":  "本地自动化框架",
+                         "filename":  "msbuild.md"
+                     },
+                     {
+                         "title":  "MVVM Light Toolkit",
+                         "summury":  "客户端MVVM开发框架",
+                         "filename":  "mvvm-light-toolkit.md"
+                     },
+                     {
+                         "title":  "MvvmCross",
+                         "summury":  "客户端MVVM开发框架",
+                         "filename":  "mvvmcross.md"
+                     },
+                     {
+                         "title":  "Nancy",
+                         "summury":  "Web开发框架",
+                         "filename":  "nancy.md"
+                     },
+                     {
+                         "title":  ".NET Core",
+                         "summury":  "Web开发框架",
+                         "filename":  "NETCore.md"
+                     },
+                     {
+                         "title":  "Newtonsoft.Json",
+                         "summury":  "JSON处理库",
+                         "filename":  "newtonsoft.json.md"
+                     },
+                     {
+                         "title":  "NuGet ",
+                         "summury":  "包管理框架",
+                         "filename":  "nuget.md"
+                     },
+                     {
+                         "title":  "NUnit Test Framework",
+                         "summury":  "单元测试框架",
+                         "filename":  "nunit.md"
+                     },
+                     {
+                         "title":  "Open Live Writer",
+                         "summury":  "博客协作工具",
+                         "filename":  "open-live-writer.md"
+                     },
+                     {
+                         "title":  "Open XML SDK",
+                         "summury":  "Office SDK",
+                         "filename":  "open-xml-sdk.md"
+                     },
+                     {
+                         "title":  "Orchard CMS ",
+                         "summury":  "CMS系统",
+                         "filename":  "orchard.md"
+                     },
+                     {
+                         "title":  "Orleans",
+                         "summury":  "Actor开发框架",
+                         "filename":  "orleans.md"
+                     },
+                     {
+                         "title":  "OWIN Authentication Middleware Katana Project",
+                         "summury":  "Web开发框架",
+                         "filename":  "owin-authentication-middleware.md"
+                     },
+                     {
+                         "title":  "Peachpie Compiler Platform",
+                         "summury":  ".Net上运行PHP",
+                         "filename":  "peachpie.md"
+                     },
+                     {
+                         "title":  "Polly",
+                         "summury":  "服务调用工具库",
+                         "filename":  "polly.md"
+                     },
+                     {
+                         "title":  "Prism",
+                         "summury":  "客户端MVVM开发框架",
+                         "filename":  "prism.md"
+                     },
+                     {
+                         "title":  "Protobuild",
+                         "summury":  "项目文件生成工具",
+                         "filename":  "protobuild.md"
+                     },
+                     {
+                         "title":  "Reactive Extensions for .NET",
+                         "summury":  "反应式编程框架",
+                         "filename":  "reactive-extensions.md"
+                     },
+                     {
+                         "title":  "ReactiveUI",
+                         "summury":  "反应式编程UI框架",
+                         "filename":  "reactiveui.md"
+                     },
+                     {
+                         "title":  "Salesforce Toolkits for .NET",
+                         "summury":  "SDK",
+                         "filename":  "salesforce-toolkits.md"
+                     },
+                     {
+                         "title":  "SourceLink",
+                         "summury":  "源码调试支持",
+                         "filename":  "sourcelink.md"
+                     },
+                     {
+                         "title":  "Steeltoe",
+                         "summury":  "微服务框架",
+                         "filename":  "steeltoe.md"
+                     },
+                     {
+                         "title":  "System.Drawing Mono",
+                         "summury":  "2D绘图工具库",
+                         "filename":  "system.drawing.md"
+                     },
+                     {
+                         "title":  "Telerik UI for UWP",
+                         "summury":  "UWP UI框架",
+                         "filename":  "telerik-ui-for-uwp.md"
+                     },
+                     {
+                         "title":  "Umbraco",
+                         "summury":  "CMS框架",
+                         "filename":  "umbraco.md"
+                     },
+                     {
+                         "title":  "UWP Community Toolkit",
+                         "summury":  "UWP 工具库",
+                         "filename":  "uwpcommunitytoolkit.md"
+                     },
+                     {
+                         "title":  "WCF",
+                         "summury":  "跨进程通信框架",
+                         "filename":  "wcf.md"
+                     },
+                     {
+                         "title":  "Windows Phone Toolkit",
+                         "summury":  "WP 工具库",
+                         "filename":  "windows-phone-toolkit.md"
+                     },
+                     {
+                         "title":  "Windows Template Studio",
+                         "summury":  "UWP 项目模板",
+                         "filename":  "windows-template-studio.md"
+                     },
+                     {
+                         "title":  "Windows Forms",
+                         "summury":  "客户端开发框架",
+                         "filename":  "winforms.md"
+                     },
+                     {
+                         "title":  "WiX Toolset",
+                         "summury":  "安装包制作框架",
+                         "filename":  "wixtoolset.md"
+                     },
+                     {
+                         "title":  "WorldWide Telescope",
+                         "summury":  "宇宙探索工具",
+                         "filename":  "worldwide-telescope.md"
+                     },
+                     {
+                         "title":  "Windows Presentation Foundation WPF",
+                         "summury":  "客户端开发框架",
+                         "filename":  "wpf.md"
+                     },
+                     {
+                         "title":  "Xamarin.Auth",
+                         "summury":  "移动端身份认证工具库",
+                         "filename":  "xamarin.auth.md"
+                     },
+                     {
+                         "title":  "Xamarin.Mobile",
+                         "summury":  "移动端工具库",
+                         "filename":  "xamarin.mobile.md"
+                     },
+                     {
+                         "title":  "xUnit.net",
+                         "summury":  "单元测试框架",
+                         "filename":  "xunit.md"
+                     }
+                 ]
+}

@@ -1,0 +1,42 @@
+{
+  "link.title.Docs": {
+    "message": "Docs",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Community": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.友情链接": {
+    "message": "友情链接",
+    "description": "The title of the footer links column with title=友情链接 in the footer"
+  },
+  "link.item.label.博客": {
+    "message": "博客",
+    "description": "The label of footer link with label=博客 linking to /docs"
+  },
+  "link.item.label.QQ 群 610394020": {
+    "message": "QQ 群 610394020",
+    "description": "The label of footer link with label=QQ 群 610394020 linking to https://jq.qq.com/?_wv=1027&k=3PUr2L5i"
+  },
+  "link.item.label.懒得勤快": {
+    "message": "懒得勤快",
+    "description": "The label of footer link with label=懒得勤快 linking to https://masuit.org"
+  },
+  "link.item.label.面向云技术架构 - 痴者工良": {
+    "message": "面向云技术架构 - 痴者工良",
+    "description": "The label of footer link with label=面向云技术架构 - 痴者工良 linking to https://www.whuanle.cn/"
+  },
+  "link.item.label.黑洞视界": {
+    "message": "黑洞视界",
+    "description": "The label of footer link with label=黑洞视界 linking to https://www.cnblogs.com/eventhorizon/"
+  },
+  "link.item.label.Alex Lewis": {
+    "message": "Alex Lewis",
+    "description": "The label of footer link with label=Alex Lewis linking to https://alexinea.com/"
+  },
+  "copyright": {
+    "message": "Copyright © 2023 newbe36524, Built with Docusaurus.",
+    "description": "The footer copyright"
+  }
+}

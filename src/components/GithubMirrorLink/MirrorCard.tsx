@@ -1,0 +1,98 @@
+/**
+ * MirrorCard Component - Individual mirror link display card
+ * Shows mirror name, icon, description, and action buttons
+ */
+
+import React, { useState } from 'react';
+import type { MirrorCardProps } from './types';
+import styles from './styles.module.css';
+
+const MirrorCard: React.FC<MirrorCardProps> = ({
+  mirror,
+  fullUrl,
+  onCopy,
+  className = '',
+}) => {
+  const [copyState, setCopyState] = useState<'idle' | 'copying' | 'success' | 'error'>('idle');
+
+  const handleCopy = async (e: React.MouseEvent) => {
+    e.preventDefault();
+    e.stopPropagation();
+
+    setCopyState('copying');
+    try {
+      await onCopy(fullUrl);
+      setCopyState('success');
+      setTimeout(() => setCopyState('idle'), 2000);
+    } catch {
+      setCopyState('error');
+      setTimeout(() => setCopyState('idle'), 2000);
+    }
+  };
+
+  const handleOpen = (e: React.MouseEvent) => {
+    e.preventDefault();
+    e.stopPropagation();
+    window.open(fullUrl, '_blank', 'noopener,noreferrer');
+  };
+
+  const getCopyButtonText = () => {
+    switch (copyState) {
+      case 'copying':
+        return '复制中...';
+      case 'success':
+        return '已复制';
+      case 'error':
+        return '失败';
+      default:
+        return '复制';
+    }
+  };
+
+  const getCopyButtonClass = () => {
+    const baseClass = styles.cardButton;
+    switch (copyState) {
+      case 'success':
+        return `${baseClass} ${styles.cardButtonSuccess}`;
+      case 'error':
+        return `${baseClass} ${styles.cardButtonError}`;
+      default:
+        return baseClass;
+    }
+  };
+
+  return (
+    <div className={`${styles.card} ${className}`}>
+      <div className={styles.cardHeader}>
+        <div className={styles.cardTitleSection}>
+          <span className={styles.cardIcon} aria-hidden="true">{mirror.icon}</span>
+          <div className={styles.cardTitleText}>
+            <span className={styles.cardName}>{mirror.name}</span>
+            <span className={styles.cardDescription}>{mirror.description}</span>
+          </div>
+        </div>
+        <div className={styles.cardActions}>
+          <button
+            className={`${styles.cardButton} ${styles.cardButtonPrimary}`}
+            onClick={handleOpen}
+            aria-label={`在 ${mirror.name} 打开链接`}
+            type="button"
+          >
+            打开
+          </button>
+          <button
+            className={getCopyButtonClass()}
+            onClick={handleCopy}
+            aria-label={`复制 ${mirror.name} 链接`}
+            type="button"
+            disabled={copyState === 'copying'}
+          >
+            {getCopyButtonText()}
+          </button>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default MirrorCard;

@@ -1,0 +1,47 @@
+name: Update mirror
+
+on:
+  push:
+    branches:
+      - main
+      - mirror
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.13" # Version range or exact version of a Python version to use, using SemVer's version range syntax
+          architecture: "x64" # optional x64 or x86. Defaults to x64 if not specified
+      - name: Init Pipenv CLI and run
+        run: |
+          cd $GITHUB_WORKSPACE/tools
+          export PATH=/home/runner/.local/bin/:$PATH
+          pip install --upgrade pip
+          pip install pipenv
+          pipenv install
+          pipenv run invoke create-mirrors
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v8
+        with:
+          token: ${{ secrets.NEWBE_GITHUB_PAT }}
+          commit-message: Update mirror
+          signoff: false
+          delete-branch: true
+          title: "Update mirror"
+          labels: |
+            mirror update
+            automated pr
+          assignees: |
+            newbe36524

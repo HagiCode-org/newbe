@@ -1,0 +1,1 @@
+RubberTranslator是在参照知云文献翻译和CopyTranslator两款软件后，基于javafx开发的一款文献辅助翻译软件。总体功能思想来自CopyTranslator，在此基础之上添加了实用的功能。

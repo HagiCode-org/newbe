@@ -1,0 +1,1 @@
+Argo CD 是面向 Kubernetes 的声明式 GitOps 持续交付工具。

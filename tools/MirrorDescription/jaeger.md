@@ -1,0 +1,1 @@
+Jaeger受到Dapper和OpenZipkin的启发，是一个分布式跟踪平台，由Uber Technologies创建并捐赠给Cloud Native Computing Foundation。它可用于监控基于微服务的分布式系统。

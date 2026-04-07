@@ -1,0 +1,418 @@
+---
+date: 2019-12-22
+title: Python
+tags:
+  - Python
+  - Mirrors
+  - 加速下载
+  - 镜像加速
+  - 国内加速
+top: -99
+---
+
+Python. 国内直接从官网 https://www.python.org 下载比较困难，需要一些技术手段。这里提供一个国内的镜像下载地址列表，方便网友下载。
+
+ 
+
+
+import HagicodeRecommendation from '../../src/components/HagicodeRecommendation';
+
+
+<HagicodeRecommendation layout="page" />
+
+
+
+### [点击此处，您也可以部署自己专属的免费 Github 资源加速站点](https://rg.newbe.pro/docs/turbohub/quick-start)
+
+<img src='/images/weixin_public.png' alt='微信' />
+
+<!-- more -->
+
+
+## 2.0
+
+- [2.0](https://repo.huaweicloud.com/python/2.0/)
+- [2.0.1](https://repo.huaweicloud.com/python/2.0.1/)
+
+
+
+## 2.1
+
+- [2.1](https://repo.huaweicloud.com/python/2.1/)
+- [2.1.1](https://repo.huaweicloud.com/python/2.1.1/)
+- [2.1.2](https://repo.huaweicloud.com/python/2.1.2/)
+- [2.1.3](https://repo.huaweicloud.com/python/2.1.3/)
+
+
+
+## 2.2
+
+- [2.2](https://repo.huaweicloud.com/python/2.2/)
+- [2.2.1](https://repo.huaweicloud.com/python/2.2.1/)
+- [2.2.2](https://repo.huaweicloud.com/python/2.2.2/)
+- [2.2.3](https://repo.huaweicloud.com/python/2.2.3/)
+
+
+
+## 2.3
+
+- [2.3](https://repo.huaweicloud.com/python/2.3/)
+- [2.3.1](https://repo.huaweicloud.com/python/2.3.1/)
+- [2.3.2](https://repo.huaweicloud.com/python/2.3.2/)
+- [2.3.3](https://repo.huaweicloud.com/python/2.3.3/)
+- [2.3.4](https://repo.huaweicloud.com/python/2.3.4/)
+- [2.3.5](https://repo.huaweicloud.com/python/2.3.5/)
+- [2.3.6](https://repo.huaweicloud.com/python/2.3.6/)
+- [2.3.7](https://repo.huaweicloud.com/python/2.3.7/)
+
+
+
+## 2.4
+
+- [2.4](https://repo.huaweicloud.com/python/2.4/)
+- [2.4.1](https://repo.huaweicloud.com/python/2.4.1/)
+- [2.4.2](https://repo.huaweicloud.com/python/2.4.2/)
+- [2.4.3](https://repo.huaweicloud.com/python/2.4.3/)
+- [2.4.4](https://repo.huaweicloud.com/python/2.4.4/)
+- [2.4.5](https://repo.huaweicloud.com/python/2.4.5/)
+- [2.4.6](https://repo.huaweicloud.com/python/2.4.6/)
+
+
+
+## 2.5
+
+- [2.5](https://repo.huaweicloud.com/python/2.5/)
+- [2.5.1](https://repo.huaweicloud.com/python/2.5.1/)
+- [2.5.2](https://repo.huaweicloud.com/python/2.5.2/)
+- [2.5.3](https://repo.huaweicloud.com/python/2.5.3/)
+- [2.5.4](https://repo.huaweicloud.com/python/2.5.4/)
+- [2.5.5](https://repo.huaweicloud.com/python/2.5.5/)
+- [2.5.6](https://repo.huaweicloud.com/python/2.5.6/)
+
+
+
+## 2.6
+
+- [2.6](https://repo.huaweicloud.com/python/2.6/)
+- [2.6.1](https://repo.huaweicloud.com/python/2.6.1/)
+- [2.6.2](https://repo.huaweicloud.com/python/2.6.2/)
+- [2.6.3](https://repo.huaweicloud.com/python/2.6.3/)
+- [2.6.4](https://repo.huaweicloud.com/python/2.6.4/)
+- [2.6.5](https://repo.huaweicloud.com/python/2.6.5/)
+- [2.6.6](https://repo.huaweicloud.com/python/2.6.6/)
+- [2.6.7](https://repo.huaweicloud.com/python/2.6.7/)
+- [2.6.8](https://repo.huaweicloud.com/python/2.6.8/)
+- [2.6.9](https://repo.huaweicloud.com/python/2.6.9/)
+
+
+
+## 2.7
+
+- [2.7](https://repo.huaweicloud.com/python/2.7/)
+- [2.7.1](https://repo.huaweicloud.com/python/2.7.1/)
+- [2.7.2](https://repo.huaweicloud.com/python/2.7.2/)
+- [2.7.3](https://repo.huaweicloud.com/python/2.7.3/)
+- [2.7.4](https://repo.huaweicloud.com/python/2.7.4/)
+- [2.7.5](https://repo.huaweicloud.com/python/2.7.5/)
+- [2.7.6](https://repo.huaweicloud.com/python/2.7.6/)
+- [2.7.7](https://repo.huaweicloud.com/python/2.7.7/)
+- [2.7.8](https://repo.huaweicloud.com/python/2.7.8/)
+- [2.7.9](https://repo.huaweicloud.com/python/2.7.9/)
+- [2.7.10](https://repo.huaweicloud.com/python/2.7.10/)
+- [2.7.11](https://repo.huaweicloud.com/python/2.7.11/)
+- [2.7.12](https://repo.huaweicloud.com/python/2.7.12/)
+- [2.7.13](https://repo.huaweicloud.com/python/2.7.13/)
+- [2.7.14](https://repo.huaweicloud.com/python/2.7.14/)
+- [2.7.15](https://repo.huaweicloud.com/python/2.7.15/)
+- [2.7.16](https://repo.huaweicloud.com/python/2.7.16/)
+- [2.7.17](https://repo.huaweicloud.com/python/2.7.17/)
+- [2.7.18](https://repo.huaweicloud.com/python/2.7.18/)
+
+
+
+## 3.0
+
+- [3.0](https://repo.huaweicloud.com/python/3.0/)
+- [3.0.1](https://repo.huaweicloud.com/python/3.0.1/)
+
+
+
+## 3.1
+
+- [3.1](https://repo.huaweicloud.com/python/3.1/)
+- [3.1.1](https://repo.huaweicloud.com/python/3.1.1/)
+- [3.1.2](https://repo.huaweicloud.com/python/3.1.2/)
+- [3.1.3](https://repo.huaweicloud.com/python/3.1.3/)
+- [3.1.4](https://repo.huaweicloud.com/python/3.1.4/)
+- [3.1.5](https://repo.huaweicloud.com/python/3.1.5/)
+
+
+
+## 3.2
+
+- [3.2](https://repo.huaweicloud.com/python/3.2/)
+- [3.2.1](https://repo.huaweicloud.com/python/3.2.1/)
+- [3.2.2](https://repo.huaweicloud.com/python/3.2.2/)
+- [3.2.3](https://repo.huaweicloud.com/python/3.2.3/)
+- [3.2.4](https://repo.huaweicloud.com/python/3.2.4/)
+- [3.2.5](https://repo.huaweicloud.com/python/3.2.5/)
+- [3.2.6](https://repo.huaweicloud.com/python/3.2.6/)
+
+
+
+## 3.3
+
+- [3.3.0](https://repo.huaweicloud.com/python/3.3.0/)
+- [3.3.1](https://repo.huaweicloud.com/python/3.3.1/)
+- [3.3.2](https://repo.huaweicloud.com/python/3.3.2/)
+- [3.3.3](https://repo.huaweicloud.com/python/3.3.3/)
+- [3.3.4](https://repo.huaweicloud.com/python/3.3.4/)
+- [3.3.5](https://repo.huaweicloud.com/python/3.3.5/)
+- [3.3.6](https://repo.huaweicloud.com/python/3.3.6/)
+- [3.3.7](https://repo.huaweicloud.com/python/3.3.7/)
+
+
+
+## 3.4
+
+- [3.4.0](https://repo.huaweicloud.com/python/3.4.0/)
+- [3.4.1](https://repo.huaweicloud.com/python/3.4.1/)
+- [3.4.2](https://repo.huaweicloud.com/python/3.4.2/)
+- [3.4.3](https://repo.huaweicloud.com/python/3.4.3/)
+- [3.4.4](https://repo.huaweicloud.com/python/3.4.4/)
+- [3.4.5](https://repo.huaweicloud.com/python/3.4.5/)
+- [3.4.6](https://repo.huaweicloud.com/python/3.4.6/)
+- [3.4.7](https://repo.huaweicloud.com/python/3.4.7/)
+- [3.4.8](https://repo.huaweicloud.com/python/3.4.8/)
+- [3.4.9](https://repo.huaweicloud.com/python/3.4.9/)
+- [3.4.10](https://repo.huaweicloud.com/python/3.4.10/)
+
+
+
+## 3.5
+
+- [3.5.0](https://repo.huaweicloud.com/python/3.5.0/)
+- [3.5.1](https://repo.huaweicloud.com/python/3.5.1/)
+- [3.5.2](https://repo.huaweicloud.com/python/3.5.2/)
+- [3.5.3](https://repo.huaweicloud.com/python/3.5.3/)
+- [3.5.4](https://repo.huaweicloud.com/python/3.5.4/)
+- [3.5.5](https://repo.huaweicloud.com/python/3.5.5/)
+- [3.5.6](https://repo.huaweicloud.com/python/3.5.6/)
+- [3.5.7](https://repo.huaweicloud.com/python/3.5.7/)
+- [3.5.8](https://repo.huaweicloud.com/python/3.5.8/)
+- [3.5.9](https://repo.huaweicloud.com/python/3.5.9/)
+- [3.5.10](https://repo.huaweicloud.com/python/3.5.10/)
+
+
+
+## 3.6
+
+- [3.6.0](https://repo.huaweicloud.com/python/3.6.0/)
+- [3.6.1](https://repo.huaweicloud.com/python/3.6.1/)
+- [3.6.2](https://repo.huaweicloud.com/python/3.6.2/)
+- [3.6.3](https://repo.huaweicloud.com/python/3.6.3/)
+- [3.6.4](https://repo.huaweicloud.com/python/3.6.4/)
+- [3.6.5](https://repo.huaweicloud.com/python/3.6.5/)
+- [3.6.6](https://repo.huaweicloud.com/python/3.6.6/)
+- [3.6.7](https://repo.huaweicloud.com/python/3.6.7/)
+- [3.6.8](https://repo.huaweicloud.com/python/3.6.8/)
+- [3.6.9](https://repo.huaweicloud.com/python/3.6.9/)
+- [3.6.10](https://repo.huaweicloud.com/python/3.6.10/)
+- [3.6.11](https://repo.huaweicloud.com/python/3.6.11/)
+- [3.6.12](https://repo.huaweicloud.com/python/3.6.12/)
+- [3.6.13](https://repo.huaweicloud.com/python/3.6.13/)
+- [3.6.14](https://repo.huaweicloud.com/python/3.6.14/)
+- [3.6.15](https://repo.huaweicloud.com/python/3.6.15/)
+
+
+
+
+
+
+
+## 3.7
+
+- [3.7.0](https://repo.huaweicloud.com/python/3.7.0/)
+- [3.7.1](https://repo.huaweicloud.com/python/3.7.1/)
+- [3.7.2](https://repo.huaweicloud.com/python/3.7.2/)
+- [3.7.3](https://repo.huaweicloud.com/python/3.7.3/)
+- [3.7.4](https://repo.huaweicloud.com/python/3.7.4/)
+- [3.7.5](https://repo.huaweicloud.com/python/3.7.5/)
+- [3.7.6](https://repo.huaweicloud.com/python/3.7.6/)
+- [3.7.7](https://repo.huaweicloud.com/python/3.7.7/)
+- [3.7.8](https://repo.huaweicloud.com/python/3.7.8/)
+- [3.7.9](https://repo.huaweicloud.com/python/3.7.9/)
+- [3.7.10](https://repo.huaweicloud.com/python/3.7.10/)
+- [3.7.11](https://repo.huaweicloud.com/python/3.7.11/)
+- [3.7.12](https://repo.huaweicloud.com/python/3.7.12/)
+- [3.7.13](https://repo.huaweicloud.com/python/3.7.13/)
+- [3.7.14](https://repo.huaweicloud.com/python/3.7.14/)
+- [3.7.15](https://repo.huaweicloud.com/python/3.7.15/)
+- [3.7.16](https://repo.huaweicloud.com/python/3.7.16/)
+- [3.7.17](https://repo.huaweicloud.com/python/3.7.17/)
+
+
+
+## 3.8
+
+- [3.8.0](https://repo.huaweicloud.com/python/3.8.0/)
+- [3.8.1](https://repo.huaweicloud.com/python/3.8.1/)
+- [3.8.2](https://repo.huaweicloud.com/python/3.8.2/)
+- [3.8.3](https://repo.huaweicloud.com/python/3.8.3/)
+- [3.8.4](https://repo.huaweicloud.com/python/3.8.4/)
+- [3.8.5](https://repo.huaweicloud.com/python/3.8.5/)
+- [3.8.6](https://repo.huaweicloud.com/python/3.8.6/)
+- [3.8.7](https://repo.huaweicloud.com/python/3.8.7/)
+- [3.8.8](https://repo.huaweicloud.com/python/3.8.8/)
+- [3.8.9](https://repo.huaweicloud.com/python/3.8.9/)
+- [3.8.10](https://repo.huaweicloud.com/python/3.8.10/)
+- [3.8.11](https://repo.huaweicloud.com/python/3.8.11/)
+- [3.8.12](https://repo.huaweicloud.com/python/3.8.12/)
+- [3.8.13](https://repo.huaweicloud.com/python/3.8.13/)
+- [3.8.14](https://repo.huaweicloud.com/python/3.8.14/)
+- [3.8.15](https://repo.huaweicloud.com/python/3.8.15/)
+- [3.8.16](https://repo.huaweicloud.com/python/3.8.16/)
+- [3.8.17](https://repo.huaweicloud.com/python/3.8.17/)
+- [3.8.18](https://repo.huaweicloud.com/python/3.8.18/)
+- [3.8.19](https://repo.huaweicloud.com/python/3.8.19/)
+- [3.8.20](https://repo.huaweicloud.com/python/3.8.20/)
+
+
+
+## 3.9
+
+- [3.9.0](https://repo.huaweicloud.com/python/3.9.0/)
+- [3.9.1](https://repo.huaweicloud.com/python/3.9.1/)
+- [3.9.2](https://repo.huaweicloud.com/python/3.9.2/)
+- [3.9.3](https://repo.huaweicloud.com/python/3.9.3/)
+- [3.9.4](https://repo.huaweicloud.com/python/3.9.4/)
+- [3.9.5](https://repo.huaweicloud.com/python/3.9.5/)
+- [3.9.6](https://repo.huaweicloud.com/python/3.9.6/)
+- [3.9.7](https://repo.huaweicloud.com/python/3.9.7/)
+- [3.9.8](https://repo.huaweicloud.com/python/3.9.8/)
+- [3.9.9](https://repo.huaweicloud.com/python/3.9.9/)
+- [3.9.10](https://repo.huaweicloud.com/python/3.9.10/)
+- [3.9.11](https://repo.huaweicloud.com/python/3.9.11/)
+- [3.9.12](https://repo.huaweicloud.com/python/3.9.12/)
+- [3.9.13](https://repo.huaweicloud.com/python/3.9.13/)
+- [3.9.14](https://repo.huaweicloud.com/python/3.9.14/)
+- [3.9.15](https://repo.huaweicloud.com/python/3.9.15/)
+- [3.9.16](https://repo.huaweicloud.com/python/3.9.16/)
+- [3.9.17](https://repo.huaweicloud.com/python/3.9.17/)
+- [3.9.18](https://repo.huaweicloud.com/python/3.9.18/)
+- [3.9.19](https://repo.huaweicloud.com/python/3.9.19/)
+- [3.9.20](https://repo.huaweicloud.com/python/3.9.20/)
+- [3.9.21](https://repo.huaweicloud.com/python/3.9.21/)
+- [3.9.22](https://repo.huaweicloud.com/python/3.9.22/)
+- [3.9.23](https://repo.huaweicloud.com/python/3.9.23/)
+- [3.9.24](https://repo.huaweicloud.com/python/3.9.24/)
+- [3.9.25](https://repo.huaweicloud.com/python/3.9.25/)
+
+
+
+## 3.10
+
+- [3.10.0](https://repo.huaweicloud.com/python/3.10.0/)
+- [3.10.1](https://repo.huaweicloud.com/python/3.10.1/)
+- [3.10.2](https://repo.huaweicloud.com/python/3.10.2/)
+- [3.10.3](https://repo.huaweicloud.com/python/3.10.3/)
+- [3.10.4](https://repo.huaweicloud.com/python/3.10.4/)
+- [3.10.5](https://repo.huaweicloud.com/python/3.10.5/)
+- [3.10.6](https://repo.huaweicloud.com/python/3.10.6/)
+- [3.10.7](https://repo.huaweicloud.com/python/3.10.7/)
+- [3.10.8](https://repo.huaweicloud.com/python/3.10.8/)
+- [3.10.9](https://repo.huaweicloud.com/python/3.10.9/)
+- [3.10.10](https://repo.huaweicloud.com/python/3.10.10/)
+- [3.10.11](https://repo.huaweicloud.com/python/3.10.11/)
+- [3.10.12](https://repo.huaweicloud.com/python/3.10.12/)
+- [3.10.13](https://repo.huaweicloud.com/python/3.10.13/)
+- [3.10.14](https://repo.huaweicloud.com/python/3.10.14/)
+- [3.10.15](https://repo.huaweicloud.com/python/3.10.15/)
+- [3.10.16](https://repo.huaweicloud.com/python/3.10.16/)
+- [3.10.17](https://repo.huaweicloud.com/python/3.10.17/)
+- [3.10.18](https://repo.huaweicloud.com/python/3.10.18/)
+- [3.10.19](https://repo.huaweicloud.com/python/3.10.19/)
+- [3.10.20](https://repo.huaweicloud.com/python/3.10.20/)
+
+
+
+## 3.11
+
+- [3.11.0](https://repo.huaweicloud.com/python/3.11.0/)
+- [3.11.1](https://repo.huaweicloud.com/python/3.11.1/)
+- [3.11.2](https://repo.huaweicloud.com/python/3.11.2/)
+- [3.11.3](https://repo.huaweicloud.com/python/3.11.3/)
+- [3.11.4](https://repo.huaweicloud.com/python/3.11.4/)
+- [3.11.5](https://repo.huaweicloud.com/python/3.11.5/)
+- [3.11.6](https://repo.huaweicloud.com/python/3.11.6/)
+- [3.11.7](https://repo.huaweicloud.com/python/3.11.7/)
+- [3.11.8](https://repo.huaweicloud.com/python/3.11.8/)
+- [3.11.9](https://repo.huaweicloud.com/python/3.11.9/)
+- [3.11.10](https://repo.huaweicloud.com/python/3.11.10/)
+- [3.11.11](https://repo.huaweicloud.com/python/3.11.11/)
+- [3.11.12](https://repo.huaweicloud.com/python/3.11.12/)
+- [3.11.13](https://repo.huaweicloud.com/python/3.11.13/)
+- [3.11.14](https://repo.huaweicloud.com/python/3.11.14/)
+- [3.11.15](https://repo.huaweicloud.com/python/3.11.15/)
+
+
+
+## 3.12
+
+- [3.12.0](https://repo.huaweicloud.com/python/3.12.0/)
+- [3.12.1](https://repo.huaweicloud.com/python/3.12.1/)
+- [3.12.2](https://repo.huaweicloud.com/python/3.12.2/)
+- [3.12.3](https://repo.huaweicloud.com/python/3.12.3/)
+- [3.12.4](https://repo.huaweicloud.com/python/3.12.4/)
+- [3.12.5](https://repo.huaweicloud.com/python/3.12.5/)
+- [3.12.6](https://repo.huaweicloud.com/python/3.12.6/)
+- [3.12.7](https://repo.huaweicloud.com/python/3.12.7/)
+- [3.12.8](https://repo.huaweicloud.com/python/3.12.8/)
+- [3.12.9](https://repo.huaweicloud.com/python/3.12.9/)
+- [3.12.10](https://repo.huaweicloud.com/python/3.12.10/)
+- [3.12.11](https://repo.huaweicloud.com/python/3.12.11/)
+- [3.12.12](https://repo.huaweicloud.com/python/3.12.12/)
+- [3.12.13](https://repo.huaweicloud.com/python/3.12.13/)
+
+
+
+## 3.13
+
+- [3.13.0](https://repo.huaweicloud.com/python/3.13.0/)
+- [3.13.1](https://repo.huaweicloud.com/python/3.13.1/)
+- [3.13.2](https://repo.huaweicloud.com/python/3.13.2/)
+- [3.13.3](https://repo.huaweicloud.com/python/3.13.3/)
+- [3.13.4](https://repo.huaweicloud.com/python/3.13.4/)
+- [3.13.5](https://repo.huaweicloud.com/python/3.13.5/)
+- [3.13.6](https://repo.huaweicloud.com/python/3.13.6/)
+- [3.13.7](https://repo.huaweicloud.com/python/3.13.7/)
+- [3.13.8](https://repo.huaweicloud.com/python/3.13.8/)
+- [3.13.9](https://repo.huaweicloud.com/python/3.13.9/)
+- [3.13.10](https://repo.huaweicloud.com/python/3.13.10/)
+- [3.13.11](https://repo.huaweicloud.com/python/3.13.11/)
+- [3.13.12](https://repo.huaweicloud.com/python/3.13.12/)
+
+
+
+## 3.14
+
+- [3.14.0](https://repo.huaweicloud.com/python/3.14.0/)
+- [3.14.1](https://repo.huaweicloud.com/python/3.14.1/)
+- [3.14.2](https://repo.huaweicloud.com/python/3.14.2/)
+- [3.14.3](https://repo.huaweicloud.com/python/3.14.3/)
+
+
+
+## 3.15
+
+- [3.15.0](https://repo.huaweicloud.com/python/3.15.0/)
+
+
+
+
+找不到想要的版本？您可以访问 [索引页](https://repo.huaweicloud.com/python/) 以下载更多版本。
+
+
+<!-- md Mirrors.md -->
+
+

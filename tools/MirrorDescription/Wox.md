@@ -1,0 +1,1 @@
+WoX是一个适用于Windows的启动器，可以简单地工作。它是Alfred和Launchy的替代品。

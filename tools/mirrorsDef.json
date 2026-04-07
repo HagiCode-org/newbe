@@ -1,0 +1,670 @@
+{
+  "mirrors": [
+    {
+      "type": "github",
+      "softwareName": "Open-LLM-VTuber",
+      "officialSite": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-Open-LLM-VTuber.md",
+      "createDate": "2025-02-02"
+    },
+    {
+      "type": "github",
+      "softwareName": "LangBot",
+      "officialSite": "https://github.com/RockChinQ/LangBot/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-LangBot.md",
+      "createDate": "2025-02-02"
+    },
+    {
+      "type": "github",
+      "softwareName": "reor",
+      "officialSite": "https://github.com/reorproject/reor/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-reor.md",
+      "createDate": "2025-02-02"
+    },
+    {
+      "type": "github",
+      "softwareName": "ChuanhuChatGPT",
+      "officialSite": "https://github.com/GaiZhenbiao/ChuanhuChatGPT/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-ChuanhuChatGPT.md",
+      "createDate": "2025-02-02"
+    },
+    {
+      "type": "github",
+      "softwareName": "NextChat",
+      "officialSite": "https://github.com/ChatGPTNextWeb/NextChat/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-NextChat.md",
+      "createDate": "2025-02-02"
+    },
+    {
+      "type": "github",
+      "softwareName": "ollama-grid-search",
+      "officialSite": "https://github.com/dezoito/ollama-grid-search/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-ollama-grid-search.md",
+      "createDate": "2025-02-02"
+    },
+    {
+      "type": "github",
+      "softwareName": "ollama-app",
+      "officialSite": "https://github.com/JHubi1/ollama-app/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-ollama-app.md",
+      "createDate": "2025-02-02"
+    },
+    {
+      "type": "github",
+      "softwareName": "chatbox",
+      "officialSite": "https://github.com/Bin-Huang/chatbox/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-chatbox.md",
+      "createDate": "2025-02-02"
+    },
+    {
+      "type": "github",
+      "softwareName": "Ollamac",
+      "officialSite": "https://github.com/kevinhermawan/Ollamac/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-Ollamac.md",
+      "createDate": "2025-02-02"
+    },
+    {
+      "type": "github",
+      "softwareName": "ollama",
+      "officialSite": "https://github.com/ollama/ollama/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-ollama.md",
+      "createDate": "2025-02-02"
+    },
+    {
+      "type": "github",
+      "softwareName": "argo-cd",
+      "officialSite": "https://github.com/argoproj/argo-cd/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-argo-cd.md",
+      "createDate": "2023-02-12"
+    },
+    {
+      "type": "github",
+      "softwareName": "k3s",
+      "officialSite": "https://github.com/k3s-io/k3s/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-k3s.md",
+      "createDate": "2023-02-12"
+    },
+    {
+      "type": "github",
+      "softwareName": "k3d",
+      "officialSite": "https://github.com/k3d-io/k3d/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-k3d.md",
+      "createDate": "2023-02-12"
+    },
+    {
+      "type": "github",
+      "softwareName": "ActivityWatch",
+      "officialSite": "https://github.com/ActivityWatch/activitywatch/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-ActivityWatch.md",
+      "createDate": "2023-02-05"
+    },
+    {
+      "type": "github",
+      "softwareName": "minikube",
+      "officialSite": "https://github.com/kubernetes/minikube/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-minikube.md",
+      "createDate": "2021-08-29"
+    },
+    {
+      "type": "github",
+      "softwareName": "wkhtmltopdf",
+      "officialSite": "https://github.com/wkhtmltopdf/wkhtmltopdf/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-wkhtmltopdf.md",
+      "createDate": "2021-08-01"
+    },
+    {
+      "type": "github",
+      "softwareName": "winget-cli",
+      "officialSite": "https://github.com/microsoft/winget-cli/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-winget-cli.md",
+      "createDate": "2021-05-28"
+    },
+    {
+      "type": "github",
+      "softwareName": "AnotherRedisDesktopManager",
+      "officialSite": "https://github.com/qishibo/AnotherRedisDesktopManager/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-AnotherRedisDesktopManager.md",
+      "createDate": "2021-05-28"
+    },
+    {
+      "type": "github",
+      "softwareName": "PowerShell",
+      "officialSite": "https://github.com/PowerShell/PowerShell/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-PowerShell.md",
+      "createDate": "2021-05-22"
+    },
+    {
+      "type": "github",
+      "softwareName": "Hugo",
+      "officialSite": "https://github.com/gohugoio/hugo/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-Hugo.md",
+      "createDate": "2021-04-26"
+    },
+    {
+      "type": "github",
+      "softwareName": "Amazing Favorites",
+      "officialSite": "https://github.com/Amazing-Favorites/Amazing-Favorites/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-Amazing-Favorites.md",
+      "createDate": "2021-04-26"
+    },
+    {
+      "type": "github",
+      "softwareName": "insomnia",
+      "officialSite": "https://github.com/Kong/insomnia/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-insomnia.md",
+      "createDate": "2021-04-26"
+    },
+    {
+      "type": "github",
+      "softwareName": "NETworkManager",
+      "officialSite": "https://github.com/BornToBeRoot/NETworkManager/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-NETworkManager.md",
+      "createDate": "2021-04-26"
+    },
+    {
+      "type": "github",
+      "softwareName": "keepassxc",
+      "officialSite": "https://github.com/keepassxreboot/keepassxc/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-keepassxc.md",
+      "createDate": "2021-04-26"
+    },
+    {
+      "type": "github",
+      "softwareName": "N_m3u8DL-CLI",
+      "officialSite": "https://github.com/nilaoda/N_m3u8DL-CLI/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-N_m3u8DL-CLI.md",
+      "createDate": "2021-04-26"
+    },
+    {
+      "type": "github",
+      "softwareName": "qttabbar",
+      "officialSite": "https://github.com/indiff/qttabbar/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-qttabbar.md",
+      "createDate": "2021-04-26"
+    },
+    {
+      "type": "github",
+      "softwareName": "GitVersion",
+      "officialSite": "https://github.com/GitTools/GitVersion/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-GitVersion.md",
+      "createDate": "2021-04-26"
+    },
+    {
+      "type": "github",
+      "softwareName": "jaeger",
+      "officialSite": "https://github.com/jaegertracing/jaeger/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-jaeger.md",
+      "createDate": "2021-04-26"
+    },
+    {
+      "type": "github",
+      "softwareName": "mRemoteNG",
+      "officialSite": "https://github.com/mRemoteNG/mRemoteNG/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-mRemoteNG.md",
+      "createDate": "2021-04-26"
+    },
+    {
+      "type": "github",
+      "softwareName": "keepass2android",
+      "officialSite": "https://github.com/PhilippC/keepass2android/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-keepass2android.md",
+      "createDate": "2021-04-26"
+    },
+    {
+      "type": "github",
+      "softwareName": "KeeAnywhere",
+      "officialSite": "https://github.com/Kyrodan/KeeAnywhere/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-KeeAnywhere.md",
+      "createDate": "2021-04-26"
+    },
+    {
+      "type": "github",
+      "softwareName": "Wox",
+      "officialSite": "https://github.com/Wox-launcher/Wox/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-Wox.md",
+      "createDate": "2021-04-26",
+      "oneDriveSupport": true
+    },
+    {
+      "type": "github",
+      "softwareName": "ShareX",
+      "officialSite": "https://github.com/ShareX/ShareX/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-ShareX.md",
+      "createDate": "2021-04-26"
+    },
+    {
+      "type": "github",
+      "softwareName": "ffsend",
+      "officialSite": "https://github.com/timvisee/ffsend/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-ffsend.md",
+      "createDate": "2021-04-26"
+    },
+    {
+      "type": "github",
+      "softwareName": "subtitleedit",
+      "officialSite": "https://github.com/SubtitleEdit/subtitleedit/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-subtitleedit.md",
+      "createDate": "2021-04-26"
+    },
+    {
+      "type": "github",
+      "softwareName": "obs-auto-subtitle",
+      "officialSite": "https://github.com/summershrimp/obs-auto-subtitle/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-obs-auto-subtitle.md",
+      "createDate": "2021-04-26"
+    },
+    {
+      "type": "github",
+      "softwareName": "obs-ndi",
+      "officialSite": "https://github.com/Palakis/obs-ndi/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-obs-ndi.md",
+      "createDate": "2021-04-26"
+    },
+    {
+      "type": "github",
+      "softwareName": "Translate-Subtitle-File",
+      "officialSite": "https://github.com/1c7/Translate-Subtitle-File/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-Translate-Subtitle-File.md",
+      "createDate": "2021-04-26"
+    },
+    {
+      "type": "github",
+      "softwareName": "dev-sidecar",
+      "officialSite": "https://github.com/docmirror/dev-sidecar/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-dev-sidecar.md",
+      "createDate": "2021-04-26"
+    },
+    {
+      "type": "github",
+      "softwareName": "yq",
+      "officialSite": "https://github.com/mikefarah/yq/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-yq.md",
+      "createDate": "2021-04-26"
+    },
+    {
+      "type": "github",
+      "softwareName": "Hearthstone-Deck-Tracker",
+      "officialSite": "https://github.com/HearthSim/Hearthstone-Deck-Tracker/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-Hearthstone-Deck-Tracker.md",
+      "createDate": "2021-04-26"
+    },
+    {
+      "type": "github",
+      "softwareName": "PowerToys",
+      "officialSite": "https://github.com/microsoft/PowerToys/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-PowerToys.md",
+      "createDate": "2021-04-26",
+      "oneDriveSupport": true
+    },
+    {
+      "type": "github",
+      "softwareName": "ScreenToGif",
+      "officialSite": "https://github.com/NickeManarin/ScreenToGif/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-ScreenToGif.md",
+      "createDate": "2021-04-26"
+    },
+    {
+      "type": "github",
+      "softwareName": "GitExtensions",
+      "officialSite": "https://github.com/gitextensions/gitextensions/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-GitExtensions.md",
+      "createDate": "2021-04-26"
+    },
+    {
+      "type": "github",
+      "softwareName": "dapr",
+      "officialSite": "https://github.com/dapr/dapr/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-Dapr.md",
+      "createDate": "2021-04-26"
+    },
+    {
+      "type": "github",
+      "softwareName": "dapr-cli",
+      "officialSite": "https://github.com/dapr/cli/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-Dapr-CLI.md",
+      "createDate": "2021-04-26"
+    },
+    {
+      "type": "github",
+      "softwareName": "RubberTranslator",
+      "officialSite": "https://github.com/RubberTranslator/RubberTranslator/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-RubberTranslator.md",
+      "createDate": "2021-04-26"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "Zabbix",
+      "officialSite": "https://www.zabbix.com",
+      "huaweiMirrorUrl": "https://repo.huaweicloud.com/zabbix/zabbix/",
+      "versionRegex": "\\d+\\.\\d+",
+      "markdownFilename": "Mirrors-Zabbix.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "Yarn",
+      "officialSite": "https://github.com/yarnpkg/yarn/releases",
+      "huaweiMirrorUrl": "https://repo.huaweicloud.com/yarn/",
+      "versionRegex": "v\\d+\\.\\d+",
+      "markdownFilename": "Mirrors-Yarn.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "Selenium",
+      "officialSite": "https://github.com/SeleniumHQ/selenium/releases",
+      "huaweiMirrorUrl": "https://repo.huaweicloud.com/selenium/",
+      "versionRegex": "\\d+\\.\\d+",
+      "markdownFilename": "Mirrors-Selenium.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "Redis",
+      "officialSite": "https://redis.io",
+      "huaweiMirrorUrl": "https://repo.huaweicloud.com/redis/",
+      "versionRegex": "redis-\\d+\\.\\d+",
+      "markdownFilename": "Mirrors-Redis.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "RabbitMQ",
+      "officialSite": "https://www.rabbitmq.com",
+      "huaweiMirrorUrl": "https://repo.huaweicloud.com/rabbitmq-server/",
+      "versionRegex": "v\\d+\\.\\d+",
+      "markdownFilename": "Mirrors-RabbitMQ.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "Python",
+      "officialSite": "https://www.python.org",
+      "huaweiMirrorUrl": "https://repo.huaweicloud.com/python/",
+      "versionRegex": "\\d+\\.\\d+",
+      "markdownFilename": "Mirrors-Python.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "Phantomjs",
+      "officialSite": "https://phantomjs.org",
+      "huaweiMirrorUrl": "https://mirrors.huaweicloud.com/phantomjs/",
+      "versionRegex": "phantomjs-\\d+\\.\\d+",
+      "markdownFilename": "Mirrors-Phantomjs.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "POI",
+      "officialSite": "https://poi.io",
+      "huaweiMirrorUrl": "https://mirrors.huaweicloud.com/poi/",
+      "versionRegex": "v\\d+\\.\\d+",
+      "markdownFilename": "Mirrors-POI.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "Openresty",
+      "officialSite": "https://openresty.org/cn/",
+      "huaweiMirrorUrl": "https://mirrors.huaweicloud.com/openresty/",
+      "versionRegex": "v\\d+\\.\\d+",
+      "markdownFilename": "Mirrors-Openresty.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "Openjdk",
+      "officialSite": "http://openjdk.java.net",
+      "huaweiMirrorUrl": "https://mirrors.huaweicloud.com/openjdk/",
+      "versionRegex": "\\d+",
+      "markdownFilename": "Mirrors-Openjdk.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "Nodejs",
+      "officialSite": "https://nodejs.org/en/download/",
+      "huaweiMirrorUrl": "https://repo.huaweicloud.com/nodejs/",
+      "versionRegex": "v\\d+\\.\\d+",
+      "markdownFilename": "Mirrors-Nodejs.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "Nginx",
+      "officialSite": "http://nginx.org",
+      "huaweiMirrorUrl": "https://mirrors.huaweicloud.com/nginx/",
+      "versionRegex": "nginx-\\d+\\.\\d+",
+      "markdownFilename": "Mirrors-Nginx.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "MySQL",
+      "officialSite": "https://www.mysql.com",
+      "huaweiMirrorUrl": "https://mirrors.huaweicloud.com/mysql/Downloads/",
+      "versionRegex": "MySQL-\\d+\\.\\d+",
+      "markdownFilename": "Mirrors-MySQL.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "Memcached",
+      "officialSite": "https://www.memcached.org",
+      "huaweiMirrorUrl": "https://mirrors.huaweicloud.com/memcached/",
+      "versionRegex": "memcached-\\d+\\.\\d+",
+      "markdownFilename": "Mirrors-Memcached.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "Leveldown",
+      "officialSite": "https://github.com/Level/leveldown/releases",
+      "huaweiMirrorUrl": "https://mirrors.huaweicloud.com/leveldown/",
+      "versionRegex": "v\\d+\\.\\d+",
+      "markdownFilename": "Mirrors-Leveldown.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "Keepalived",
+      "officialSite": "https://keepalived.org",
+      "huaweiMirrorUrl": "https://mirrors.huaweicloud.com/keepalived/",
+      "versionRegex": "keepalived-\\d+\\.\\d+",
+      "markdownFilename": "Mirrors-Keepalived.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "Helm",
+      "officialSite": "https://helm.sh",
+      "huaweiMirrorUrl": "https://mirrors.huaweicloud.com/helm/",
+      "versionRegex": "v\\d+\\.\\d+",
+      "markdownFilename": "Mirrors-Helm.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "HAProxy",
+      "officialSite": "https://www.haproxy.org",
+      "huaweiMirrorUrl": "https://mirrors.huaweicloud.com/haproxy/",
+      "versionRegex": "\\d+\\.\\d+",
+      "markdownFilename": "Mirrors-HAProxy.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "Grafana",
+      "officialSite": "https://grafana.com",
+      "huaweiMirrorUrl": "https://mirrors.huaweicloud.com/grafana/",
+      "versionRegex": "\\d+\\.\\d+",
+      "markdownFilename": "Mirrors-Grafana.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "Git for MacOS",
+      "officialSite": "https://git-scm.com/download/mac",
+      "huaweiMirrorUrl": "https://mirrors.huaweicloud.com/git-for-macos/",
+      "versionRegex": "git-\\d+\\.\\d+",
+      "markdownFilename": "Mirrors-Git-For-MacOS.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "GeckoDriver",
+      "officialSite": "https://github.com/mozilla/geckodriver/releases/",
+      "huaweiMirrorUrl": "https://mirrors.huaweicloud.com/geckodriver/",
+      "versionRegex": "v\\d+\\.\\d+",
+      "markdownFilename": "Mirrors-GeckoDriver.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "Filebeat",
+      "officialSite": "https://www.elastic.co",
+      "huaweiMirrorUrl": "https://mirrors.huaweicloud.com/filebeat/",
+      "versionRegex": "\\d+\\.\\d+",
+      "markdownFilename": "Mirrors-Filebeat.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "Etcd",
+      "officialSite": "https://etcd.io",
+      "huaweiMirrorUrl": "https://mirrors.huaweicloud.com/etcd/",
+      "versionRegex": "v\\d+\\.\\d+",
+      "markdownFilename": "Mirrors-Etcd.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "Electron",
+      "officialSite": "https://electronjs.org/",
+      "huaweiMirrorUrl": "https://mirrors.huaweicloud.com/electron/",
+      "versionRegex": "\\d+\\.\\d+",
+      "markdownFilename": "Mirrors-Electron.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "ChromeDriver",
+      "officialSite": "https://developer.chrome.com/docs/chromedriver/downloads/",
+      "huaweiMirrorUrl": "https://mirrors.huaweicloud.com/chromedriver/",
+      "versionRegex": "\\d+\\.\\d+",
+      "markdownFilename": "Mirrors-ChromeDriver.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "Bazel",
+      "officialSite": "https://bazel.build",
+      "huaweiMirrorUrl": "https://mirrors.huaweicloud.com/bazel/",
+      "versionRegex": "\\d+\\.\\d+",
+      "markdownFilename": "Mirrors-Bazel.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "Ansible",
+      "officialSite": "https://www.ansible.com",
+      "huaweiMirrorUrl": "https://mirrors.huaweicloud.com/ansible/",
+      "versionRegex": "ansible-\\d+\\.\\d+",
+      "markdownFilename": "Mirrors-Ansible.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "Tortoisegit",
+      "officialSite": "https://tortoisegit.org",
+      "huaweiMirrorUrl": "https://repo.huaweicloud.com/tortoisegit/",
+      "versionRegex": "\\d+\\.\\d+.\\d+",
+      "markdownFilename": "Mirrors-Tortoisegit.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "Logstash",
+      "officialSite": "https://www.elastic.co",
+      "huaweiMirrorUrl": "https://mirrors.huaweicloud.com/logstash/",
+      "versionRegex": "\\d+\\.\\d+",
+      "markdownFilename": "Mirrors-Logstash.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "Kibana",
+      "officialSite": "https://www.elastic.co",
+      "huaweiMirrorUrl": "https://mirrors.huaweicloud.com/kibana/",
+      "versionRegex": "\\d+\\.\\d+",
+      "markdownFilename": "Mirrors-Kibana.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "Elasticsearch",
+      "officialSite": "https://www.elastic.co",
+      "huaweiMirrorUrl": "https://mirrors.huaweicloud.com/elasticsearch/",
+      "versionRegex": "\\d+\\.\\d+",
+      "markdownFilename": "Mirrors-Elasticsearch.md",
+      "createDate": "2019-12-22"
+    },
+    {
+      "type": "huawei",
+      "softwareName": "Git for Windows",
+      "officialSite": "http://git-scm.com/download/win",
+      "huaweiMirrorUrl": "https://mirrors.huaweicloud.com/git-for-windows/",
+      "versionRegex": "v\\d+\\.\\d+",
+      "markdownFilename": "Mirrors-Git-For-Windows.md",
+      "createDate": "2019-12-22"
+    }
+  ]
+}

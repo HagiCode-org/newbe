@@ -1,0 +1,1 @@
+Dapr CLI允许你在本地开发机或Kubernetes集群上设置Dapr，提供调试支持，启动和管理Dapr实例。

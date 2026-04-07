@@ -1,0 +1,61 @@
+---
+date: 2023-02-13
+title: dotnet 8 preview 1 即将发布
+tags: [ C#, Docker, Kubernetes ]
+
+slag: 0x01B-dotnet-8-preview-is-coming-soon
+summary: .Net 8 preview 1 即将到来，让我们来提前看看都要发布什么吧。
+---
+
+<!-- YamlFrontMatter -->
+
+.Net 8 preview 1 即将到来，让我们来提前看看都要发布什么吧。
+
+<!-- more -->
+
+## .Net 8 preview 1 即将到来
+
+.NET 8 的第一个预览版将在几周内发布，微软的 David Ortinau 在斯德哥尔摩举行的一场在线技术活动中说。这个消息是在.NET Frontend Day 的一个.NET MAUI 的演示中透露的，这个活动可以在 YouTube 上观看。.NET 8 将在 2023 年 11 月 10 日左右的.NET Conf 2023 活动中发布，.NET GitHub 仓库显示.NET 8 的开发工作已经完成了 44%。.NET MAUI 和 Blazor 是今天.NET Frontend Day 的重点，GitHub 仓库显示有很多与它们相关的问题，例如“MAUI Android 的 ImageSharp 性能很差”、“Blazor WebAssembly 在低内存的移动设备上崩溃”等。Steve Sanderson 在一月份的 YouTube 视频中展示了一个名为 Blazor United 的新项目，它是一个原型项目，之后会被移动到了 GitHub 流程中。
+
+<!-- ad -->
+
+## 将会带来什么？
+
+目前已知的包括：
+
+1. BCL: Utility methods for working with randomness. - BCL: 处理随机性的实用方法。
+2. CLR AppModel team: NativeAOT size improvements. - CLR AppModel 团队: NativeAOT 大小优化。
+3. System.Text.Json Improvements: Missing member handling, Source generator support for required and init properties, Interface hierarchy support, Snake Case and Kebab Case, Add JsonSerializer.MakeReadOnly() and IsReadOnly APIs. - System.Text.Json 改进: 缺失成员处理，源代码生成器支持必需和初始化属性，接口层次支持，蛇形命名和烤串命名，添加 JsonSerializer.MakeReadOnly()和 IsReadOnly APIs。
+4. Mono: .NET Hot Reload supports adding instance fields, properties and events - Mono: .NET Hot Reload 支持添加实例字段，属性和事件。
+5. WebAssembly: experimental “Webcil” a new container format for .NET assemblies - WebAssembly: 实验性的"Webcil"，一种用于.NET 程序集的新容器格式。
+6. Mono: Debugging .NET WebAssembly App supports loading symbols from symbol server as configured in Visual Studio - Mono: 调试.NET WebAssembly 应用程序支持从符号服务器加载符号，按照 Visual Studio 的配置。
+7. General SIMD improvements - 通用 SIMD 改进。
+8. Fundamental PGO improvements - 基本 PGO 改进。
+9. Loop Optimizations - 循环优化。
+10. JIT Throughput Improvements - JIT 吞吐量改进。
+11. .NET Libraries - System.Numerics and System.Runtime.Intrinsics - .NET 库 - System.Numerics 和 System.Runtime.Intrinsics。
+
+## 说点我看得懂的👽
+
+其实很多我也看不懂，找点我看得懂的。
+
+1. 如果一个实现类实现了多个接口，那么现在使用接口序列化，就只会得到对应的接口才有的属性。 而且接口之间接口也将按照预期。https://github.com/dotnet/runtime/pull/78788
+2. 你可以通过 JsonSerializer.MakeReadOnly 方法来标记一个 JsonSerializer，加快序列化过程中对 Options 的检查。https://github.com/dotnet/runtime/pull/74431
+3. AOT 之后的程序集大小在 windows 和 linux 都减少了快一半。https://github.com/dotnet/runtime/issues/79003
+4. WebAssembly 的调试支持从符号服务器加载符号。https://github.com/dotnet/runtime/pull/79284
+5. NativeAOT support for macOS x64 and arm64！https://github.com/dotnet/core/issues/8133#issuecomment-1402637515
+
+## 参考资料
+
+- [What's On Tap for .NET 8 (Preview 1 Coming this Month)](https://visualstudiomagazine.com/articles/2023/02/10/net-8-preview.aspx)[^1]
+- [What's new in .NET 8 Preview 1 [WIP]](https://github.com/dotnet/core/issues/8133)[^2]
+
+[^1]: https://visualstudiomagazine.com/articles/2023/02/10/net-8-preview.aspx
+
+[^2]: https://github.com/dotnet/core/issues/8133
+
+<!-- ending -->
+
+<!-- ad -->
+
+<!-- copyright-->

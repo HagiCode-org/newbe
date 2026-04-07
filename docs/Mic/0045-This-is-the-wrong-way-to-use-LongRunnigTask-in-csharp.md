@@ -1,0 +1,131 @@
+---
+date: 2023-03-05
+title: 这样在 C# 使用 LongRunningTask 是错的
+tags: [C#, Docker, Kubernetes]
+
+slag: 0x026-This-is-the-wrong-way-to-use-LongRunningTask-in-csharp
+summary: Task.Factory.StartNew 有一个重载，是支持 TaskCreationOptions.LongRunning 参数来指定 Task 的特征的。但是可能在没有注意的情况下，你就使用了错误的用法。那么本文我们来简单阐述一下这个参数的作用，和使用的注意要点。
+alias: /Others/0x026-This-is-the-wrong-way-to-use-LongRunnigTask-in-csharp/
+---
+
+<!-- YamlFrontMatter -->
+
+Task.Factory.StartNew 有一个重载，是支持 TaskCreationOptions.LongRunning 参数来指定 Task 的特征的。但是可能在没有注意的情况下，你就使用了错误的用法。那么本文我们来简单阐述一下这个参数的作用，和使用的注意要点。
+
+<!-- more -->
+
+## 这样其实是错误的
+
+有的时候，你可能会这么写：
+
+```csharp
+Task.Factory.StartNew(async () =>
+{
+    while (true)
+    {
+        // do something
+        await Task.Delay(1000);
+    }
+}, TaskCreationOptions.LongRunning);
+```
+
+但其实，这是个错误的写法。
+
+## 为什么需要 LongRunning
+
+我们通常两种情况下会想到使用 TaskCreationOptions.LongRunning 参数：
+
+1. 你的任务需要长时间运行，比如一个循环，或者一个死循环。用来从队列中取数据，然后处理数据，或者是一些定时任务。
+2. 你的任务需要占用大量的 CPU 资源，是一个很大的循环，比如要遍历一个很大的数组，并做一些处理。
+
+那么这个时候，我们就需要使用 TaskCreationOptions.LongRunning 参数来指定 Task。
+
+因为我们可能学习到了，Task 默认的 Scheduler 是 ThreadPool，而 ThreadPool 的线程是有限的，如果你的任务需要长时间运行，或者是需要占用大量的 CPU 资源，那么就会导致 ThreadPool 的线程不够用。导致线程饥饿，或者是线程池的线程被占用，导致其他的任务无法执行。
+
+于是我们很聪明的就想到了，我们可以使用 TaskCreationOptions.LongRunning 参数来指定 Task，这样就可以避免线程饥饿。
+
+## 弄巧成拙
+
+但是实际上，开篇的写法并不能达到我们的目的。
+
+我们可以通过以下代码来验证一下：
+
+```csharp
+var task = Task.Factory.StartNew(async () =>
+{
+    while (true)
+    {
+        // do something
+        await Task.Delay(1000);
+    }
+}, TaskCreationOptions.LongRunning);
+
+Thread.Sleep(3000);
+
+Console.WriteLine($"Task Status: {task.Status}");
+// Task Status: RanToCompletion
+```
+
+我们可以看到，Task 的状态是并非是 Running，而是 RanToCompletion。
+
+也就是说，我们的任务在 3 秒后就已经执行完了，而不是我们想要的长时间运行。
+
+究其原因，是因为我们采用了异步的方式来执行任务。而异步任务的执行，是通过 ThreadPool 来执行的。也就是说，**虽然我们使用了 TaskCreationOptions.LongRunning 参数，来想办法指定线程池单独开一个线程，但是实际上在一个 await 之后，我们的任务还是在 ThreadPool 中执行的。**
+
+这会导致，我们的任务实际上后续又回到了 ThreadPool 中，而不是我们想要的单独的线程。起不到单独长期运行的作用。
+
+## 正确的写法
+
+因此，实际上如果想要保持单独的线程持续的运行，我们需要移除异步的方式，改为同步的方式。
+
+```csharp
+var task = Task.Factory.StartNew(() =>
+{
+    while (true)
+    {
+        // do something
+        Thread.Sleep(1000);
+    }
+}, TaskCreationOptions.LongRunning);
+
+Thread.Sleep(3000);
+
+Console.WriteLine($"Task Status: {task.Status}");
+// Task Status: Running
+```
+
+这样我们就可以看到，Task 的状态是 Running，而不是 RanToCompletion。我们通过 TaskCreationOptions.LongRunning 参数，单独开启的线程就可以一直运行下去。
+
+## 实际上还有很多考量
+
+### 要考量 TaskScheduler 的实现
+
+本文采用的是 aspnetcore 的实现，但是在其他的实现中，可能会有不同的实现。你也完全有可能实现一个 await 之后，不回到 ThreadPool 的实现。
+
+### LongRunning 也不是就不能用异步
+
+正如开篇提到的第二种场景，如果你的业务是在第一个 await 之前有大量的同步代码，那么此时单独开启一个线程，也是有意义的。
+
+### 我就是一个死循环，里面也是异步的怎么办
+
+那么你可以考虑让这个 LongRuning 的 Task，不要 await，而是通过 Wait() 来等待。这样就可以避免 LongRunning 的 Task 直接结束。
+
+## 总结
+
+本文我们简单阐述了 TaskCreationOptions.LongRunning 参数的作用，和使用的注意要点。
+
+## 参考
+
+- [.NET Task 揭秘（2）：Task 的回调执行与 await](https://www.cnblogs.com/eventhorizon/p/15912383.html)[^1]
+- [Task](https://threads.whuanle.cn/3.task/)[^2]
+- [TaskCreationOptions](https://learn.microsoft.com/en-us/dotnet/api/system.threading.tasks.taskcreationoptions?view=net-7.0&WT.mc_id=DT-MVP-5004283)[^3]
+
+[^1]: https://www.cnblogs.com/eventhorizon/p/15912383.html
+[^2]: https://threads.whuanle.cn/3.task/
+[^3]: https://learn.microsoft.com/en-us/dotnet/api/system.threading.tasks.taskcreationoptions?view=net-7.0&WT.mc_id=DT-MVP-5004283
+
+<!-- ending -->
+
+<!-- ad -->
+
+<!-- copyright-->

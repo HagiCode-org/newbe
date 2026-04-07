@@ -1,0 +1,572 @@
+/**
+ * HagicodeAdHeader Component - Gamified Styles
+ * Advanced visual effects with glassmorphism, animated glows, and particles
+ */
+
+/* ============================================
+   CSS Custom Properties (Light/Dark Theme)
+   ============================================ */
+
+:root {
+  --ad-bg-light: rgba(255, 255, 255, 0.85);
+  --ad-bg-dark: rgba(15, 23, 42, 0.75);
+  --ad-border-light: rgba(59, 130, 246, 0.3);
+  --ad-border-dark: rgba(59, 130, 246, 0.4);
+  --ad-glow-light: rgba(59, 130, 246, 0.4);
+  --ad-glow-dark: rgba(59, 130, 246, 0.6);
+  --ad-text-light: #0F172A;
+  --ad-text-dark: #F1F5F9;
+  --ad-text-muted-light: #475569;
+  --ad-text-muted-dark: #94A3B8;
+  --ad-cta-primary: linear-gradient(135deg, #3B82F6 0%, #2563EB 100%);
+  --ad-cta-primary-hover: linear-gradient(135deg, #2563EB 0%, #1D4ED8 100%);
+  --ad-cta-secondary-bg-light: rgba(248, 250, 252, 0.9);
+  --ad-cta-secondary-bg-dark: rgba(30, 41, 59, 0.8);
+  --ad-shine-light: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
+  --ad-shine-dark: linear-gradient(90deg, transparent, rgba(59, 130, 246, 0.2), transparent);
+}
+
+/* ============================================
+   Header Container - Glassmorphism Base
+   ============================================ */
+
+.headerAdContainer {
+  position: relative;
+  display: flex;
+  align-items: center;
+  height: 44px;
+  margin-right: 16px;
+  margin-left: 8px;
+  background: var(--ad-bg-light);
+  backdrop-filter: blur(12px) saturate(180%);
+  -webkit-backdrop-filter: blur(12px) saturate(180%);
+  border-radius: 12px;
+  overflow: hidden;
+  isolation: isolate;
+  transform: translateZ(0);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.headerAdContainer::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  padding: 1px;
+  border-radius: 12px;
+  background: linear-gradient(135deg,
+    rgba(59, 130, 246, 0.5) 0%,
+    rgba(249, 115, 22, 0.3) 50%,
+    rgba(59, 130, 246, 0.5) 100%);
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  opacity: 0.8;
+  transition: opacity 0.3s ease;
+}
+
+.headerAdContainer:hover {
+  transform: translateY(-1px);
+  box-shadow:
+    0 0 0 1px rgba(59, 130, 246, 0.3),
+    0 8px 32px rgba(59, 130, 246, 0.15),
+    0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.headerAdContainer:hover::before {
+  opacity: 1;
+}
+
+/* ============================================
+   Animated Glow Effects
+   ============================================ */
+
+.glowEffect {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 60%;
+  height: 100%;
+  background: radial-gradient(ellipse at left,
+    rgba(59, 130, 246, 0.25) 0%,
+    transparent 70%);
+  transform: translateY(-50%);
+  filter: blur(20px);
+  animation: glowPulse 3s ease-in-out infinite;
+  pointer-events: none;
+}
+
+.glowEffectSecondary {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  width: 40%;
+  height: 100%;
+  background: radial-gradient(ellipse at right,
+    rgba(249, 115, 22, 0.15) 0%,
+    transparent 70%);
+  transform: translateY(-50%);
+  filter: blur(16px);
+  animation: glowPulse 3s ease-in-out infinite 1.5s;
+  pointer-events: none;
+}
+
+@keyframes glowPulse {
+  0%, 100% {
+    opacity: 0.6;
+    transform: translateY(-50%) scaleX(0.95);
+  }
+  50% {
+    opacity: 1;
+    transform: translateY(-50%) scaleX(1.05);
+  }
+}
+
+/* ============================================
+   Floating Particles
+   ============================================ */
+
+.particles {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.particle {
+  position: absolute;
+  width: 3px;
+  height: 3px;
+  background: linear-gradient(135deg, #3B82F6, #60A5FA);
+  border-radius: 50%;
+  opacity: 0;
+  filter: blur(0.5px);
+}
+
+.particle:nth-child(1) {
+  top: 20%;
+  left: 10%;
+  animation: particleFloat1 4s ease-in-out infinite;
+}
+
+.particle:nth-child(2) {
+  top: 60%;
+  left: 15%;
+  animation: particleFloat2 5s ease-in-out infinite 1s;
+}
+
+.particle:nth-child(3) {
+  top: 40%;
+  left: 8%;
+  animation: particleFloat3 4.5s ease-in-out infinite 2s;
+}
+
+@keyframes particleFloat1 {
+  0%, 100% {
+    opacity: 0;
+    transform: translate(0, 0) scale(0.5);
+  }
+  20% {
+    opacity: 1;
+  }
+  80% {
+    opacity: 1;
+  }
+  50% {
+    transform: translate(4px, -8px) scale(1);
+  }
+}
+
+@keyframes particleFloat2 {
+  0%, 100% {
+    opacity: 0;
+    transform: translate(0, 0) scale(0.6);
+  }
+  20% {
+    opacity: 0.8;
+  }
+  80% {
+    opacity: 0.8;
+  }
+  50% {
+    transform: translate(6px, 6px) scale(1);
+  }
+}
+
+@keyframes particleFloat3 {
+  0%, 100% {
+    opacity: 0;
+    transform: translate(0, 0) scale(0.4);
+  }
+  20% {
+    opacity: 0.9;
+  }
+  80% {
+    opacity: 0.9;
+  }
+  50% {
+    transform: translate(3px, -4px) scale(0.9);
+  }
+}
+
+/* ============================================
+   Shine Effect Layer
+   ============================================ */
+
+.shineLayer {
+  position: absolute;
+  inset: 0;
+  background: var(--ad-shine-light);
+  transform: translateX(-100%);
+  transition: transform 0.6s ease;
+  pointer-events: none;
+}
+
+.headerAdContainer:hover .shineLayer {
+  transform: translateX(100%);
+}
+
+/* ============================================
+   Inner Content Container
+   ============================================ */
+
+.headerAdInner {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 0 14px;
+  z-index: 1;
+}
+
+/* ============================================
+   Icon Wrapper with Ring Animation
+   ============================================ */
+
+.iconWrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  flex-shrink: 0;
+}
+
+.icon {
+  font-size: 1.125rem;
+  line-height: 1;
+  filter: drop-shadow(0 0 8px rgba(59, 130, 246, 0.5));
+  animation: iconFloat 3s ease-in-out infinite;
+}
+
+@keyframes iconFloat {
+  0%, 100% {
+    transform: translateY(0) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-2px) rotate(5deg);
+  }
+}
+
+.iconRing {
+  position: absolute;
+  inset: -4px;
+  border-radius: 50%;
+  border: 1.5px solid transparent;
+  border-top-color: rgba(59, 130, 246, 0.6);
+  border-right-color: rgba(59, 130, 246, 0.3);
+  animation: ringRotate 3s linear infinite;
+}
+
+@keyframes ringRotate {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* ============================================
+   Content Area
+   ============================================ */
+
+.content {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.title {
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: var(--ad-text-light);
+  letter-spacing: -0.01em;
+  line-height: 1.2;
+}
+
+.titleHighlight {
+  background: linear-gradient(135deg, #3B82F6, #2563EB);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-weight: 700;
+}
+
+.titleSeparator {
+  color: var(--ad-text-muted-light);
+  margin: 0 2px;
+}
+
+/* ============================================
+   CTA Group
+   ============================================ */
+
+.ctaGroup {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+}
+
+.ctaButton {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  min-height: 30px;
+  padding: 0 10px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+  white-space: nowrap;
+  overflow: hidden;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  transform: translateZ(0);
+}
+
+/* Primary CTA Button */
+
+.ctaPrimary {
+  background: var(--ad-cta-primary);
+  color: white;
+  box-shadow:
+    0 2px 8px rgba(59, 130, 246, 0.25),
+    inset 0 1px 0 rgba(255, 255, 255, 0.2);
+}
+
+.ctaPrimary:hover {
+  background: var(--ad-cta-primary-hover);
+  box-shadow:
+    0 4px 16px rgba(59, 130, 246, 0.35),
+    inset 0 1px 0 rgba(255, 255, 255, 0.2);
+  transform: translateY(-1px);
+}
+
+.ctaPrimary:active {
+  transform: translateY(0) scale(0.98);
+}
+
+.ctaButtonText {
+  position: relative;
+  z-index: 1;
+}
+
+.ctaButtonGlow {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+  transform: translateX(-100%);
+  transition: transform 0.5s ease;
+}
+
+.ctaPrimary:hover .ctaButtonGlow {
+  transform: translateX(100%);
+}
+
+.ctaIcon {
+  flex-shrink: 0;
+  transition: transform 0.2s ease;
+}
+
+.ctaPrimary:hover .ctaIcon {
+  transform: translateX(2px);
+}
+
+/* Secondary CTA Button */
+
+.ctaSecondary {
+  background: var(--ad-cta-secondary-bg-light);
+  color: var(--ad-text-light);
+  border: 1px solid rgba(148, 163, 184, 0.2);
+  box-shadow: 0 1px 4px rgba(15, 23, 42, 0.05);
+}
+
+.ctaSecondary:hover {
+  background: rgba(59, 130, 246, 0.08);
+  border-color: rgba(59, 130, 246, 0.3);
+  color: #2563EB;
+  box-shadow: 0 2px 8px rgba(59, 130, 246, 0.1);
+  transform: translateY(-1px);
+}
+
+.ctaSecondary:active {
+  transform: translateY(0) scale(0.98);
+}
+
+.playIcon {
+  flex-shrink: 0;
+  color: inherit;
+  transition: transform 0.2s ease;
+}
+
+.ctaSecondary:hover .playIcon {
+  transform: scale(1.1);
+}
+
+/* Focus Visible States */
+
+.ctaButton:focus-visible {
+  outline: 2px solid #F97316;
+  outline-offset: 2px;
+}
+
+/* ============================================
+   Dark Theme
+   ============================================ */
+
+[data-theme='dark'] .headerAdContainer {
+  background: var(--ad-bg-dark);
+}
+
+[data-theme='dark'] .headerAdContainer::before {
+  background: linear-gradient(135deg,
+    rgba(59, 130, 246, 0.6) 0%,
+    rgba(249, 115, 22, 0.4) 50%,
+    rgba(59, 130, 246, 0.6) 100%);
+}
+
+[data-theme='dark'] .headerAdContainer:hover {
+  box-shadow:
+    0 0 0 1px rgba(59, 130, 246, 0.4),
+    0 8px 32px rgba(59, 130, 246, 0.25),
+    0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+[data-theme='dark'] .glowEffect {
+  background: radial-gradient(ellipse at left,
+    rgba(59, 130, 246, 0.35) 0%,
+    transparent 70%);
+}
+
+[data-theme='dark'] .glowEffectSecondary {
+  background: radial-gradient(ellipse at right,
+    rgba(249, 115, 22, 0.25) 0%,
+    transparent 70%);
+}
+
+[data-theme='dark'] .shineLayer {
+  background: var(--ad-shine-dark);
+}
+
+[data-theme='dark'] .title {
+  color: var(--ad-text-dark);
+}
+
+[data-theme='dark'] .titleSeparator {
+  color: var(--ad-text-muted-dark);
+}
+
+[data-theme='dark'] .ctaPrimary {
+  background: linear-gradient(135deg, #3B82F6 0%, #60A5FA 100%);
+  box-shadow:
+    0 2px 8px rgba(59, 130, 246, 0.35),
+    inset 0 1px 0 rgba(255, 255, 255, 0.15);
+}
+
+[data-theme='dark'] .ctaPrimary:hover {
+  background: linear-gradient(135deg, #2563EB 0%, #3B82F6 100%);
+  box-shadow:
+    0 4px 16px rgba(59, 130, 246, 0.45),
+    inset 0 1px 0 rgba(255, 255, 255, 0.15);
+}
+
+[data-theme='dark'] .ctaSecondary {
+  background: var(--ad-cta-secondary-bg-dark);
+  color: #E2E8F0;
+  border-color: rgba(100, 116, 139, 0.3);
+}
+
+[data-theme='dark'] .ctaSecondary:hover {
+  background: rgba(59, 130, 246, 0.15);
+  border-color: rgba(59, 130, 246, 0.4);
+  color: #60A5FA;
+}
+
+[data-theme='dark'] .particle {
+  background: linear-gradient(135deg, #60A5FA, #93C5FD);
+}
+
+/* ============================================
+   Desktop Only (>996px)
+   ============================================ */
+
+@media (max-width: 996px) {
+  .headerAdContainer {
+    display: none;
+  }
+}
+
+/* ============================================
+   Accessibility - Reduced Motion
+   ============================================ */
+
+@media (prefers-reduced-motion: reduce) {
+  .headerAdContainer,
+  .glowEffect,
+  .glowEffectSecondary,
+  .particle,
+  .icon,
+  .iconRing,
+  .shineLayer,
+  .ctaButton,
+  .ctaButtonGlow,
+  .ctaIcon,
+  .playIcon {
+    animation: none !important;
+    transition: none !important;
+  }
+
+  .headerAdContainer:hover,
+  .ctaButton:hover {
+    transform: none !important;
+  }
+}
+
+/* ============================================
+   High Contrast Mode Support
+   ============================================ */
+
+@media (prefers-contrast: high) {
+  .headerAdContainer::before {
+    border-width: 2px;
+  }
+
+  .ctaButton {
+    border-width: 2px;
+    border-style: solid;
+  }
+
+  .ctaSecondary {
+    border-color: currentColor;
+  }
+}
+
+/* ============================================
+   Print Styles
+   ============================================ */
+
+@media print {
+  .headerAdContainer {
+    display: none;
+  }
+}

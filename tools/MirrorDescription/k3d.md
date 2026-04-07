@@ -1,0 +1,1 @@
+k3s 是由 Rancher 推出的轻量级 Kubernetes 发行版：k3s-io/k3s。k3d 创建容器化的 k3s 集群。这意味着，你可以使用 Docker 在一台机器上启动一个多节点的 k3s 集群。

@@ -1,0 +1,33 @@
+name: Check links
+
+on:
+  push:
+    branches:
+      - check-links
+  schedule:
+    # every week
+    - cron: "0 0 */7 * 1"
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    env:
+      ACTIONS_ALLOW_UNSECURE_COMMANDS: true
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: install yarn
+        run: npm i -g --force yarn
+      - name: restore yarn
+        run: |
+          cd $GITHUB_WORKSPACE/newbepro
+          yarn install
+      - name: run check-links
+        run: |
+          cd $GITHUB_WORKSPACE/newbepro
+          echo {} > db.json & npx hexo check-links

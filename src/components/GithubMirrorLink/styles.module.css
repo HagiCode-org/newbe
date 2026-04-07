@@ -1,0 +1,770 @@
+/**
+ * GithubMirrorLink Component Styles
+ * Features: Card-based layout, responsive design, dark theme support, animations
+ */
+
+/* ============================================
+   Popup / Modal Container
+   ============================================ */
+
+.popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1000;
+  animation: fadeIn 0.2s ease-out;
+  padding: 16px;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.popupContent {
+  position: relative;
+  width: 100%;
+  max-width: 600px;
+  max-height: 90vh;
+  overflow-y: auto;
+  background-color: var(--ifm-background-color);
+  border: 1px solid var(--ifm-color-border);
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
+  animation: slideUp 0.3s ease-out;
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ============================================
+   Header
+   ============================================ */
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 24px;
+  border-bottom: 1px solid var(--ifm-color-border);
+}
+
+.title {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--ifm-font-color-base);
+}
+
+.closeButton {
+  min-width: 36px;
+  min-height: 36px;
+  padding: 0 10px;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--ifm-font-color-secondary);
+  background: transparent;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.closeButton:hover {
+  background-color: var(--ifm-color-emphasis-100);
+  color: var(--ifm-font-color-base);
+}
+
+.closeButton:active {
+  transform: scale(0.95);
+}
+
+/* ============================================
+   Alert Banner
+   ============================================ */
+
+.alertBanner {
+  margin: 16px 24px;
+  padding: 12px 16px;
+  background-color: var(--ifm-color-warning-soft-background-color, rgba(255, 193, 7, 0.1));
+  border: 1px solid var(--ifm-color-warning-border-color, rgba(255, 193, 7, 0.3));
+  border-left: 4px solid var(--ifm-color-warning);
+  border-radius: 8px;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  color: var(--ifm-font-color-base);
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.alertBannerIcon {
+  font-size: 1rem;
+  flex-shrink: 0;
+}
+
+/* ============================================
+   Content Area
+   ============================================ */
+
+.content {
+  padding: 8px 24px 24px;
+}
+
+.promoSection {
+  margin-bottom: 4px;
+}
+
+/* ============================================
+   Section (Mirror Groups)
+   ============================================ */
+
+.section {
+  margin-top: 20px;
+}
+
+.section:first-child {
+  margin-top: 0;
+}
+
+.sectionTitle {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 12px;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--ifm-font-color-base);
+}
+
+.sectionIcon {
+  font-size: 1.1rem;
+}
+
+.sectionDivider {
+  height: 1px;
+  background: linear-gradient(
+    to right,
+    transparent,
+    var(--ifm-color-border) 20%,
+    var(--ifm-color-border) 80%,
+    transparent
+  );
+  margin-bottom: 16px;
+}
+
+.sectionContent {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+/* ============================================
+   Mirror Card
+   ============================================ */
+
+.card {
+  padding: 12px 16px;
+  background-color: var(--ifm-color-emphasis-50);
+  border: 1px solid var(--ifm-color-border);
+  border-radius: 10px;
+  transition: all 0.2s ease;
+}
+
+.card:hover {
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+/* Card header - contains title section and actions on same row */
+.cardHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+/* Title section - icon + text */
+.cardTitleSection {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex: 1;
+  min-width: 0;
+}
+
+.cardIcon {
+  font-size: 1.2rem;
+  flex-shrink: 0;
+}
+
+/* Title text container - name + description stacked */
+.cardTitleText {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+  flex: 1;
+}
+
+.cardName {
+  font-size: 0.9375rem;
+  font-weight: 500;
+  color: var(--ifm-font-color-base);
+}
+
+.cardDescription {
+  font-size: 0.8125rem;
+  color: var(--ifm-font-color-secondary);
+  line-height: 1.3;
+}
+
+/* Actions section - buttons on the right */
+.cardActions {
+  display: flex;
+  gap: 8px;
+  flex-shrink: 0;
+}
+
+.cardButton {
+  min-height: 36px;
+  padding: 8px 16px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  border-radius: 6px;
+  border: 1px solid var(--ifm-color-border);
+  background-color: var(--ifm-button-background-color);
+  color: var(--ifm-button-color);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.cardButton:hover:not(:disabled) {
+  background-color: var(--ifm-button-background-color-hover);
+  border-color: var(--ifm-color-primary);
+}
+
+.cardButton:active:not(:disabled) {
+  transform: scale(0.97);
+}
+
+.cardButton:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.cardButtonPrimary {
+  background-color: var(--ifm-color-primary);
+  color: white;
+  border-color: var(--ifm-color-primary);
+}
+
+.cardButtonPrimary:hover:not(:disabled) {
+  background-color: var(--ifm-color-primary-dark);
+  border-color: var(--ifm-color-primary-dark);
+}
+
+.cardButtonSuccess {
+  background-color: var(--ifm-color-success);
+  color: white;
+  border-color: var(--ifm-color-success);
+}
+
+.cardButtonError {
+  background-color: var(--ifm-color-danger);
+  color: white;
+  border-color: var(--ifm-color-danger);
+}
+
+/* ============================================
+   Other Methods Section
+   ============================================ */
+
+.otherMethods {
+  margin-top: 20px;
+  padding: 16px;
+  background-color: var(--ifm-color-emphasis-50);
+  border: 1px solid var(--ifm-color-border);
+  border-radius: 10px;
+}
+
+.otherMethodsText {
+  margin: 0 0 12px;
+  font-size: 0.875rem;
+  color: var(--ifm-font-color-secondary);
+}
+
+.qrToggleButton {
+  min-height: 36px;
+  padding: 8px 16px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  border-radius: 6px;
+  border: 1px solid var(--ifm-color-border);
+  background-color: var(--ifm-button-background-color);
+  color: var(--ifm-button-color);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.qrToggleButton:hover {
+  background-color: var(--ifm-button-background-color-hover);
+  border-color: var(--ifm-color-primary);
+}
+
+/* ============================================
+   QR Code Modal
+   ============================================ */
+
+.qrModal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.6);
+  z-index: 1100;
+  animation: fadeIn 0.2s ease-out;
+}
+
+.qrModalContent {
+  position: relative;
+  padding: 24px;
+  background-color: var(--ifm-background-color);
+  border: 1px solid var(--ifm-color-border);
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+  max-width: 90vw;
+  text-align: center;
+  animation: slideUp 0.3s ease-out;
+}
+
+.qrModalClose {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  min-width: 32px;
+  min-height: 32px;
+  padding: 0;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--ifm-font-color-secondary);
+  background: transparent;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.qrModalClose:hover {
+  background-color: var(--ifm-color-emphasis-100);
+  color: var(--ifm-font-color-base);
+}
+
+.qrModalTitle {
+  margin: 0 0 12px;
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--ifm-font-color-base);
+}
+
+.qrModalDescription {
+  margin: 0 0 16px;
+  font-size: 0.875rem;
+  color: var(--ifm-font-color-secondary);
+  line-height: 1.5;
+}
+
+.qrModalImage {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  border-radius: 8px;
+}
+
+/* ============================================
+   Toast Notification
+   ============================================ */
+
+.toast {
+  position: fixed;
+  bottom: 24px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 20px;
+  background-color: var(--ifm-color-success);
+  color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+  font-size: 0.875rem;
+  font-weight: 500;
+  z-index: 1200;
+  animation: toastSlideUp 0.3s ease-out;
+}
+
+@keyframes toastSlideUp {
+  from {
+    opacity: 0;
+    transform: translateX(-50%) translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+}
+
+.toastIcon {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.toastMessage {
+  white-space: nowrap;
+}
+
+/* ============================================
+   Trigger Link
+   ============================================ */
+
+.triggerLink {
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s ease;
+  cursor: pointer;
+}
+
+.triggerLink:hover {
+  border-bottom-color: var(--ifm-color-primary);
+}
+
+.triggerLink:focus-visible {
+  outline: 2px solid var(--ifm-color-primary);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* ============================================
+   Dark Theme
+   ============================================ */
+
+/* Backdrop - darker overlay for better contrast */
+[data-theme='dark'] .popup {
+  background-color: rgba(0, 0, 0, 0.85);
+}
+
+/* Modal content - surface color with enhanced border */
+[data-theme='dark'] .popupContent {
+  background-color: var(--ifm-background-surface-color);
+  border-color: var(--ifm-color-border-dark);
+  box-shadow: 0 12px 48px rgba(0, 0, 0, 0.5);
+}
+
+/* Header - enhanced border visibility */
+[data-theme='dark'] .header {
+  border-bottom-color: var(--ifm-color-border-dark);
+}
+
+/* Close button - better hover state */
+[data-theme='dark'] .closeButton:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Alert banner - adjusted for dark mode */
+[data-theme='dark'] .alertBanner {
+  background-color: rgba(255, 193, 7, 0.08);
+  border-color: rgba(255, 193, 7, 0.2);
+  border-left-color: var(--ifm-color-warning);
+  color: var(--ifm-font-color-base);
+}
+
+/* Cards - subtle background with visible border */
+[data-theme='dark'] .card {
+  background-color: rgba(255, 255, 255, 0.05);
+  border-color: var(--ifm-color-border-dark);
+}
+
+/* Card hover - enhanced effect in dark mode */
+[data-theme='dark'] .card:hover {
+  border-color: var(--ifm-color-primary-dark);
+  background-color: rgba(255, 255, 255, 0.08);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+
+/* Card description - ensure text readability */
+[data-theme='dark'] .cardDescription {
+  color: var(--ifm-font-color-secondary);
+  opacity: 0.9;
+}
+
+/* Section divider - more visible in dark mode */
+[data-theme='dark'] .sectionDivider {
+  background: linear-gradient(
+    to right,
+    transparent,
+    rgba(255, 255, 255, 0.1) 20%,
+    rgba(255, 255, 255, 0.1) 80%,
+    transparent
+  );
+}
+
+/* Buttons - better contrast in dark mode */
+[data-theme='dark'] .cardButton {
+  border-color: var(--ifm-color-border-dark);
+  color: var(--ifm-font-color-base);
+  background-color: transparent;
+}
+
+[data-theme='dark'] .cardButton:hover:not(:disabled) {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-color: var(--ifm-color-primary-dark);
+}
+
+/* Primary button in dark mode */
+[data-theme='dark'] .cardButtonPrimary {
+  background-color: var(--ifm-color-primary);
+  border-color: var(--ifm-color-primary);
+  color: white;
+}
+
+[data-theme='dark'] .cardButtonPrimary:hover:not(:disabled) {
+  background-color: var(--ifm-color-primary-dark);
+  border-color: var(--ifm-color-primary-dark);
+}
+
+/* Success/Error buttons - ensure white text */
+[data-theme='dark'] .cardButtonSuccess,
+[data-theme='dark'] .cardButtonError {
+  color: white;
+}
+
+/* Other methods section */
+[data-theme='dark'] .otherMethods {
+  background-color: rgba(255, 255, 255, 0.05);
+  border-color: var(--ifm-color-border-dark);
+}
+
+[data-theme='dark'] .otherMethodsText {
+  color: var(--ifm-font-color-secondary);
+  opacity: 0.9;
+}
+
+/* QR toggle button */
+[data-theme='dark'] .qrToggleButton {
+  border-color: var(--ifm-color-border-dark);
+}
+
+[data-theme='dark'] .qrToggleButton:hover {
+  background-color: var(--ifm-button-background-color-hover);
+  border-color: var(--ifm-color-primary-dark);
+}
+
+/* QR Modal */
+[data-theme='dark'] .qrModal {
+  background-color: rgba(0, 0, 0, 0.85);
+}
+
+[data-theme='dark'] .qrModalContent {
+  background-color: var(--ifm-background-surface-color);
+  border-color: var(--ifm-color-border-dark);
+  box-shadow: 0 12px 48px rgba(0, 0, 0, 0.6);
+}
+
+[data-theme='dark'] .qrModalClose:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+[data-theme='dark'] .qrModalDescription {
+  color: var(--ifm-font-color-secondary);
+  opacity: 0.9;
+}
+
+/* Toast - enhanced visibility in dark mode */
+[data-theme='dark'] .toast {
+  background-color: var(--ifm-color-success);
+  color: white;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
+}
+
+/* Focus ring in dark mode - more visible */
+[data-theme='dark'] .cardButton:focus-visible,
+[data-theme='dark'] .qrToggleButton:focus-visible,
+[data-theme='dark'] .closeButton:focus-visible,
+[data-theme='dark'] .qrModalClose:focus-visible,
+[data-theme='dark'] .triggerLink:focus-visible {
+  outline: 2px solid var(--ifm-color-primary);
+  outline-offset: 2px;
+}
+
+/* ============================================
+   Responsive Design
+   ============================================ */
+
+/* Mobile (< 576px) */
+@media (max-width: 575px) {
+  .popup {
+    padding: 12px;
+  }
+
+  .popupContent {
+    max-height: 95vh;
+  }
+
+  .header {
+    padding: 16px;
+  }
+
+  .title {
+    font-size: 1.125rem;
+  }
+
+  .alertBanner {
+    margin: 12px 16px;
+    font-size: 0.8125rem;
+  }
+
+  .content {
+    padding: 8px 16px 20px;
+  }
+
+  .promoSection {
+    margin-bottom: 0;
+  }
+
+  /* Card header - stack on very small screens */
+  .card {
+    padding: 12px;
+  }
+
+  .cardHeader {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+
+  .cardTitleSection {
+    width: 100%;
+  }
+
+  .cardActions {
+    width: 100%;
+  }
+
+  .cardButton {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .otherMethods {
+    padding: 12px;
+  }
+
+  .qrToggleButton {
+    width: auto;
+    min-width: 120px;
+  }
+
+  .toast {
+    left: 16px;
+    right: 16px;
+    bottom: 16px;
+    transform: none;
+  }
+
+  @keyframes toastSlideUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
+
+/* Tablet (576px - 768px) */
+@media (min-width: 576px) and (max-width: 767px) {
+  .cardButton {
+    min-height: 40px;
+  }
+}
+
+/* Desktop (>= 768px) */
+@media (min-width: 768px) {
+  .popup {
+    padding: 20px;
+  }
+
+  .popupContent {
+    max-width: 640px;
+  }
+}
+
+/* ============================================
+   Accessibility
+   ============================================ */
+
+/* Focus visible styles for keyboard navigation */
+.cardButton:focus-visible,
+.qrToggleButton:focus-visible,
+.closeButton:focus-visible,
+.qrModalClose:focus-visible,
+.triggerLink:focus-visible {
+  outline: 2px solid var(--ifm-color-primary);
+  outline-offset: 2px;
+}
+
+/* Reduce motion for users who prefer it */
+@media (prefers-reduced-motion: reduce) {
+  .popup,
+  .popupContent,
+  .card,
+  .cardButton,
+  .toast,
+  .qrModalContent {
+    animation: none;
+    transition: none;
+  }
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+  .card {
+    border-width: 2px;
+  }
+
+  .cardButton {
+    border-width: 2px;
+  }
+}

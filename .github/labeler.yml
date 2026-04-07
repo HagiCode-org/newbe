@@ -1,0 +1,17 @@
+# Configuration for labeler - https://github.com/actions/labeler
+
+📖 Posts: 
+- changed-files:
+  - any-glob-to-any-file: 'docs/**/*'
+🚀 Mirrors: 
+- changed-files:
+  - any-glob-to-any-file: 'docs/Mirrors/**/*'
+🚀 MirrorDef: 
+- changed-files:
+  - any-glob-to-any-file: 'tools/mirrorsDef.json'
+🌏 Translation: 
+- changed-files:
+  - any-glob-to-any-file: 'i18n/**/*'
+Actions: 
+- changed-files:
+  - any-glob-to-any-file: '.github/workflows/**/*'

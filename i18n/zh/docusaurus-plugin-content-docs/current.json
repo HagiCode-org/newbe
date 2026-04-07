@@ -1,0 +1,66 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.隨筆": {
+    "message": "隨筆",
+    "description": "The label for category 隨筆 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.開源項目": {
+    "message": "開源項目",
+    "description": "The label for category 開源項目 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Newbe.Mcr ✅": {
+    "message": "Newbe.Mcr ✅",
+    "description": "The label for category Newbe.Mcr ✅ in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Newbe.ObjectVisitor (inactive 🚧)": {
+    "message": "Newbe.ObjectVisitor (inactive 🚧)",
+    "description": "The label for category Newbe.ObjectVisitor (inactive 🚧) in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Newbe.Claptrap (inactive 🚧)": {
+    "message": "Newbe.Claptrap (inactive 🚧)",
+    "description": "The label for category Newbe.Claptrap (inactive 🚧) in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Newbe.Mahua (inactive 🚧)": {
+    "message": "Newbe.Mahua (inactive 🚧)",
+    "description": "The label for category Newbe.Mahua (inactive 🚧) in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Newbe.Pct (inactive 🚧)": {
+    "message": "Newbe.Pct (inactive 🚧)",
+    "description": "The label for category Newbe.Pct (inactive 🚧) in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Newbe.Translations": {
+    "message": "Newbe.Translations",
+    "description": "The label for category Newbe.Translations in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.系列文章": {
+    "message": "系列文章",
+    "description": "The label for category 系列文章 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Jekyll 免費搭建博客": {
+    "message": "Jekyll 免費搭建博客",
+    "description": "The label for category Jekyll 免費搭建博客 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.C# IEnumerable": {
+    "message": "C# IEnumerable",
+    "description": "The label for category C# IEnumerable in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.在服務端中使用反應式編程": {
+    "message": "在服務端中使用反應式編程",
+    "description": "The label for category 在服務端中使用反應式編程 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.k8s 應用開發小工具 Tye": {
+    "message": "k8s 應用開發小工具 Tye",
+    "description": "The label for category k8s 應用開發小工具 Tye in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.C# 依賴注入": {
+    "message": "C# 依賴注入",
+    "description": "The label for category C# 依賴注入 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.加速下載": {
+    "message": "加速下載",
+    "description": "The label for category 加速下載 in sidebar tutorialSidebar"
+  }
+}

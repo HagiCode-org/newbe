@@ -1,0 +1,383 @@
+/**
+ * Homepage Content Component Styles
+ * UI/UX Optimized - Following accessibility and professional design guidelines
+ */
+
+/* Main container */
+.container {
+  padding: 2rem 0;
+}
+
+/* Learning Path Section */
+.learningPathSection {
+  margin-bottom: 3rem;
+}
+
+.learningPathTitle {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  color: var(--ifm-font-color-base);
+}
+
+.learningPathContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  padding: 1.5rem;
+  background: var(--ifm-card-background-color);
+  border-radius: var(--ifm-card-border-radius);
+  box-shadow: var(--ifm-card-shadow);
+}
+
+.learningPathStep {
+  display: flex;
+  align-items: center;
+  padding: 1rem 1.5rem;
+  background: var(--ifm-background-surface-color);
+  border-radius: var(--ifm-card-border-radius);
+  /* Use transition property instead of all for better performance */
+  transition: box-shadow 200ms ease, border-color 200ms ease, transform 200ms ease;
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+  border: 1px solid var(--ifm-card-border-color);
+  min-width: 140px;
+  /* Minimum touch target size */
+  min-height: 44px;
+}
+
+/* Hover: Use scale instead of translateY for better performance */
+.learningPathStep:hover {
+  transform: scale(1.02);
+  box-shadow: var(--ifm-card-shadow-hover);
+  border-color: var(--ifm-color-primary);
+}
+
+/* Focus state for keyboard navigation */
+.learningPathStep:focus {
+  outline: 2px solid var(--ifm-color-primary);
+  outline-offset: 2px;
+}
+
+/* Reduce motion for accessibility */
+@media (prefers-reduced-motion: reduce) {
+  .learningPathStep {
+    transition: none;
+  }
+
+  .learningPathStep:hover {
+    transform: none;
+  }
+}
+
+.learningPathStepNumber {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  background: var(--ifm-color-primary);
+  color: white;
+  border-radius: 50%;
+  font-weight: 600;
+  font-size: 0.875rem;
+  margin-right: 0.75rem;
+  flex-shrink: 0;
+}
+
+.learningPathStepContent {
+  flex: 1;
+}
+
+.learningPathStepTitle {
+  font-weight: 600;
+  font-size: 0.9375rem;
+  margin-bottom: 0.25rem;
+}
+
+.learningPathStepDescription {
+  font-size: 0.8125rem;
+  color: var(--ifm-font-color-secondary);
+}
+
+.learningPathArrow {
+  display: flex;
+  align-items: center;
+  color: var(--ifm-font-color-secondary);
+  font-size: 1.25rem;
+}
+
+/* Category Grid Section */
+.categoryGridSection {
+  margin-bottom: 3rem;
+}
+
+.sectionTitle {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  color: var(--ifm-font-color-base);
+}
+
+.categoryGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+}
+
+/* Category Card */
+.categoryCard {
+  display: flex;
+  flex-direction: column;
+  padding: 1.5rem;
+  background: var(--ifm-card-background-color);
+  border-radius: var(--ifm-card-border-radius);
+  box-shadow: var(--ifm-card-shadow);
+  /* Use transition property instead of all for better performance */
+  transition: box-shadow 200ms ease, border-color 200ms ease, transform 200ms ease;
+  text-decoration: none;
+  color: inherit;
+  border: 1px solid var(--ifm-card-border-color);
+  height: 100%;
+  /* Minimum touch target size */
+  min-height: 44px;
+}
+
+/* Hover: Use scale instead of translateY for better performance */
+.categoryCard:hover {
+  transform: scale(1.02);
+  box-shadow: var(--ifm-card-shadow-hover);
+  border-color: var(--ifm-color-primary);
+}
+
+/* Focus state for keyboard navigation */
+.categoryCard:focus {
+  outline: 2px solid var(--ifm-color-primary);
+  outline-offset: 2px;
+}
+
+/* Reduce motion for accessibility */
+@media (prefers-reduced-motion: reduce) {
+  .categoryCard {
+    transition: none;
+  }
+
+  .categoryCard:hover {
+    transform: none;
+  }
+}
+
+.categoryCardHeader {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+/* Use SVG icon instead of emoji */
+.categoryCardIcon {
+  width: 2rem;
+  height: 2rem;
+  margin-right: 0.75rem;
+  color: var(--ifm-color-primary);
+}
+
+.categoryCardTitle {
+  font-size: 1.125rem;
+  font-weight: 600;
+  margin: 0;
+}
+
+.categoryCardDescription {
+  font-size: 0.875rem;
+  color: var(--ifm-font-color-secondary);
+  margin-bottom: 1rem;
+  line-height: 1.5;
+  flex: 1;
+}
+
+.categoryCardDocsTitle {
+  font-size: 0.8125rem;
+  font-weight: 600;
+  color: var(--ifm-font-color-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.025em;
+  margin-bottom: 0.5rem;
+}
+
+.categoryCardDocsList {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1rem 0;
+}
+
+.categoryCardDocsItem {
+  font-size: 0.875rem;
+  padding: 0.25rem 0;
+  color: var(--ifm-font-color-secondary);
+  display: flex;
+  align-items: center;
+}
+
+.categoryCardDocsItem::before {
+  content: '•';
+  color: var(--ifm-color-primary);
+  margin-right: 0.5rem;
+}
+
+.categoryCardLink {
+  font-size: 0.875rem;
+  color: var(--ifm-color-primary);
+  font-weight: 500;
+  display: inline-flex;
+  align-items: center;
+  margin-top: auto;
+}
+
+.categoryCardLink::after {
+  content: '→';
+  margin-left: 0.25rem;
+  transition: transform 200ms ease;
+}
+
+.categoryCard:hover .categoryCardLink::after {
+  transform: translateX(4px);
+}
+
+/* Featured Docs Section */
+.featuredDocsSection {
+  margin-bottom: 3rem;
+}
+
+.featuredDocsGrid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.5rem;
+}
+
+.featuredDocCard {
+  display: flex;
+  flex-direction: column;
+  padding: 1.25rem;
+  background: var(--ifm-card-background-color);
+  border-radius: var(--ifm-card-border-radius);
+  box-shadow: var(--ifm-card-shadow);
+  /* Use transition property instead of all for better performance */
+  transition: box-shadow 200ms ease, border-color 200ms ease, transform 200ms ease;
+  text-decoration: none;
+  color: inherit;
+  border: 1px solid var(--ifm-card-border-color);
+  height: 100%;
+  /* Minimum touch target size */
+  min-height: 44px;
+}
+
+/* Hover: Use scale instead of translateY for better performance */
+.featuredDocCard:hover {
+  transform: scale(1.02);
+  box-shadow: var(--ifm-card-shadow-hover);
+  border-color: var(--ifm-color-primary);
+}
+
+/* Focus state for keyboard navigation */
+.featuredDocCard:focus {
+  outline: 2px solid var(--ifm-color-primary);
+  outline-offset: 2px;
+}
+
+/* Reduce motion for accessibility */
+@media (prefers-reduced-motion: reduce) {
+  .featuredDocCard {
+    transition: none;
+  }
+
+  .featuredDocCard:hover {
+    transform: none;
+  }
+}
+
+.featuredDocBadge {
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  background: var(--ifm-color-primary);
+  color: white;
+  font-size: 0.75rem;
+  font-weight: 500;
+  border-radius: 4px;
+  margin-bottom: 0.75rem;
+  align-self: flex-start;
+}
+
+.featuredDocTitle {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  line-height: 1.4;
+}
+
+.featuredDocDescription {
+  font-size: 0.8125rem;
+  color: var(--ifm-font-color-secondary);
+  line-height: 1.5;
+  flex: 1;
+}
+
+/* Responsive Design */
+@media (max-width: 996px) {
+  .categoryGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .featuredDocsGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .learningPathContainer {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .learningPathArrow {
+    display: none;
+  }
+
+  .learningPathStep {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 1rem 0;
+  }
+
+  .learningPathTitle,
+  .sectionTitle {
+    font-size: 1.25rem;
+  }
+
+  .categoryGrid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .featuredDocsGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .categoryCard {
+    padding: 1.25rem;
+  }
+
+  .featuredDocCard {
+    padding: 1rem;
+  }
+
+  .learningPathStep {
+    padding: 0.875rem 1rem;
+    min-width: auto;
+  }
+}

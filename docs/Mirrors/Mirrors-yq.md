@@ -1,0 +1,1825 @@
+---
+date: 2021-04-26
+title: yq
+tags:
+  - yq
+  - Mirrors
+  - 加速下载
+  - 镜像加速
+  - 国内加速
+top: -99
+---
+
+yq. 国内直接从官网 https://github.com/mikefarah/yq/ 下载比较困难，需要一些技术手段。这里提供一个国内的镜像下载地址列表，方便网友下载。
+
+yq是一个轻量级和可移植的命令行YAML处理器。yq使用类似于jq的语法，但可以处理YAML文件以及json文件。它还不支持jq的所有功能--但它确实支持最常见的操作和函数，而且还在不断增加。
+
+
+
+import HagicodeRecommendation from '../../src/components/HagicodeRecommendation';
+
+import GithubMirrorLink from '../../src/components/GithubMirrorLink';
+import OneDrive from './_onedrive.md';
+
+
+
+<HagicodeRecommendation layout="page" />
+
+
+
+## v4.52.5
+
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/checksums"} text="checksums" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/checksums-bsd"} text="checksums-bsd" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/checksums_hashes_order"} text="checksums_hashes_order" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/extract-checksum.sh"} text="extract-checksum.sh" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_darwin_amd64"} text="yq_darwin_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_darwin_amd64.tar.gz"} text="yq_darwin_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_darwin_arm64"} text="yq_darwin_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_darwin_arm64.tar.gz"} text="yq_darwin_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_freebsd_386"} text="yq_freebsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_freebsd_386.tar.gz"} text="yq_freebsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_freebsd_amd64"} text="yq_freebsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_freebsd_amd64.tar.gz"} text="yq_freebsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_freebsd_arm"} text="yq_freebsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_freebsd_arm.tar.gz"} text="yq_freebsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_linux_386"} text="yq_linux_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_linux_386.tar.gz"} text="yq_linux_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_linux_amd64"} text="yq_linux_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_linux_amd64.tar.gz"} text="yq_linux_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_linux_arm"} text="yq_linux_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_linux_arm.tar.gz"} text="yq_linux_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_linux_arm64"} text="yq_linux_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_linux_arm64.tar.gz"} text="yq_linux_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_linux_loong64"} text="yq_linux_loong64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_linux_loong64.tar.gz"} text="yq_linux_loong64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_linux_mips"} text="yq_linux_mips" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_linux_mips.tar.gz"} text="yq_linux_mips.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_linux_mips64"} text="yq_linux_mips64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_linux_mips64.tar.gz"} text="yq_linux_mips64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_linux_mips64le"} text="yq_linux_mips64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_linux_mips64le.tar.gz"} text="yq_linux_mips64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_linux_mipsle"} text="yq_linux_mipsle" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_linux_mipsle.tar.gz"} text="yq_linux_mipsle.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_linux_ppc64"} text="yq_linux_ppc64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_linux_ppc64.tar.gz"} text="yq_linux_ppc64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_linux_ppc64le"} text="yq_linux_ppc64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_linux_ppc64le.tar.gz"} text="yq_linux_ppc64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_linux_riscv64"} text="yq_linux_riscv64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_linux_riscv64.tar.gz"} text="yq_linux_riscv64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_linux_s390x"} text="yq_linux_s390x" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_linux_s390x.tar.gz"} text="yq_linux_s390x.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_man_page_only.tar.gz"} text="yq_man_page_only.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_netbsd_386"} text="yq_netbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_netbsd_386.tar.gz"} text="yq_netbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_netbsd_amd64"} text="yq_netbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_netbsd_amd64.tar.gz"} text="yq_netbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_netbsd_arm"} text="yq_netbsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_netbsd_arm.tar.gz"} text="yq_netbsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_openbsd_386"} text="yq_openbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_openbsd_386.tar.gz"} text="yq_openbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_openbsd_amd64"} text="yq_openbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_openbsd_amd64.tar.gz"} text="yq_openbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_windows_386.exe"} text="yq_windows_386.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_windows_386.zip"} text="yq_windows_386.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_windows_amd64.exe"} text="yq_windows_amd64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_windows_amd64.zip"} text="yq_windows_amd64.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_windows_arm64.exe"} text="yq_windows_arm64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_windows_arm64.zip"} text="yq_windows_arm64.zip" oneDriveSupport={false} />
+
+
+
+## v4.52.4
+
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/checksums"} text="checksums" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/checksums-bsd"} text="checksums-bsd" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/checksums_hashes_order"} text="checksums_hashes_order" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/extract-checksum.sh"} text="extract-checksum.sh" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_darwin_amd64"} text="yq_darwin_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_darwin_amd64.tar.gz"} text="yq_darwin_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_darwin_arm64"} text="yq_darwin_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_darwin_arm64.tar.gz"} text="yq_darwin_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_freebsd_386"} text="yq_freebsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_freebsd_386.tar.gz"} text="yq_freebsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_freebsd_amd64"} text="yq_freebsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_freebsd_amd64.tar.gz"} text="yq_freebsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_freebsd_arm"} text="yq_freebsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_freebsd_arm.tar.gz"} text="yq_freebsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_linux_386"} text="yq_linux_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_linux_386.tar.gz"} text="yq_linux_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_linux_amd64"} text="yq_linux_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_linux_amd64.tar.gz"} text="yq_linux_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_linux_arm"} text="yq_linux_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_linux_arm.tar.gz"} text="yq_linux_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_linux_arm64"} text="yq_linux_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_linux_arm64.tar.gz"} text="yq_linux_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_linux_loong64"} text="yq_linux_loong64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_linux_loong64.tar.gz"} text="yq_linux_loong64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_linux_mips"} text="yq_linux_mips" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_linux_mips.tar.gz"} text="yq_linux_mips.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_linux_mips64"} text="yq_linux_mips64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_linux_mips64.tar.gz"} text="yq_linux_mips64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_linux_mips64le"} text="yq_linux_mips64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_linux_mips64le.tar.gz"} text="yq_linux_mips64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_linux_mipsle"} text="yq_linux_mipsle" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_linux_mipsle.tar.gz"} text="yq_linux_mipsle.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_linux_ppc64"} text="yq_linux_ppc64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_linux_ppc64.tar.gz"} text="yq_linux_ppc64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_linux_ppc64le"} text="yq_linux_ppc64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_linux_ppc64le.tar.gz"} text="yq_linux_ppc64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_linux_riscv64"} text="yq_linux_riscv64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_linux_riscv64.tar.gz"} text="yq_linux_riscv64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_linux_s390x"} text="yq_linux_s390x" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_linux_s390x.tar.gz"} text="yq_linux_s390x.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_man_page_only.tar.gz"} text="yq_man_page_only.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_netbsd_386"} text="yq_netbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_netbsd_386.tar.gz"} text="yq_netbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_netbsd_amd64"} text="yq_netbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_netbsd_amd64.tar.gz"} text="yq_netbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_netbsd_arm"} text="yq_netbsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_netbsd_arm.tar.gz"} text="yq_netbsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_openbsd_386"} text="yq_openbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_openbsd_386.tar.gz"} text="yq_openbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_openbsd_amd64"} text="yq_openbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_openbsd_amd64.tar.gz"} text="yq_openbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_windows_386.exe"} text="yq_windows_386.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_windows_386.zip"} text="yq_windows_386.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_windows_amd64.exe"} text="yq_windows_amd64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_windows_amd64.zip"} text="yq_windows_amd64.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_windows_arm64.exe"} text="yq_windows_arm64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_windows_arm64.zip"} text="yq_windows_arm64.zip" oneDriveSupport={false} />
+
+
+
+## v4.52.2
+
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/checksums"} text="checksums" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/checksums-bsd"} text="checksums-bsd" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/checksums_hashes_order"} text="checksums_hashes_order" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/extract-checksum.sh"} text="extract-checksum.sh" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_darwin_amd64"} text="yq_darwin_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_darwin_amd64.tar.gz"} text="yq_darwin_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_darwin_arm64"} text="yq_darwin_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_darwin_arm64.tar.gz"} text="yq_darwin_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_freebsd_386"} text="yq_freebsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_freebsd_386.tar.gz"} text="yq_freebsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_freebsd_amd64"} text="yq_freebsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_freebsd_amd64.tar.gz"} text="yq_freebsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_freebsd_arm"} text="yq_freebsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_freebsd_arm.tar.gz"} text="yq_freebsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_linux_386"} text="yq_linux_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_linux_386.tar.gz"} text="yq_linux_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_linux_amd64"} text="yq_linux_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_linux_amd64.tar.gz"} text="yq_linux_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_linux_arm"} text="yq_linux_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_linux_arm.tar.gz"} text="yq_linux_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_linux_arm64"} text="yq_linux_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_linux_arm64.tar.gz"} text="yq_linux_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_linux_loong64"} text="yq_linux_loong64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_linux_loong64.tar.gz"} text="yq_linux_loong64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_linux_mips"} text="yq_linux_mips" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_linux_mips.tar.gz"} text="yq_linux_mips.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_linux_mips64"} text="yq_linux_mips64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_linux_mips64.tar.gz"} text="yq_linux_mips64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_linux_mips64le"} text="yq_linux_mips64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_linux_mips64le.tar.gz"} text="yq_linux_mips64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_linux_mipsle"} text="yq_linux_mipsle" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_linux_mipsle.tar.gz"} text="yq_linux_mipsle.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_linux_ppc64"} text="yq_linux_ppc64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_linux_ppc64.tar.gz"} text="yq_linux_ppc64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_linux_ppc64le"} text="yq_linux_ppc64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_linux_ppc64le.tar.gz"} text="yq_linux_ppc64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_linux_riscv64"} text="yq_linux_riscv64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_linux_riscv64.tar.gz"} text="yq_linux_riscv64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_linux_s390x"} text="yq_linux_s390x" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_linux_s390x.tar.gz"} text="yq_linux_s390x.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_man_page_only.tar.gz"} text="yq_man_page_only.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_netbsd_386"} text="yq_netbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_netbsd_386.tar.gz"} text="yq_netbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_netbsd_amd64"} text="yq_netbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_netbsd_amd64.tar.gz"} text="yq_netbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_netbsd_arm"} text="yq_netbsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_netbsd_arm.tar.gz"} text="yq_netbsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_openbsd_386"} text="yq_openbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_openbsd_386.tar.gz"} text="yq_openbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_openbsd_amd64"} text="yq_openbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_openbsd_amd64.tar.gz"} text="yq_openbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_windows_386.exe"} text="yq_windows_386.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_windows_386.zip"} text="yq_windows_386.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_windows_amd64.exe"} text="yq_windows_amd64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_windows_amd64.zip"} text="yq_windows_amd64.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_windows_arm.exe"} text="yq_windows_arm.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_windows_arm.exe.tar.gz"} text="yq_windows_arm.exe.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_windows_arm64.exe"} text="yq_windows_arm64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_windows_arm64.zip"} text="yq_windows_arm64.zip" oneDriveSupport={false} />
+
+
+
+## v4.52.1
+
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/checksums"} text="checksums" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/checksums-bsd"} text="checksums-bsd" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/checksums_hashes_order"} text="checksums_hashes_order" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/extract-checksum.sh"} text="extract-checksum.sh" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_darwin_amd64"} text="yq_darwin_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_darwin_amd64.tar.gz"} text="yq_darwin_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_darwin_arm64"} text="yq_darwin_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_darwin_arm64.tar.gz"} text="yq_darwin_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_freebsd_386"} text="yq_freebsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_freebsd_386.tar.gz"} text="yq_freebsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_freebsd_amd64"} text="yq_freebsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_freebsd_amd64.tar.gz"} text="yq_freebsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_freebsd_arm"} text="yq_freebsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_freebsd_arm.tar.gz"} text="yq_freebsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_linux_386"} text="yq_linux_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_linux_386.tar.gz"} text="yq_linux_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_linux_amd64"} text="yq_linux_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_linux_amd64.tar.gz"} text="yq_linux_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_linux_arm"} text="yq_linux_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_linux_arm.tar.gz"} text="yq_linux_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_linux_arm64"} text="yq_linux_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_linux_arm64.tar.gz"} text="yq_linux_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_linux_loong64"} text="yq_linux_loong64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_linux_loong64.tar.gz"} text="yq_linux_loong64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_linux_mips"} text="yq_linux_mips" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_linux_mips.tar.gz"} text="yq_linux_mips.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_linux_mips64"} text="yq_linux_mips64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_linux_mips64.tar.gz"} text="yq_linux_mips64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_linux_mips64le"} text="yq_linux_mips64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_linux_mips64le.tar.gz"} text="yq_linux_mips64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_linux_mipsle"} text="yq_linux_mipsle" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_linux_mipsle.tar.gz"} text="yq_linux_mipsle.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_linux_ppc64"} text="yq_linux_ppc64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_linux_ppc64.tar.gz"} text="yq_linux_ppc64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_linux_ppc64le"} text="yq_linux_ppc64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_linux_ppc64le.tar.gz"} text="yq_linux_ppc64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_linux_riscv64"} text="yq_linux_riscv64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_linux_riscv64.tar.gz"} text="yq_linux_riscv64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_linux_s390x"} text="yq_linux_s390x" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_linux_s390x.tar.gz"} text="yq_linux_s390x.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_man_page_only.tar.gz"} text="yq_man_page_only.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_netbsd_386"} text="yq_netbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_netbsd_386.tar.gz"} text="yq_netbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_netbsd_amd64"} text="yq_netbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_netbsd_amd64.tar.gz"} text="yq_netbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_netbsd_arm"} text="yq_netbsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_netbsd_arm.tar.gz"} text="yq_netbsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_openbsd_386"} text="yq_openbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_openbsd_386.tar.gz"} text="yq_openbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_openbsd_amd64"} text="yq_openbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_openbsd_amd64.tar.gz"} text="yq_openbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_windows_386.exe"} text="yq_windows_386.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_windows_386.zip"} text="yq_windows_386.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_windows_amd64.exe"} text="yq_windows_amd64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_windows_amd64.zip"} text="yq_windows_amd64.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_windows_arm.exe"} text="yq_windows_arm.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_windows_arm.exe.tar.gz"} text="yq_windows_arm.exe.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_windows_arm64.exe"} text="yq_windows_arm64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_windows_arm64.zip"} text="yq_windows_arm64.zip" oneDriveSupport={false} />
+
+
+
+## v4.50.1
+
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/checksums"} text="checksums" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/checksums-bsd"} text="checksums-bsd" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/checksums_hashes_order"} text="checksums_hashes_order" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/extract-checksum.sh"} text="extract-checksum.sh" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_darwin_amd64"} text="yq_darwin_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_darwin_amd64.tar.gz"} text="yq_darwin_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_darwin_arm64"} text="yq_darwin_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_darwin_arm64.tar.gz"} text="yq_darwin_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_freebsd_386"} text="yq_freebsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_freebsd_386.tar.gz"} text="yq_freebsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_freebsd_amd64"} text="yq_freebsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_freebsd_amd64.tar.gz"} text="yq_freebsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_freebsd_arm"} text="yq_freebsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_freebsd_arm.tar.gz"} text="yq_freebsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_386"} text="yq_linux_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_386.tar.gz"} text="yq_linux_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_amd64"} text="yq_linux_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_amd64.tar.gz"} text="yq_linux_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_arm"} text="yq_linux_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_arm.tar.gz"} text="yq_linux_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_arm64"} text="yq_linux_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_arm64.tar.gz"} text="yq_linux_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_loong64"} text="yq_linux_loong64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_loong64.tar.gz"} text="yq_linux_loong64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_mips"} text="yq_linux_mips" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_mips.tar.gz"} text="yq_linux_mips.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_mips64"} text="yq_linux_mips64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_mips64.tar.gz"} text="yq_linux_mips64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_mips64le"} text="yq_linux_mips64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_mips64le.tar.gz"} text="yq_linux_mips64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_mipsle"} text="yq_linux_mipsle" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_mipsle.tar.gz"} text="yq_linux_mipsle.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_ppc64"} text="yq_linux_ppc64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_ppc64.tar.gz"} text="yq_linux_ppc64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_ppc64le"} text="yq_linux_ppc64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_ppc64le.tar.gz"} text="yq_linux_ppc64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_riscv64"} text="yq_linux_riscv64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_riscv64.tar.gz"} text="yq_linux_riscv64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_s390x"} text="yq_linux_s390x" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_linux_s390x.tar.gz"} text="yq_linux_s390x.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_man_page_only.tar.gz"} text="yq_man_page_only.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_netbsd_386"} text="yq_netbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_netbsd_386.tar.gz"} text="yq_netbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_netbsd_amd64"} text="yq_netbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_netbsd_amd64.tar.gz"} text="yq_netbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_netbsd_arm"} text="yq_netbsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_netbsd_arm.tar.gz"} text="yq_netbsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_openbsd_386"} text="yq_openbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_openbsd_386.tar.gz"} text="yq_openbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_openbsd_amd64"} text="yq_openbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_openbsd_amd64.tar.gz"} text="yq_openbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_windows_386.exe"} text="yq_windows_386.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_windows_386.zip"} text="yq_windows_386.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_windows_amd64.exe"} text="yq_windows_amd64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_windows_amd64.zip"} text="yq_windows_amd64.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_windows_arm.exe"} text="yq_windows_arm.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_windows_arm.exe.tar.gz"} text="yq_windows_arm.exe.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_windows_arm64.exe"} text="yq_windows_arm64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_windows_arm64.zip"} text="yq_windows_arm64.zip" oneDriveSupport={false} />
+
+
+
+## v4.49.2
+
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/checksums"} text="checksums" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/checksums-bsd"} text="checksums-bsd" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/checksums_hashes_order"} text="checksums_hashes_order" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/extract-checksum.sh"} text="extract-checksum.sh" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_darwin_amd64"} text="yq_darwin_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_darwin_amd64.tar.gz"} text="yq_darwin_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_darwin_arm64"} text="yq_darwin_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_darwin_arm64.tar.gz"} text="yq_darwin_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_freebsd_386"} text="yq_freebsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_freebsd_386.tar.gz"} text="yq_freebsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_freebsd_amd64"} text="yq_freebsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_freebsd_amd64.tar.gz"} text="yq_freebsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_freebsd_arm"} text="yq_freebsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_freebsd_arm.tar.gz"} text="yq_freebsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_linux_386"} text="yq_linux_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_linux_386.tar.gz"} text="yq_linux_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_linux_amd64"} text="yq_linux_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_linux_amd64.tar.gz"} text="yq_linux_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_linux_arm"} text="yq_linux_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_linux_arm.tar.gz"} text="yq_linux_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_linux_arm64"} text="yq_linux_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_linux_arm64.tar.gz"} text="yq_linux_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_linux_loong64"} text="yq_linux_loong64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_linux_loong64.tar.gz"} text="yq_linux_loong64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_linux_mips"} text="yq_linux_mips" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_linux_mips.tar.gz"} text="yq_linux_mips.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_linux_mips64"} text="yq_linux_mips64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_linux_mips64.tar.gz"} text="yq_linux_mips64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_linux_mips64le"} text="yq_linux_mips64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_linux_mips64le.tar.gz"} text="yq_linux_mips64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_linux_mipsle"} text="yq_linux_mipsle" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_linux_mipsle.tar.gz"} text="yq_linux_mipsle.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_linux_ppc64"} text="yq_linux_ppc64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_linux_ppc64.tar.gz"} text="yq_linux_ppc64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_linux_ppc64le"} text="yq_linux_ppc64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_linux_ppc64le.tar.gz"} text="yq_linux_ppc64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_linux_riscv64"} text="yq_linux_riscv64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_linux_riscv64.tar.gz"} text="yq_linux_riscv64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_linux_s390x"} text="yq_linux_s390x" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_linux_s390x.tar.gz"} text="yq_linux_s390x.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_man_page_only.tar.gz"} text="yq_man_page_only.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_netbsd_386"} text="yq_netbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_netbsd_386.tar.gz"} text="yq_netbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_netbsd_amd64"} text="yq_netbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_netbsd_amd64.tar.gz"} text="yq_netbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_netbsd_arm"} text="yq_netbsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_netbsd_arm.tar.gz"} text="yq_netbsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_openbsd_386"} text="yq_openbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_openbsd_386.tar.gz"} text="yq_openbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_openbsd_amd64"} text="yq_openbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_openbsd_amd64.tar.gz"} text="yq_openbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_windows_386.exe"} text="yq_windows_386.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_windows_386.zip"} text="yq_windows_386.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_windows_amd64.exe"} text="yq_windows_amd64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_windows_amd64.zip"} text="yq_windows_amd64.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_windows_arm.exe"} text="yq_windows_arm.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_windows_arm.exe.tar.gz"} text="yq_windows_arm.exe.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_windows_arm64.exe"} text="yq_windows_arm64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_windows_arm64.zip"} text="yq_windows_arm64.zip" oneDriveSupport={false} />
+
+
+
+## v4.49.1
+
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/checksums"} text="checksums" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/checksums-bsd"} text="checksums-bsd" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/checksums_hashes_order"} text="checksums_hashes_order" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/extract-checksum.sh"} text="extract-checksum.sh" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_darwin_amd64"} text="yq_darwin_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_darwin_amd64.tar.gz"} text="yq_darwin_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_darwin_arm64"} text="yq_darwin_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_darwin_arm64.tar.gz"} text="yq_darwin_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_freebsd_386"} text="yq_freebsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_freebsd_386.tar.gz"} text="yq_freebsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_freebsd_amd64"} text="yq_freebsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_freebsd_amd64.tar.gz"} text="yq_freebsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_freebsd_arm"} text="yq_freebsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_freebsd_arm.tar.gz"} text="yq_freebsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_linux_386"} text="yq_linux_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_linux_386.tar.gz"} text="yq_linux_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_linux_amd64"} text="yq_linux_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_linux_amd64.tar.gz"} text="yq_linux_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_linux_arm"} text="yq_linux_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_linux_arm.tar.gz"} text="yq_linux_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_linux_arm64"} text="yq_linux_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_linux_arm64.tar.gz"} text="yq_linux_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_linux_loong64"} text="yq_linux_loong64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_linux_loong64.tar.gz"} text="yq_linux_loong64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_linux_mips"} text="yq_linux_mips" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_linux_mips.tar.gz"} text="yq_linux_mips.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_linux_mips64"} text="yq_linux_mips64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_linux_mips64.tar.gz"} text="yq_linux_mips64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_linux_mips64le"} text="yq_linux_mips64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_linux_mips64le.tar.gz"} text="yq_linux_mips64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_linux_mipsle"} text="yq_linux_mipsle" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_linux_mipsle.tar.gz"} text="yq_linux_mipsle.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_linux_ppc64"} text="yq_linux_ppc64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_linux_ppc64.tar.gz"} text="yq_linux_ppc64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_linux_ppc64le"} text="yq_linux_ppc64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_linux_ppc64le.tar.gz"} text="yq_linux_ppc64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_linux_riscv64"} text="yq_linux_riscv64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_linux_riscv64.tar.gz"} text="yq_linux_riscv64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_linux_s390x"} text="yq_linux_s390x" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_linux_s390x.tar.gz"} text="yq_linux_s390x.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_man_page_only.tar.gz"} text="yq_man_page_only.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_netbsd_386"} text="yq_netbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_netbsd_386.tar.gz"} text="yq_netbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_netbsd_amd64"} text="yq_netbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_netbsd_amd64.tar.gz"} text="yq_netbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_netbsd_arm"} text="yq_netbsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_netbsd_arm.tar.gz"} text="yq_netbsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_openbsd_386"} text="yq_openbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_openbsd_386.tar.gz"} text="yq_openbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_openbsd_amd64"} text="yq_openbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_openbsd_amd64.tar.gz"} text="yq_openbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_windows_386.exe"} text="yq_windows_386.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_windows_386.zip"} text="yq_windows_386.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_windows_amd64.exe"} text="yq_windows_amd64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_windows_amd64.zip"} text="yq_windows_amd64.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_windows_arm.exe"} text="yq_windows_arm.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_windows_arm.exe.tar.gz"} text="yq_windows_arm.exe.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_windows_arm64.exe"} text="yq_windows_arm64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_windows_arm64.zip"} text="yq_windows_arm64.zip" oneDriveSupport={false} />
+
+
+
+## v4.48.2
+
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/checksums"} text="checksums" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/checksums-bsd"} text="checksums-bsd" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/checksums_hashes_order"} text="checksums_hashes_order" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/extract-checksum.sh"} text="extract-checksum.sh" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_darwin_amd64"} text="yq_darwin_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_darwin_amd64.tar.gz"} text="yq_darwin_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_darwin_arm64"} text="yq_darwin_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_darwin_arm64.tar.gz"} text="yq_darwin_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_freebsd_386"} text="yq_freebsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_freebsd_386.tar.gz"} text="yq_freebsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_freebsd_amd64"} text="yq_freebsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_freebsd_amd64.tar.gz"} text="yq_freebsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_freebsd_arm"} text="yq_freebsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_freebsd_arm.tar.gz"} text="yq_freebsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_linux_386"} text="yq_linux_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_linux_386.tar.gz"} text="yq_linux_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_linux_amd64"} text="yq_linux_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_linux_amd64.tar.gz"} text="yq_linux_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_linux_arm"} text="yq_linux_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_linux_arm.tar.gz"} text="yq_linux_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_linux_arm64"} text="yq_linux_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_linux_arm64.tar.gz"} text="yq_linux_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_linux_loong64"} text="yq_linux_loong64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_linux_loong64.tar.gz"} text="yq_linux_loong64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_linux_mips"} text="yq_linux_mips" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_linux_mips.tar.gz"} text="yq_linux_mips.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_linux_mips64"} text="yq_linux_mips64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_linux_mips64.tar.gz"} text="yq_linux_mips64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_linux_mips64le"} text="yq_linux_mips64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_linux_mips64le.tar.gz"} text="yq_linux_mips64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_linux_mipsle"} text="yq_linux_mipsle" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_linux_mipsle.tar.gz"} text="yq_linux_mipsle.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_linux_ppc64"} text="yq_linux_ppc64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_linux_ppc64.tar.gz"} text="yq_linux_ppc64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_linux_ppc64le"} text="yq_linux_ppc64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_linux_ppc64le.tar.gz"} text="yq_linux_ppc64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_linux_riscv64"} text="yq_linux_riscv64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_linux_riscv64.tar.gz"} text="yq_linux_riscv64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_linux_s390x"} text="yq_linux_s390x" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_linux_s390x.tar.gz"} text="yq_linux_s390x.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_man_page_only.tar.gz"} text="yq_man_page_only.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_netbsd_386"} text="yq_netbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_netbsd_386.tar.gz"} text="yq_netbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_netbsd_amd64"} text="yq_netbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_netbsd_amd64.tar.gz"} text="yq_netbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_netbsd_arm"} text="yq_netbsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_netbsd_arm.tar.gz"} text="yq_netbsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_openbsd_386"} text="yq_openbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_openbsd_386.tar.gz"} text="yq_openbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_openbsd_amd64"} text="yq_openbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_openbsd_amd64.tar.gz"} text="yq_openbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_windows_386.exe"} text="yq_windows_386.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_windows_386.zip"} text="yq_windows_386.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_windows_amd64.exe"} text="yq_windows_amd64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_windows_amd64.zip"} text="yq_windows_amd64.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_windows_arm.exe"} text="yq_windows_arm.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_windows_arm.exe.tar.gz"} text="yq_windows_arm.exe.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_windows_arm64.exe"} text="yq_windows_arm64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_windows_arm64.zip"} text="yq_windows_arm64.zip" oneDriveSupport={false} />
+
+
+
+## v4.48.1
+
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/checksums"} text="checksums" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/checksums-bsd"} text="checksums-bsd" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/checksums_hashes_order"} text="checksums_hashes_order" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/extract-checksum.sh"} text="extract-checksum.sh" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_darwin_amd64"} text="yq_darwin_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_darwin_amd64.tar.gz"} text="yq_darwin_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_darwin_arm64"} text="yq_darwin_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_darwin_arm64.tar.gz"} text="yq_darwin_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_freebsd_386"} text="yq_freebsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_freebsd_386.tar.gz"} text="yq_freebsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_freebsd_amd64"} text="yq_freebsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_freebsd_amd64.tar.gz"} text="yq_freebsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_freebsd_arm"} text="yq_freebsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_freebsd_arm.tar.gz"} text="yq_freebsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_linux_386"} text="yq_linux_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_linux_386.tar.gz"} text="yq_linux_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_linux_amd64"} text="yq_linux_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_linux_amd64.tar.gz"} text="yq_linux_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_linux_arm"} text="yq_linux_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_linux_arm.tar.gz"} text="yq_linux_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_linux_arm64"} text="yq_linux_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_linux_arm64.tar.gz"} text="yq_linux_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_linux_mips"} text="yq_linux_mips" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_linux_mips.tar.gz"} text="yq_linux_mips.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_linux_mips64"} text="yq_linux_mips64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_linux_mips64.tar.gz"} text="yq_linux_mips64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_linux_mips64le"} text="yq_linux_mips64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_linux_mips64le.tar.gz"} text="yq_linux_mips64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_linux_mipsle"} text="yq_linux_mipsle" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_linux_mipsle.tar.gz"} text="yq_linux_mipsle.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_linux_ppc64"} text="yq_linux_ppc64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_linux_ppc64.tar.gz"} text="yq_linux_ppc64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_linux_ppc64le"} text="yq_linux_ppc64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_linux_ppc64le.tar.gz"} text="yq_linux_ppc64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_linux_riscv64"} text="yq_linux_riscv64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_linux_riscv64.tar.gz"} text="yq_linux_riscv64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_linux_s390x"} text="yq_linux_s390x" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_linux_s390x.tar.gz"} text="yq_linux_s390x.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_man_page_only.tar.gz"} text="yq_man_page_only.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_netbsd_386"} text="yq_netbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_netbsd_386.tar.gz"} text="yq_netbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_netbsd_amd64"} text="yq_netbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_netbsd_amd64.tar.gz"} text="yq_netbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_netbsd_arm"} text="yq_netbsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_netbsd_arm.tar.gz"} text="yq_netbsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_openbsd_386"} text="yq_openbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_openbsd_386.tar.gz"} text="yq_openbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_openbsd_amd64"} text="yq_openbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_openbsd_amd64.tar.gz"} text="yq_openbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_windows_386.exe"} text="yq_windows_386.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_windows_386.zip"} text="yq_windows_386.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_windows_amd64.exe"} text="yq_windows_amd64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_windows_amd64.zip"} text="yq_windows_amd64.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_windows_arm.exe"} text="yq_windows_arm.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_windows_arm.exe.tar.gz"} text="yq_windows_arm.exe.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_windows_arm64.exe"} text="yq_windows_arm64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_windows_arm64.zip"} text="yq_windows_arm64.zip" oneDriveSupport={false} />
+
+
+
+## v4.47.2
+
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/checksums"} text="checksums" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/checksums-bsd"} text="checksums-bsd" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/checksums_hashes_order"} text="checksums_hashes_order" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/extract-checksum.sh"} text="extract-checksum.sh" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_darwin_amd64"} text="yq_darwin_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_darwin_amd64.tar.gz"} text="yq_darwin_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_darwin_arm64"} text="yq_darwin_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_darwin_arm64.tar.gz"} text="yq_darwin_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_freebsd_386"} text="yq_freebsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_freebsd_386.tar.gz"} text="yq_freebsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_freebsd_amd64"} text="yq_freebsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_freebsd_amd64.tar.gz"} text="yq_freebsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_freebsd_arm"} text="yq_freebsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_freebsd_arm.tar.gz"} text="yq_freebsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_linux_386"} text="yq_linux_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_linux_386.tar.gz"} text="yq_linux_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_linux_amd64"} text="yq_linux_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_linux_amd64.tar.gz"} text="yq_linux_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_linux_arm"} text="yq_linux_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_linux_arm.tar.gz"} text="yq_linux_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_linux_arm64"} text="yq_linux_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_linux_arm64.tar.gz"} text="yq_linux_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_linux_mips"} text="yq_linux_mips" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_linux_mips.tar.gz"} text="yq_linux_mips.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_linux_mips64"} text="yq_linux_mips64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_linux_mips64.tar.gz"} text="yq_linux_mips64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_linux_mips64le"} text="yq_linux_mips64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_linux_mips64le.tar.gz"} text="yq_linux_mips64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_linux_mipsle"} text="yq_linux_mipsle" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_linux_mipsle.tar.gz"} text="yq_linux_mipsle.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_linux_ppc64"} text="yq_linux_ppc64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_linux_ppc64.tar.gz"} text="yq_linux_ppc64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_linux_ppc64le"} text="yq_linux_ppc64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_linux_ppc64le.tar.gz"} text="yq_linux_ppc64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_linux_riscv64"} text="yq_linux_riscv64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_linux_riscv64.tar.gz"} text="yq_linux_riscv64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_linux_s390x"} text="yq_linux_s390x" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_linux_s390x.tar.gz"} text="yq_linux_s390x.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_man_page_only.tar.gz"} text="yq_man_page_only.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_netbsd_386"} text="yq_netbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_netbsd_386.tar.gz"} text="yq_netbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_netbsd_amd64"} text="yq_netbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_netbsd_amd64.tar.gz"} text="yq_netbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_netbsd_arm"} text="yq_netbsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_netbsd_arm.tar.gz"} text="yq_netbsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_openbsd_386"} text="yq_openbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_openbsd_386.tar.gz"} text="yq_openbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_openbsd_amd64"} text="yq_openbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_openbsd_amd64.tar.gz"} text="yq_openbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_windows_386.exe"} text="yq_windows_386.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_windows_386.zip"} text="yq_windows_386.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_windows_amd64.exe"} text="yq_windows_amd64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_windows_amd64.zip"} text="yq_windows_amd64.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_windows_arm.exe"} text="yq_windows_arm.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_windows_arm.exe.tar.gz"} text="yq_windows_arm.exe.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_windows_arm64.exe"} text="yq_windows_arm64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_windows_arm64.zip"} text="yq_windows_arm64.zip" oneDriveSupport={false} />
+
+
+
+## v4.47.1
+
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/checksums"} text="checksums" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/checksums-bsd"} text="checksums-bsd" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/checksums_hashes_order"} text="checksums_hashes_order" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/extract-checksum.sh"} text="extract-checksum.sh" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_darwin_amd64"} text="yq_darwin_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_darwin_amd64.tar.gz"} text="yq_darwin_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_darwin_arm64"} text="yq_darwin_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_darwin_arm64.tar.gz"} text="yq_darwin_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_freebsd_386"} text="yq_freebsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_freebsd_386.tar.gz"} text="yq_freebsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_freebsd_amd64"} text="yq_freebsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_freebsd_amd64.tar.gz"} text="yq_freebsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_freebsd_arm"} text="yq_freebsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_freebsd_arm.tar.gz"} text="yq_freebsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_linux_386"} text="yq_linux_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_linux_386.tar.gz"} text="yq_linux_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_linux_amd64"} text="yq_linux_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_linux_amd64.tar.gz"} text="yq_linux_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_linux_arm"} text="yq_linux_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_linux_arm.tar.gz"} text="yq_linux_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_linux_arm64"} text="yq_linux_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_linux_arm64.tar.gz"} text="yq_linux_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_linux_mips"} text="yq_linux_mips" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_linux_mips.tar.gz"} text="yq_linux_mips.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_linux_mips64"} text="yq_linux_mips64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_linux_mips64.tar.gz"} text="yq_linux_mips64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_linux_mips64le"} text="yq_linux_mips64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_linux_mips64le.tar.gz"} text="yq_linux_mips64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_linux_mipsle"} text="yq_linux_mipsle" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_linux_mipsle.tar.gz"} text="yq_linux_mipsle.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_linux_ppc64"} text="yq_linux_ppc64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_linux_ppc64.tar.gz"} text="yq_linux_ppc64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_linux_ppc64le"} text="yq_linux_ppc64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_linux_ppc64le.tar.gz"} text="yq_linux_ppc64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_linux_riscv64"} text="yq_linux_riscv64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_linux_riscv64.tar.gz"} text="yq_linux_riscv64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_linux_s390x"} text="yq_linux_s390x" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_linux_s390x.tar.gz"} text="yq_linux_s390x.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_man_page_only.tar.gz"} text="yq_man_page_only.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_netbsd_386"} text="yq_netbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_netbsd_386.tar.gz"} text="yq_netbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_netbsd_amd64"} text="yq_netbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_netbsd_amd64.tar.gz"} text="yq_netbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_netbsd_arm"} text="yq_netbsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_netbsd_arm.tar.gz"} text="yq_netbsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_openbsd_386"} text="yq_openbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_openbsd_386.tar.gz"} text="yq_openbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_openbsd_amd64"} text="yq_openbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_openbsd_amd64.tar.gz"} text="yq_openbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_windows_386.exe"} text="yq_windows_386.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_windows_386.zip"} text="yq_windows_386.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_windows_amd64.exe"} text="yq_windows_amd64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_windows_amd64.zip"} text="yq_windows_amd64.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_windows_arm.exe"} text="yq_windows_arm.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_windows_arm.exe.tar.gz"} text="yq_windows_arm.exe.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_windows_arm64.exe"} text="yq_windows_arm64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_windows_arm64.zip"} text="yq_windows_arm64.zip" oneDriveSupport={false} />
+
+
+
+## v4.46.1
+
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/checksums"} text="checksums" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/checksums-bsd"} text="checksums-bsd" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/checksums_hashes_order"} text="checksums_hashes_order" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/extract-checksum.sh"} text="extract-checksum.sh" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_darwin_amd64"} text="yq_darwin_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_darwin_amd64.tar.gz"} text="yq_darwin_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_darwin_arm64"} text="yq_darwin_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_darwin_arm64.tar.gz"} text="yq_darwin_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_freebsd_386"} text="yq_freebsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_freebsd_386.tar.gz"} text="yq_freebsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_freebsd_amd64"} text="yq_freebsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_freebsd_amd64.tar.gz"} text="yq_freebsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_freebsd_arm"} text="yq_freebsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_freebsd_arm.tar.gz"} text="yq_freebsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_linux_386"} text="yq_linux_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_linux_386.tar.gz"} text="yq_linux_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_linux_amd64"} text="yq_linux_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_linux_amd64.tar.gz"} text="yq_linux_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_linux_arm"} text="yq_linux_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_linux_arm.tar.gz"} text="yq_linux_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_linux_arm64"} text="yq_linux_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_linux_arm64.tar.gz"} text="yq_linux_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_linux_mips"} text="yq_linux_mips" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_linux_mips.tar.gz"} text="yq_linux_mips.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_linux_mips64"} text="yq_linux_mips64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_linux_mips64.tar.gz"} text="yq_linux_mips64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_linux_mips64le"} text="yq_linux_mips64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_linux_mips64le.tar.gz"} text="yq_linux_mips64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_linux_mipsle"} text="yq_linux_mipsle" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_linux_mipsle.tar.gz"} text="yq_linux_mipsle.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_linux_ppc64"} text="yq_linux_ppc64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_linux_ppc64.tar.gz"} text="yq_linux_ppc64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_linux_ppc64le"} text="yq_linux_ppc64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_linux_ppc64le.tar.gz"} text="yq_linux_ppc64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_linux_riscv64"} text="yq_linux_riscv64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_linux_riscv64.tar.gz"} text="yq_linux_riscv64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_linux_s390x"} text="yq_linux_s390x" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_linux_s390x.tar.gz"} text="yq_linux_s390x.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_man_page_only.tar.gz"} text="yq_man_page_only.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_netbsd_386"} text="yq_netbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_netbsd_386.tar.gz"} text="yq_netbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_netbsd_amd64"} text="yq_netbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_netbsd_amd64.tar.gz"} text="yq_netbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_netbsd_arm"} text="yq_netbsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_netbsd_arm.tar.gz"} text="yq_netbsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_openbsd_386"} text="yq_openbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_openbsd_386.tar.gz"} text="yq_openbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_openbsd_amd64"} text="yq_openbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_openbsd_amd64.tar.gz"} text="yq_openbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_windows_386.exe"} text="yq_windows_386.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_windows_386.zip"} text="yq_windows_386.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_windows_amd64.exe"} text="yq_windows_amd64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_windows_amd64.zip"} text="yq_windows_amd64.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_windows_arm.exe"} text="yq_windows_arm.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_windows_arm.exe.tar.gz"} text="yq_windows_arm.exe.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_windows_arm64.exe"} text="yq_windows_arm64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_windows_arm64.zip"} text="yq_windows_arm64.zip" oneDriveSupport={false} />
+
+
+
+## v4.45.4
+
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/checksums"} text="checksums" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/checksums-bsd"} text="checksums-bsd" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/checksums_hashes_order"} text="checksums_hashes_order" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/extract-checksum.sh"} text="extract-checksum.sh" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_darwin_amd64"} text="yq_darwin_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_darwin_amd64.tar.gz"} text="yq_darwin_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_darwin_arm64"} text="yq_darwin_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_darwin_arm64.tar.gz"} text="yq_darwin_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_freebsd_386"} text="yq_freebsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_freebsd_386.tar.gz"} text="yq_freebsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_freebsd_amd64"} text="yq_freebsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_freebsd_amd64.tar.gz"} text="yq_freebsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_freebsd_arm"} text="yq_freebsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_freebsd_arm.tar.gz"} text="yq_freebsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_linux_386"} text="yq_linux_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_linux_386.tar.gz"} text="yq_linux_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_linux_amd64"} text="yq_linux_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_linux_amd64.tar.gz"} text="yq_linux_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_linux_arm"} text="yq_linux_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_linux_arm.tar.gz"} text="yq_linux_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_linux_arm64"} text="yq_linux_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_linux_arm64.tar.gz"} text="yq_linux_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_linux_mips"} text="yq_linux_mips" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_linux_mips.tar.gz"} text="yq_linux_mips.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_linux_mips64"} text="yq_linux_mips64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_linux_mips64.tar.gz"} text="yq_linux_mips64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_linux_mips64le"} text="yq_linux_mips64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_linux_mips64le.tar.gz"} text="yq_linux_mips64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_linux_mipsle"} text="yq_linux_mipsle" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_linux_mipsle.tar.gz"} text="yq_linux_mipsle.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_linux_ppc64"} text="yq_linux_ppc64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_linux_ppc64.tar.gz"} text="yq_linux_ppc64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_linux_ppc64le"} text="yq_linux_ppc64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_linux_ppc64le.tar.gz"} text="yq_linux_ppc64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_linux_riscv64"} text="yq_linux_riscv64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_linux_riscv64.tar.gz"} text="yq_linux_riscv64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_linux_s390x"} text="yq_linux_s390x" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_linux_s390x.tar.gz"} text="yq_linux_s390x.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_man_page_only.tar.gz"} text="yq_man_page_only.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_netbsd_386"} text="yq_netbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_netbsd_386.tar.gz"} text="yq_netbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_netbsd_amd64"} text="yq_netbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_netbsd_amd64.tar.gz"} text="yq_netbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_netbsd_arm"} text="yq_netbsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_netbsd_arm.tar.gz"} text="yq_netbsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_openbsd_386"} text="yq_openbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_openbsd_386.tar.gz"} text="yq_openbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_openbsd_amd64"} text="yq_openbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_openbsd_amd64.tar.gz"} text="yq_openbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_windows_386.exe"} text="yq_windows_386.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_windows_386.zip"} text="yq_windows_386.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_windows_amd64.exe"} text="yq_windows_amd64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_windows_amd64.zip"} text="yq_windows_amd64.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_windows_arm.exe"} text="yq_windows_arm.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_windows_arm.exe.tar.gz"} text="yq_windows_arm.exe.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_windows_arm64.exe"} text="yq_windows_arm64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_windows_arm64.zip"} text="yq_windows_arm64.zip" oneDriveSupport={false} />
+
+
+
+## v4.45.3
+
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/checksums"} text="checksums" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/checksums-bsd"} text="checksums-bsd" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/checksums_hashes_order"} text="checksums_hashes_order" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/extract-checksum.sh"} text="extract-checksum.sh" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_darwin_amd64"} text="yq_darwin_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_darwin_amd64.tar.gz"} text="yq_darwin_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_darwin_arm64"} text="yq_darwin_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_darwin_arm64.tar.gz"} text="yq_darwin_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_freebsd_386"} text="yq_freebsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_freebsd_386.tar.gz"} text="yq_freebsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_freebsd_amd64"} text="yq_freebsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_freebsd_amd64.tar.gz"} text="yq_freebsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_freebsd_arm"} text="yq_freebsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_freebsd_arm.tar.gz"} text="yq_freebsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_linux_386"} text="yq_linux_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_linux_386.tar.gz"} text="yq_linux_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_linux_amd64"} text="yq_linux_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_linux_amd64.tar.gz"} text="yq_linux_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_linux_arm"} text="yq_linux_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_linux_arm.tar.gz"} text="yq_linux_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_linux_arm64"} text="yq_linux_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_linux_arm64.tar.gz"} text="yq_linux_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_linux_mips"} text="yq_linux_mips" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_linux_mips.tar.gz"} text="yq_linux_mips.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_linux_mips64"} text="yq_linux_mips64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_linux_mips64.tar.gz"} text="yq_linux_mips64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_linux_mips64le"} text="yq_linux_mips64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_linux_mips64le.tar.gz"} text="yq_linux_mips64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_linux_mipsle"} text="yq_linux_mipsle" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_linux_mipsle.tar.gz"} text="yq_linux_mipsle.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_linux_ppc64"} text="yq_linux_ppc64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_linux_ppc64.tar.gz"} text="yq_linux_ppc64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_linux_ppc64le"} text="yq_linux_ppc64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_linux_ppc64le.tar.gz"} text="yq_linux_ppc64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_linux_riscv64"} text="yq_linux_riscv64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_linux_riscv64.tar.gz"} text="yq_linux_riscv64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_linux_s390x"} text="yq_linux_s390x" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_linux_s390x.tar.gz"} text="yq_linux_s390x.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_man_page_only.tar.gz"} text="yq_man_page_only.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_netbsd_386"} text="yq_netbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_netbsd_386.tar.gz"} text="yq_netbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_netbsd_amd64"} text="yq_netbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_netbsd_amd64.tar.gz"} text="yq_netbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_netbsd_arm"} text="yq_netbsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_netbsd_arm.tar.gz"} text="yq_netbsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_openbsd_386"} text="yq_openbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_openbsd_386.tar.gz"} text="yq_openbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_openbsd_amd64"} text="yq_openbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_openbsd_amd64.tar.gz"} text="yq_openbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_windows_386.exe"} text="yq_windows_386.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_windows_386.zip"} text="yq_windows_386.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_windows_amd64.exe"} text="yq_windows_amd64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_windows_amd64.zip"} text="yq_windows_amd64.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_windows_arm.exe"} text="yq_windows_arm.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_windows_arm.exe.tar.gz"} text="yq_windows_arm.exe.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_windows_arm64.exe"} text="yq_windows_arm64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_windows_arm64.zip"} text="yq_windows_arm64.zip" oneDriveSupport={false} />
+
+
+
+## v4.45.2
+
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/checksums"} text="checksums" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/checksums-bsd"} text="checksums-bsd" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/checksums_hashes_order"} text="checksums_hashes_order" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/extract-checksum.sh"} text="extract-checksum.sh" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_darwin_amd64"} text="yq_darwin_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_darwin_amd64.tar.gz"} text="yq_darwin_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_darwin_arm64"} text="yq_darwin_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_darwin_arm64.tar.gz"} text="yq_darwin_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_freebsd_386"} text="yq_freebsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_freebsd_386.tar.gz"} text="yq_freebsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_freebsd_amd64"} text="yq_freebsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_freebsd_amd64.tar.gz"} text="yq_freebsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_freebsd_arm"} text="yq_freebsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_freebsd_arm.tar.gz"} text="yq_freebsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_linux_386"} text="yq_linux_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_linux_386.tar.gz"} text="yq_linux_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_linux_amd64"} text="yq_linux_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_linux_amd64.tar.gz"} text="yq_linux_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_linux_arm"} text="yq_linux_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_linux_arm.tar.gz"} text="yq_linux_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_linux_arm64"} text="yq_linux_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_linux_arm64.tar.gz"} text="yq_linux_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_linux_mips"} text="yq_linux_mips" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_linux_mips.tar.gz"} text="yq_linux_mips.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_linux_mips64"} text="yq_linux_mips64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_linux_mips64.tar.gz"} text="yq_linux_mips64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_linux_mips64le"} text="yq_linux_mips64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_linux_mips64le.tar.gz"} text="yq_linux_mips64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_linux_mipsle"} text="yq_linux_mipsle" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_linux_mipsle.tar.gz"} text="yq_linux_mipsle.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_linux_ppc64"} text="yq_linux_ppc64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_linux_ppc64.tar.gz"} text="yq_linux_ppc64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_linux_ppc64le"} text="yq_linux_ppc64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_linux_ppc64le.tar.gz"} text="yq_linux_ppc64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_linux_riscv64"} text="yq_linux_riscv64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_linux_riscv64.tar.gz"} text="yq_linux_riscv64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_linux_s390x"} text="yq_linux_s390x" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_linux_s390x.tar.gz"} text="yq_linux_s390x.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_man_page_only.tar.gz"} text="yq_man_page_only.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_netbsd_386"} text="yq_netbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_netbsd_386.tar.gz"} text="yq_netbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_netbsd_amd64"} text="yq_netbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_netbsd_amd64.tar.gz"} text="yq_netbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_netbsd_arm"} text="yq_netbsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_netbsd_arm.tar.gz"} text="yq_netbsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_openbsd_386"} text="yq_openbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_openbsd_386.tar.gz"} text="yq_openbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_openbsd_amd64"} text="yq_openbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_openbsd_amd64.tar.gz"} text="yq_openbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_windows_386.exe"} text="yq_windows_386.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_windows_386.zip"} text="yq_windows_386.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_windows_amd64.exe"} text="yq_windows_amd64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_windows_amd64.zip"} text="yq_windows_amd64.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_windows_arm.exe"} text="yq_windows_arm.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_windows_arm.exe.tar.gz"} text="yq_windows_arm.exe.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_windows_arm64.exe"} text="yq_windows_arm64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_windows_arm64.zip"} text="yq_windows_arm64.zip" oneDriveSupport={false} />
+
+
+
+## v4.45.1
+
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/checksums"} text="checksums" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/checksums-bsd"} text="checksums-bsd" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/checksums_hashes_order"} text="checksums_hashes_order" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/extract-checksum.sh"} text="extract-checksum.sh" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_darwin_amd64"} text="yq_darwin_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_darwin_amd64.tar.gz"} text="yq_darwin_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_darwin_arm64"} text="yq_darwin_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_darwin_arm64.tar.gz"} text="yq_darwin_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_freebsd_386"} text="yq_freebsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_freebsd_386.tar.gz"} text="yq_freebsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_freebsd_amd64"} text="yq_freebsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_freebsd_amd64.tar.gz"} text="yq_freebsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_freebsd_arm"} text="yq_freebsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_freebsd_arm.tar.gz"} text="yq_freebsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_linux_386"} text="yq_linux_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_linux_386.tar.gz"} text="yq_linux_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_linux_amd64"} text="yq_linux_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_linux_amd64.tar.gz"} text="yq_linux_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_linux_arm"} text="yq_linux_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_linux_arm.tar.gz"} text="yq_linux_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_linux_arm64"} text="yq_linux_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_linux_arm64.tar.gz"} text="yq_linux_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_linux_mips"} text="yq_linux_mips" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_linux_mips.tar.gz"} text="yq_linux_mips.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_linux_mips64"} text="yq_linux_mips64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_linux_mips64.tar.gz"} text="yq_linux_mips64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_linux_mips64le"} text="yq_linux_mips64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_linux_mips64le.tar.gz"} text="yq_linux_mips64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_linux_mipsle"} text="yq_linux_mipsle" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_linux_mipsle.tar.gz"} text="yq_linux_mipsle.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_linux_ppc64"} text="yq_linux_ppc64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_linux_ppc64.tar.gz"} text="yq_linux_ppc64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_linux_ppc64le"} text="yq_linux_ppc64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_linux_ppc64le.tar.gz"} text="yq_linux_ppc64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_linux_riscv64"} text="yq_linux_riscv64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_linux_riscv64.tar.gz"} text="yq_linux_riscv64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_linux_s390x"} text="yq_linux_s390x" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_linux_s390x.tar.gz"} text="yq_linux_s390x.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_man_page_only.tar.gz"} text="yq_man_page_only.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_netbsd_386"} text="yq_netbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_netbsd_386.tar.gz"} text="yq_netbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_netbsd_amd64"} text="yq_netbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_netbsd_amd64.tar.gz"} text="yq_netbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_netbsd_arm"} text="yq_netbsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_netbsd_arm.tar.gz"} text="yq_netbsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_openbsd_386"} text="yq_openbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_openbsd_386.tar.gz"} text="yq_openbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_openbsd_amd64"} text="yq_openbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_openbsd_amd64.tar.gz"} text="yq_openbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_windows_386.exe"} text="yq_windows_386.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_windows_386.zip"} text="yq_windows_386.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_windows_amd64.exe"} text="yq_windows_amd64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_windows_amd64.zip"} text="yq_windows_amd64.zip" oneDriveSupport={false} />
+
+
+
+## v4.44.6
+
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/checksums"} text="checksums" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/checksums-bsd"} text="checksums-bsd" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/checksums_hashes_order"} text="checksums_hashes_order" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/extract-checksum.sh"} text="extract-checksum.sh" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_darwin_amd64"} text="yq_darwin_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_darwin_amd64.tar.gz"} text="yq_darwin_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_darwin_arm64"} text="yq_darwin_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_darwin_arm64.tar.gz"} text="yq_darwin_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_freebsd_386"} text="yq_freebsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_freebsd_386.tar.gz"} text="yq_freebsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_freebsd_amd64"} text="yq_freebsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_freebsd_amd64.tar.gz"} text="yq_freebsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_freebsd_arm"} text="yq_freebsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_freebsd_arm.tar.gz"} text="yq_freebsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_linux_386"} text="yq_linux_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_linux_386.tar.gz"} text="yq_linux_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_linux_amd64"} text="yq_linux_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_linux_amd64.tar.gz"} text="yq_linux_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_linux_arm"} text="yq_linux_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_linux_arm.tar.gz"} text="yq_linux_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_linux_arm64"} text="yq_linux_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_linux_arm64.tar.gz"} text="yq_linux_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_linux_mips"} text="yq_linux_mips" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_linux_mips.tar.gz"} text="yq_linux_mips.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_linux_mips64"} text="yq_linux_mips64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_linux_mips64.tar.gz"} text="yq_linux_mips64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_linux_mips64le"} text="yq_linux_mips64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_linux_mips64le.tar.gz"} text="yq_linux_mips64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_linux_mipsle"} text="yq_linux_mipsle" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_linux_mipsle.tar.gz"} text="yq_linux_mipsle.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_linux_ppc64"} text="yq_linux_ppc64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_linux_ppc64.tar.gz"} text="yq_linux_ppc64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_linux_ppc64le"} text="yq_linux_ppc64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_linux_ppc64le.tar.gz"} text="yq_linux_ppc64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_linux_riscv64"} text="yq_linux_riscv64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_linux_riscv64.tar.gz"} text="yq_linux_riscv64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_linux_s390x"} text="yq_linux_s390x" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_linux_s390x.tar.gz"} text="yq_linux_s390x.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_man_page_only.tar.gz"} text="yq_man_page_only.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_netbsd_386"} text="yq_netbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_netbsd_386.tar.gz"} text="yq_netbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_netbsd_amd64"} text="yq_netbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_netbsd_amd64.tar.gz"} text="yq_netbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_netbsd_arm"} text="yq_netbsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_netbsd_arm.tar.gz"} text="yq_netbsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_openbsd_386"} text="yq_openbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_openbsd_386.tar.gz"} text="yq_openbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_openbsd_amd64"} text="yq_openbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_openbsd_amd64.tar.gz"} text="yq_openbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_windows_386.exe"} text="yq_windows_386.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_windows_386.zip"} text="yq_windows_386.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_windows_amd64.exe"} text="yq_windows_amd64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_windows_amd64.zip"} text="yq_windows_amd64.zip" oneDriveSupport={false} />
+
+
+
+## v4.44.5
+
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/checksums"} text="checksums" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/checksums-bsd"} text="checksums-bsd" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/checksums_hashes_order"} text="checksums_hashes_order" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/extract-checksum.sh"} text="extract-checksum.sh" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_darwin_amd64"} text="yq_darwin_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_darwin_amd64.tar.gz"} text="yq_darwin_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_darwin_arm64"} text="yq_darwin_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_darwin_arm64.tar.gz"} text="yq_darwin_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_freebsd_386"} text="yq_freebsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_freebsd_386.tar.gz"} text="yq_freebsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_freebsd_amd64"} text="yq_freebsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_freebsd_amd64.tar.gz"} text="yq_freebsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_freebsd_arm"} text="yq_freebsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_freebsd_arm.tar.gz"} text="yq_freebsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_linux_386"} text="yq_linux_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_linux_386.tar.gz"} text="yq_linux_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_linux_amd64"} text="yq_linux_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_linux_amd64.tar.gz"} text="yq_linux_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_linux_arm"} text="yq_linux_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_linux_arm.tar.gz"} text="yq_linux_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_linux_arm64"} text="yq_linux_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_linux_arm64.tar.gz"} text="yq_linux_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_linux_mips"} text="yq_linux_mips" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_linux_mips.tar.gz"} text="yq_linux_mips.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_linux_mips64"} text="yq_linux_mips64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_linux_mips64.tar.gz"} text="yq_linux_mips64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_linux_mips64le"} text="yq_linux_mips64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_linux_mips64le.tar.gz"} text="yq_linux_mips64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_linux_mipsle"} text="yq_linux_mipsle" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_linux_mipsle.tar.gz"} text="yq_linux_mipsle.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_linux_ppc64"} text="yq_linux_ppc64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_linux_ppc64.tar.gz"} text="yq_linux_ppc64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_linux_ppc64le"} text="yq_linux_ppc64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_linux_ppc64le.tar.gz"} text="yq_linux_ppc64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_linux_riscv64"} text="yq_linux_riscv64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_linux_riscv64.tar.gz"} text="yq_linux_riscv64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_linux_s390x"} text="yq_linux_s390x" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_linux_s390x.tar.gz"} text="yq_linux_s390x.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_man_page_only.tar.gz"} text="yq_man_page_only.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_netbsd_386"} text="yq_netbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_netbsd_386.tar.gz"} text="yq_netbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_netbsd_amd64"} text="yq_netbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_netbsd_amd64.tar.gz"} text="yq_netbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_netbsd_arm"} text="yq_netbsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_netbsd_arm.tar.gz"} text="yq_netbsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_openbsd_386"} text="yq_openbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_openbsd_386.tar.gz"} text="yq_openbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_openbsd_amd64"} text="yq_openbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_openbsd_amd64.tar.gz"} text="yq_openbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_windows_386.exe"} text="yq_windows_386.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_windows_386.zip"} text="yq_windows_386.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_windows_amd64.exe"} text="yq_windows_amd64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_windows_amd64.zip"} text="yq_windows_amd64.zip" oneDriveSupport={false} />
+
+
+
+## v4.44.3
+
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/checksums"} text="checksums" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/checksums-bsd"} text="checksums-bsd" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/checksums_hashes_order"} text="checksums_hashes_order" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/extract-checksum.sh"} text="extract-checksum.sh" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_darwin_amd64"} text="yq_darwin_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_darwin_amd64.tar.gz"} text="yq_darwin_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_darwin_arm64"} text="yq_darwin_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_darwin_arm64.tar.gz"} text="yq_darwin_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_freebsd_386"} text="yq_freebsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_freebsd_386.tar.gz"} text="yq_freebsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_freebsd_amd64"} text="yq_freebsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_freebsd_amd64.tar.gz"} text="yq_freebsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_freebsd_arm"} text="yq_freebsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_freebsd_arm.tar.gz"} text="yq_freebsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_linux_386"} text="yq_linux_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_linux_386.tar.gz"} text="yq_linux_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_linux_amd64"} text="yq_linux_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_linux_amd64.tar.gz"} text="yq_linux_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_linux_arm"} text="yq_linux_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_linux_arm.tar.gz"} text="yq_linux_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_linux_arm64"} text="yq_linux_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_linux_arm64.tar.gz"} text="yq_linux_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_linux_mips"} text="yq_linux_mips" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_linux_mips.tar.gz"} text="yq_linux_mips.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_linux_mips64"} text="yq_linux_mips64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_linux_mips64.tar.gz"} text="yq_linux_mips64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_linux_mips64le"} text="yq_linux_mips64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_linux_mips64le.tar.gz"} text="yq_linux_mips64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_linux_mipsle"} text="yq_linux_mipsle" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_linux_mipsle.tar.gz"} text="yq_linux_mipsle.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_linux_ppc64"} text="yq_linux_ppc64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_linux_ppc64.tar.gz"} text="yq_linux_ppc64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_linux_ppc64le"} text="yq_linux_ppc64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_linux_ppc64le.tar.gz"} text="yq_linux_ppc64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_linux_s390x"} text="yq_linux_s390x" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_linux_s390x.tar.gz"} text="yq_linux_s390x.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_man_page_only.tar.gz"} text="yq_man_page_only.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_netbsd_386"} text="yq_netbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_netbsd_386.tar.gz"} text="yq_netbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_netbsd_amd64"} text="yq_netbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_netbsd_amd64.tar.gz"} text="yq_netbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_netbsd_arm"} text="yq_netbsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_netbsd_arm.tar.gz"} text="yq_netbsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_openbsd_386"} text="yq_openbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_openbsd_386.tar.gz"} text="yq_openbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_openbsd_amd64"} text="yq_openbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_openbsd_amd64.tar.gz"} text="yq_openbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_windows_386.exe"} text="yq_windows_386.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_windows_386.zip"} text="yq_windows_386.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_windows_amd64.exe"} text="yq_windows_amd64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_windows_amd64.zip"} text="yq_windows_amd64.zip" oneDriveSupport={false} />
+
+
+
+## v4.44.2
+
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/checksums"} text="checksums" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/checksums-bsd"} text="checksums-bsd" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/checksums_hashes_order"} text="checksums_hashes_order" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/extract-checksum.sh"} text="extract-checksum.sh" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_darwin_amd64"} text="yq_darwin_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_darwin_amd64.tar.gz"} text="yq_darwin_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_darwin_arm64"} text="yq_darwin_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_darwin_arm64.tar.gz"} text="yq_darwin_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_freebsd_386"} text="yq_freebsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_freebsd_386.tar.gz"} text="yq_freebsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_freebsd_amd64"} text="yq_freebsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_freebsd_amd64.tar.gz"} text="yq_freebsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_freebsd_arm"} text="yq_freebsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_freebsd_arm.tar.gz"} text="yq_freebsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_linux_386"} text="yq_linux_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_linux_386.tar.gz"} text="yq_linux_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_linux_amd64"} text="yq_linux_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_linux_amd64.tar.gz"} text="yq_linux_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_linux_arm"} text="yq_linux_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_linux_arm.tar.gz"} text="yq_linux_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_linux_arm64"} text="yq_linux_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_linux_arm64.tar.gz"} text="yq_linux_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_linux_mips"} text="yq_linux_mips" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_linux_mips.tar.gz"} text="yq_linux_mips.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_linux_mips64"} text="yq_linux_mips64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_linux_mips64.tar.gz"} text="yq_linux_mips64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_linux_mips64le"} text="yq_linux_mips64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_linux_mips64le.tar.gz"} text="yq_linux_mips64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_linux_mipsle"} text="yq_linux_mipsle" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_linux_mipsle.tar.gz"} text="yq_linux_mipsle.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_linux_ppc64"} text="yq_linux_ppc64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_linux_ppc64.tar.gz"} text="yq_linux_ppc64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_linux_ppc64le"} text="yq_linux_ppc64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_linux_ppc64le.tar.gz"} text="yq_linux_ppc64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_linux_s390x"} text="yq_linux_s390x" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_linux_s390x.tar.gz"} text="yq_linux_s390x.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_man_page_only.tar.gz"} text="yq_man_page_only.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_netbsd_386"} text="yq_netbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_netbsd_386.tar.gz"} text="yq_netbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_netbsd_amd64"} text="yq_netbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_netbsd_amd64.tar.gz"} text="yq_netbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_netbsd_arm"} text="yq_netbsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_netbsd_arm.tar.gz"} text="yq_netbsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_openbsd_386"} text="yq_openbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_openbsd_386.tar.gz"} text="yq_openbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_openbsd_amd64"} text="yq_openbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_openbsd_amd64.tar.gz"} text="yq_openbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_windows_386.exe"} text="yq_windows_386.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_windows_386.zip"} text="yq_windows_386.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_windows_amd64.exe"} text="yq_windows_amd64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_windows_amd64.zip"} text="yq_windows_amd64.zip" oneDriveSupport={false} />
+
+
+
+
+
+## v4.44.1
+
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/checksums"} text="checksums" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/checksums-bsd"} text="checksums-bsd" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/checksums_hashes_order"} text="checksums_hashes_order" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/extract-checksum.sh"} text="extract-checksum.sh" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_darwin_amd64"} text="yq_darwin_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_darwin_amd64.tar.gz"} text="yq_darwin_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_darwin_arm64"} text="yq_darwin_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_darwin_arm64.tar.gz"} text="yq_darwin_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_freebsd_386"} text="yq_freebsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_freebsd_386.tar.gz"} text="yq_freebsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_freebsd_amd64"} text="yq_freebsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_freebsd_amd64.tar.gz"} text="yq_freebsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_freebsd_arm"} text="yq_freebsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_freebsd_arm.tar.gz"} text="yq_freebsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_linux_386"} text="yq_linux_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_linux_386.tar.gz"} text="yq_linux_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_linux_amd64"} text="yq_linux_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_linux_amd64.tar.gz"} text="yq_linux_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_linux_arm"} text="yq_linux_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_linux_arm.tar.gz"} text="yq_linux_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_linux_arm64"} text="yq_linux_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_linux_arm64.tar.gz"} text="yq_linux_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_linux_mips"} text="yq_linux_mips" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_linux_mips.tar.gz"} text="yq_linux_mips.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_linux_mips64"} text="yq_linux_mips64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_linux_mips64.tar.gz"} text="yq_linux_mips64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_linux_mips64le"} text="yq_linux_mips64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_linux_mips64le.tar.gz"} text="yq_linux_mips64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_linux_mipsle"} text="yq_linux_mipsle" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_linux_mipsle.tar.gz"} text="yq_linux_mipsle.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_linux_ppc64"} text="yq_linux_ppc64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_linux_ppc64.tar.gz"} text="yq_linux_ppc64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_linux_ppc64le"} text="yq_linux_ppc64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_linux_ppc64le.tar.gz"} text="yq_linux_ppc64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_linux_s390x"} text="yq_linux_s390x" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_linux_s390x.tar.gz"} text="yq_linux_s390x.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_man_page_only.tar.gz"} text="yq_man_page_only.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_netbsd_386"} text="yq_netbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_netbsd_386.tar.gz"} text="yq_netbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_netbsd_amd64"} text="yq_netbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_netbsd_amd64.tar.gz"} text="yq_netbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_netbsd_arm"} text="yq_netbsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_netbsd_arm.tar.gz"} text="yq_netbsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_openbsd_386"} text="yq_openbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_openbsd_386.tar.gz"} text="yq_openbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_openbsd_amd64"} text="yq_openbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_openbsd_amd64.tar.gz"} text="yq_openbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_windows_386.exe"} text="yq_windows_386.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_windows_386.zip"} text="yq_windows_386.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_windows_amd64.exe"} text="yq_windows_amd64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_windows_amd64.zip"} text="yq_windows_amd64.zip" oneDriveSupport={false} />
+
+
+
+## v4.43.1
+
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/checksums"} text="checksums" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/checksums-bsd"} text="checksums-bsd" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/checksums_hashes_order"} text="checksums_hashes_order" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/extract-checksum.sh"} text="extract-checksum.sh" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_darwin_amd64"} text="yq_darwin_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_darwin_amd64.tar.gz"} text="yq_darwin_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_darwin_arm64"} text="yq_darwin_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_darwin_arm64.tar.gz"} text="yq_darwin_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_freebsd_386"} text="yq_freebsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_freebsd_386.tar.gz"} text="yq_freebsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_freebsd_amd64"} text="yq_freebsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_freebsd_amd64.tar.gz"} text="yq_freebsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_freebsd_arm"} text="yq_freebsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_freebsd_arm.tar.gz"} text="yq_freebsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_linux_386"} text="yq_linux_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_linux_386.tar.gz"} text="yq_linux_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_linux_amd64"} text="yq_linux_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_linux_amd64.tar.gz"} text="yq_linux_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_linux_arm"} text="yq_linux_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_linux_arm.tar.gz"} text="yq_linux_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_linux_arm64"} text="yq_linux_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_linux_arm64.tar.gz"} text="yq_linux_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_linux_mips"} text="yq_linux_mips" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_linux_mips.tar.gz"} text="yq_linux_mips.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_linux_mips64"} text="yq_linux_mips64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_linux_mips64.tar.gz"} text="yq_linux_mips64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_linux_mips64le"} text="yq_linux_mips64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_linux_mips64le.tar.gz"} text="yq_linux_mips64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_linux_mipsle"} text="yq_linux_mipsle" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_linux_mipsle.tar.gz"} text="yq_linux_mipsle.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_linux_ppc64"} text="yq_linux_ppc64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_linux_ppc64.tar.gz"} text="yq_linux_ppc64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_linux_ppc64le"} text="yq_linux_ppc64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_linux_ppc64le.tar.gz"} text="yq_linux_ppc64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_linux_s390x"} text="yq_linux_s390x" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_linux_s390x.tar.gz"} text="yq_linux_s390x.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_man_page_only.tar.gz"} text="yq_man_page_only.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_netbsd_386"} text="yq_netbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_netbsd_386.tar.gz"} text="yq_netbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_netbsd_amd64"} text="yq_netbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_netbsd_amd64.tar.gz"} text="yq_netbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_netbsd_arm"} text="yq_netbsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_netbsd_arm.tar.gz"} text="yq_netbsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_openbsd_386"} text="yq_openbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_openbsd_386.tar.gz"} text="yq_openbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_openbsd_amd64"} text="yq_openbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_openbsd_amd64.tar.gz"} text="yq_openbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_windows_386.exe"} text="yq_windows_386.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_windows_386.zip"} text="yq_windows_386.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_windows_amd64.exe"} text="yq_windows_amd64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_windows_amd64.zip"} text="yq_windows_amd64.zip" oneDriveSupport={false} />
+
+
+
+## v4.42.1
+
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/checksums"} text="checksums" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/checksums-bsd"} text="checksums-bsd" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/checksums_hashes_order"} text="checksums_hashes_order" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/extract-checksum.sh"} text="extract-checksum.sh" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_darwin_amd64"} text="yq_darwin_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_darwin_amd64.tar.gz"} text="yq_darwin_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_darwin_arm64"} text="yq_darwin_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_darwin_arm64.tar.gz"} text="yq_darwin_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_freebsd_386"} text="yq_freebsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_freebsd_386.tar.gz"} text="yq_freebsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_freebsd_amd64"} text="yq_freebsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_freebsd_amd64.tar.gz"} text="yq_freebsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_freebsd_arm"} text="yq_freebsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_freebsd_arm.tar.gz"} text="yq_freebsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_linux_386"} text="yq_linux_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_linux_386.tar.gz"} text="yq_linux_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_linux_amd64"} text="yq_linux_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_linux_amd64.tar.gz"} text="yq_linux_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_linux_arm"} text="yq_linux_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_linux_arm.tar.gz"} text="yq_linux_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_linux_arm64"} text="yq_linux_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_linux_arm64.tar.gz"} text="yq_linux_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_linux_mips"} text="yq_linux_mips" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_linux_mips.tar.gz"} text="yq_linux_mips.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_linux_mips64"} text="yq_linux_mips64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_linux_mips64.tar.gz"} text="yq_linux_mips64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_linux_mips64le"} text="yq_linux_mips64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_linux_mips64le.tar.gz"} text="yq_linux_mips64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_linux_mipsle"} text="yq_linux_mipsle" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_linux_mipsle.tar.gz"} text="yq_linux_mipsle.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_linux_ppc64"} text="yq_linux_ppc64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_linux_ppc64.tar.gz"} text="yq_linux_ppc64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_linux_ppc64le"} text="yq_linux_ppc64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_linux_ppc64le.tar.gz"} text="yq_linux_ppc64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_linux_s390x"} text="yq_linux_s390x" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_linux_s390x.tar.gz"} text="yq_linux_s390x.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_man_page_only.tar.gz"} text="yq_man_page_only.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_netbsd_386"} text="yq_netbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_netbsd_386.tar.gz"} text="yq_netbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_netbsd_amd64"} text="yq_netbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_netbsd_amd64.tar.gz"} text="yq_netbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_netbsd_arm"} text="yq_netbsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_netbsd_arm.tar.gz"} text="yq_netbsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_openbsd_386"} text="yq_openbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_openbsd_386.tar.gz"} text="yq_openbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_openbsd_amd64"} text="yq_openbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_openbsd_amd64.tar.gz"} text="yq_openbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_windows_386.exe"} text="yq_windows_386.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_windows_386.zip"} text="yq_windows_386.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_windows_amd64.exe"} text="yq_windows_amd64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_windows_amd64.zip"} text="yq_windows_amd64.zip" oneDriveSupport={false} />
+
+
+
+## v4.41.1
+
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/checksums"} text="checksums" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/checksums-bsd"} text="checksums-bsd" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/checksums_hashes_order"} text="checksums_hashes_order" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/extract-checksum.sh"} text="extract-checksum.sh" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_darwin_amd64"} text="yq_darwin_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_darwin_amd64.tar.gz"} text="yq_darwin_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_darwin_arm64"} text="yq_darwin_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_darwin_arm64.tar.gz"} text="yq_darwin_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_freebsd_386"} text="yq_freebsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_freebsd_386.tar.gz"} text="yq_freebsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_freebsd_amd64"} text="yq_freebsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_freebsd_amd64.tar.gz"} text="yq_freebsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_freebsd_arm"} text="yq_freebsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_freebsd_arm.tar.gz"} text="yq_freebsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_linux_386"} text="yq_linux_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_linux_386.tar.gz"} text="yq_linux_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_linux_amd64"} text="yq_linux_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_linux_amd64.tar.gz"} text="yq_linux_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_linux_arm"} text="yq_linux_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_linux_arm.tar.gz"} text="yq_linux_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_linux_arm64"} text="yq_linux_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_linux_arm64.tar.gz"} text="yq_linux_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_linux_mips"} text="yq_linux_mips" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_linux_mips.tar.gz"} text="yq_linux_mips.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_linux_mips64"} text="yq_linux_mips64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_linux_mips64.tar.gz"} text="yq_linux_mips64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_linux_mips64le"} text="yq_linux_mips64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_linux_mips64le.tar.gz"} text="yq_linux_mips64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_linux_mipsle"} text="yq_linux_mipsle" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_linux_mipsle.tar.gz"} text="yq_linux_mipsle.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_linux_ppc64"} text="yq_linux_ppc64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_linux_ppc64.tar.gz"} text="yq_linux_ppc64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_linux_ppc64le"} text="yq_linux_ppc64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_linux_ppc64le.tar.gz"} text="yq_linux_ppc64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_linux_s390x"} text="yq_linux_s390x" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_linux_s390x.tar.gz"} text="yq_linux_s390x.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_man_page_only.tar.gz"} text="yq_man_page_only.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_netbsd_386"} text="yq_netbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_netbsd_386.tar.gz"} text="yq_netbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_netbsd_amd64"} text="yq_netbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_netbsd_amd64.tar.gz"} text="yq_netbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_netbsd_arm"} text="yq_netbsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_netbsd_arm.tar.gz"} text="yq_netbsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_openbsd_386"} text="yq_openbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_openbsd_386.tar.gz"} text="yq_openbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_openbsd_amd64"} text="yq_openbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_openbsd_amd64.tar.gz"} text="yq_openbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_windows_386.exe"} text="yq_windows_386.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_windows_386.zip"} text="yq_windows_386.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_windows_amd64.exe"} text="yq_windows_amd64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_windows_amd64.zip"} text="yq_windows_amd64.zip" oneDriveSupport={false} />
+
+
+
+## v4.40.7
+
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/checksums"} text="checksums" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/checksums-bsd"} text="checksums-bsd" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/checksums_hashes_order"} text="checksums_hashes_order" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/extract-checksum.sh"} text="extract-checksum.sh" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_darwin_amd64"} text="yq_darwin_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_darwin_amd64.tar.gz"} text="yq_darwin_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_darwin_arm64"} text="yq_darwin_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_darwin_arm64.tar.gz"} text="yq_darwin_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_freebsd_386"} text="yq_freebsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_freebsd_386.tar.gz"} text="yq_freebsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_freebsd_amd64"} text="yq_freebsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_freebsd_amd64.tar.gz"} text="yq_freebsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_freebsd_arm"} text="yq_freebsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_freebsd_arm.tar.gz"} text="yq_freebsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_386"} text="yq_linux_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_386.tar.gz"} text="yq_linux_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_amd64"} text="yq_linux_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_amd64.tar.gz"} text="yq_linux_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_arm"} text="yq_linux_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_arm.tar.gz"} text="yq_linux_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_arm64"} text="yq_linux_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_arm64.tar.gz"} text="yq_linux_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_mips"} text="yq_linux_mips" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_mips.tar.gz"} text="yq_linux_mips.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_mips64"} text="yq_linux_mips64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_mips64.tar.gz"} text="yq_linux_mips64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_mips64le"} text="yq_linux_mips64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_mips64le.tar.gz"} text="yq_linux_mips64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_mipsle"} text="yq_linux_mipsle" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_mipsle.tar.gz"} text="yq_linux_mipsle.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_ppc64"} text="yq_linux_ppc64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_ppc64.tar.gz"} text="yq_linux_ppc64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_ppc64le"} text="yq_linux_ppc64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_ppc64le.tar.gz"} text="yq_linux_ppc64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_s390x"} text="yq_linux_s390x" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_s390x.tar.gz"} text="yq_linux_s390x.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_man_page_only.tar.gz"} text="yq_man_page_only.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_netbsd_386"} text="yq_netbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_netbsd_386.tar.gz"} text="yq_netbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_netbsd_amd64"} text="yq_netbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_netbsd_amd64.tar.gz"} text="yq_netbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_netbsd_arm"} text="yq_netbsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_netbsd_arm.tar.gz"} text="yq_netbsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_openbsd_386"} text="yq_openbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_openbsd_386.tar.gz"} text="yq_openbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_openbsd_amd64"} text="yq_openbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_openbsd_amd64.tar.gz"} text="yq_openbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_windows_386.exe"} text="yq_windows_386.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_windows_386.zip"} text="yq_windows_386.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_windows_amd64.exe"} text="yq_windows_amd64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_windows_amd64.zip"} text="yq_windows_amd64.zip" oneDriveSupport={false} />
+
+
+
+## v4.40.5
+
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/checksums"} text="checksums" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/checksums-bsd"} text="checksums-bsd" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/checksums_hashes_order"} text="checksums_hashes_order" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/extract-checksum.sh"} text="extract-checksum.sh" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_darwin_amd64"} text="yq_darwin_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_darwin_amd64.tar.gz"} text="yq_darwin_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_darwin_arm64"} text="yq_darwin_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_darwin_arm64.tar.gz"} text="yq_darwin_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_freebsd_386"} text="yq_freebsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_freebsd_386.tar.gz"} text="yq_freebsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_freebsd_amd64"} text="yq_freebsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_freebsd_amd64.tar.gz"} text="yq_freebsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_freebsd_arm"} text="yq_freebsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_freebsd_arm.tar.gz"} text="yq_freebsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_linux_386"} text="yq_linux_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_linux_386.tar.gz"} text="yq_linux_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_linux_amd64"} text="yq_linux_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_linux_amd64.tar.gz"} text="yq_linux_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_linux_arm"} text="yq_linux_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_linux_arm.tar.gz"} text="yq_linux_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_linux_arm64"} text="yq_linux_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_linux_arm64.tar.gz"} text="yq_linux_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_linux_mips"} text="yq_linux_mips" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_linux_mips.tar.gz"} text="yq_linux_mips.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_linux_mips64"} text="yq_linux_mips64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_linux_mips64.tar.gz"} text="yq_linux_mips64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_linux_mips64le"} text="yq_linux_mips64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_linux_mips64le.tar.gz"} text="yq_linux_mips64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_linux_mipsle"} text="yq_linux_mipsle" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_linux_mipsle.tar.gz"} text="yq_linux_mipsle.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_linux_ppc64"} text="yq_linux_ppc64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_linux_ppc64.tar.gz"} text="yq_linux_ppc64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_linux_ppc64le"} text="yq_linux_ppc64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_linux_ppc64le.tar.gz"} text="yq_linux_ppc64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_linux_s390x"} text="yq_linux_s390x" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_linux_s390x.tar.gz"} text="yq_linux_s390x.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_man_page_only.tar.gz"} text="yq_man_page_only.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_netbsd_386"} text="yq_netbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_netbsd_386.tar.gz"} text="yq_netbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_netbsd_amd64"} text="yq_netbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_netbsd_amd64.tar.gz"} text="yq_netbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_netbsd_arm"} text="yq_netbsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_netbsd_arm.tar.gz"} text="yq_netbsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_openbsd_386"} text="yq_openbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_openbsd_386.tar.gz"} text="yq_openbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_openbsd_amd64"} text="yq_openbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_openbsd_amd64.tar.gz"} text="yq_openbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_windows_386.exe"} text="yq_windows_386.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_windows_386.zip"} text="yq_windows_386.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_windows_amd64.exe"} text="yq_windows_amd64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_windows_amd64.zip"} text="yq_windows_amd64.zip" oneDriveSupport={false} />
+
+
+
+## v4.40.4
+
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/checksums"} text="checksums" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/checksums-bsd"} text="checksums-bsd" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/checksums_hashes_order"} text="checksums_hashes_order" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/extract-checksum.sh"} text="extract-checksum.sh" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_darwin_amd64"} text="yq_darwin_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_darwin_amd64.tar.gz"} text="yq_darwin_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_darwin_arm64"} text="yq_darwin_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_darwin_arm64.tar.gz"} text="yq_darwin_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_freebsd_386"} text="yq_freebsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_freebsd_386.tar.gz"} text="yq_freebsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_freebsd_amd64"} text="yq_freebsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_freebsd_amd64.tar.gz"} text="yq_freebsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_freebsd_arm"} text="yq_freebsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_freebsd_arm.tar.gz"} text="yq_freebsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_linux_386"} text="yq_linux_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_linux_386.tar.gz"} text="yq_linux_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_linux_amd64"} text="yq_linux_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_linux_amd64.tar.gz"} text="yq_linux_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_linux_arm"} text="yq_linux_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_linux_arm.tar.gz"} text="yq_linux_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_linux_arm64"} text="yq_linux_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_linux_arm64.tar.gz"} text="yq_linux_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_linux_mips"} text="yq_linux_mips" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_linux_mips.tar.gz"} text="yq_linux_mips.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_linux_mips64"} text="yq_linux_mips64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_linux_mips64.tar.gz"} text="yq_linux_mips64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_linux_mips64le"} text="yq_linux_mips64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_linux_mips64le.tar.gz"} text="yq_linux_mips64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_linux_mipsle"} text="yq_linux_mipsle" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_linux_mipsle.tar.gz"} text="yq_linux_mipsle.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_linux_ppc64"} text="yq_linux_ppc64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_linux_ppc64.tar.gz"} text="yq_linux_ppc64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_linux_ppc64le"} text="yq_linux_ppc64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_linux_ppc64le.tar.gz"} text="yq_linux_ppc64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_linux_s390x"} text="yq_linux_s390x" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_linux_s390x.tar.gz"} text="yq_linux_s390x.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_man_page_only.tar.gz"} text="yq_man_page_only.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_netbsd_386"} text="yq_netbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_netbsd_386.tar.gz"} text="yq_netbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_netbsd_amd64"} text="yq_netbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_netbsd_amd64.tar.gz"} text="yq_netbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_netbsd_arm"} text="yq_netbsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_netbsd_arm.tar.gz"} text="yq_netbsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_openbsd_386"} text="yq_openbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_openbsd_386.tar.gz"} text="yq_openbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_openbsd_amd64"} text="yq_openbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_openbsd_amd64.tar.gz"} text="yq_openbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_windows_386.exe"} text="yq_windows_386.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_windows_386.zip"} text="yq_windows_386.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_windows_amd64.exe"} text="yq_windows_amd64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_windows_amd64.zip"} text="yq_windows_amd64.zip" oneDriveSupport={false} />
+
+
+
+## v4.40.3
+
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/checksums"} text="checksums" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/checksums-bsd"} text="checksums-bsd" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/checksums_hashes_order"} text="checksums_hashes_order" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/extract-checksum.sh"} text="extract-checksum.sh" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_darwin_amd64"} text="yq_darwin_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_darwin_amd64.tar.gz"} text="yq_darwin_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_darwin_arm64"} text="yq_darwin_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_darwin_arm64.tar.gz"} text="yq_darwin_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_freebsd_386"} text="yq_freebsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_freebsd_386.tar.gz"} text="yq_freebsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_freebsd_amd64"} text="yq_freebsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_freebsd_amd64.tar.gz"} text="yq_freebsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_freebsd_arm"} text="yq_freebsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_freebsd_arm.tar.gz"} text="yq_freebsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_linux_386"} text="yq_linux_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_linux_386.tar.gz"} text="yq_linux_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_linux_amd64"} text="yq_linux_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_linux_amd64.tar.gz"} text="yq_linux_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_linux_arm"} text="yq_linux_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_linux_arm.tar.gz"} text="yq_linux_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_linux_arm64"} text="yq_linux_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_linux_arm64.tar.gz"} text="yq_linux_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_linux_mips"} text="yq_linux_mips" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_linux_mips.tar.gz"} text="yq_linux_mips.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_linux_mips64"} text="yq_linux_mips64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_linux_mips64.tar.gz"} text="yq_linux_mips64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_linux_mips64le"} text="yq_linux_mips64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_linux_mips64le.tar.gz"} text="yq_linux_mips64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_linux_mipsle"} text="yq_linux_mipsle" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_linux_mipsle.tar.gz"} text="yq_linux_mipsle.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_linux_ppc64"} text="yq_linux_ppc64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_linux_ppc64.tar.gz"} text="yq_linux_ppc64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_linux_ppc64le"} text="yq_linux_ppc64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_linux_ppc64le.tar.gz"} text="yq_linux_ppc64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_linux_s390x"} text="yq_linux_s390x" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_linux_s390x.tar.gz"} text="yq_linux_s390x.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_man_page_only.tar.gz"} text="yq_man_page_only.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_netbsd_386"} text="yq_netbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_netbsd_386.tar.gz"} text="yq_netbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_netbsd_amd64"} text="yq_netbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_netbsd_amd64.tar.gz"} text="yq_netbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_netbsd_arm"} text="yq_netbsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_netbsd_arm.tar.gz"} text="yq_netbsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_openbsd_386"} text="yq_openbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_openbsd_386.tar.gz"} text="yq_openbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_openbsd_amd64"} text="yq_openbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_openbsd_amd64.tar.gz"} text="yq_openbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_windows_386.exe"} text="yq_windows_386.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_windows_386.zip"} text="yq_windows_386.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_windows_amd64.exe"} text="yq_windows_amd64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_windows_amd64.zip"} text="yq_windows_amd64.zip" oneDriveSupport={false} />
+
+
+
+## v4.40.2
+
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/checksums"} text="checksums" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/checksums-bsd"} text="checksums-bsd" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/checksums_hashes_order"} text="checksums_hashes_order" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/extract-checksum.sh"} text="extract-checksum.sh" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_darwin_amd64"} text="yq_darwin_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_darwin_amd64.tar.gz"} text="yq_darwin_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_darwin_arm64"} text="yq_darwin_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_darwin_arm64.tar.gz"} text="yq_darwin_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_freebsd_386"} text="yq_freebsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_freebsd_386.tar.gz"} text="yq_freebsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_freebsd_amd64"} text="yq_freebsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_freebsd_amd64.tar.gz"} text="yq_freebsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_freebsd_arm"} text="yq_freebsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_freebsd_arm.tar.gz"} text="yq_freebsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_linux_386"} text="yq_linux_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_linux_386.tar.gz"} text="yq_linux_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_linux_amd64"} text="yq_linux_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_linux_amd64.tar.gz"} text="yq_linux_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_linux_arm"} text="yq_linux_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_linux_arm.tar.gz"} text="yq_linux_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_linux_arm64"} text="yq_linux_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_linux_arm64.tar.gz"} text="yq_linux_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_linux_mips"} text="yq_linux_mips" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_linux_mips.tar.gz"} text="yq_linux_mips.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_linux_mips64"} text="yq_linux_mips64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_linux_mips64.tar.gz"} text="yq_linux_mips64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_linux_mips64le"} text="yq_linux_mips64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_linux_mips64le.tar.gz"} text="yq_linux_mips64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_linux_mipsle"} text="yq_linux_mipsle" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_linux_mipsle.tar.gz"} text="yq_linux_mipsle.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_linux_ppc64"} text="yq_linux_ppc64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_linux_ppc64.tar.gz"} text="yq_linux_ppc64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_linux_ppc64le"} text="yq_linux_ppc64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_linux_ppc64le.tar.gz"} text="yq_linux_ppc64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_linux_s390x"} text="yq_linux_s390x" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_linux_s390x.tar.gz"} text="yq_linux_s390x.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_man_page_only.tar.gz"} text="yq_man_page_only.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_netbsd_386"} text="yq_netbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_netbsd_386.tar.gz"} text="yq_netbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_netbsd_amd64"} text="yq_netbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_netbsd_amd64.tar.gz"} text="yq_netbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_netbsd_arm"} text="yq_netbsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_netbsd_arm.tar.gz"} text="yq_netbsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_openbsd_386"} text="yq_openbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_openbsd_386.tar.gz"} text="yq_openbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_openbsd_amd64"} text="yq_openbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_openbsd_amd64.tar.gz"} text="yq_openbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_windows_386.exe"} text="yq_windows_386.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_windows_386.zip"} text="yq_windows_386.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_windows_amd64.exe"} text="yq_windows_amd64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_windows_amd64.zip"} text="yq_windows_amd64.zip" oneDriveSupport={false} />
+
+
+
+## v4.40.1
+
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/checksums"} text="checksums" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/checksums-bsd"} text="checksums-bsd" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/checksums_hashes_order"} text="checksums_hashes_order" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/extract-checksum.sh"} text="extract-checksum.sh" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_darwin_amd64"} text="yq_darwin_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_darwin_amd64.tar.gz"} text="yq_darwin_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_darwin_arm64"} text="yq_darwin_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_darwin_arm64.tar.gz"} text="yq_darwin_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_freebsd_386"} text="yq_freebsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_freebsd_386.tar.gz"} text="yq_freebsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_freebsd_amd64"} text="yq_freebsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_freebsd_amd64.tar.gz"} text="yq_freebsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_freebsd_arm"} text="yq_freebsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_freebsd_arm.tar.gz"} text="yq_freebsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_linux_386"} text="yq_linux_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_linux_386.tar.gz"} text="yq_linux_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_linux_amd64"} text="yq_linux_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_linux_amd64.tar.gz"} text="yq_linux_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_linux_arm"} text="yq_linux_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_linux_arm.tar.gz"} text="yq_linux_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_linux_arm64"} text="yq_linux_arm64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_linux_arm64.tar.gz"} text="yq_linux_arm64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_linux_mips"} text="yq_linux_mips" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_linux_mips.tar.gz"} text="yq_linux_mips.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_linux_mips64"} text="yq_linux_mips64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_linux_mips64.tar.gz"} text="yq_linux_mips64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_linux_mips64le"} text="yq_linux_mips64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_linux_mips64le.tar.gz"} text="yq_linux_mips64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_linux_mipsle"} text="yq_linux_mipsle" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_linux_mipsle.tar.gz"} text="yq_linux_mipsle.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_linux_ppc64"} text="yq_linux_ppc64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_linux_ppc64.tar.gz"} text="yq_linux_ppc64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_linux_ppc64le"} text="yq_linux_ppc64le" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_linux_ppc64le.tar.gz"} text="yq_linux_ppc64le.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_linux_s390x"} text="yq_linux_s390x" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_linux_s390x.tar.gz"} text="yq_linux_s390x.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_man_page_only.tar.gz"} text="yq_man_page_only.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_netbsd_386"} text="yq_netbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_netbsd_386.tar.gz"} text="yq_netbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_netbsd_amd64"} text="yq_netbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_netbsd_amd64.tar.gz"} text="yq_netbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_netbsd_arm"} text="yq_netbsd_arm" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_netbsd_arm.tar.gz"} text="yq_netbsd_arm.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_openbsd_386"} text="yq_openbsd_386" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_openbsd_386.tar.gz"} text="yq_openbsd_386.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_openbsd_amd64"} text="yq_openbsd_amd64" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_openbsd_amd64.tar.gz"} text="yq_openbsd_amd64.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_windows_386.exe"} text="yq_windows_386.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_windows_386.zip"} text="yq_windows_386.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_windows_amd64.exe"} text="yq_windows_amd64.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link={"https://github.com/mikefarah/yq/releases/download/v4.40.1/yq_windows_amd64.zip"} text="yq_windows_amd64.zip" oneDriveSupport={false} />
+
+
+
+
+找不到想要的版本？您可以访问 [官方网站](https://github.com/mikefarah/yq/) 以下载更多版本。
+
+<!-- md Mirrors.md -->
+
+
