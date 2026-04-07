@@ -307,14 +307,6 @@
     },
     {
       "type": "github",
-      "softwareName": "dev-sidecar",
-      "officialSite": "https://github.com/docmirror/dev-sidecar/",
-      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
-      "markdownFilename": "Mirrors-dev-sidecar.md",
-      "createDate": "2021-04-26"
-    },
-    {
-      "type": "github",
       "softwareName": "yq",
       "officialSite": "https://github.com/mikefarah/yq/",
       "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",

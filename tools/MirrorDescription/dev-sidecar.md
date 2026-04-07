@@ -1,1 +1,0 @@
-开发者边车，命名取自service-mesh的service-sidecar，意为为开发者打辅助的边车工具
