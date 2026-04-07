@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import Footer from '@theme-original/DocItem/Footer';
-import GiscusComponent from "@site/src/components/GiscusComponent";
 import HagicodeAd from "@site/src/components/HagicodeAd";
 import HagicodeModal from "@site/src/components/HagicodeModal";
 import { shouldShowModal } from "@site/src/components/HagicodeConfig";
@@ -31,7 +30,6 @@ export default function FooterWrapper(props) {
       <hr />
       {weixinContent}
       <HagicodeAd />
-      <GiscusComponent/>
       <HagicodeModal isOpen={showModal} onClose={() => setShowModal(false)} />
     </>
   );
