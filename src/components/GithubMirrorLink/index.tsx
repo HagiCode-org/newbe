@@ -20,6 +20,7 @@
  */
 
 import React, { useState, useEffect, useCallback, useRef } from 'react';
+import { createPortal } from 'react-dom';
 import type { GithubMirrorLinkProps, ToastState } from './types';
 import styles from './styles.module.css';
 
@@ -66,6 +67,19 @@ const GithubMirrorLink: React.FC<GithubMirrorLinkProps> = ({
     document.addEventListener('keydown', handleKeyDown);
     return () => document.removeEventListener('keydown', handleKeyDown);
   }, [handleKeyDown]);
+
+  useEffect(() => {
+    if (!showPopup && !showQRModal) {
+      return undefined;
+    }
+
+    const previousOverflow = document.body.style.overflow;
+    document.body.style.overflow = 'hidden';
+
+    return () => {
+      document.body.style.overflow = previousOverflow;
+    };
+  }, [showPopup, showQRModal]);
 
   // Focus trap for popup
   useEffect(() => {
@@ -161,7 +175,7 @@ const GithubMirrorLink: React.FC<GithubMirrorLinkProps> = ({
       </a>
 
       {/* Main Popup Modal */}
-      {showPopup && (
+      {showPopup && typeof document !== 'undefined' && createPortal(
         <div
           className={styles.popup}
           onClick={handleBackdropClick}
@@ -256,7 +270,8 @@ const GithubMirrorLink: React.FC<GithubMirrorLinkProps> = ({
               )}
             </div>
           </div>
-        </div>
+        </div>,
+        document.body
       )}
 
       {/* QR Code Modal */}

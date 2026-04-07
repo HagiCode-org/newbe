@@ -4,6 +4,7 @@
  */
 
 import React from 'react';
+import { createPortal } from 'react-dom';
 import type { QRCodeModalProps } from './types';
 import styles from './styles.module.css';
 
@@ -16,9 +17,19 @@ const QRCodeModal: React.FC<QRCodeModalProps> = ({
     return null;
   }
 
-  return (
-    <div className={`${styles.qrModal} ${visible ? styles.qrModalVisible : ''} ${className}`}>
-      <div className={styles.qrModalContent}>
+  if (typeof document === 'undefined') {
+    return null;
+  }
+
+  return createPortal(
+    <div
+      className={`${styles.qrModal} ${visible ? styles.qrModalVisible : ''} ${className}`}
+      onClick={onClose}
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="mirror-qr-modal-title"
+    >
+      <div className={styles.qrModalContent} onClick={(event) => event.stopPropagation()}>
         <button
           className={styles.qrModalClose}
           onClick={onClose}
@@ -27,7 +38,7 @@ const QRCodeModal: React.FC<QRCodeModalProps> = ({
         >
           ✕
         </button>
-        <h4 className={styles.qrModalTitle}>微信公众号</h4>
+        <h4 id="mirror-qr-modal-title" className={styles.qrModalTitle}>微信公众号</h4>
         <p className={styles.qrModalDescription}>
           如果加速链接失效，关注公众号回复"加速"获取稳定下载地址
         </p>
@@ -37,7 +48,8 @@ const QRCodeModal: React.FC<QRCodeModalProps> = ({
           className={styles.qrModalImage}
         />
       </div>
-    </div>
+    </div>,
+    document.body
   );
 };
 

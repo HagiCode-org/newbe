@@ -9,17 +9,16 @@
 
 .popup {
   position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+  inset: 0;
   display: flex;
   justify-content: center;
-  align-items: center;
-  background-color: rgba(0, 0, 0, 0.5);
-  z-index: 1000;
+  align-items: flex-start;
+  overflow-y: auto;
+  background-color: rgba(15, 23, 42, 0.6);
+  backdrop-filter: blur(6px);
+  z-index: 1400;
   animation: fadeIn 0.2s ease-out;
-  padding: 16px;
+  padding: clamp(16px, 5vh, 40px) 16px;
 }
 
 @keyframes fadeIn {
@@ -33,14 +32,14 @@
 
 .popupContent {
   position: relative;
-  width: 100%;
-  max-width: 600px;
-  max-height: 90vh;
+  width: min(100%, 720px);
+  max-width: 720px;
+  max-height: min(88vh, 920px);
   overflow-y: auto;
   background-color: var(--ifm-background-color);
   border: 1px solid var(--ifm-color-border);
-  border-radius: 12px;
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
+  border-radius: 20px;
+  box-shadow: 0 28px 80px rgba(15, 23, 42, 0.22);
   animation: slideUp 0.3s ease-out;
 }
 
@@ -129,11 +128,14 @@
    ============================================ */
 
 .content {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
   padding: 8px 24px 24px;
 }
 
 .promoSection {
-  margin-bottom: 4px;
+  margin-bottom: 0;
 }
 
 /* ============================================
@@ -141,7 +143,7 @@
    ============================================ */
 
 .section {
-  margin-top: 20px;
+  margin-top: 0;
 }
 
 .section:first-child {
@@ -302,7 +304,6 @@
    ============================================ */
 
 .otherMethods {
-  margin-top: 20px;
   padding: 16px;
   background-color: var(--ifm-color-emphasis-50);
   border: 1px solid var(--ifm-color-border);
@@ -339,15 +340,14 @@
 
 .qrModal {
   position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+  inset: 0;
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgba(0, 0, 0, 0.6);
-  z-index: 1100;
+  padding: 16px;
+  background-color: rgba(15, 23, 42, 0.72);
+  backdrop-filter: blur(6px);
+  z-index: 1450;
   animation: fadeIn 0.2s ease-out;
 }
 
@@ -356,8 +356,9 @@
   padding: 24px;
   background-color: var(--ifm-background-color);
   border: 1px solid var(--ifm-color-border);
-  border-radius: 12px;
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+  border-radius: 18px;
+  box-shadow: 0 22px 56px rgba(15, 23, 42, 0.24);
+  width: min(100%, 360px);
   max-width: 90vw;
   text-align: center;
   animation: slideUp 0.3s ease-out;
@@ -480,14 +481,14 @@
 
 /* Backdrop - darker overlay for better contrast */
 [data-theme='dark'] .popup {
-  background-color: rgba(0, 0, 0, 0.85);
+  background-color: rgba(2, 6, 23, 0.82);
 }
 
 /* Modal content - surface color with enhanced border */
 [data-theme='dark'] .popupContent {
   background-color: var(--ifm-background-surface-color);
   border-color: var(--ifm-color-border-dark);
-  box-shadow: 0 12px 48px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 32px 88px rgba(0, 0, 0, 0.58);
 }
 
 /* Header - enhanced border visibility */
@@ -591,13 +592,13 @@
 
 /* QR Modal */
 [data-theme='dark'] .qrModal {
-  background-color: rgba(0, 0, 0, 0.85);
+  background-color: rgba(2, 6, 23, 0.86);
 }
 
 [data-theme='dark'] .qrModalContent {
   background-color: var(--ifm-background-surface-color);
   border-color: var(--ifm-color-border-dark);
-  box-shadow: 0 12px 48px rgba(0, 0, 0, 0.6);
+  box-shadow: 0 28px 72px rgba(0, 0, 0, 0.62);
 }
 
 [data-theme='dark'] .qrModalClose:hover {
@@ -638,6 +639,7 @@
 
   .popupContent {
     max-height: 95vh;
+    border-radius: 18px;
   }
 
   .header {
@@ -655,6 +657,7 @@
 
   .content {
     padding: 8px 16px 20px;
+    gap: 14px;
   }
 
   .promoSection {
@@ -692,6 +695,10 @@
   .qrToggleButton {
     width: auto;
     min-width: 120px;
+  }
+
+  .qrModalContent {
+    padding: 20px;
   }
 
   .toast {
