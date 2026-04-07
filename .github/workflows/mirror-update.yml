@@ -3,45 +3,146 @@ name: Update mirror
 on:
   push:
     branches:
-      - main
       - mirror
   schedule:
     - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mirror-update
+  cancel-in-progress: false
+
+env:
+  PUBLISH_BRANCH: main
+  INDEX_SYNC_REPOSITORY: HagiCode-org/index
+  INDEX_SYNC_WORKFLOW: index-file-sync.yml
 
 jobs:
   release:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      pull-requests: write
     steps:
-      - name: Checkout
+      # Publish always targets main; push:main stays disabled to avoid self-trigger loops.
+      - name: Checkout source ref
         uses: actions/checkout@v6
         with:
           fetch-depth: 0
+
       - uses: actions/setup-python@v6
         with:
-          python-version: "3.13" # Version range or exact version of a Python version to use, using SemVer's version range syntax
-          architecture: "x64" # optional x64 or x86. Defaults to x64 if not specified
+          python-version: "3.13"
+          architecture: "x64"
+
       - name: Init Pipenv CLI and run
+        working-directory: ${{ github.workspace }}/tools
         run: |
-          cd $GITHUB_WORKSPACE/tools
           export PATH=/home/runner/.local/bin/:$PATH
           pip install --upgrade pip
           pip install pipenv
           pipenv install
           pipenv run invoke create-mirrors
 
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v8
-        with:
-          token: ${{ secrets.NEWBE_GITHUB_PAT }}
-          commit-message: Update mirror
-          signoff: false
-          delete-branch: true
-          title: "Update mirror"
-          labels: |
-            mirror update
-            automated pr
-          assignees: |
-            newbe36524
+      - name: Capture mirror diff
+        id: diff
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          PATCH_FILE="$RUNNER_TEMP/mirror-update.patch"
+
+          git add -N .
+
+          if git diff --quiet -- .; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            {
+              echo "### Mirror publish"
+              echo "- Result: no-op"
+              echo "- Publish branch: $PUBLISH_BRANCH"
+              echo "- Source ref: $GITHUB_REF_NAME"
+            } >> "$GITHUB_STEP_SUMMARY"
+            rm -f "$PATCH_FILE"
+            exit 0
+          fi
+
+          git diff --binary --full-index -- . > "$PATCH_FILE"
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+          echo "patch_file=$PATCH_FILE" >> "$GITHUB_OUTPUT"
+
+          {
+            echo "### Mirror publish"
+            echo "- Result: changes detected"
+            echo "- Publish branch: $PUBLISH_BRANCH"
+            echo "- Source ref: $GITHUB_REF_NAME"
+            echo "- Pending files:"
+            echo '```text'
+            git status --short
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Publish mirror updates to main
+        id: publish
+        if: steps.diff.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.NEWBE_GITHUB_PAT }}
+          PATCH_FILE: ${{ steps.diff.outputs.patch_file }}
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if [ -z "${GH_TOKEN:-}" ]; then
+            echo "NEWBE_GITHUB_PAT is required to push ${PUBLISH_BRANCH}." >&2
+            exit 1
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+
+          git reset --hard HEAD
+          git clean -fd
+          git fetch origin "$PUBLISH_BRANCH"
+          git checkout -B mirror-publish "origin/$PUBLISH_BRANCH"
+          git apply --index --binary "$PATCH_FILE"
+
+          if git diff --cached --quiet; then
+            echo "Mirror patch produced no staged changes on ${PUBLISH_BRANCH}." >&2
+            exit 1
+          fi
+
+          git commit -m "chore(mirror): update managed mirrors"
+          git push origin HEAD:"$PUBLISH_BRANCH"
+
+          COMMIT_SHA="$(git rev-parse HEAD)"
+          echo "published=true" >> "$GITHUB_OUTPUT"
+          echo "commit_sha=$COMMIT_SHA" >> "$GITHUB_OUTPUT"
+
+          {
+            echo "- Result: published"
+            echo "- Commit: \`$COMMIT_SHA\`"
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Trigger index sync
+        id: index_sync
+        if: steps.publish.outputs.published == 'true'
+        working-directory: ${{ github.workspace }}/tools
+        env:
+          GH_TOKEN: ${{ secrets.NEWBE_GITHUB_PAT }}
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if [ -z "${GH_TOKEN:-}" ]; then
+            echo "NEWBE_GITHUB_PAT is required to dispatch ${INDEX_SYNC_REPOSITORY}." >&2
+            exit 1
+          fi
+
+          export PATH=/home/runner/.local/bin/:$PATH
+          pipenv run python dispatch_index_sync.py \
+            --repo "$INDEX_SYNC_REPOSITORY" \
+            --workflow "$INDEX_SYNC_WORKFLOW" \
+            --ref "$PUBLISH_BRANCH" \
+            --token "$GH_TOKEN" \
+            --summary-file "$GITHUB_STEP_SUMMARY" \
+            --github-output "$GITHUB_OUTPUT"
