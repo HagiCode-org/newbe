@@ -5,7 +5,7 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "dev": "docusaurus start",
-    "build": "yarn sync:footer-sites && docusaurus build",
+    "build": "npm run sync:footer-sites && docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
@@ -52,5 +52,5 @@
   "engines": {
     "node": ">=20.0"
   },
-  "packageManager": "yarn@4.13.0"
+  "packageManager": "npm@11.9.0"
 }

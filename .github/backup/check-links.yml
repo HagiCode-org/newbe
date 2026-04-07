@@ -21,12 +21,11 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
-      - name: install yarn
-        run: npm i -g --force yarn
-      - name: restore yarn
+          cache: npm
+      - name: install dependencies
         run: |
           cd $GITHUB_WORKSPACE/newbepro
-          yarn install
+          npm ci
       - name: run check-links
         run: |
           cd $GITHUB_WORKSPACE/newbepro

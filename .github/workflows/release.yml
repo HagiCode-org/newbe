@@ -21,14 +21,12 @@ jobs:
       - uses: actions/setup-node@v6
         with:
           node-version: "24"
-      - name: install yarn
-        run: corepack enable && corepack prepare yarn@stable --activate
-      - name: restore yarn
-        run: |
-          yarn install --frozen-lockfile
-      - name: yarn build
-        run: |
-          yarn run build
+          cache: npm
+          cache-dependency-path: package-lock.json
+      - name: install dependencies
+        run: npm ci
+      - name: npm build
+        run: npm run build
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
