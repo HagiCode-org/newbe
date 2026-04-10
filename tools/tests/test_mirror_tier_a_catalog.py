@@ -7,7 +7,7 @@ import unittest
 from pathlib import Path
 from unittest.mock import patch
 
-import tasks as mirror_tasks
+from tools import tasks as mirror_tasks
 
 
 TOOLS_DIR = Path(__file__).resolve().parent.parent

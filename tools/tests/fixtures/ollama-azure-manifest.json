@@ -1,0 +1,40 @@
+{
+  "repositoryKey": "ollama/ollama",
+  "version": 1,
+  "updatedAt": "2026-04-10T12:30:00Z",
+  "records": [
+    {
+      "repositoryKey": "ollama/ollama",
+      "releaseTagName": "v0.20.2",
+      "assetName": "OllamaSetup.exe",
+      "providerName": "123pan",
+      "shareUrl": "https://www.123pan.com/s/example-share",
+      "status": "synced",
+      "lastSyncedAt": "2026-04-10T12:00:00Z"
+    },
+    {
+      "repositoryKey": "ollama/ollama",
+      "releaseTagName": "v0.20.2",
+      "assetName": "install.sh",
+      "providerName": "123pan",
+      "shareUrl": "",
+      "status": "synced"
+    },
+    {
+      "repositoryKey": "ollama/ollama",
+      "releaseTagName": "v0.20.1",
+      "assetName": "OllamaSetup.exe",
+      "providerName": "123pan",
+      "shareUrl": "https://www.123pan.com/s/older-release",
+      "status": "synced"
+    },
+    {
+      "repositoryKey": "another/repo",
+      "releaseTagName": "v0.20.2",
+      "assetName": "OllamaSetup.exe",
+      "providerName": "123pan",
+      "shareUrl": "https://www.123pan.com/s/wrong-repo",
+      "status": "synced"
+    }
+  ]
+}
