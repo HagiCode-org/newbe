@@ -391,6 +391,7 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [3.13.10](https://repo.huaweicloud.com/python/3.13.10/)
 - [3.13.11](https://repo.huaweicloud.com/python/3.13.11/)
 - [3.13.12](https://repo.huaweicloud.com/python/3.13.12/)
+- [3.13.13](https://repo.huaweicloud.com/python/3.13.13/)
 
 
 
@@ -400,6 +401,7 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [3.14.1](https://repo.huaweicloud.com/python/3.14.1/)
 - [3.14.2](https://repo.huaweicloud.com/python/3.14.2/)
 - [3.14.3](https://repo.huaweicloud.com/python/3.14.3/)
+- [3.14.4](https://repo.huaweicloud.com/python/3.14.4/)
 
 
 

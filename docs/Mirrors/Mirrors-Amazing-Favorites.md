@@ -32,54 +32,54 @@ import OneDrive from './_onedrive.md';
 
 ## v0.8.0
 
-- <GithubMirrorLink link={"https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.8.0/Amazing-Favorites-0.8.0-aot-false.zip"} text="Amazing-Favorites-0.8.0-aot-false.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.8.0/Amazing-Favorites-0.8.0-aot-true.zip"} text="Amazing-Favorites-0.8.0-aot-true.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.8.0/Amazing-Favorites-0.8.0-aot-false.zip" text="Amazing-Favorites-0.8.0-aot-false.zip" oneDriveSupport=false repositoryKey="Amazing-Favorites/Amazing-Favorites" />
+- <GithubMirrorLink link="https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.8.0/Amazing-Favorites-0.8.0-aot-true.zip" text="Amazing-Favorites-0.8.0-aot-true.zip" oneDriveSupport=false repositoryKey="Amazing-Favorites/Amazing-Favorites" />
 
 
 
 ## v0.7.1
 
-- <GithubMirrorLink link={"https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.7.1/Amazing-Favorites-0.7.1-aot-false.zip"} text="Amazing-Favorites-0.7.1-aot-false.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.7.1/Amazing-Favorites-0.7.1-aot-true.zip"} text="Amazing-Favorites-0.7.1-aot-true.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.7.1/Amazing-Favorites-0.7.1-aot-false.zip" text="Amazing-Favorites-0.7.1-aot-false.zip" oneDriveSupport=false repositoryKey="Amazing-Favorites/Amazing-Favorites" />
+- <GithubMirrorLink link="https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.7.1/Amazing-Favorites-0.7.1-aot-true.zip" text="Amazing-Favorites-0.7.1-aot-true.zip" oneDriveSupport=false repositoryKey="Amazing-Favorites/Amazing-Favorites" />
 
 
 
 ## v0.7.0
 
-- <GithubMirrorLink link={"https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.7.0/Amazing-Favorites-0.7.0-aot-false.zip"} text="Amazing-Favorites-0.7.0-aot-false.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.7.0/Amazing-Favorites-0.7.0-aot-true.zip"} text="Amazing-Favorites-0.7.0-aot-true.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.7.0/Amazing-Favorites-0.7.0-aot-false.zip" text="Amazing-Favorites-0.7.0-aot-false.zip" oneDriveSupport=false repositoryKey="Amazing-Favorites/Amazing-Favorites" />
+- <GithubMirrorLink link="https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.7.0/Amazing-Favorites-0.7.0-aot-true.zip" text="Amazing-Favorites-0.7.0-aot-true.zip" oneDriveSupport=false repositoryKey="Amazing-Favorites/Amazing-Favorites" />
 
 
 
 ## v0.6.3
 
-- <GithubMirrorLink link={"https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.6.3/Amazing-Favorites-0.6.3-aot-false.zip"} text="Amazing-Favorites-0.6.3-aot-false.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.6.3/Amazing-Favorites-0.6.3-aot-true.zip"} text="Amazing-Favorites-0.6.3-aot-true.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.6.3/Amazing-Favorites-0.6.3-aot-false.zip" text="Amazing-Favorites-0.6.3-aot-false.zip" oneDriveSupport=false repositoryKey="Amazing-Favorites/Amazing-Favorites" />
+- <GithubMirrorLink link="https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.6.3/Amazing-Favorites-0.6.3-aot-true.zip" text="Amazing-Favorites-0.6.3-aot-true.zip" oneDriveSupport=false repositoryKey="Amazing-Favorites/Amazing-Favorites" />
 
 
 
 ## v0.6.2
 
-- <GithubMirrorLink link={"https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.6.2/Amazing-Favorites-0.6.2-aot-false.zip"} text="Amazing-Favorites-0.6.2-aot-false.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.6.2/Amazing-Favorites-0.6.2-aot-true.zip"} text="Amazing-Favorites-0.6.2-aot-true.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.6.2/Amazing-Favorites-0.6.2-aot-false.zip" text="Amazing-Favorites-0.6.2-aot-false.zip" oneDriveSupport=false repositoryKey="Amazing-Favorites/Amazing-Favorites" />
+- <GithubMirrorLink link="https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.6.2/Amazing-Favorites-0.6.2-aot-true.zip" text="Amazing-Favorites-0.6.2-aot-true.zip" oneDriveSupport=false repositoryKey="Amazing-Favorites/Amazing-Favorites" />
 
 
 
 ## v0.6.1
 
-- <GithubMirrorLink link={"https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.6.1/Amazing-Favorites-0.6.1.zip"} text="Amazing-Favorites-0.6.1.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.6.1/Amazing-Favorites-0.6.1.zip" text="Amazing-Favorites-0.6.1.zip" oneDriveSupport=false repositoryKey="Amazing-Favorites/Amazing-Favorites" />
 
 
 
 ## v0.6.0
 
-- <GithubMirrorLink link={"https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.6.0/Amazing-Favorites-0.6.0.zip"} text="Amazing-Favorites-0.6.0.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.6.0/Amazing-Favorites-0.6.0.zip" text="Amazing-Favorites-0.6.0.zip" oneDriveSupport=false repositoryKey="Amazing-Favorites/Amazing-Favorites" />
 
 
 
 ## v0.5.10
 
-- <GithubMirrorLink link={"https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.5.10/Amazing-Favorites-0.5.10.zip"} text="Amazing-Favorites-0.5.10.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.5.10/Amazing-Favorites-0.5.10.zip" text="Amazing-Favorites-0.5.10.zip" oneDriveSupport=false repositoryKey="Amazing-Favorites/Amazing-Favorites" />
 
 
 
@@ -90,37 +90,37 @@ import OneDrive from './_onedrive.md';
 
 ## v0.5.8
 
-- <GithubMirrorLink link={"https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.5.8/Amazing-Favorites-0.5.8.zip"} text="Amazing-Favorites-0.5.8.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.5.8/Amazing-Favorites-0.5.8.zip" text="Amazing-Favorites-0.5.8.zip" oneDriveSupport=false repositoryKey="Amazing-Favorites/Amazing-Favorites" />
 
 
 
 ## v0.5.7
 
-- <GithubMirrorLink link={"https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.5.7/Amazing-Favorites-0.5.7.zip"} text="Amazing-Favorites-0.5.7.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.5.7/Amazing-Favorites-0.5.7.zip" text="Amazing-Favorites-0.5.7.zip" oneDriveSupport=false repositoryKey="Amazing-Favorites/Amazing-Favorites" />
 
 
 
 ## v0.5.6
 
-- <GithubMirrorLink link={"https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.5.6/Amazing-Favorites-0.5.6.zip"} text="Amazing-Favorites-0.5.6.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.5.6/Amazing-Favorites-0.5.6.zip" text="Amazing-Favorites-0.5.6.zip" oneDriveSupport=false repositoryKey="Amazing-Favorites/Amazing-Favorites" />
 
 
 
 ## v0.5.5
 
-- <GithubMirrorLink link={"https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.5.5/Amazing-Favorites-0.5.5.zip"} text="Amazing-Favorites-0.5.5.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.5.5/Amazing-Favorites-0.5.5.zip" text="Amazing-Favorites-0.5.5.zip" oneDriveSupport=false repositoryKey="Amazing-Favorites/Amazing-Favorites" />
 
 
 
 ## v0.5.4
 
-- <GithubMirrorLink link={"https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.5.4/Amazing-Favorites-0.5.4.zip"} text="Amazing-Favorites-0.5.4.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.5.4/Amazing-Favorites-0.5.4.zip" text="Amazing-Favorites-0.5.4.zip" oneDriveSupport=false repositoryKey="Amazing-Favorites/Amazing-Favorites" />
 
 
 
 ## v0.5.3
 
-- <GithubMirrorLink link={"https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.5.3/Amazing-Favorites-0.5.3.zip"} text="Amazing-Favorites-0.5.3.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.5.3/Amazing-Favorites-0.5.3.zip" text="Amazing-Favorites-0.5.3.zip" oneDriveSupport=false repositoryKey="Amazing-Favorites/Amazing-Favorites" />
 
 
 
@@ -128,61 +128,61 @@ import OneDrive from './_onedrive.md';
 
 ## v0.5.2
 
-- <GithubMirrorLink link={"https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.5.2/Amazing-Favorites-0.5.2.zip"} text="Amazing-Favorites-0.5.2.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.5.2/Amazing-Favorites-0.5.2.zip" text="Amazing-Favorites-0.5.2.zip" oneDriveSupport=false repositoryKey="Amazing-Favorites/Amazing-Favorites" />
 
 
 
 ## v0.5.1
 
-- <GithubMirrorLink link={"https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.5.1/Amazing-Favorites-0.5.1.zip"} text="Amazing-Favorites-0.5.1.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.5.1/Amazing-Favorites-0.5.1.zip" text="Amazing-Favorites-0.5.1.zip" oneDriveSupport=false repositoryKey="Amazing-Favorites/Amazing-Favorites" />
 
 
 
 ## v0.5.0
 
-- <GithubMirrorLink link={"https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.5.0/Amazing-Favorites-0.5.0.zip"} text="Amazing-Favorites-0.5.0.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.5.0/Amazing-Favorites-0.5.0.zip" text="Amazing-Favorites-0.5.0.zip" oneDriveSupport=false repositoryKey="Amazing-Favorites/Amazing-Favorites" />
 
 
 
 ## v0.4.3
 
-- <GithubMirrorLink link={"https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.4.3/Amazing-Favorites-0.4.3.zip"} text="Amazing-Favorites-0.4.3.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.4.3/Amazing-Favorites-0.4.3.zip" text="Amazing-Favorites-0.4.3.zip" oneDriveSupport=false repositoryKey="Amazing-Favorites/Amazing-Favorites" />
 
 
 
 ## v0.4.2
 
-- <GithubMirrorLink link={"https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.4.2/Amazing-Favorites-0.4.2.zip"} text="Amazing-Favorites-0.4.2.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.4.2/Amazing-Favorites-0.4.2.zip" text="Amazing-Favorites-0.4.2.zip" oneDriveSupport=false repositoryKey="Amazing-Favorites/Amazing-Favorites" />
 
 
 
 ## v0.4.1
 
-- <GithubMirrorLink link={"https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.4.1/Amazing-Favorites-0.4.1.zip"} text="Amazing-Favorites-0.4.1.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.4.1/Amazing-Favorites-0.4.1.zip" text="Amazing-Favorites-0.4.1.zip" oneDriveSupport=false repositoryKey="Amazing-Favorites/Amazing-Favorites" />
 
 
 
 ## v0.4.0
 
-- <GithubMirrorLink link={"https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.4.0/Amazing-Favorites-0.4.0.zip"} text="Amazing-Favorites-0.4.0.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.4.0/Amazing-Favorites-0.4.0.zip" text="Amazing-Favorites-0.4.0.zip" oneDriveSupport=false repositoryKey="Amazing-Favorites/Amazing-Favorites" />
 
 
 
 ## v0.3.1
 
-- <GithubMirrorLink link={"https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.3.1/Amazing-Favorites-0.3.1.zip"} text="Amazing-Favorites-0.3.1.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.3.1/Amazing-Favorites-0.3.1.zip" text="Amazing-Favorites-0.3.1.zip" oneDriveSupport=false repositoryKey="Amazing-Favorites/Amazing-Favorites" />
 
 
 
 ## v0.3
 
-- <GithubMirrorLink link={"https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.3/Amazing-Favorites-0.3.0.zip"} text="Amazing-Favorites-0.3.0.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.3/Amazing-Favorites-0.3.0.zip" text="Amazing-Favorites-0.3.0.zip" oneDriveSupport=false repositoryKey="Amazing-Favorites/Amazing-Favorites" />
 
 
 
 ## v0.2
 
-- <GithubMirrorLink link={"https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.2/Amazing-Favorites-0.2.0.zip"} text="Amazing-Favorites-0.2.0.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Amazing-Favorites/Amazing-Favorites/releases/download/v0.2/Amazing-Favorites-0.2.0.zip" text="Amazing-Favorites-0.2.0.zip" oneDriveSupport=false repositoryKey="Amazing-Favorites/Amazing-Favorites" />
 
 
 

@@ -31,206 +31,206 @@ import OneDrive from './_onedrive.md';
         
 ## v2.0.2
 
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.2/wox-linux-amd64"} text="wox-linux-amd64" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.2/wox-linux-amd64.AppImage"} text="wox-linux-amd64.AppImage" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.2/wox-mac-amd64.dmg"} text="wox-mac-amd64.dmg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.2/wox-mac-arm64.dmg"} text="wox-mac-arm64.dmg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.2/wox-windows-amd64.exe"} text="wox-windows-amd64.exe" oneDriveSupport={true} />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.2/wox-linux-amd64" text="wox-linux-amd64" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.2/wox-linux-amd64.AppImage" text="wox-linux-amd64.AppImage" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.2/wox-mac-amd64.dmg" text="wox-mac-amd64.dmg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.2/wox-mac-arm64.dmg" text="wox-mac-arm64.dmg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.2/wox-windows-amd64.exe" text="wox-windows-amd64.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
 
 
 
 ## v2.0.1
 
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.1/wox-linux-amd64"} text="wox-linux-amd64" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.1/wox-linux-amd64.AppImage"} text="wox-linux-amd64.AppImage" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.1/wox-mac-amd64.dmg"} text="wox-mac-amd64.dmg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.1/wox-mac-arm64.dmg"} text="wox-mac-arm64.dmg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.1/wox-windows-amd64.exe"} text="wox-windows-amd64.exe" oneDriveSupport={true} />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.1/wox-linux-amd64" text="wox-linux-amd64" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.1/wox-linux-amd64.AppImage" text="wox-linux-amd64.AppImage" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.1/wox-mac-amd64.dmg" text="wox-mac-amd64.dmg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.1/wox-mac-arm64.dmg" text="wox-mac-arm64.dmg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.1/wox-windows-amd64.exe" text="wox-windows-amd64.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
 
 
 
 ## v2.0.0
 
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0/wox-linux-amd64"} text="wox-linux-amd64" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0/wox-linux-amd64.AppImage"} text="wox-linux-amd64.AppImage" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0/wox-mac-amd64.dmg"} text="wox-mac-amd64.dmg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0/wox-mac-arm64.dmg"} text="wox-mac-arm64.dmg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0/wox-windows-amd64.exe"} text="wox-windows-amd64.exe" oneDriveSupport={true} />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0/wox-linux-amd64" text="wox-linux-amd64" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0/wox-linux-amd64.AppImage" text="wox-linux-amd64.AppImage" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0/wox-mac-amd64.dmg" text="wox-mac-amd64.dmg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0/wox-mac-arm64.dmg" text="wox-mac-arm64.dmg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0/wox-windows-amd64.exe" text="wox-windows-amd64.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
 
 
 
 ## v2.0.0-beta.8
 
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.8/wox-linux-amd64"} text="wox-linux-amd64" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.8/wox-linux-amd64.AppImage"} text="wox-linux-amd64.AppImage" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.8/wox-mac-arm64.dmg"} text="wox-mac-arm64.dmg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.8/wox-windows-amd64.exe"} text="wox-windows-amd64.exe" oneDriveSupport={true} />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.8/wox-linux-amd64" text="wox-linux-amd64" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.8/wox-linux-amd64.AppImage" text="wox-linux-amd64.AppImage" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.8/wox-mac-arm64.dmg" text="wox-mac-arm64.dmg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.8/wox-windows-amd64.exe" text="wox-windows-amd64.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
 
 
 
 ## v2.0.0-beta.7
 
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.7/wox-linux-amd64"} text="wox-linux-amd64" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.7/wox-mac-arm64.dmg"} text="wox-mac-arm64.dmg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.7/wox-windows-amd64.exe"} text="wox-windows-amd64.exe" oneDriveSupport={true} />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.7/wox-linux-amd64" text="wox-linux-amd64" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.7/wox-mac-arm64.dmg" text="wox-mac-arm64.dmg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.7/wox-windows-amd64.exe" text="wox-windows-amd64.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
 
 
 
 ## v2.0.0-beta.6
 
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.6/wox-linux-amd64"} text="wox-linux-amd64" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.6/wox-mac-arm64.dmg"} text="wox-mac-arm64.dmg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.6/wox-windows-amd64.exe"} text="wox-windows-amd64.exe" oneDriveSupport={true} />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.6/wox-linux-amd64" text="wox-linux-amd64" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.6/wox-mac-arm64.dmg" text="wox-mac-arm64.dmg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.6/wox-windows-amd64.exe" text="wox-windows-amd64.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
 
 
 
 ## v2.0.0-beta.5
 
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.5/wox-linux-amd64"} text="wox-linux-amd64" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.5/wox-mac-amd64.dmg"} text="wox-mac-amd64.dmg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.5/wox-mac-arm64.dmg"} text="wox-mac-arm64.dmg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.5/wox-windows-amd64.exe"} text="wox-windows-amd64.exe" oneDriveSupport={true} />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.5/wox-linux-amd64" text="wox-linux-amd64" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.5/wox-mac-amd64.dmg" text="wox-mac-amd64.dmg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.5/wox-mac-arm64.dmg" text="wox-mac-arm64.dmg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.5/wox-windows-amd64.exe" text="wox-windows-amd64.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
 
 
 
 ## v2.0.0-beta.4
 
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.4/wox-linux-amd64"} text="wox-linux-amd64" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.4/wox-mac-amd64.dmg"} text="wox-mac-amd64.dmg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.4/wox-mac-arm64.dmg"} text="wox-mac-arm64.dmg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.4/wox-windows-amd64.exe"} text="wox-windows-amd64.exe" oneDriveSupport={true} />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.4/wox-linux-amd64" text="wox-linux-amd64" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.4/wox-mac-amd64.dmg" text="wox-mac-amd64.dmg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.4/wox-mac-arm64.dmg" text="wox-mac-arm64.dmg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.4/wox-windows-amd64.exe" text="wox-windows-amd64.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
 
 
 
 ## v2.0.0-beta.3
 
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.3/wox-linux-amd64"} text="wox-linux-amd64" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.3/wox-mac-amd64.dmg"} text="wox-mac-amd64.dmg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.3/wox-mac-arm64.dmg"} text="wox-mac-arm64.dmg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.3/wox-windows-amd64.exe"} text="wox-windows-amd64.exe" oneDriveSupport={true} />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.3/wox-linux-amd64" text="wox-linux-amd64" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.3/wox-mac-amd64.dmg" text="wox-mac-amd64.dmg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.3/wox-mac-arm64.dmg" text="wox-mac-arm64.dmg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.3/wox-windows-amd64.exe" text="wox-windows-amd64.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
 
 
 
 ## v2.0.0-beta.2
 
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.2/wox-linux-amd64"} text="wox-linux-amd64" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.2/wox-mac-amd64.dmg"} text="wox-mac-amd64.dmg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.2/wox-mac-arm64.dmg"} text="wox-mac-arm64.dmg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.2/wox-windows-amd64.exe"} text="wox-windows-amd64.exe" oneDriveSupport={true} />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.2/wox-linux-amd64" text="wox-linux-amd64" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.2/wox-mac-amd64.dmg" text="wox-mac-amd64.dmg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.2/wox-mac-arm64.dmg" text="wox-mac-arm64.dmg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.2/wox-windows-amd64.exe" text="wox-windows-amd64.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
 
 
 
 ## v2.0.0-beta.1
 
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.1/wox-linux-amd64"} text="wox-linux-amd64" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.1/wox-mac-amd64.dmg"} text="wox-mac-amd64.dmg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.1/wox-mac-arm64.dmg"} text="wox-mac-arm64.dmg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.1/wox-windows-amd64.exe"} text="wox-windows-amd64.exe" oneDriveSupport={true} />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.1/wox-linux-amd64" text="wox-linux-amd64" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.1/wox-mac-amd64.dmg" text="wox-mac-amd64.dmg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.1/wox-mac-arm64.dmg" text="wox-mac-arm64.dmg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.1/wox-windows-amd64.exe" text="wox-windows-amd64.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
 
 
 
 ## v2.0.0-nightly
 
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-nightly/wox-linux-amd64-20250227-af4dae"} text="wox-linux-amd64-20250227-af4dae" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-nightly/wox-mac-amd64-20250227-af4dae.dmg"} text="wox-mac-amd64-20250227-af4dae.dmg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-nightly/wox-mac-arm64-20250227-af4dae.dmg"} text="wox-mac-arm64-20250227-af4dae.dmg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-nightly/wox-windows-amd64-20250227-af4dae.exe"} text="wox-windows-amd64-20250227-af4dae.exe" oneDriveSupport={true} />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-nightly/wox-linux-amd64-20250227-af4dae" text="wox-linux-amd64-20250227-af4dae" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-nightly/wox-mac-amd64-20250227-af4dae.dmg" text="wox-mac-amd64-20250227-af4dae.dmg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-nightly/wox-mac-arm64-20250227-af4dae.dmg" text="wox-mac-arm64-20250227-af4dae.dmg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-nightly/wox-windows-amd64-20250227-af4dae.exe" text="wox-windows-amd64-20250227-af4dae.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
 
 
 
 ## v1.4.1196
 
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.4.1196/Everything-1.4.1.969.x64-Setup.exe"} text="Everything-1.4.1.969.x64-Setup.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.4.1196/python-3.7.7.exe"} text="python-3.7.7.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.4.1196/RELEASES"} text="RELEASES" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.4.1196/Wox-1.4.1196-full.nupkg"} text="Wox-1.4.1196-full.nupkg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.4.1196/Wox-1.4.1196.exe"} text="Wox-1.4.1196.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.4.1196/Wox-1.4.1196.zip"} text="Wox-1.4.1196.zip" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.4.1196/Wox-Full-Installer.1.4.1196.exe"} text="Wox-Full-Installer.1.4.1196.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.4.1196/Wox.1.4.1196.nupkg"} text="Wox.1.4.1196.nupkg" oneDriveSupport={true} />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.4.1196/Everything-1.4.1.969.x64-Setup.exe" text="Everything-1.4.1.969.x64-Setup.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.4.1196/python-3.7.7.exe" text="python-3.7.7.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.4.1196/RELEASES" text="RELEASES" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.4.1196/Wox-1.4.1196-full.nupkg" text="Wox-1.4.1196-full.nupkg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.4.1196/Wox-1.4.1196.exe" text="Wox-1.4.1196.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.4.1196/Wox-1.4.1196.zip" text="Wox-1.4.1196.zip" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.4.1196/Wox-Full-Installer.1.4.1196.exe" text="Wox-Full-Installer.1.4.1196.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.4.1196/Wox.1.4.1196.nupkg" text="Wox.1.4.1196.nupkg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
 
 
 
 ## v1.4.1129
 
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.4.1129/Everything-1.4.1.969.x64-Setup.exe"} text="Everything-1.4.1.969.x64-Setup.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.4.1129/python-3.7.7.exe"} text="python-3.7.7.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.4.1129/RELEASES"} text="RELEASES" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.4.1129/Wox-1.4.1129-full.nupkg"} text="Wox-1.4.1129-full.nupkg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.4.1129/Wox-1.4.1129.exe"} text="Wox-1.4.1129.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.4.1129/Wox-1.4.1129.zip"} text="Wox-1.4.1129.zip" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.4.1129/Wox-Full-Installer.1.4.1129.exe"} text="Wox-Full-Installer.1.4.1129.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.4.1129/Wox-Full-Installer.wixpdb"} text="Wox-Full-Installer.wixpdb" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.4.1129/Wox.1.4.1129.nupkg"} text="Wox.1.4.1129.nupkg" oneDriveSupport={true} />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.4.1129/Everything-1.4.1.969.x64-Setup.exe" text="Everything-1.4.1.969.x64-Setup.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.4.1129/python-3.7.7.exe" text="python-3.7.7.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.4.1129/RELEASES" text="RELEASES" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.4.1129/Wox-1.4.1129-full.nupkg" text="Wox-1.4.1129-full.nupkg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.4.1129/Wox-1.4.1129.exe" text="Wox-1.4.1129.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.4.1129/Wox-1.4.1129.zip" text="Wox-1.4.1129.zip" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.4.1129/Wox-Full-Installer.1.4.1129.exe" text="Wox-Full-Installer.1.4.1129.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.4.1129/Wox-Full-Installer.wixpdb" text="Wox-Full-Installer.wixpdb" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.4.1129/Wox.1.4.1129.nupkg" text="Wox.1.4.1129.nupkg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
 
 
 
 ## v1.4.1115
 
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.4.1115/Everything-1.4.1.969.x64-Setup.exe"} text="Everything-1.4.1.969.x64-Setup.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.4.1115/python-3.7.7.exe"} text="python-3.7.7.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.4.1115/RELEASES"} text="RELEASES" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.4.1115/Wox-1.4.1115-full.nupkg"} text="Wox-1.4.1115-full.nupkg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.4.1115/Wox-1.4.1115.exe"} text="Wox-1.4.1115.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.4.1115/Wox-1.4.1115.zip"} text="Wox-1.4.1115.zip" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.4.1115/Wox-Full-Installer.1.4.1115.exe"} text="Wox-Full-Installer.1.4.1115.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.4.1115/Wox.1.4.1115.nupkg"} text="Wox.1.4.1115.nupkg" oneDriveSupport={true} />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.4.1115/Everything-1.4.1.969.x64-Setup.exe" text="Everything-1.4.1.969.x64-Setup.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.4.1115/python-3.7.7.exe" text="python-3.7.7.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.4.1115/RELEASES" text="RELEASES" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.4.1115/Wox-1.4.1115-full.nupkg" text="Wox-1.4.1115-full.nupkg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.4.1115/Wox-1.4.1115.exe" text="Wox-1.4.1115.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.4.1115/Wox-1.4.1115.zip" text="Wox-1.4.1115.zip" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.4.1115/Wox-Full-Installer.1.4.1115.exe" text="Wox-Full-Installer.1.4.1115.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.4.1115/Wox.1.4.1115.nupkg" text="Wox.1.4.1115.nupkg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
 
 
 
 ## v1.3.1073
 
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1073/Everything-1.4.1.969.x64-Setup.exe"} text="Everything-1.4.1.969.x64-Setup.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1073/python-3.7.7.exe"} text="python-3.7.7.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1073/Wox-1.3.1073-full.nupkg"} text="Wox-1.3.1073-full.nupkg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1073/Wox-1.3.1073.exe"} text="Wox-1.3.1073.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1073/Wox-1.3.1073.zip"} text="Wox-1.3.1073.zip" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1073/Wox-Full-Installer.1.3.1073.exe"} text="Wox-Full-Installer.1.3.1073.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1073/Wox.1.3.1073.nupkg"} text="Wox.1.3.1073.nupkg" oneDriveSupport={true} />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1073/Everything-1.4.1.969.x64-Setup.exe" text="Everything-1.4.1.969.x64-Setup.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1073/python-3.7.7.exe" text="python-3.7.7.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1073/Wox-1.3.1073-full.nupkg" text="Wox-1.3.1073-full.nupkg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1073/Wox-1.3.1073.exe" text="Wox-1.3.1073.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1073/Wox-1.3.1073.zip" text="Wox-1.3.1073.zip" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1073/Wox-Full-Installer.1.3.1073.exe" text="Wox-Full-Installer.1.3.1073.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1073/Wox.1.3.1073.nupkg" text="Wox.1.3.1073.nupkg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
 
 
 
 ## v1.3.1064
 
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1064/Everything-1.4.1.969.x64-Setup.exe"} text="Everything-1.4.1.969.x64-Setup.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1064/python-3.7.7.exe"} text="python-3.7.7.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1064/Wox-1.3.1064-full.nupkg"} text="Wox-1.3.1064-full.nupkg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1064/Wox-1.3.1064.exe"} text="Wox-1.3.1064.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1064/Wox-1.3.1064.zip"} text="Wox-1.3.1064.zip" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1064/Wox-Full-Installer.1.3.1064.exe"} text="Wox-Full-Installer.1.3.1064.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1064/Wox.1.3.1064.nupkg"} text="Wox.1.3.1064.nupkg" oneDriveSupport={true} />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1064/Everything-1.4.1.969.x64-Setup.exe" text="Everything-1.4.1.969.x64-Setup.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1064/python-3.7.7.exe" text="python-3.7.7.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1064/Wox-1.3.1064-full.nupkg" text="Wox-1.3.1064-full.nupkg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1064/Wox-1.3.1064.exe" text="Wox-1.3.1064.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1064/Wox-1.3.1064.zip" text="Wox-1.3.1064.zip" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1064/Wox-Full-Installer.1.3.1064.exe" text="Wox-Full-Installer.1.3.1064.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1064/Wox.1.3.1064.nupkg" text="Wox.1.3.1064.nupkg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
 
 
 
 ## v1.3.1039
 
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1039/Everything-1.4.1.969.x64-Setup.exe"} text="Everything-1.4.1.969.x64-Setup.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1039/Wox-1.3.1039-full.nupkg"} text="Wox-1.3.1039-full.nupkg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1039/Wox-1.3.1039.exe"} text="Wox-1.3.1039.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1039/Wox-1.3.1039.zip"} text="Wox-1.3.1039.zip" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1039/Wox-Full-Installer.1.3.1039.exe"} text="Wox-Full-Installer.1.3.1039.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1039/Wox.1.3.1039.nupkg"} text="Wox.1.3.1039.nupkg" oneDriveSupport={true} />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1039/Everything-1.4.1.969.x64-Setup.exe" text="Everything-1.4.1.969.x64-Setup.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1039/Wox-1.3.1039-full.nupkg" text="Wox-1.3.1039-full.nupkg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1039/Wox-1.3.1039.exe" text="Wox-1.3.1039.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1039/Wox-1.3.1039.zip" text="Wox-1.3.1039.zip" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1039/Wox-Full-Installer.1.3.1039.exe" text="Wox-Full-Installer.1.3.1039.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1039/Wox.1.3.1039.nupkg" text="Wox.1.3.1039.nupkg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
 
 
 
 ## v1.3.1036
 
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1036/Everything-1.4.1.969.x64-Setup.exe"} text="Everything-1.4.1.969.x64-Setup.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1036/Wox-1.3.1036-full.nupkg"} text="Wox-1.3.1036-full.nupkg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1036/Wox-1.3.1036.exe"} text="Wox-1.3.1036.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1036/Wox-1.3.1036.zip"} text="Wox-1.3.1036.zip" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1036/Wox-Full-Installer.1.3.1036.exe"} text="Wox-Full-Installer.1.3.1036.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1036/Wox.1.3.1036.nupkg"} text="Wox.1.3.1036.nupkg" oneDriveSupport={true} />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1036/Everything-1.4.1.969.x64-Setup.exe" text="Everything-1.4.1.969.x64-Setup.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1036/Wox-1.3.1036-full.nupkg" text="Wox-1.3.1036-full.nupkg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1036/Wox-1.3.1036.exe" text="Wox-1.3.1036.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1036/Wox-1.3.1036.zip" text="Wox-1.3.1036.zip" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1036/Wox-Full-Installer.1.3.1036.exe" text="Wox-Full-Installer.1.3.1036.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1036/Wox.1.3.1036.nupkg" text="Wox.1.3.1036.nupkg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
 
 
 
 ## v1.3.1012
 
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1012/Wox-1.3.1012-full.nupkg"} text="Wox-1.3.1012-full.nupkg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1012/Wox-1.3.1012.exe"} text="Wox-1.3.1012.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1012/Wox-1.3.1012.zip"} text="Wox-1.3.1012.zip" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1012/Wox-Full-Installer.1.3.1012.exe"} text="Wox-Full-Installer.1.3.1012.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.1012/Wox.1.3.1012.nupkg"} text="Wox.1.3.1012.nupkg" oneDriveSupport={true} />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1012/Wox-1.3.1012-full.nupkg" text="Wox-1.3.1012-full.nupkg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1012/Wox-1.3.1012.exe" text="Wox-1.3.1012.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1012/Wox-1.3.1012.zip" text="Wox-1.3.1012.zip" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1012/Wox-Full-Installer.1.3.1012.exe" text="Wox-Full-Installer.1.3.1012.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1012/Wox.1.3.1012.nupkg" text="Wox.1.3.1012.nupkg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
 
 
 
@@ -238,74 +238,74 @@ import OneDrive from './_onedrive.md';
 
 ## v1.3.996
 
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.996/Wox-1.3.996-full.nupkg"} text="Wox-1.3.996-full.nupkg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.996/Wox-1.3.996.exe"} text="Wox-1.3.996.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.996/Wox-1.3.996.zip"} text="Wox-1.3.996.zip" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.996/Wox-Full-Installer.1.3.996.exe"} text="Wox-Full-Installer.1.3.996.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.996/Wox.1.3.996.nupkg"} text="Wox.1.3.996.nupkg" oneDriveSupport={true} />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.996/Wox-1.3.996-full.nupkg" text="Wox-1.3.996-full.nupkg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.996/Wox-1.3.996.exe" text="Wox-1.3.996.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.996/Wox-1.3.996.zip" text="Wox-1.3.996.zip" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.996/Wox-Full-Installer.1.3.996.exe" text="Wox-Full-Installer.1.3.996.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.996/Wox.1.3.996.nupkg" text="Wox.1.3.996.nupkg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
 
 
 
 ## v1.3.981
 
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.981/Wox-1.3.981.exe"} text="Wox-1.3.981.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.981/Wox-1.3.981.zip"} text="Wox-1.3.981.zip" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.981/Wox-Full-Installer.1.3.981.exe"} text="Wox-Full-Installer.1.3.981.exe" oneDriveSupport={true} />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.981/Wox-1.3.981.exe" text="Wox-1.3.981.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.981/Wox-1.3.981.zip" text="Wox-1.3.981.zip" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.981/Wox-Full-Installer.1.3.981.exe" text="Wox-Full-Installer.1.3.981.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
 
 
 
 ## v1.3.881
 
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.881/Wox-1.3.881.exe"} text="Wox-1.3.881.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.881/Wox-1.3.881.zip"} text="Wox-1.3.881.zip" oneDriveSupport={true} />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.881/Wox-1.3.881.exe" text="Wox-1.3.881.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.881/Wox-1.3.881.zip" text="Wox-1.3.881.zip" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
 
 
 
 ## v1.3.792
 
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.792/Wox-1.3.792.exe"} text="Wox-1.3.792.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.792/Wox-1.3.792.zip"} text="Wox-1.3.792.zip" oneDriveSupport={true} />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.792/Wox-1.3.792.exe" text="Wox-1.3.792.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.792/Wox-1.3.792.zip" text="Wox-1.3.792.zip" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
 
 
 
 ## v1.3.735
 
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.735/Wox-1.3.735.exe"} text="Wox-1.3.735.exe" oneDriveSupport={true} />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.735/Wox-1.3.735.exe" text="Wox-1.3.735.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
 
 
 
 ## v1.3.578
 
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.578/Wox-1.3.578.exe"} text="Wox-1.3.578.exe" oneDriveSupport={true} />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.578/Wox-1.3.578.exe" text="Wox-1.3.578.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
 
 
 
 ## v1.3.524
 
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.524/Everything-1.3.4.686.x64-Setup.exe"} text="Everything-1.3.4.686.x64-Setup.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.524/Everything-1.3.4.686.x86-Setup.exe"} text="Everything-1.3.4.686.x86-Setup.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.524/python-3.5.1.exe"} text="python-3.5.1.exe" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.524/RELEASES"} text="RELEASES" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.524/Wox-1.3.524-full.nupkg"} text="Wox-1.3.524-full.nupkg" oneDriveSupport={true} />
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.524/Wox-1.3.524.exe"} text="Wox-1.3.524.exe" oneDriveSupport={true} />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.524/Everything-1.3.4.686.x64-Setup.exe" text="Everything-1.3.4.686.x64-Setup.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.524/Everything-1.3.4.686.x86-Setup.exe" text="Everything-1.3.4.686.x86-Setup.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.524/python-3.5.1.exe" text="python-3.5.1.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.524/RELEASES" text="RELEASES" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.524/Wox-1.3.524-full.nupkg" text="Wox-1.3.524-full.nupkg" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.524/Wox-1.3.524.exe" text="Wox-1.3.524.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
 
 
 
 ## 1.3.475
 
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/1.3.475/Wox-1.3.475.exe"} text="Wox-1.3.475.exe" oneDriveSupport={true} />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/1.3.475/Wox-1.3.475.exe" text="Wox-1.3.475.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
 
 
 
 ## v1.3.424
 
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.424/Wox-1.3.424.exe"} text="Wox-1.3.424.exe" oneDriveSupport={true} />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.424/Wox-1.3.424.exe" text="Wox-1.3.424.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
 
 
 
 ## v1.3.357
 
-- <GithubMirrorLink link={"https://github.com/Wox-launcher/Wox/releases/download/v1.3.357/Wox-1.3.357.exe"} text="Wox-1.3.357.exe" oneDriveSupport={true} />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.357/Wox-1.3.357.exe" text="Wox-1.3.357.exe" oneDriveSupport=true repositoryKey="Wox-launcher/Wox" />
 
 
 

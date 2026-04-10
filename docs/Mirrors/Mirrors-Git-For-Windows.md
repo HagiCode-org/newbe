@@ -510,6 +510,7 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 ## 2.54
 
 - [v2.54.0-rc0.windows.1](https://mirrors.huaweicloud.com/git-for-windows/v2.54.0-rc0.windows.1/)
+- [v2.54.0-rc1.windows.1](https://mirrors.huaweicloud.com/git-for-windows/v2.54.0-rc1.windows.1/)
 
 
 

@@ -1698,6 +1698,10 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [nginx-1.29.7.tar.gz.asc](https://mirrors.huaweicloud.com/nginx/nginx-1.29.7.tar.gz.asc)
 - [nginx-1.29.7.zip](https://mirrors.huaweicloud.com/nginx/nginx-1.29.7.zip)
 - [nginx-1.29.7.zip.asc](https://mirrors.huaweicloud.com/nginx/nginx-1.29.7.zip.asc)
+- [nginx-1.29.8.tar.gz](https://mirrors.huaweicloud.com/nginx/nginx-1.29.8.tar.gz)
+- [nginx-1.29.8.tar.gz.asc](https://mirrors.huaweicloud.com/nginx/nginx-1.29.8.tar.gz.asc)
+- [nginx-1.29.8.zip](https://mirrors.huaweicloud.com/nginx/nginx-1.29.8.zip)
+- [nginx-1.29.8.zip.asc](https://mirrors.huaweicloud.com/nginx/nginx-1.29.8.zip.asc)
 
 
 

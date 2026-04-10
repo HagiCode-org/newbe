@@ -29,43 +29,43 @@ import OneDrive from './_onedrive.md';
 
 ## v2.1.0
 
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v2.1.0/KeeAnywhere-2.1.0.plgx"} text="KeeAnywhere-2.1.0.plgx" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v2.1.0/KeeAnywhere-2.1.0.zip"} text="KeeAnywhere-2.1.0.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v2.1.0/KeeAnywhere-2.1.0.plgx" text="KeeAnywhere-2.1.0.plgx" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v2.1.0/KeeAnywhere-2.1.0.zip" text="KeeAnywhere-2.1.0.zip" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
 
 
 
 ## v2.0.3
 
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v2.0.3/KeeAnywhere-2.0.3.plgx"} text="KeeAnywhere-2.0.3.plgx" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v2.0.3/KeeAnywhere-2.0.3.zip"} text="KeeAnywhere-2.0.3.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v2.0.3/KeeAnywhere-2.0.3.plgx" text="KeeAnywhere-2.0.3.plgx" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v2.0.3/KeeAnywhere-2.0.3.zip" text="KeeAnywhere-2.0.3.zip" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
 
 
 
 ## v2.0.2
 
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v2.0.2/KeeAnywhere-2.0.2.plgx"} text="KeeAnywhere-2.0.2.plgx" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v2.0.2/KeeAnywhere-2.0.2.zip"} text="KeeAnywhere-2.0.2.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v2.0.2/KeeAnywhere-2.0.2.plgx" text="KeeAnywhere-2.0.2.plgx" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v2.0.2/KeeAnywhere-2.0.2.zip" text="KeeAnywhere-2.0.2.zip" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
 
 
 
 ## v2.0.0
 
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v2.0.0/KeeAnywhere-2.0.0.plgx"} text="KeeAnywhere-2.0.0.plgx" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v2.0.0/KeeAnywhere-2.0.0.zip"} text="KeeAnywhere-2.0.0.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v2.0.0/KeeAnywhere-2.0.0.plgx" text="KeeAnywhere-2.0.0.plgx" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v2.0.0/KeeAnywhere-2.0.0.zip" text="KeeAnywhere-2.0.0.zip" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
 
 
 
 ## v1.6.0
 
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.6.0/KeeAnywhere-1.6.0.plgx"} text="KeeAnywhere-1.6.0.plgx" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.6.0/KeeAnywhere-1.6.0.zip"} text="KeeAnywhere-1.6.0.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.6.0/KeeAnywhere-1.6.0.plgx" text="KeeAnywhere-1.6.0.plgx" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.6.0/KeeAnywhere-1.6.0.zip" text="KeeAnywhere-1.6.0.zip" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
 
 
 
 ## v1.5.1
 
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.5.1/KeeAnywhere-1.5.1.plgx"} text="KeeAnywhere-1.5.1.plgx" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.5.1/KeeAnywhere-1.5.1.zip"} text="KeeAnywhere-1.5.1.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.5.1/KeeAnywhere-1.5.1.plgx" text="KeeAnywhere-1.5.1.plgx" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.5.1/KeeAnywhere-1.5.1.zip" text="KeeAnywhere-1.5.1.zip" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
 
 
 
@@ -73,70 +73,70 @@ import OneDrive from './_onedrive.md';
 
 ## v1.5.0
 
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.5.0/KeeAnywhere-1.5.0.plgx"} text="KeeAnywhere-1.5.0.plgx" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.5.0/KeeAnywhere-1.5.0.zip"} text="KeeAnywhere-1.5.0.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.5.0/KeeAnywhere-1.5.0.plgx" text="KeeAnywhere-1.5.0.plgx" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.5.0/KeeAnywhere-1.5.0.zip" text="KeeAnywhere-1.5.0.zip" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
 
 
 
 ## v1.4.1
 
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.4.1/KeeAnywhere-1.4.1.plgx"} text="KeeAnywhere-1.4.1.plgx" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.4.1/KeeAnywhere-1.4.1.zip"} text="KeeAnywhere-1.4.1.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.4.1/KeeAnywhere-1.4.1.plgx" text="KeeAnywhere-1.4.1.plgx" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.4.1/KeeAnywhere-1.4.1.zip" text="KeeAnywhere-1.4.1.zip" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
 
 
 
 ## v1.4.0
 
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.4.0/KeeAnywhere-1.4.0.plgx"} text="KeeAnywhere-1.4.0.plgx" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.4.0/KeeAnywhere-1.4.0.zip"} text="KeeAnywhere-1.4.0.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.4.0/KeeAnywhere-1.4.0.plgx" text="KeeAnywhere-1.4.0.plgx" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.4.0/KeeAnywhere-1.4.0.zip" text="KeeAnywhere-1.4.0.zip" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
 
 
 
 ## v1.3.1
 
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.3.1/KeeAnywhere-1.3.1.plgx"} text="KeeAnywhere-1.3.1.plgx" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.3.1/KeeAnywhere-1.3.1.zip"} text="KeeAnywhere-1.3.1.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.3.1/KeeAnywhere-1.3.1.plgx" text="KeeAnywhere-1.3.1.plgx" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.3.1/KeeAnywhere-1.3.1.zip" text="KeeAnywhere-1.3.1.zip" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
 
 
 
 ## v1.3.0
 
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.3.0/KeeAnywhere-1.3.0.plgx"} text="KeeAnywhere-1.3.0.plgx" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.3.0/KeeAnywhere-1.3.0.zip"} text="KeeAnywhere-1.3.0.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.3.0/KeeAnywhere-1.3.0.plgx" text="KeeAnywhere-1.3.0.plgx" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.3.0/KeeAnywhere-1.3.0.zip" text="KeeAnywhere-1.3.0.zip" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
 
 
 
 ## v1.2.0
 
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.2.0/KeeAnywhere-1.2.0.plgx"} text="KeeAnywhere-1.2.0.plgx" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.2.0/KeeAnywhere-1.2.0.zip"} text="KeeAnywhere-1.2.0.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.2.0/KeeAnywhere-1.2.0.plgx" text="KeeAnywhere-1.2.0.plgx" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.2.0/KeeAnywhere-1.2.0.zip" text="KeeAnywhere-1.2.0.zip" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
 
 
 
 ## v1.1.0
 
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.1.0/KeeAnywhere-1.1.0.plgx"} text="KeeAnywhere-1.1.0.plgx" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.1.0/KeeAnywhere-1.1.0.zip"} text="KeeAnywhere-1.1.0.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.1.0/KeeAnywhere-1.1.0.plgx" text="KeeAnywhere-1.1.0.plgx" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.1.0/KeeAnywhere-1.1.0.zip" text="KeeAnywhere-1.1.0.zip" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
 
 
 
 ## v1.0.0
 
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.0.0/KeeAnywhere-1.0.0.plgx"} text="KeeAnywhere-1.0.0.plgx" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.0.0/KeeAnywhere-1.0.0.zip"} text="KeeAnywhere-1.0.0.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.0.0/KeeAnywhere-1.0.0.plgx" text="KeeAnywhere-1.0.0.plgx" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.0.0/KeeAnywhere-1.0.0.zip" text="KeeAnywhere-1.0.0.zip" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
 
 
 
 ## v0.2.0-alpha
 
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v0.2.0-alpha/KeeAnywhere-0.2.0-alpha.plgx"} text="KeeAnywhere-0.2.0-alpha.plgx" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v0.2.0-alpha/KeeAnywhere-0.2.0-alpha.zip"} text="KeeAnywhere-0.2.0-alpha.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v0.2.0-alpha/KeeAnywhere-0.2.0-alpha.plgx" text="KeeAnywhere-0.2.0-alpha.plgx" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v0.2.0-alpha/KeeAnywhere-0.2.0-alpha.zip" text="KeeAnywhere-0.2.0-alpha.zip" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
 
 
 
 ## v0.1.0-alpha
 
-- <GithubMirrorLink link={"https://github.com/Kyrodan/KeeAnywhere/releases/download/v0.1.0-alpha/KeeAnywhere-0.1.0-alpha.zip"} text="KeeAnywhere-0.1.0-alpha.zip" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v0.1.0-alpha/KeeAnywhere-0.1.0-alpha.zip" text="KeeAnywhere-0.1.0-alpha.zip" oneDriveSupport=false repositoryKey="Kyrodan/KeeAnywhere" />
 
 
 

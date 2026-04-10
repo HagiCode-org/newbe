@@ -33,31 +33,31 @@ import OneDrive from './_onedrive.md';
 
 ## v3.0.3
 
-- <GithubMirrorLink link={"https://github.com/kevinhermawan/Ollamac/releases/download/v3.0.3/Ollamac-3.0.3.dmg"} text="Ollamac-3.0.3.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v3.0.3/Ollamac-3.0.3.dmg" text="Ollamac-3.0.3.dmg" oneDriveSupport=false repositoryKey="kevinhermawan/Ollamac" />
 
 
 
 ## v3.0.2
 
-- <GithubMirrorLink link={"https://github.com/kevinhermawan/Ollamac/releases/download/v3.0.2/Ollamac-3.0.2.dmg"} text="Ollamac-3.0.2.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v3.0.2/Ollamac-3.0.2.dmg" text="Ollamac-3.0.2.dmg" oneDriveSupport=false repositoryKey="kevinhermawan/Ollamac" />
 
 
 
 ## v3.0.1
 
-- <GithubMirrorLink link={"https://github.com/kevinhermawan/Ollamac/releases/download/v3.0.1/Ollamac-3.0.1.dmg"} text="Ollamac-3.0.1.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v3.0.1/Ollamac-3.0.1.dmg" text="Ollamac-3.0.1.dmg" oneDriveSupport=false repositoryKey="kevinhermawan/Ollamac" />
 
 
 
 ## v3.0.0
 
-- <GithubMirrorLink link={"https://github.com/kevinhermawan/Ollamac/releases/download/v3.0.0/Ollamac-3.0.0.dmg"} text="Ollamac-3.0.0.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v3.0.0/Ollamac-3.0.0.dmg" text="Ollamac-3.0.0.dmg" oneDriveSupport=false repositoryKey="kevinhermawan/Ollamac" />
 
 
 
 ## v2.1.2
 
-- <GithubMirrorLink link={"https://github.com/kevinhermawan/Ollamac/releases/download/v2.1.2/Ollamac-2.1.2.dmg"} text="Ollamac-2.1.2.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v2.1.2/Ollamac-2.1.2.dmg" text="Ollamac-2.1.2.dmg" oneDriveSupport=false repositoryKey="kevinhermawan/Ollamac" />
 
 
 
@@ -65,61 +65,61 @@ import OneDrive from './_onedrive.md';
 
 ## v2.1.1
 
-- <GithubMirrorLink link={"https://github.com/kevinhermawan/Ollamac/releases/download/v2.1.1/Ollamac-2.1.1.dmg"} text="Ollamac-2.1.1.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v2.1.1/Ollamac-2.1.1.dmg" text="Ollamac-2.1.1.dmg" oneDriveSupport=false repositoryKey="kevinhermawan/Ollamac" />
 
 
 
 ## v2.1.0
 
-- <GithubMirrorLink link={"https://github.com/kevinhermawan/Ollamac/releases/download/v2.1.0/Ollamac-2.1.0.dmg"} text="Ollamac-2.1.0.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v2.1.0/Ollamac-2.1.0.dmg" text="Ollamac-2.1.0.dmg" oneDriveSupport=false repositoryKey="kevinhermawan/Ollamac" />
 
 
 
 ## v2.0.0
 
-- <GithubMirrorLink link={"https://github.com/kevinhermawan/Ollamac/releases/download/v2.0.0/Ollamac-2.0.0.dmg"} text="Ollamac-2.0.0.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v2.0.0/Ollamac-2.0.0.dmg" text="Ollamac-2.0.0.dmg" oneDriveSupport=false repositoryKey="kevinhermawan/Ollamac" />
 
 
 
 ## v1.2.0
 
-- <GithubMirrorLink link={"https://github.com/kevinhermawan/Ollamac/releases/download/v1.2.0/Ollamac-1.2.0.dmg"} text="Ollamac-1.2.0.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v1.2.0/Ollamac-1.2.0.dmg" text="Ollamac-1.2.0.dmg" oneDriveSupport=false repositoryKey="kevinhermawan/Ollamac" />
 
 
 
 ## v1.1.1
 
-- <GithubMirrorLink link={"https://github.com/kevinhermawan/Ollamac/releases/download/v1.1.1/Ollamac-1.1.1.dmg"} text="Ollamac-1.1.1.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v1.1.1/Ollamac-1.1.1.dmg" text="Ollamac-1.1.1.dmg" oneDriveSupport=false repositoryKey="kevinhermawan/Ollamac" />
 
 
 
 ## v1.1.0
 
-- <GithubMirrorLink link={"https://github.com/kevinhermawan/Ollamac/releases/download/v1.1.0/Ollamac-1.1.0.dmg"} text="Ollamac-1.1.0.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v1.1.0/Ollamac-1.1.0.dmg" text="Ollamac-1.1.0.dmg" oneDriveSupport=false repositoryKey="kevinhermawan/Ollamac" />
 
 
 
 ## v1.0.3
 
-- <GithubMirrorLink link={"https://github.com/kevinhermawan/Ollamac/releases/download/v1.0.3/Ollamac.dmg"} text="Ollamac.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v1.0.3/Ollamac.dmg" text="Ollamac.dmg" oneDriveSupport=false repositoryKey="kevinhermawan/Ollamac" />
 
 
 
 ## v1.0.2
 
-- <GithubMirrorLink link={"https://github.com/kevinhermawan/Ollamac/releases/download/v1.0.2/Ollamac.dmg"} text="Ollamac.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v1.0.2/Ollamac.dmg" text="Ollamac.dmg" oneDriveSupport=false repositoryKey="kevinhermawan/Ollamac" />
 
 
 
 ## v1.0.1
 
-- <GithubMirrorLink link={"https://github.com/kevinhermawan/Ollamac/releases/download/v1.0.1/Ollamac.dmg"} text="Ollamac.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v1.0.1/Ollamac.dmg" text="Ollamac.dmg" oneDriveSupport=false repositoryKey="kevinhermawan/Ollamac" />
 
 
 
 ## v1.0.0
 
-- <GithubMirrorLink link={"https://github.com/kevinhermawan/Ollamac/releases/download/v1.0.0/Ollamac.dmg"} text="Ollamac.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v1.0.0/Ollamac.dmg" text="Ollamac.dmg" oneDriveSupport=false repositoryKey="kevinhermawan/Ollamac" />
 
 
 

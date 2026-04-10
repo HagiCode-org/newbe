@@ -683,6 +683,7 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [8.19.11](https://mirrors.huaweicloud.com/kibana/8.19.11/)
 - [8.19.12](https://mirrors.huaweicloud.com/kibana/8.19.12/)
 - [8.19.13](https://mirrors.huaweicloud.com/kibana/8.19.13/)
+- [8.19.14](https://mirrors.huaweicloud.com/kibana/8.19.14/)
 
 
 
@@ -728,6 +729,7 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [9.2.5](https://mirrors.huaweicloud.com/kibana/9.2.5/)
 - [9.2.6](https://mirrors.huaweicloud.com/kibana/9.2.6/)
 - [9.2.7](https://mirrors.huaweicloud.com/kibana/9.2.7/)
+- [9.2.8](https://mirrors.huaweicloud.com/kibana/9.2.8/)
 
 
 
@@ -736,6 +738,7 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [9.3.0](https://mirrors.huaweicloud.com/kibana/9.3.0/)
 - [9.3.1](https://mirrors.huaweicloud.com/kibana/9.3.1/)
 - [9.3.2](https://mirrors.huaweicloud.com/kibana/9.3.2/)
+- [9.3.3](https://mirrors.huaweicloud.com/kibana/9.3.3/)
 
 
 

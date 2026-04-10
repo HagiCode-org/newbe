@@ -639,6 +639,8 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [9.0.1](https://mirrors.huaweicloud.com/bazel/9.0.1/)
 - [9.0.1rc1](https://mirrors.huaweicloud.com/bazel/9.0.1rc1/)
 - [9.0.2rc1](https://mirrors.huaweicloud.com/bazel/9.0.2rc1/)
+- [9.0.2rc2](https://mirrors.huaweicloud.com/bazel/9.0.2rc2/)
+- [9.0.2rc3](https://mirrors.huaweicloud.com/bazel/9.0.2rc3/)
 
 
 

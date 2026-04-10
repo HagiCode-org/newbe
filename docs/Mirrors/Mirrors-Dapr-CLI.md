@@ -27,87 +27,129 @@ import OneDrive from './_onedrive.md';
 
 
 
+## v1.17.1
+
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1/dapr.msi" text="dapr.msi" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1/dapr.msi.sha256" text="dapr.msi.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1/dapr.wixpdb" text="dapr.wixpdb" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+
+
+
+## v1.17.1-rc.2
+
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.2/dapr.msi" text="dapr.msi" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.2/dapr.msi.sha256" text="dapr.msi.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.2/dapr.wixpdb" text="dapr.wixpdb" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.2/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.2/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.2/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.2/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.2/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.2/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.2/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.2/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.2/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.2/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.2/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.2/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.2/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+
+
+
 ## v1.17.1-rc.1
 
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr.msi"} text="dapr.msi" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr.msi.sha256"} text="dapr.msi.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr.wixpdb"} text="dapr.wixpdb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr.wixpdb.sha256"} text="dapr.wixpdb.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr_darwin_amd64.tar.gz"} text="dapr_darwin_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr_darwin_amd64.tar.gz.sha256"} text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr_darwin_arm64.tar.gz"} text="dapr_darwin_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr_darwin_arm64.tar.gz.sha256"} text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr_linux_amd64.tar.gz"} text="dapr_linux_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr_linux_amd64.tar.gz.sha256"} text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr_linux_arm.tar.gz"} text="dapr_linux_arm.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr_linux_arm.tar.gz.sha256"} text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr_linux_arm64.tar.gz"} text="dapr_linux_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr_linux_arm64.tar.gz.sha256"} text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr_windows_amd64.zip"} text="dapr_windows_amd64.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr_windows_amd64.zip.sha256"} text="dapr_windows_amd64.zip.sha256" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr.msi" text="dapr.msi" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr.msi.sha256" text="dapr.msi.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr.wixpdb" text="dapr.wixpdb" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.1-rc.1/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
 
 
 
 ## v1.17.0
 
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0/dapr.msi"} text="dapr.msi" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0/dapr.msi.sha256"} text="dapr.msi.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0/dapr.wixpdb"} text="dapr.wixpdb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0/dapr.wixpdb.sha256"} text="dapr.wixpdb.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0/dapr_darwin_amd64.tar.gz"} text="dapr_darwin_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0/dapr_darwin_amd64.tar.gz.sha256"} text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0/dapr_darwin_arm64.tar.gz"} text="dapr_darwin_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0/dapr_darwin_arm64.tar.gz.sha256"} text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0/dapr_linux_amd64.tar.gz"} text="dapr_linux_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0/dapr_linux_amd64.tar.gz.sha256"} text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0/dapr_linux_arm.tar.gz"} text="dapr_linux_arm.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0/dapr_linux_arm.tar.gz.sha256"} text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0/dapr_linux_arm64.tar.gz"} text="dapr_linux_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0/dapr_linux_arm64.tar.gz.sha256"} text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0/dapr_windows_amd64.zip"} text="dapr_windows_amd64.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0/dapr_windows_amd64.zip.sha256"} text="dapr_windows_amd64.zip.sha256" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0/dapr.msi" text="dapr.msi" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0/dapr.msi.sha256" text="dapr.msi.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0/dapr.wixpdb" text="dapr.wixpdb" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
 
 
 
 ## v1.17.0-rc.2
 
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr.msi"} text="dapr.msi" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr.msi.sha256"} text="dapr.msi.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr.wixpdb"} text="dapr.wixpdb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr.wixpdb.sha256"} text="dapr.wixpdb.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr_darwin_amd64.tar.gz"} text="dapr_darwin_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr_darwin_amd64.tar.gz.sha256"} text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr_darwin_arm64.tar.gz"} text="dapr_darwin_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr_darwin_arm64.tar.gz.sha256"} text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr_linux_amd64.tar.gz"} text="dapr_linux_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr_linux_amd64.tar.gz.sha256"} text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr_linux_arm.tar.gz"} text="dapr_linux_arm.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr_linux_arm.tar.gz.sha256"} text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr_linux_arm64.tar.gz"} text="dapr_linux_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr_linux_arm64.tar.gz.sha256"} text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr_windows_amd64.zip"} text="dapr_windows_amd64.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr_windows_amd64.zip.sha256"} text="dapr_windows_amd64.zip.sha256" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr.msi" text="dapr.msi" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr.msi.sha256" text="dapr.msi.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr.wixpdb" text="dapr.wixpdb" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.17.0-rc.2/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
 
 
 
 ## v1.16.5
 
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.5/dapr.msi"} text="dapr.msi" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.5/dapr.msi.sha256"} text="dapr.msi.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.5/dapr.wixpdb"} text="dapr.wixpdb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.5/dapr.wixpdb.sha256"} text="dapr.wixpdb.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.5/dapr_darwin_amd64.tar.gz"} text="dapr_darwin_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.5/dapr_darwin_amd64.tar.gz.sha256"} text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.5/dapr_darwin_arm64.tar.gz"} text="dapr_darwin_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.5/dapr_darwin_arm64.tar.gz.sha256"} text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.5/dapr_linux_amd64.tar.gz"} text="dapr_linux_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.5/dapr_linux_amd64.tar.gz.sha256"} text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.5/dapr_linux_arm.tar.gz"} text="dapr_linux_arm.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.5/dapr_linux_arm.tar.gz.sha256"} text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.5/dapr_linux_arm64.tar.gz"} text="dapr_linux_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.5/dapr_linux_arm64.tar.gz.sha256"} text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.5/dapr_windows_amd64.zip"} text="dapr_windows_amd64.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.5/dapr_windows_amd64.zip.sha256"} text="dapr_windows_amd64.zip.sha256" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.5/dapr.msi" text="dapr.msi" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.5/dapr.msi.sha256" text="dapr.msi.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.5/dapr.wixpdb" text="dapr.wixpdb" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.5/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.5/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.5/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.5/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.5/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.5/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.5/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.5/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.5/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.5/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.5/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.5/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.5/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
 
 
 
@@ -118,528 +160,486 @@ import OneDrive from './_onedrive.md';
 
 ## v1.16.3
 
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.3/dapr.msi"} text="dapr.msi" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.3/dapr.msi.sha256"} text="dapr.msi.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.3/dapr.wixpdb"} text="dapr.wixpdb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.3/dapr.wixpdb.sha256"} text="dapr.wixpdb.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.3/dapr_darwin_amd64.tar.gz"} text="dapr_darwin_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.3/dapr_darwin_amd64.tar.gz.sha256"} text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.3/dapr_darwin_arm64.tar.gz"} text="dapr_darwin_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.3/dapr_darwin_arm64.tar.gz.sha256"} text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.3/dapr_linux_amd64.tar.gz"} text="dapr_linux_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.3/dapr_linux_amd64.tar.gz.sha256"} text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.3/dapr_linux_arm.tar.gz"} text="dapr_linux_arm.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.3/dapr_linux_arm.tar.gz.sha256"} text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.3/dapr_linux_arm64.tar.gz"} text="dapr_linux_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.3/dapr_linux_arm64.tar.gz.sha256"} text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.3/dapr_windows_amd64.zip"} text="dapr_windows_amd64.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.3/dapr_windows_amd64.zip.sha256"} text="dapr_windows_amd64.zip.sha256" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.3/dapr.msi" text="dapr.msi" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.3/dapr.msi.sha256" text="dapr.msi.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.3/dapr.wixpdb" text="dapr.wixpdb" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.3/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.3/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.3/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.3/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.3/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.3/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.3/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.3/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.3/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.3/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.3/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.3/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.3/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
 
 
 
 ## v1.16.2
 
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.2/dapr.msi"} text="dapr.msi" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.2/dapr.msi.sha256"} text="dapr.msi.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.2/dapr.wixpdb"} text="dapr.wixpdb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.2/dapr.wixpdb.sha256"} text="dapr.wixpdb.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.2/dapr_darwin_amd64.tar.gz"} text="dapr_darwin_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.2/dapr_darwin_amd64.tar.gz.sha256"} text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.2/dapr_darwin_arm64.tar.gz"} text="dapr_darwin_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.2/dapr_darwin_arm64.tar.gz.sha256"} text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.2/dapr_linux_amd64.tar.gz"} text="dapr_linux_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.2/dapr_linux_amd64.tar.gz.sha256"} text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.2/dapr_linux_arm.tar.gz"} text="dapr_linux_arm.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.2/dapr_linux_arm.tar.gz.sha256"} text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.2/dapr_linux_arm64.tar.gz"} text="dapr_linux_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.2/dapr_linux_arm64.tar.gz.sha256"} text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.2/dapr_windows_amd64.zip"} text="dapr_windows_amd64.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.2/dapr_windows_amd64.zip.sha256"} text="dapr_windows_amd64.zip.sha256" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.2/dapr.msi" text="dapr.msi" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.2/dapr.msi.sha256" text="dapr.msi.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.2/dapr.wixpdb" text="dapr.wixpdb" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.2/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.2/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.2/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.2/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.2/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.2/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.2/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.2/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.2/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.2/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.2/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.2/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.2/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
 
 
 
 ## v1.16.1
 
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.1/dapr.msi"} text="dapr.msi" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.1/dapr.msi.sha256"} text="dapr.msi.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.1/dapr.wixpdb"} text="dapr.wixpdb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.1/dapr.wixpdb.sha256"} text="dapr.wixpdb.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.1/dapr_darwin_amd64.tar.gz"} text="dapr_darwin_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.1/dapr_darwin_amd64.tar.gz.sha256"} text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.1/dapr_darwin_arm64.tar.gz"} text="dapr_darwin_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.1/dapr_darwin_arm64.tar.gz.sha256"} text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.1/dapr_linux_amd64.tar.gz"} text="dapr_linux_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.1/dapr_linux_amd64.tar.gz.sha256"} text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.1/dapr_linux_arm.tar.gz"} text="dapr_linux_arm.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.1/dapr_linux_arm.tar.gz.sha256"} text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.1/dapr_linux_arm64.tar.gz"} text="dapr_linux_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.1/dapr_linux_arm64.tar.gz.sha256"} text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.1/dapr_windows_amd64.zip"} text="dapr_windows_amd64.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.1/dapr_windows_amd64.zip.sha256"} text="dapr_windows_amd64.zip.sha256" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.1/dapr.msi" text="dapr.msi" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.1/dapr.msi.sha256" text="dapr.msi.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.1/dapr.wixpdb" text="dapr.wixpdb" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.1/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.1/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.1/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.1/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.1/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.1/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.1/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.1/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.1/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.1/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.1/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.1/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.1/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
 
 
 
 ## v1.16.0
 
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0/dapr.msi"} text="dapr.msi" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0/dapr.msi.sha256"} text="dapr.msi.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0/dapr.wixpdb"} text="dapr.wixpdb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0/dapr.wixpdb.sha256"} text="dapr.wixpdb.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0/dapr_darwin_amd64.tar.gz"} text="dapr_darwin_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0/dapr_darwin_amd64.tar.gz.sha256"} text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0/dapr_darwin_arm64.tar.gz"} text="dapr_darwin_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0/dapr_darwin_arm64.tar.gz.sha256"} text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0/dapr_linux_amd64.tar.gz"} text="dapr_linux_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0/dapr_linux_amd64.tar.gz.sha256"} text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0/dapr_linux_arm.tar.gz"} text="dapr_linux_arm.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0/dapr_linux_arm.tar.gz.sha256"} text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0/dapr_linux_arm64.tar.gz"} text="dapr_linux_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0/dapr_linux_arm64.tar.gz.sha256"} text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0/dapr_windows_amd64.zip"} text="dapr_windows_amd64.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0/dapr_windows_amd64.zip.sha256"} text="dapr_windows_amd64.zip.sha256" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0/dapr.msi" text="dapr.msi" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0/dapr.msi.sha256" text="dapr.msi.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0/dapr.wixpdb" text="dapr.wixpdb" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
 
 
 
 ## v1.15.2
 
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.2/dapr.msi"} text="dapr.msi" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.2/dapr.msi.sha256"} text="dapr.msi.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.2/dapr.wixpdb"} text="dapr.wixpdb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.2/dapr.wixpdb.sha256"} text="dapr.wixpdb.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.2/dapr_darwin_amd64.tar.gz"} text="dapr_darwin_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.2/dapr_darwin_amd64.tar.gz.sha256"} text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.2/dapr_darwin_arm64.tar.gz"} text="dapr_darwin_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.2/dapr_darwin_arm64.tar.gz.sha256"} text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.2/dapr_linux_amd64.tar.gz"} text="dapr_linux_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.2/dapr_linux_amd64.tar.gz.sha256"} text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.2/dapr_linux_arm.tar.gz"} text="dapr_linux_arm.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.2/dapr_linux_arm.tar.gz.sha256"} text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.2/dapr_linux_arm64.tar.gz"} text="dapr_linux_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.2/dapr_linux_arm64.tar.gz.sha256"} text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.2/dapr_windows_amd64.zip"} text="dapr_windows_amd64.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.2/dapr_windows_amd64.zip.sha256"} text="dapr_windows_amd64.zip.sha256" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.2/dapr.msi" text="dapr.msi" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.2/dapr.msi.sha256" text="dapr.msi.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.2/dapr.wixpdb" text="dapr.wixpdb" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.2/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.2/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.2/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.2/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.2/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.2/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.2/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.2/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.2/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.2/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.2/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.2/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.2/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
 
 
 
 ## v1.16.0-rc.1
 
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr.msi"} text="dapr.msi" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr.msi.sha256"} text="dapr.msi.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr.wixpdb"} text="dapr.wixpdb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr.wixpdb.sha256"} text="dapr.wixpdb.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr_darwin_amd64.tar.gz"} text="dapr_darwin_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr_darwin_amd64.tar.gz.sha256"} text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr_darwin_arm64.tar.gz"} text="dapr_darwin_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr_darwin_arm64.tar.gz.sha256"} text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr_linux_amd64.tar.gz"} text="dapr_linux_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr_linux_amd64.tar.gz.sha256"} text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr_linux_arm.tar.gz"} text="dapr_linux_arm.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr_linux_arm.tar.gz.sha256"} text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr_linux_arm64.tar.gz"} text="dapr_linux_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr_linux_arm64.tar.gz.sha256"} text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr_windows_amd64.zip"} text="dapr_windows_amd64.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr_windows_amd64.zip.sha256"} text="dapr_windows_amd64.zip.sha256" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr.msi" text="dapr.msi" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr.msi.sha256" text="dapr.msi.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr.wixpdb" text="dapr.wixpdb" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.16.0-rc.1/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
 
 
 
 ## v1.15.1
 
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.1/dapr.msi"} text="dapr.msi" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.1/dapr.msi.sha256"} text="dapr.msi.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.1/dapr.wixpdb"} text="dapr.wixpdb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.1/dapr.wixpdb.sha256"} text="dapr.wixpdb.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.1/dapr_darwin_amd64.tar.gz"} text="dapr_darwin_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.1/dapr_darwin_amd64.tar.gz.sha256"} text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.1/dapr_darwin_arm64.tar.gz"} text="dapr_darwin_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.1/dapr_darwin_arm64.tar.gz.sha256"} text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.1/dapr_linux_amd64.tar.gz"} text="dapr_linux_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.1/dapr_linux_amd64.tar.gz.sha256"} text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.1/dapr_linux_arm.tar.gz"} text="dapr_linux_arm.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.1/dapr_linux_arm.tar.gz.sha256"} text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.1/dapr_linux_arm64.tar.gz"} text="dapr_linux_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.1/dapr_linux_arm64.tar.gz.sha256"} text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.1/dapr_windows_amd64.zip"} text="dapr_windows_amd64.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.1/dapr_windows_amd64.zip.sha256"} text="dapr_windows_amd64.zip.sha256" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.1/dapr.msi" text="dapr.msi" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.1/dapr.msi.sha256" text="dapr.msi.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.1/dapr.wixpdb" text="dapr.wixpdb" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.1/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.1/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.1/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.1/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.1/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.1/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.1/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.1/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.1/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.1/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.1/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.1/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.1/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
 
 
 
 ## v1.15.0
 
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0/dapr.msi"} text="dapr.msi" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0/dapr.msi.sha256"} text="dapr.msi.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0/dapr.wixpdb"} text="dapr.wixpdb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0/dapr.wixpdb.sha256"} text="dapr.wixpdb.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0/dapr_darwin_amd64.tar.gz"} text="dapr_darwin_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0/dapr_darwin_amd64.tar.gz.sha256"} text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0/dapr_darwin_arm64.tar.gz"} text="dapr_darwin_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0/dapr_darwin_arm64.tar.gz.sha256"} text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0/dapr_linux_amd64.tar.gz"} text="dapr_linux_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0/dapr_linux_amd64.tar.gz.sha256"} text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0/dapr_linux_arm.tar.gz"} text="dapr_linux_arm.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0/dapr_linux_arm.tar.gz.sha256"} text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0/dapr_linux_arm64.tar.gz"} text="dapr_linux_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0/dapr_linux_arm64.tar.gz.sha256"} text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0/dapr_windows_amd64.zip"} text="dapr_windows_amd64.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0/dapr_windows_amd64.zip.sha256"} text="dapr_windows_amd64.zip.sha256" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0/dapr.msi" text="dapr.msi" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0/dapr.msi.sha256" text="dapr.msi.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0/dapr.wixpdb" text="dapr.wixpdb" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
 
 
 
 ## v1.15.0-rc.6
 
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr.msi"} text="dapr.msi" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr.msi.sha256"} text="dapr.msi.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr.wixpdb"} text="dapr.wixpdb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr.wixpdb.sha256"} text="dapr.wixpdb.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr_darwin_amd64.tar.gz"} text="dapr_darwin_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr_darwin_amd64.tar.gz.sha256"} text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr_darwin_arm64.tar.gz"} text="dapr_darwin_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr_darwin_arm64.tar.gz.sha256"} text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr_linux_amd64.tar.gz"} text="dapr_linux_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr_linux_amd64.tar.gz.sha256"} text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr_linux_arm.tar.gz"} text="dapr_linux_arm.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr_linux_arm.tar.gz.sha256"} text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr_linux_arm64.tar.gz"} text="dapr_linux_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr_linux_arm64.tar.gz.sha256"} text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr_windows_amd64.zip"} text="dapr_windows_amd64.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr_windows_amd64.zip.sha256"} text="dapr_windows_amd64.zip.sha256" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr.msi" text="dapr.msi" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr.msi.sha256" text="dapr.msi.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr.wixpdb" text="dapr.wixpdb" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.6/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
 
 
 
 ## v1.15.0-rc.5
 
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr.msi"} text="dapr.msi" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr.msi.sha256"} text="dapr.msi.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr.wixpdb"} text="dapr.wixpdb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr.wixpdb.sha256"} text="dapr.wixpdb.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr_darwin_amd64.tar.gz"} text="dapr_darwin_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr_darwin_amd64.tar.gz.sha256"} text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr_darwin_arm64.tar.gz"} text="dapr_darwin_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr_darwin_arm64.tar.gz.sha256"} text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr_linux_amd64.tar.gz"} text="dapr_linux_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr_linux_amd64.tar.gz.sha256"} text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr_linux_arm.tar.gz"} text="dapr_linux_arm.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr_linux_arm.tar.gz.sha256"} text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr_linux_arm64.tar.gz"} text="dapr_linux_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr_linux_arm64.tar.gz.sha256"} text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr_windows_amd64.zip"} text="dapr_windows_amd64.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr_windows_amd64.zip.sha256"} text="dapr_windows_amd64.zip.sha256" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr.msi" text="dapr.msi" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr.msi.sha256" text="dapr.msi.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr.wixpdb" text="dapr.wixpdb" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
 
 
 
 ## v1.15.0-rc.4
 
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr.msi"} text="dapr.msi" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr.msi.sha256"} text="dapr.msi.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr.wixpdb"} text="dapr.wixpdb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr.wixpdb.sha256"} text="dapr.wixpdb.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr_darwin_amd64.tar.gz"} text="dapr_darwin_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr_darwin_amd64.tar.gz.sha256"} text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr_darwin_arm64.tar.gz"} text="dapr_darwin_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr_darwin_arm64.tar.gz.sha256"} text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr_linux_amd64.tar.gz"} text="dapr_linux_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr_linux_amd64.tar.gz.sha256"} text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr_linux_arm.tar.gz"} text="dapr_linux_arm.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr_linux_arm.tar.gz.sha256"} text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr_linux_arm64.tar.gz"} text="dapr_linux_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr_linux_arm64.tar.gz.sha256"} text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr_windows_amd64.zip"} text="dapr_windows_amd64.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr_windows_amd64.zip.sha256"} text="dapr_windows_amd64.zip.sha256" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr.msi" text="dapr.msi" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr.msi.sha256" text="dapr.msi.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr.wixpdb" text="dapr.wixpdb" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.4/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
 
 
 
 ## v1.15.0-rc.3
 
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr.msi"} text="dapr.msi" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr.msi.sha256"} text="dapr.msi.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr.wixpdb"} text="dapr.wixpdb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr.wixpdb.sha256"} text="dapr.wixpdb.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr_darwin_amd64.tar.gz"} text="dapr_darwin_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr_darwin_amd64.tar.gz.sha256"} text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr_darwin_arm64.tar.gz"} text="dapr_darwin_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr_darwin_arm64.tar.gz.sha256"} text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr_linux_amd64.tar.gz"} text="dapr_linux_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr_linux_amd64.tar.gz.sha256"} text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr_linux_arm.tar.gz"} text="dapr_linux_arm.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr_linux_arm.tar.gz.sha256"} text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr_linux_arm64.tar.gz"} text="dapr_linux_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr_linux_arm64.tar.gz.sha256"} text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr_windows_amd64.zip"} text="dapr_windows_amd64.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr_windows_amd64.zip.sha256"} text="dapr_windows_amd64.zip.sha256" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr.msi" text="dapr.msi" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr.msi.sha256" text="dapr.msi.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr.wixpdb" text="dapr.wixpdb" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.3/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
 
 
 
 ## v1.15.0-rc.2
 
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr.msi"} text="dapr.msi" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr.msi.sha256"} text="dapr.msi.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr.wixpdb"} text="dapr.wixpdb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr.wixpdb.sha256"} text="dapr.wixpdb.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr_darwin_amd64.tar.gz"} text="dapr_darwin_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr_darwin_amd64.tar.gz.sha256"} text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr_darwin_arm64.tar.gz"} text="dapr_darwin_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr_darwin_arm64.tar.gz.sha256"} text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr_linux_amd64.tar.gz"} text="dapr_linux_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr_linux_amd64.tar.gz.sha256"} text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr_linux_arm.tar.gz"} text="dapr_linux_arm.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr_linux_arm.tar.gz.sha256"} text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr_linux_arm64.tar.gz"} text="dapr_linux_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr_linux_arm64.tar.gz.sha256"} text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr_windows_amd64.zip"} text="dapr_windows_amd64.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr_windows_amd64.zip.sha256"} text="dapr_windows_amd64.zip.sha256" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr.msi" text="dapr.msi" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr.msi.sha256" text="dapr.msi.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr.wixpdb" text="dapr.wixpdb" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.2/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+
+
 
 
 
 ## v1.15.0-rc.1
 
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr.msi"} text="dapr.msi" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr.msi.sha256"} text="dapr.msi.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr.wixpdb"} text="dapr.wixpdb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr.wixpdb.sha256"} text="dapr.wixpdb.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr_darwin_amd64.tar.gz"} text="dapr_darwin_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr_darwin_amd64.tar.gz.sha256"} text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr_darwin_arm64.tar.gz"} text="dapr_darwin_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr_darwin_arm64.tar.gz.sha256"} text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr_linux_amd64.tar.gz"} text="dapr_linux_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr_linux_amd64.tar.gz.sha256"} text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr_linux_arm.tar.gz"} text="dapr_linux_arm.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr_linux_arm.tar.gz.sha256"} text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr_linux_arm64.tar.gz"} text="dapr_linux_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr_linux_arm64.tar.gz.sha256"} text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr_windows_amd64.zip"} text="dapr_windows_amd64.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr_windows_amd64.zip.sha256"} text="dapr_windows_amd64.zip.sha256" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr.msi" text="dapr.msi" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr.msi.sha256" text="dapr.msi.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr.wixpdb" text="dapr.wixpdb" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.1/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
 
 
 
 ## v1.14.1
 
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.1/dapr.msi"} text="dapr.msi" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.1/dapr.msi.sha256"} text="dapr.msi.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.1/dapr.wixpdb"} text="dapr.wixpdb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.1/dapr.wixpdb.sha256"} text="dapr.wixpdb.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.1/dapr_darwin_amd64.tar.gz"} text="dapr_darwin_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.1/dapr_darwin_amd64.tar.gz.sha256"} text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.1/dapr_darwin_arm64.tar.gz"} text="dapr_darwin_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.1/dapr_darwin_arm64.tar.gz.sha256"} text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.1/dapr_linux_amd64.tar.gz"} text="dapr_linux_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.1/dapr_linux_amd64.tar.gz.sha256"} text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.1/dapr_linux_arm.tar.gz"} text="dapr_linux_arm.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.1/dapr_linux_arm.tar.gz.sha256"} text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.1/dapr_linux_arm64.tar.gz"} text="dapr_linux_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.1/dapr_linux_arm64.tar.gz.sha256"} text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.1/dapr_windows_amd64.zip"} text="dapr_windows_amd64.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.1/dapr_windows_amd64.zip.sha256"} text="dapr_windows_amd64.zip.sha256" oneDriveSupport={false} />
-
-
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.1/dapr.msi" text="dapr.msi" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.1/dapr.msi.sha256" text="dapr.msi.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.1/dapr.wixpdb" text="dapr.wixpdb" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.1/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.1/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.1/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.1/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.1/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.1/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.1/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.1/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.1/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.1/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.1/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.1/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.1/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
 
 
 
 ## v1.14.0
 
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0/dapr.msi"} text="dapr.msi" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0/dapr.msi.sha256"} text="dapr.msi.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0/dapr.wixpdb"} text="dapr.wixpdb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0/dapr.wixpdb.sha256"} text="dapr.wixpdb.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0/dapr_darwin_amd64.tar.gz"} text="dapr_darwin_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0/dapr_darwin_amd64.tar.gz.sha256"} text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0/dapr_darwin_arm64.tar.gz"} text="dapr_darwin_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0/dapr_darwin_arm64.tar.gz.sha256"} text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0/dapr_linux_amd64.tar.gz"} text="dapr_linux_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0/dapr_linux_amd64.tar.gz.sha256"} text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0/dapr_linux_arm.tar.gz"} text="dapr_linux_arm.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0/dapr_linux_arm.tar.gz.sha256"} text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0/dapr_linux_arm64.tar.gz"} text="dapr_linux_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0/dapr_linux_arm64.tar.gz.sha256"} text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0/dapr_windows_amd64.zip"} text="dapr_windows_amd64.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0/dapr_windows_amd64.zip.sha256"} text="dapr_windows_amd64.zip.sha256" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0/dapr.msi" text="dapr.msi" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0/dapr.msi.sha256" text="dapr.msi.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0/dapr.wixpdb" text="dapr.wixpdb" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
 
 
 
 ## v1.14.0-rc.8
 
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr.msi"} text="dapr.msi" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr.msi.sha256"} text="dapr.msi.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr.wixpdb"} text="dapr.wixpdb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr.wixpdb.sha256"} text="dapr.wixpdb.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr_darwin_amd64.tar.gz"} text="dapr_darwin_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr_darwin_amd64.tar.gz.sha256"} text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr_darwin_arm64.tar.gz"} text="dapr_darwin_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr_darwin_arm64.tar.gz.sha256"} text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr_linux_amd64.tar.gz"} text="dapr_linux_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr_linux_amd64.tar.gz.sha256"} text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr_linux_arm.tar.gz"} text="dapr_linux_arm.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr_linux_arm.tar.gz.sha256"} text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr_linux_arm64.tar.gz"} text="dapr_linux_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr_linux_arm64.tar.gz.sha256"} text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr_windows_amd64.zip"} text="dapr_windows_amd64.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr_windows_amd64.zip.sha256"} text="dapr_windows_amd64.zip.sha256" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr.msi" text="dapr.msi" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr.msi.sha256" text="dapr.msi.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr.wixpdb" text="dapr.wixpdb" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.8/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
 
 
 
 ## v1.14.0-rc.7
 
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr.msi"} text="dapr.msi" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr.msi.sha256"} text="dapr.msi.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr.wixpdb"} text="dapr.wixpdb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr.wixpdb.sha256"} text="dapr.wixpdb.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr_darwin_amd64.tar.gz"} text="dapr_darwin_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr_darwin_amd64.tar.gz.sha256"} text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr_darwin_arm64.tar.gz"} text="dapr_darwin_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr_darwin_arm64.tar.gz.sha256"} text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr_linux_amd64.tar.gz"} text="dapr_linux_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr_linux_amd64.tar.gz.sha256"} text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr_linux_arm.tar.gz"} text="dapr_linux_arm.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr_linux_arm.tar.gz.sha256"} text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr_linux_arm64.tar.gz"} text="dapr_linux_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr_linux_arm64.tar.gz.sha256"} text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr_windows_amd64.zip"} text="dapr_windows_amd64.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr_windows_amd64.zip.sha256"} text="dapr_windows_amd64.zip.sha256" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr.msi" text="dapr.msi" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr.msi.sha256" text="dapr.msi.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr.wixpdb" text="dapr.wixpdb" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.7/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
 
 
 
 ## v1.14.0-rc.6
 
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr.msi"} text="dapr.msi" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr.msi.sha256"} text="dapr.msi.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr.wixpdb"} text="dapr.wixpdb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr.wixpdb.sha256"} text="dapr.wixpdb.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr_darwin_amd64.tar.gz"} text="dapr_darwin_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr_darwin_amd64.tar.gz.sha256"} text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr_darwin_arm64.tar.gz"} text="dapr_darwin_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr_darwin_arm64.tar.gz.sha256"} text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr_linux_amd64.tar.gz"} text="dapr_linux_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr_linux_amd64.tar.gz.sha256"} text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr_linux_arm.tar.gz"} text="dapr_linux_arm.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr_linux_arm.tar.gz.sha256"} text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr_linux_arm64.tar.gz"} text="dapr_linux_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr_linux_arm64.tar.gz.sha256"} text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr_windows_amd64.zip"} text="dapr_windows_amd64.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr_windows_amd64.zip.sha256"} text="dapr_windows_amd64.zip.sha256" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr.msi" text="dapr.msi" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr.msi.sha256" text="dapr.msi.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr.wixpdb" text="dapr.wixpdb" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
 
 
 
 ## v1.14.0-rc.5
 
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr.msi"} text="dapr.msi" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr.msi.sha256"} text="dapr.msi.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr.wixpdb"} text="dapr.wixpdb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr.wixpdb.sha256"} text="dapr.wixpdb.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_darwin_amd64.tar.gz"} text="dapr_darwin_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_darwin_amd64.tar.gz.sha256"} text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_darwin_arm64.tar.gz"} text="dapr_darwin_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_darwin_arm64.tar.gz.sha256"} text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_linux_amd64.tar.gz"} text="dapr_linux_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_linux_amd64.tar.gz.sha256"} text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_linux_arm.tar.gz"} text="dapr_linux_arm.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_linux_arm.tar.gz.sha256"} text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_linux_arm64.tar.gz"} text="dapr_linux_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_linux_arm64.tar.gz.sha256"} text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_windows_amd64.zip"} text="dapr_windows_amd64.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_windows_amd64.zip.sha256"} text="dapr_windows_amd64.zip.sha256" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr.msi" text="dapr.msi" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr.msi.sha256" text="dapr.msi.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr.wixpdb" text="dapr.wixpdb" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
 
 
 
 ## v1.14.0-rc.4
 
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr.msi"} text="dapr.msi" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr.msi.sha256"} text="dapr.msi.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr.wixpdb"} text="dapr.wixpdb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr.wixpdb.sha256"} text="dapr.wixpdb.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr_darwin_amd64.tar.gz"} text="dapr_darwin_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr_darwin_amd64.tar.gz.sha256"} text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr_darwin_arm64.tar.gz"} text="dapr_darwin_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr_darwin_arm64.tar.gz.sha256"} text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr_linux_amd64.tar.gz"} text="dapr_linux_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr_linux_amd64.tar.gz.sha256"} text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr_linux_arm.tar.gz"} text="dapr_linux_arm.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr_linux_arm.tar.gz.sha256"} text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr_linux_arm64.tar.gz"} text="dapr_linux_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr_linux_arm64.tar.gz.sha256"} text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr_windows_amd64.zip"} text="dapr_windows_amd64.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr_windows_amd64.zip.sha256"} text="dapr_windows_amd64.zip.sha256" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr.msi" text="dapr.msi" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr.msi.sha256" text="dapr.msi.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr.wixpdb" text="dapr.wixpdb" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.4/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
 
 
 
 ## v1.14.0-rc.3
 
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr.msi"} text="dapr.msi" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr.msi.sha256"} text="dapr.msi.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr.wixpdb"} text="dapr.wixpdb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr.wixpdb.sha256"} text="dapr.wixpdb.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr_darwin_amd64.tar.gz"} text="dapr_darwin_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr_darwin_amd64.tar.gz.sha256"} text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr_darwin_arm64.tar.gz"} text="dapr_darwin_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr_darwin_arm64.tar.gz.sha256"} text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr_linux_amd64.tar.gz"} text="dapr_linux_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr_linux_amd64.tar.gz.sha256"} text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr_linux_arm.tar.gz"} text="dapr_linux_arm.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr_linux_arm.tar.gz.sha256"} text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr_linux_arm64.tar.gz"} text="dapr_linux_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr_linux_arm64.tar.gz.sha256"} text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr_windows_amd64.zip"} text="dapr_windows_amd64.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr_windows_amd64.zip.sha256"} text="dapr_windows_amd64.zip.sha256" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr.msi" text="dapr.msi" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr.msi.sha256" text="dapr.msi.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr.wixpdb" text="dapr.wixpdb" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.3/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
 
 
 
 ## v1.14.0-rc.2
 
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr.msi"} text="dapr.msi" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr.msi.sha256"} text="dapr.msi.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr.wixpdb"} text="dapr.wixpdb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr.wixpdb.sha256"} text="dapr.wixpdb.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr_darwin_amd64.tar.gz"} text="dapr_darwin_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr_darwin_amd64.tar.gz.sha256"} text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr_darwin_arm64.tar.gz"} text="dapr_darwin_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr_darwin_arm64.tar.gz.sha256"} text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr_linux_amd64.tar.gz"} text="dapr_linux_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr_linux_amd64.tar.gz.sha256"} text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr_linux_arm.tar.gz"} text="dapr_linux_arm.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr_linux_arm.tar.gz.sha256"} text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr_linux_arm64.tar.gz"} text="dapr_linux_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr_linux_arm64.tar.gz.sha256"} text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr_windows_amd64.zip"} text="dapr_windows_amd64.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr_windows_amd64.zip.sha256"} text="dapr_windows_amd64.zip.sha256" oneDriveSupport={false} />
-
-
-
-## v1.14.0-rc.1
-
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.1/dapr.msi"} text="dapr.msi" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.1/dapr.msi.sha256"} text="dapr.msi.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.1/dapr.wixpdb"} text="dapr.wixpdb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.1/dapr.wixpdb.sha256"} text="dapr.wixpdb.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.1/dapr_darwin_amd64.tar.gz"} text="dapr_darwin_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.1/dapr_darwin_amd64.tar.gz.sha256"} text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.1/dapr_darwin_arm64.tar.gz"} text="dapr_darwin_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.1/dapr_darwin_arm64.tar.gz.sha256"} text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.1/dapr_linux_amd64.tar.gz"} text="dapr_linux_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.1/dapr_linux_amd64.tar.gz.sha256"} text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.1/dapr_linux_arm.tar.gz"} text="dapr_linux_arm.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.1/dapr_linux_arm.tar.gz.sha256"} text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.1/dapr_linux_arm64.tar.gz"} text="dapr_linux_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.1/dapr_linux_arm64.tar.gz.sha256"} text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.1/dapr_windows_amd64.zip"} text="dapr_windows_amd64.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.14.0-rc.1/dapr_windows_amd64.zip.sha256"} text="dapr_windows_amd64.zip.sha256" oneDriveSupport={false} />
-
-
-
-## v1.13.0
-
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.13.0/dapr.msi"} text="dapr.msi" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.13.0/dapr.msi.sha256"} text="dapr.msi.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.13.0/dapr.wixpdb"} text="dapr.wixpdb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.13.0/dapr.wixpdb.sha256"} text="dapr.wixpdb.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.13.0/dapr_darwin_amd64.tar.gz"} text="dapr_darwin_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.13.0/dapr_darwin_amd64.tar.gz.sha256"} text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.13.0/dapr_darwin_arm64.tar.gz"} text="dapr_darwin_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.13.0/dapr_darwin_arm64.tar.gz.sha256"} text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.13.0/dapr_linux_amd64.tar.gz"} text="dapr_linux_amd64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.13.0/dapr_linux_amd64.tar.gz.sha256"} text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.13.0/dapr_linux_arm.tar.gz"} text="dapr_linux_arm.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.13.0/dapr_linux_arm.tar.gz.sha256"} text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.13.0/dapr_linux_arm64.tar.gz"} text="dapr_linux_arm64.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.13.0/dapr_linux_arm64.tar.gz.sha256"} text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.13.0/dapr_windows_amd64.zip"} text="dapr_windows_amd64.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/dapr/cli/releases/download/v1.13.0/dapr_windows_amd64.zip.sha256"} text="dapr_windows_amd64.zip.sha256" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr.msi" text="dapr.msi" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr.msi.sha256" text="dapr.msi.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr.wixpdb" text="dapr.wixpdb" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" oneDriveSupport=false repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.2/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" oneDriveSupport=false repositoryKey="dapr/cli" />
 
 
 

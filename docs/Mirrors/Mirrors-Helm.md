@@ -366,6 +366,7 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [v3.20.0](https://mirrors.huaweicloud.com/helm/v3.20.0/)
 - [v3.20.0-rc.1](https://mirrors.huaweicloud.com/helm/v3.20.0-rc.1/)
 - [v3.20.1](https://mirrors.huaweicloud.com/helm/v3.20.1/)
+- [v3.20.2](https://mirrors.huaweicloud.com/helm/v3.20.2/)
 
 
 
@@ -389,6 +390,7 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [v4.1.0-rc.1](https://mirrors.huaweicloud.com/helm/v4.1.0-rc.1/)
 - [v4.1.1](https://mirrors.huaweicloud.com/helm/v4.1.1/)
 - [v4.1.3](https://mirrors.huaweicloud.com/helm/v4.1.3/)
+- [v4.1.4](https://mirrors.huaweicloud.com/helm/v4.1.4/)
 
 
 

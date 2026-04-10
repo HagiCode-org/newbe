@@ -31,59 +31,59 @@ import OneDrive from './_onedrive.md';
 
 ## final
 
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/admin-tool-ext-win-0.1.3.vsix"} text="admin-tool-ext-win-0.1.3.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/ads-language-pack-de-1.48.0.vsix"} text="ads-language-pack-de-1.48.0.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/ads-language-pack-es-1.48.0.vsix"} text="ads-language-pack-es-1.48.0.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/ads-language-pack-fr-1.48.0.vsix"} text="ads-language-pack-fr-1.48.0.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/ads-language-pack-it-1.48.0.vsix"} text="ads-language-pack-it-1.48.0.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/ads-language-pack-ja-1.48.0.vsix"} text="ads-language-pack-ja-1.48.0.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/ads-language-pack-ko-1.48.0.vsix"} text="ads-language-pack-ko-1.48.0.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/ads-language-pack-pt-br-1.48.0.vsix"} text="ads-language-pack-pt-br-1.48.0.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/ads-language-pack-ru-1.48.0.vsix"} text="ads-language-pack-ru-1.48.0.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/ads-language-pack-zh-hans-1.48.0.vsix"} text="ads-language-pack-zh-hans-1.48.0.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/ads-language-pack-zh-hant-1.48.0.vsix"} text="ads-language-pack-zh-hant-1.48.0.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/agent-0.49.0.vsix"} text="agent-0.49.0.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/arc-1.8.0.vsix"} text="arc-1.8.0.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/asde-deployment-0.4.1.vsix"} text="asde-deployment-0.4.1.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/azcli-1.8.0.vsix"} text="azcli-1.8.0.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/azdata-sanddance-4.1.1.vsix"} text="azdata-sanddance-4.1.1.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-linux-1.52.0.deb"} text="azuredatastudio-linux-1.52.0.deb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-linux-1.52.0.rpm"} text="azuredatastudio-linux-1.52.0.rpm" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-linux-1.52.0.tar.gz"} text="azuredatastudio-linux-1.52.0.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-macos-1.52.0.zip"} text="azuredatastudio-macos-1.52.0.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-macos-arm64-1.52.0.zip"} text="azuredatastudio-macos-arm64-1.52.0.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-macos-universal-1.52.0.zip"} text="azuredatastudio-macos-universal-1.52.0.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-mysql-1.0.0.vsix"} text="azuredatastudio-mysql-1.0.0.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-postgresql-0.6.0.vsix"} text="azuredatastudio-postgresql-0.6.0.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-windows-1.52.0.zip"} text="azuredatastudio-windows-1.52.0.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-windows-arm64-1.52.0.zip"} text="azuredatastudio-windows-arm64-1.52.0.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-windows-arm64-setup-1.52.0.exe"} text="azuredatastudio-windows-arm64-setup-1.52.0.exe" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-windows-arm64-user-setup-1.52.0.exe"} text="azuredatastudio-windows-arm64-user-setup-1.52.0.exe" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-windows-setup-1.52.0.exe"} text="azuredatastudio-windows-setup-1.52.0.exe" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-windows-user-setup-1.52.0.exe"} text="azuredatastudio-windows-user-setup-1.52.0.exe" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/azuremonitor-0.1.9.vsix"} text="azuremonitor-0.1.9.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/cms-0.9.3.vsix"} text="cms-0.9.3.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/dacpac-1.14.0.vsix"} text="dacpac-1.14.0.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/datavirtualization-1.14.0.vsix"} text="datavirtualization-1.14.0.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/GitHub.copilot-1.242.0.vsix"} text="GitHub.copilot-1.242.0.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/import-1.6.1.vsix"} text="import-1.6.1.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/kusto-0.5.8.vsix"} text="kusto-0.5.8.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/machine-learning-0.12.0.vsix"} text="machine-learning-0.12.0.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/managed-instance-dashboard-0.4.3.vsix"} text="managed-instance-dashboard-0.4.3.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/mongodb.mongodb-vscode-1.2.1.vsix"} text="mongodb.mongodb-vscode-1.2.1.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/ms-vscode.PowerShell-2024.3.2.vsix"} text="ms-vscode.PowerShell-2024.3.2.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/net-6-runtime-1.1.0.vsix"} text="net-6-runtime-1.1.0.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/profiler-0.14.0.vsix"} text="profiler-0.14.0.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/qpi-0.1.6.vsix"} text="qpi-0.1.6.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/query-history-0.5.3.vsix"} text="query-history-0.5.3.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/schema-compare-1.21.0.vsix"} text="schema-compare-1.21.0.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/server-report-0.2.4.vsix"} text="server-report-0.2.4.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/sql-assessment-0.6.4.vsix"} text="sql-assessment-0.6.4.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/sql-database-projects-1.5.3.vsix"} text="sql-database-projects-1.5.3.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/sql-dw-0.0.1.vsix"} text="sql-dw-0.0.1.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/sql-migration-1.5.9.vsix"} text="sql-migration-1.5.9.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/vscodeintellicode-1.3.1.vsix"} text="vscodeintellicode-1.3.1.vsix" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/final/whoisactive-0.1.5.vsix"} text="whoisactive-0.1.5.vsix" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/admin-tool-ext-win-0.1.3.vsix" text="admin-tool-ext-win-0.1.3.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/ads-language-pack-de-1.48.0.vsix" text="ads-language-pack-de-1.48.0.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/ads-language-pack-es-1.48.0.vsix" text="ads-language-pack-es-1.48.0.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/ads-language-pack-fr-1.48.0.vsix" text="ads-language-pack-fr-1.48.0.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/ads-language-pack-it-1.48.0.vsix" text="ads-language-pack-it-1.48.0.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/ads-language-pack-ja-1.48.0.vsix" text="ads-language-pack-ja-1.48.0.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/ads-language-pack-ko-1.48.0.vsix" text="ads-language-pack-ko-1.48.0.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/ads-language-pack-pt-br-1.48.0.vsix" text="ads-language-pack-pt-br-1.48.0.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/ads-language-pack-ru-1.48.0.vsix" text="ads-language-pack-ru-1.48.0.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/ads-language-pack-zh-hans-1.48.0.vsix" text="ads-language-pack-zh-hans-1.48.0.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/ads-language-pack-zh-hant-1.48.0.vsix" text="ads-language-pack-zh-hant-1.48.0.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/agent-0.49.0.vsix" text="agent-0.49.0.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/arc-1.8.0.vsix" text="arc-1.8.0.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/asde-deployment-0.4.1.vsix" text="asde-deployment-0.4.1.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/azcli-1.8.0.vsix" text="azcli-1.8.0.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/azdata-sanddance-4.1.1.vsix" text="azdata-sanddance-4.1.1.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-linux-1.52.0.deb" text="azuredatastudio-linux-1.52.0.deb" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-linux-1.52.0.rpm" text="azuredatastudio-linux-1.52.0.rpm" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-linux-1.52.0.tar.gz" text="azuredatastudio-linux-1.52.0.tar.gz" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-macos-1.52.0.zip" text="azuredatastudio-macos-1.52.0.zip" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-macos-arm64-1.52.0.zip" text="azuredatastudio-macos-arm64-1.52.0.zip" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-macos-universal-1.52.0.zip" text="azuredatastudio-macos-universal-1.52.0.zip" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-mysql-1.0.0.vsix" text="azuredatastudio-mysql-1.0.0.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-postgresql-0.6.0.vsix" text="azuredatastudio-postgresql-0.6.0.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-windows-1.52.0.zip" text="azuredatastudio-windows-1.52.0.zip" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-windows-arm64-1.52.0.zip" text="azuredatastudio-windows-arm64-1.52.0.zip" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-windows-arm64-setup-1.52.0.exe" text="azuredatastudio-windows-arm64-setup-1.52.0.exe" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-windows-arm64-user-setup-1.52.0.exe" text="azuredatastudio-windows-arm64-user-setup-1.52.0.exe" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-windows-setup-1.52.0.exe" text="azuredatastudio-windows-setup-1.52.0.exe" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/azuredatastudio-windows-user-setup-1.52.0.exe" text="azuredatastudio-windows-user-setup-1.52.0.exe" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/azuremonitor-0.1.9.vsix" text="azuremonitor-0.1.9.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/cms-0.9.3.vsix" text="cms-0.9.3.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/dacpac-1.14.0.vsix" text="dacpac-1.14.0.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/datavirtualization-1.14.0.vsix" text="datavirtualization-1.14.0.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/GitHub.copilot-1.242.0.vsix" text="GitHub.copilot-1.242.0.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/import-1.6.1.vsix" text="import-1.6.1.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/kusto-0.5.8.vsix" text="kusto-0.5.8.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/machine-learning-0.12.0.vsix" text="machine-learning-0.12.0.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/managed-instance-dashboard-0.4.3.vsix" text="managed-instance-dashboard-0.4.3.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/mongodb.mongodb-vscode-1.2.1.vsix" text="mongodb.mongodb-vscode-1.2.1.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/ms-vscode.PowerShell-2024.3.2.vsix" text="ms-vscode.PowerShell-2024.3.2.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/net-6-runtime-1.1.0.vsix" text="net-6-runtime-1.1.0.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/profiler-0.14.0.vsix" text="profiler-0.14.0.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/qpi-0.1.6.vsix" text="qpi-0.1.6.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/query-history-0.5.3.vsix" text="query-history-0.5.3.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/schema-compare-1.21.0.vsix" text="schema-compare-1.21.0.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/server-report-0.2.4.vsix" text="server-report-0.2.4.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/sql-assessment-0.6.4.vsix" text="sql-assessment-0.6.4.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/sql-database-projects-1.5.3.vsix" text="sql-database-projects-1.5.3.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/sql-dw-0.0.1.vsix" text="sql-dw-0.0.1.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/sql-migration-1.5.9.vsix" text="sql-migration-1.5.9.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/vscodeintellicode-1.3.1.vsix" text="vscodeintellicode-1.3.1.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/whoisactive-0.1.5.vsix" text="whoisactive-0.1.5.vsix" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
 
 
 
@@ -134,18 +134,18 @@ import OneDrive from './_onedrive.md';
 
 ## 1.41.3
 
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-linux-1.41.3.deb"} text="azuredatastudio-linux-1.41.3.deb" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-linux-1.41.3.rpm"} text="azuredatastudio-linux-1.41.3.rpm" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-linux-1.41.3.tar.gz"} text="azuredatastudio-linux-1.41.3.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-macos-1.41.3.zip"} text="azuredatastudio-macos-1.41.3.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-macos-arm64-1.41.3.zip"} text="azuredatastudio-macos-arm64-1.41.3.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-macos-universal-1.41.3.zip"} text="azuredatastudio-macos-universal-1.41.3.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-windows-1.41.3.zip"} text="azuredatastudio-windows-1.41.3.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-windows-arm64-1.41.3.zip"} text="azuredatastudio-windows-arm64-1.41.3.zip" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-windows-arm64-setup-1.41.3.exe"} text="azuredatastudio-windows-arm64-setup-1.41.3.exe" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-windows-arm64-user-setup-1.41.3.exe"} text="azuredatastudio-windows-arm64-user-setup-1.41.3.exe" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-windows-setup-1.41.3.exe"} text="azuredatastudio-windows-setup-1.41.3.exe" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-windows-user-setup-1.41.3.exe"} text="azuredatastudio-windows-user-setup-1.41.3.exe" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-linux-1.41.3.deb" text="azuredatastudio-linux-1.41.3.deb" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-linux-1.41.3.rpm" text="azuredatastudio-linux-1.41.3.rpm" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-linux-1.41.3.tar.gz" text="azuredatastudio-linux-1.41.3.tar.gz" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-macos-1.41.3.zip" text="azuredatastudio-macos-1.41.3.zip" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-macos-arm64-1.41.3.zip" text="azuredatastudio-macos-arm64-1.41.3.zip" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-macos-universal-1.41.3.zip" text="azuredatastudio-macos-universal-1.41.3.zip" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-windows-1.41.3.zip" text="azuredatastudio-windows-1.41.3.zip" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-windows-arm64-1.41.3.zip" text="azuredatastudio-windows-arm64-1.41.3.zip" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-windows-arm64-setup-1.41.3.exe" text="azuredatastudio-windows-arm64-setup-1.41.3.exe" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-windows-arm64-user-setup-1.41.3.exe" text="azuredatastudio-windows-arm64-user-setup-1.41.3.exe" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-windows-setup-1.41.3.exe" text="azuredatastudio-windows-setup-1.41.3.exe" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-windows-user-setup-1.41.3.exe" text="azuredatastudio-windows-user-setup-1.41.3.exe" oneDriveSupport=false repositoryKey="microsoft/azuredatastudio" />
 
 
 

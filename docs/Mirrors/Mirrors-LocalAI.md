@@ -31,246 +31,246 @@ import OneDrive from './_onedrive.md';
 
 ## v4.1.3
 
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.1.3/local-ai-launcher-linux.tar.xz"} text="local-ai-launcher-linux.tar.xz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.1.3/local-ai-v4.1.3-darwin-arm64"} text="local-ai-v4.1.3-darwin-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.1.3/local-ai-v4.1.3-linux-amd64"} text="local-ai-v4.1.3-linux-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.1.3/local-ai-v4.1.3-linux-arm64"} text="local-ai-v4.1.3-linux-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.1.3/LocalAI-v4.1.3-checksums.txt"} text="LocalAI-v4.1.3-checksums.txt" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.1.3/LocalAI-v4.1.3-source.tar.gz"} text="LocalAI-v4.1.3-source.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.1.3/LocalAI.dmg"} text="LocalAI.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.1.3/local-ai-launcher-linux.tar.xz" text="local-ai-launcher-linux.tar.xz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.1.3/local-ai-v4.1.3-darwin-arm64" text="local-ai-v4.1.3-darwin-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.1.3/local-ai-v4.1.3-linux-amd64" text="local-ai-v4.1.3-linux-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.1.3/local-ai-v4.1.3-linux-arm64" text="local-ai-v4.1.3-linux-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.1.3/LocalAI-v4.1.3-checksums.txt" text="LocalAI-v4.1.3-checksums.txt" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.1.3/LocalAI-v4.1.3-source.tar.gz" text="LocalAI-v4.1.3-source.tar.gz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.1.3/LocalAI.dmg" text="LocalAI.dmg" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
 
 
 
 ## v4.1.2
 
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.1.2/local-ai-launcher-linux.tar.xz"} text="local-ai-launcher-linux.tar.xz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.1.2/local-ai-v4.1.2-darwin-arm64"} text="local-ai-v4.1.2-darwin-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.1.2/local-ai-v4.1.2-linux-amd64"} text="local-ai-v4.1.2-linux-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.1.2/local-ai-v4.1.2-linux-arm64"} text="local-ai-v4.1.2-linux-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.1.2/LocalAI-v4.1.2-checksums.txt"} text="LocalAI-v4.1.2-checksums.txt" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.1.2/LocalAI-v4.1.2-source.tar.gz"} text="LocalAI-v4.1.2-source.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.1.2/LocalAI.dmg"} text="LocalAI.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.1.2/local-ai-launcher-linux.tar.xz" text="local-ai-launcher-linux.tar.xz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.1.2/local-ai-v4.1.2-darwin-arm64" text="local-ai-v4.1.2-darwin-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.1.2/local-ai-v4.1.2-linux-amd64" text="local-ai-v4.1.2-linux-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.1.2/local-ai-v4.1.2-linux-arm64" text="local-ai-v4.1.2-linux-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.1.2/LocalAI-v4.1.2-checksums.txt" text="LocalAI-v4.1.2-checksums.txt" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.1.2/LocalAI-v4.1.2-source.tar.gz" text="LocalAI-v4.1.2-source.tar.gz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.1.2/LocalAI.dmg" text="LocalAI.dmg" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
 
 
 
 ## v4.1.1
 
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.1.1/local-ai-launcher-linux.tar.xz"} text="local-ai-launcher-linux.tar.xz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.1.1/local-ai-v4.1.1-darwin-arm64"} text="local-ai-v4.1.1-darwin-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.1.1/local-ai-v4.1.1-linux-amd64"} text="local-ai-v4.1.1-linux-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.1.1/local-ai-v4.1.1-linux-arm64"} text="local-ai-v4.1.1-linux-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.1.1/LocalAI-v4.1.1-checksums.txt"} text="LocalAI-v4.1.1-checksums.txt" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.1.1/LocalAI-v4.1.1-source.tar.gz"} text="LocalAI-v4.1.1-source.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.1.1/LocalAI.dmg"} text="LocalAI.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.1.1/local-ai-launcher-linux.tar.xz" text="local-ai-launcher-linux.tar.xz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.1.1/local-ai-v4.1.1-darwin-arm64" text="local-ai-v4.1.1-darwin-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.1.1/local-ai-v4.1.1-linux-amd64" text="local-ai-v4.1.1-linux-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.1.1/local-ai-v4.1.1-linux-arm64" text="local-ai-v4.1.1-linux-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.1.1/LocalAI-v4.1.1-checksums.txt" text="LocalAI-v4.1.1-checksums.txt" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.1.1/LocalAI-v4.1.1-source.tar.gz" text="LocalAI-v4.1.1-source.tar.gz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.1.1/LocalAI.dmg" text="LocalAI.dmg" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
 
 
 
 ## v4.1.0
 
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.1.0/local-ai-launcher-linux.tar.xz"} text="local-ai-launcher-linux.tar.xz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.1.0/local-ai-v4.1.0-darwin-arm64"} text="local-ai-v4.1.0-darwin-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.1.0/local-ai-v4.1.0-linux-amd64"} text="local-ai-v4.1.0-linux-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.1.0/local-ai-v4.1.0-linux-arm64"} text="local-ai-v4.1.0-linux-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.1.0/LocalAI-v4.1.0-checksums.txt"} text="LocalAI-v4.1.0-checksums.txt" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.1.0/LocalAI-v4.1.0-source.tar.gz"} text="LocalAI-v4.1.0-source.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.1.0/LocalAI.dmg"} text="LocalAI.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.1.0/local-ai-launcher-linux.tar.xz" text="local-ai-launcher-linux.tar.xz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.1.0/local-ai-v4.1.0-darwin-arm64" text="local-ai-v4.1.0-darwin-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.1.0/local-ai-v4.1.0-linux-amd64" text="local-ai-v4.1.0-linux-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.1.0/local-ai-v4.1.0-linux-arm64" text="local-ai-v4.1.0-linux-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.1.0/LocalAI-v4.1.0-checksums.txt" text="LocalAI-v4.1.0-checksums.txt" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.1.0/LocalAI-v4.1.0-source.tar.gz" text="LocalAI-v4.1.0-source.tar.gz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.1.0/LocalAI.dmg" text="LocalAI.dmg" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
 
 
 
 ## v4.0.0
 
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.0.0/local-ai-launcher-linux.tar.xz"} text="local-ai-launcher-linux.tar.xz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.0.0/local-ai-v4.0.0-darwin-arm64"} text="local-ai-v4.0.0-darwin-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.0.0/local-ai-v4.0.0-linux-amd64"} text="local-ai-v4.0.0-linux-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.0.0/local-ai-v4.0.0-linux-arm64"} text="local-ai-v4.0.0-linux-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.0.0/LocalAI-v4.0.0-checksums.txt"} text="LocalAI-v4.0.0-checksums.txt" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.0.0/LocalAI-v4.0.0-source.tar.gz"} text="LocalAI-v4.0.0-source.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v4.0.0/LocalAI.dmg"} text="LocalAI.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.0.0/local-ai-launcher-linux.tar.xz" text="local-ai-launcher-linux.tar.xz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.0.0/local-ai-v4.0.0-darwin-arm64" text="local-ai-v4.0.0-darwin-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.0.0/local-ai-v4.0.0-linux-amd64" text="local-ai-v4.0.0-linux-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.0.0/local-ai-v4.0.0-linux-arm64" text="local-ai-v4.0.0-linux-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.0.0/LocalAI-v4.0.0-checksums.txt" text="LocalAI-v4.0.0-checksums.txt" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.0.0/LocalAI-v4.0.0-source.tar.gz" text="LocalAI-v4.0.0-source.tar.gz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.0.0/LocalAI.dmg" text="LocalAI.dmg" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
 
 
 
 ## v3.12.1
 
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.12.1/local-ai-launcher-linux.tar.xz"} text="local-ai-launcher-linux.tar.xz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.12.1/local-ai-v3.12.1-darwin-arm64"} text="local-ai-v3.12.1-darwin-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.12.1/local-ai-v3.12.1-linux-amd64"} text="local-ai-v3.12.1-linux-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.12.1/local-ai-v3.12.1-linux-arm64"} text="local-ai-v3.12.1-linux-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.12.1/LocalAI-v3.12.1-checksums.txt"} text="LocalAI-v3.12.1-checksums.txt" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.12.1/LocalAI-v3.12.1-source.tar.gz"} text="LocalAI-v3.12.1-source.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.12.1/LocalAI.dmg"} text="LocalAI.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.12.1/local-ai-launcher-linux.tar.xz" text="local-ai-launcher-linux.tar.xz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.12.1/local-ai-v3.12.1-darwin-arm64" text="local-ai-v3.12.1-darwin-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.12.1/local-ai-v3.12.1-linux-amd64" text="local-ai-v3.12.1-linux-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.12.1/local-ai-v3.12.1-linux-arm64" text="local-ai-v3.12.1-linux-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.12.1/LocalAI-v3.12.1-checksums.txt" text="LocalAI-v3.12.1-checksums.txt" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.12.1/LocalAI-v3.12.1-source.tar.gz" text="LocalAI-v3.12.1-source.tar.gz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.12.1/LocalAI.dmg" text="LocalAI.dmg" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
 
 
 
 ## v3.12.0
 
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.12.0/local-ai-launcher-linux.tar.xz"} text="local-ai-launcher-linux.tar.xz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.12.0/local-ai-v3.12.0-darwin-arm64"} text="local-ai-v3.12.0-darwin-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.12.0/local-ai-v3.12.0-linux-amd64"} text="local-ai-v3.12.0-linux-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.12.0/local-ai-v3.12.0-linux-arm64"} text="local-ai-v3.12.0-linux-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.12.0/LocalAI-v3.12.0-checksums.txt"} text="LocalAI-v3.12.0-checksums.txt" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.12.0/LocalAI-v3.12.0-source.tar.gz"} text="LocalAI-v3.12.0-source.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.12.0/LocalAI.dmg"} text="LocalAI.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.12.0/local-ai-launcher-linux.tar.xz" text="local-ai-launcher-linux.tar.xz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.12.0/local-ai-v3.12.0-darwin-arm64" text="local-ai-v3.12.0-darwin-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.12.0/local-ai-v3.12.0-linux-amd64" text="local-ai-v3.12.0-linux-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.12.0/local-ai-v3.12.0-linux-arm64" text="local-ai-v3.12.0-linux-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.12.0/LocalAI-v3.12.0-checksums.txt" text="LocalAI-v3.12.0-checksums.txt" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.12.0/LocalAI-v3.12.0-source.tar.gz" text="LocalAI-v3.12.0-source.tar.gz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.12.0/LocalAI.dmg" text="LocalAI.dmg" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
 
 
 
 ## v3.11.0
 
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.11.0/local-ai-launcher-linux.tar.xz"} text="local-ai-launcher-linux.tar.xz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.11.0/local-ai-v3.11.0-darwin-arm64"} text="local-ai-v3.11.0-darwin-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.11.0/local-ai-v3.11.0-linux-amd64"} text="local-ai-v3.11.0-linux-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.11.0/local-ai-v3.11.0-linux-arm64"} text="local-ai-v3.11.0-linux-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.11.0/LocalAI-v3.11.0-checksums.txt"} text="LocalAI-v3.11.0-checksums.txt" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.11.0/LocalAI-v3.11.0-source.tar.gz"} text="LocalAI-v3.11.0-source.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.11.0/LocalAI.dmg"} text="LocalAI.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.11.0/local-ai-launcher-linux.tar.xz" text="local-ai-launcher-linux.tar.xz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.11.0/local-ai-v3.11.0-darwin-arm64" text="local-ai-v3.11.0-darwin-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.11.0/local-ai-v3.11.0-linux-amd64" text="local-ai-v3.11.0-linux-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.11.0/local-ai-v3.11.0-linux-arm64" text="local-ai-v3.11.0-linux-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.11.0/LocalAI-v3.11.0-checksums.txt" text="LocalAI-v3.11.0-checksums.txt" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.11.0/LocalAI-v3.11.0-source.tar.gz" text="LocalAI-v3.11.0-source.tar.gz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.11.0/LocalAI.dmg" text="LocalAI.dmg" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
 
 
 
 ## v3.10.1
 
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.10.1/local-ai-launcher-linux.tar.xz"} text="local-ai-launcher-linux.tar.xz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.10.1/local-ai-v3.10.1-darwin-arm64"} text="local-ai-v3.10.1-darwin-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.10.1/local-ai-v3.10.1-linux-amd64"} text="local-ai-v3.10.1-linux-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.10.1/local-ai-v3.10.1-linux-arm64"} text="local-ai-v3.10.1-linux-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.10.1/LocalAI-v3.10.1-checksums.txt"} text="LocalAI-v3.10.1-checksums.txt" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.10.1/LocalAI-v3.10.1-source.tar.gz"} text="LocalAI-v3.10.1-source.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.10.1/LocalAI.dmg"} text="LocalAI.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.10.1/local-ai-launcher-linux.tar.xz" text="local-ai-launcher-linux.tar.xz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.10.1/local-ai-v3.10.1-darwin-arm64" text="local-ai-v3.10.1-darwin-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.10.1/local-ai-v3.10.1-linux-amd64" text="local-ai-v3.10.1-linux-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.10.1/local-ai-v3.10.1-linux-arm64" text="local-ai-v3.10.1-linux-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.10.1/LocalAI-v3.10.1-checksums.txt" text="LocalAI-v3.10.1-checksums.txt" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.10.1/LocalAI-v3.10.1-source.tar.gz" text="LocalAI-v3.10.1-source.tar.gz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.10.1/LocalAI.dmg" text="LocalAI.dmg" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
 
 
 
 ## v3.10.0
 
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.10.0/local-ai-v3.10.0-darwin-arm64"} text="local-ai-v3.10.0-darwin-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.10.0/local-ai-v3.10.0-linux-amd64"} text="local-ai-v3.10.0-linux-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.10.0/local-ai-v3.10.0-linux-arm64"} text="local-ai-v3.10.0-linux-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.10.0/LocalAI-v3.10.0-checksums.txt"} text="LocalAI-v3.10.0-checksums.txt" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.10.0/LocalAI-v3.10.0-source.tar.gz"} text="LocalAI-v3.10.0-source.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.10.0/local-ai-v3.10.0-darwin-arm64" text="local-ai-v3.10.0-darwin-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.10.0/local-ai-v3.10.0-linux-amd64" text="local-ai-v3.10.0-linux-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.10.0/local-ai-v3.10.0-linux-arm64" text="local-ai-v3.10.0-linux-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.10.0/LocalAI-v3.10.0-checksums.txt" text="LocalAI-v3.10.0-checksums.txt" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.10.0/LocalAI-v3.10.0-source.tar.gz" text="LocalAI-v3.10.0-source.tar.gz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
 
 
 
 ## v3.9.0
 
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.9.0/local-ai-launcher-linux.tar.xz"} text="local-ai-launcher-linux.tar.xz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.9.0/local-ai-v3.9.0-darwin-arm64"} text="local-ai-v3.9.0-darwin-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.9.0/local-ai-v3.9.0-linux-amd64"} text="local-ai-v3.9.0-linux-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.9.0/local-ai-v3.9.0-linux-arm64"} text="local-ai-v3.9.0-linux-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.9.0/LocalAI-v3.9.0-checksums.txt"} text="LocalAI-v3.9.0-checksums.txt" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.9.0/LocalAI-v3.9.0-source.tar.gz"} text="LocalAI-v3.9.0-source.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.9.0/LocalAI.dmg"} text="LocalAI.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.9.0/local-ai-launcher-linux.tar.xz" text="local-ai-launcher-linux.tar.xz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.9.0/local-ai-v3.9.0-darwin-arm64" text="local-ai-v3.9.0-darwin-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.9.0/local-ai-v3.9.0-linux-amd64" text="local-ai-v3.9.0-linux-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.9.0/local-ai-v3.9.0-linux-arm64" text="local-ai-v3.9.0-linux-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.9.0/LocalAI-v3.9.0-checksums.txt" text="LocalAI-v3.9.0-checksums.txt" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.9.0/LocalAI-v3.9.0-source.tar.gz" text="LocalAI-v3.9.0-source.tar.gz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.9.0/LocalAI.dmg" text="LocalAI.dmg" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
 
 
 
 ## v3.8.0
 
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.8.0/local-ai-launcher-linux.tar.xz"} text="local-ai-launcher-linux.tar.xz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.8.0/local-ai-v3.8.0-darwin-amd64"} text="local-ai-v3.8.0-darwin-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.8.0/local-ai-v3.8.0-darwin-arm64"} text="local-ai-v3.8.0-darwin-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.8.0/local-ai-v3.8.0-linux-amd64"} text="local-ai-v3.8.0-linux-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.8.0/local-ai-v3.8.0-linux-arm64"} text="local-ai-v3.8.0-linux-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.8.0/LocalAI-v3.8.0-checksums.txt"} text="LocalAI-v3.8.0-checksums.txt" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.8.0/LocalAI-v3.8.0-source.tar.gz"} text="LocalAI-v3.8.0-source.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.8.0/LocalAI.dmg"} text="LocalAI.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.8.0/local-ai-launcher-linux.tar.xz" text="local-ai-launcher-linux.tar.xz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.8.0/local-ai-v3.8.0-darwin-amd64" text="local-ai-v3.8.0-darwin-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.8.0/local-ai-v3.8.0-darwin-arm64" text="local-ai-v3.8.0-darwin-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.8.0/local-ai-v3.8.0-linux-amd64" text="local-ai-v3.8.0-linux-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.8.0/local-ai-v3.8.0-linux-arm64" text="local-ai-v3.8.0-linux-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.8.0/LocalAI-v3.8.0-checksums.txt" text="LocalAI-v3.8.0-checksums.txt" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.8.0/LocalAI-v3.8.0-source.tar.gz" text="LocalAI-v3.8.0-source.tar.gz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.8.0/LocalAI.dmg" text="LocalAI.dmg" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
 
 
 
 ## v3.7.0
 
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.7.0/local-ai-launcher-linux.tar.xz"} text="local-ai-launcher-linux.tar.xz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.7.0/local-ai-v3.7.0-darwin-amd64"} text="local-ai-v3.7.0-darwin-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.7.0/local-ai-v3.7.0-darwin-arm64"} text="local-ai-v3.7.0-darwin-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.7.0/local-ai-v3.7.0-linux-amd64"} text="local-ai-v3.7.0-linux-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.7.0/local-ai-v3.7.0-linux-arm64"} text="local-ai-v3.7.0-linux-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.7.0/LocalAI-v3.7.0-checksums.txt"} text="LocalAI-v3.7.0-checksums.txt" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.7.0/LocalAI-v3.7.0-source.tar.gz"} text="LocalAI-v3.7.0-source.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.7.0/LocalAI.dmg"} text="LocalAI.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.7.0/local-ai-launcher-linux.tar.xz" text="local-ai-launcher-linux.tar.xz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.7.0/local-ai-v3.7.0-darwin-amd64" text="local-ai-v3.7.0-darwin-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.7.0/local-ai-v3.7.0-darwin-arm64" text="local-ai-v3.7.0-darwin-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.7.0/local-ai-v3.7.0-linux-amd64" text="local-ai-v3.7.0-linux-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.7.0/local-ai-v3.7.0-linux-arm64" text="local-ai-v3.7.0-linux-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.7.0/LocalAI-v3.7.0-checksums.txt" text="LocalAI-v3.7.0-checksums.txt" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.7.0/LocalAI-v3.7.0-source.tar.gz" text="LocalAI-v3.7.0-source.tar.gz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.7.0/LocalAI.dmg" text="LocalAI.dmg" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
 
 
 
 ## v3.6.0
 
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.6.0/local-ai-launcher-linux.tar.xz"} text="local-ai-launcher-linux.tar.xz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.6.0/local-ai-v3.6.0-darwin-amd64"} text="local-ai-v3.6.0-darwin-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.6.0/local-ai-v3.6.0-darwin-arm64"} text="local-ai-v3.6.0-darwin-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.6.0/local-ai-v3.6.0-linux-amd64"} text="local-ai-v3.6.0-linux-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.6.0/local-ai-v3.6.0-linux-arm64"} text="local-ai-v3.6.0-linux-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.6.0/LocalAI-v3.6.0-checksums.txt"} text="LocalAI-v3.6.0-checksums.txt" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.6.0/LocalAI-v3.6.0-source.tar.gz"} text="LocalAI-v3.6.0-source.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.6.0/LocalAI.dmg"} text="LocalAI.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.6.0/local-ai-launcher-linux.tar.xz" text="local-ai-launcher-linux.tar.xz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.6.0/local-ai-v3.6.0-darwin-amd64" text="local-ai-v3.6.0-darwin-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.6.0/local-ai-v3.6.0-darwin-arm64" text="local-ai-v3.6.0-darwin-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.6.0/local-ai-v3.6.0-linux-amd64" text="local-ai-v3.6.0-linux-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.6.0/local-ai-v3.6.0-linux-arm64" text="local-ai-v3.6.0-linux-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.6.0/LocalAI-v3.6.0-checksums.txt" text="LocalAI-v3.6.0-checksums.txt" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.6.0/LocalAI-v3.6.0-source.tar.gz" text="LocalAI-v3.6.0-source.tar.gz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.6.0/LocalAI.dmg" text="LocalAI.dmg" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
 
 
 
 ## v3.5.4
 
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.4/local-ai-launcher-linux.tar.xz"} text="local-ai-launcher-linux.tar.xz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.4/local-ai-v3.5.4-darwin-amd64"} text="local-ai-v3.5.4-darwin-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.4/local-ai-v3.5.4-darwin-arm64"} text="local-ai-v3.5.4-darwin-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.4/local-ai-v3.5.4-linux-amd64"} text="local-ai-v3.5.4-linux-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.4/local-ai-v3.5.4-linux-arm64"} text="local-ai-v3.5.4-linux-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.4/LocalAI-v3.5.4-checksums.txt"} text="LocalAI-v3.5.4-checksums.txt" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.4/LocalAI-v3.5.4-source.tar.gz"} text="LocalAI-v3.5.4-source.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.4/LocalAI.dmg"} text="LocalAI.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.4/local-ai-launcher-linux.tar.xz" text="local-ai-launcher-linux.tar.xz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.4/local-ai-v3.5.4-darwin-amd64" text="local-ai-v3.5.4-darwin-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.4/local-ai-v3.5.4-darwin-arm64" text="local-ai-v3.5.4-darwin-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.4/local-ai-v3.5.4-linux-amd64" text="local-ai-v3.5.4-linux-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.4/local-ai-v3.5.4-linux-arm64" text="local-ai-v3.5.4-linux-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.4/LocalAI-v3.5.4-checksums.txt" text="LocalAI-v3.5.4-checksums.txt" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.4/LocalAI-v3.5.4-source.tar.gz" text="LocalAI-v3.5.4-source.tar.gz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.4/LocalAI.dmg" text="LocalAI.dmg" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
 
 
 
 ## v3.5.3
 
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.3/local-ai-launcher-linux.tar.xz"} text="local-ai-launcher-linux.tar.xz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.3/local-ai-v3.5.3-darwin-amd64"} text="local-ai-v3.5.3-darwin-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.3/local-ai-v3.5.3-darwin-arm64"} text="local-ai-v3.5.3-darwin-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.3/local-ai-v3.5.3-linux-amd64"} text="local-ai-v3.5.3-linux-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.3/local-ai-v3.5.3-linux-arm64"} text="local-ai-v3.5.3-linux-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.3/LocalAI-v3.5.3-checksums.txt"} text="LocalAI-v3.5.3-checksums.txt" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.3/LocalAI-v3.5.3-source.tar.gz"} text="LocalAI-v3.5.3-source.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.3/LocalAI.dmg"} text="LocalAI.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.3/local-ai-launcher-linux.tar.xz" text="local-ai-launcher-linux.tar.xz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.3/local-ai-v3.5.3-darwin-amd64" text="local-ai-v3.5.3-darwin-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.3/local-ai-v3.5.3-darwin-arm64" text="local-ai-v3.5.3-darwin-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.3/local-ai-v3.5.3-linux-amd64" text="local-ai-v3.5.3-linux-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.3/local-ai-v3.5.3-linux-arm64" text="local-ai-v3.5.3-linux-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.3/LocalAI-v3.5.3-checksums.txt" text="LocalAI-v3.5.3-checksums.txt" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.3/LocalAI-v3.5.3-source.tar.gz" text="LocalAI-v3.5.3-source.tar.gz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.3/LocalAI.dmg" text="LocalAI.dmg" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
 
 
 
 ## v3.5.2
 
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.2/local-ai-launcher-linux.tar.xz"} text="local-ai-launcher-linux.tar.xz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.2/local-ai-v3.5.2-darwin-amd64"} text="local-ai-v3.5.2-darwin-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.2/local-ai-v3.5.2-darwin-arm64"} text="local-ai-v3.5.2-darwin-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.2/local-ai-v3.5.2-linux-amd64"} text="local-ai-v3.5.2-linux-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.2/local-ai-v3.5.2-linux-arm64"} text="local-ai-v3.5.2-linux-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.2/LocalAI-v3.5.2-checksums.txt"} text="LocalAI-v3.5.2-checksums.txt" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.2/LocalAI-v3.5.2-source.tar.gz"} text="LocalAI-v3.5.2-source.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.2/LocalAI.dmg"} text="LocalAI.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.2/local-ai-launcher-linux.tar.xz" text="local-ai-launcher-linux.tar.xz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.2/local-ai-v3.5.2-darwin-amd64" text="local-ai-v3.5.2-darwin-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.2/local-ai-v3.5.2-darwin-arm64" text="local-ai-v3.5.2-darwin-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.2/local-ai-v3.5.2-linux-amd64" text="local-ai-v3.5.2-linux-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.2/local-ai-v3.5.2-linux-arm64" text="local-ai-v3.5.2-linux-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.2/LocalAI-v3.5.2-checksums.txt" text="LocalAI-v3.5.2-checksums.txt" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.2/LocalAI-v3.5.2-source.tar.gz" text="LocalAI-v3.5.2-source.tar.gz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.2/LocalAI.dmg" text="LocalAI.dmg" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
 
 
 
 ## v3.5.1
 
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.1/local-ai-launcher-linux.tar.xz"} text="local-ai-launcher-linux.tar.xz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.1/local-ai-v3.5.1-darwin-amd64"} text="local-ai-v3.5.1-darwin-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.1/local-ai-v3.5.1-darwin-arm64"} text="local-ai-v3.5.1-darwin-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.1/local-ai-v3.5.1-linux-amd64"} text="local-ai-v3.5.1-linux-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.1/local-ai-v3.5.1-linux-arm64"} text="local-ai-v3.5.1-linux-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.1/LocalAI-v3.5.1-checksums.txt"} text="LocalAI-v3.5.1-checksums.txt" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.1/LocalAI-v3.5.1-source.tar.gz"} text="LocalAI-v3.5.1-source.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.1/LocalAI.dmg"} text="LocalAI.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.1/local-ai-launcher-linux.tar.xz" text="local-ai-launcher-linux.tar.xz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.1/local-ai-v3.5.1-darwin-amd64" text="local-ai-v3.5.1-darwin-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.1/local-ai-v3.5.1-darwin-arm64" text="local-ai-v3.5.1-darwin-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.1/local-ai-v3.5.1-linux-amd64" text="local-ai-v3.5.1-linux-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.1/local-ai-v3.5.1-linux-arm64" text="local-ai-v3.5.1-linux-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.1/LocalAI-v3.5.1-checksums.txt" text="LocalAI-v3.5.1-checksums.txt" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.1/LocalAI-v3.5.1-source.tar.gz" text="LocalAI-v3.5.1-source.tar.gz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.1/LocalAI.dmg" text="LocalAI.dmg" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
 
 
 
 ## v3.5.0
 
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.0/local-ai-launcher-linux.tar.xz"} text="local-ai-launcher-linux.tar.xz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.0/local-ai-v3.5.0-darwin-amd64"} text="local-ai-v3.5.0-darwin-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.0/local-ai-v3.5.0-darwin-arm64"} text="local-ai-v3.5.0-darwin-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.0/local-ai-v3.5.0-linux-amd64"} text="local-ai-v3.5.0-linux-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.0/local-ai-v3.5.0-linux-arm64"} text="local-ai-v3.5.0-linux-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.0/LocalAI-v3.5.0-checksums.txt"} text="LocalAI-v3.5.0-checksums.txt" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.0/LocalAI-v3.5.0-source.tar.gz"} text="LocalAI-v3.5.0-source.tar.gz" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.5.0/LocalAI.dmg"} text="LocalAI.dmg" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.0/local-ai-launcher-linux.tar.xz" text="local-ai-launcher-linux.tar.xz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.0/local-ai-v3.5.0-darwin-amd64" text="local-ai-v3.5.0-darwin-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.0/local-ai-v3.5.0-darwin-arm64" text="local-ai-v3.5.0-darwin-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.0/local-ai-v3.5.0-linux-amd64" text="local-ai-v3.5.0-linux-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.0/local-ai-v3.5.0-linux-arm64" text="local-ai-v3.5.0-linux-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.0/LocalAI-v3.5.0-checksums.txt" text="LocalAI-v3.5.0-checksums.txt" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.0/LocalAI-v3.5.0-source.tar.gz" text="LocalAI-v3.5.0-source.tar.gz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.5.0/LocalAI.dmg" text="LocalAI.dmg" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
 
 
 
 ## v3.4.0
 
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.4.0/local-ai-v3.4.0-darwin-amd64"} text="local-ai-v3.4.0-darwin-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.4.0/local-ai-v3.4.0-darwin-arm64"} text="local-ai-v3.4.0-darwin-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.4.0/local-ai-v3.4.0-linux-amd64"} text="local-ai-v3.4.0-linux-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.4.0/local-ai-v3.4.0-linux-arm64"} text="local-ai-v3.4.0-linux-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.4.0/LocalAI-v3.4.0-checksums.txt"} text="LocalAI-v3.4.0-checksums.txt" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.4.0/LocalAI-v3.4.0-source.tar.gz"} text="LocalAI-v3.4.0-source.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.4.0/local-ai-v3.4.0-darwin-amd64" text="local-ai-v3.4.0-darwin-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.4.0/local-ai-v3.4.0-darwin-arm64" text="local-ai-v3.4.0-darwin-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.4.0/local-ai-v3.4.0-linux-amd64" text="local-ai-v3.4.0-linux-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.4.0/local-ai-v3.4.0-linux-arm64" text="local-ai-v3.4.0-linux-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.4.0/LocalAI-v3.4.0-checksums.txt" text="LocalAI-v3.4.0-checksums.txt" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.4.0/LocalAI-v3.4.0-source.tar.gz" text="LocalAI-v3.4.0-source.tar.gz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
 
 
 
@@ -278,117 +278,117 @@ import OneDrive from './_onedrive.md';
 
 ## v3.3.2
 
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.3.2/local-ai-v3.3.2-darwin-amd64"} text="local-ai-v3.3.2-darwin-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.3.2/local-ai-v3.3.2-darwin-arm64"} text="local-ai-v3.3.2-darwin-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.3.2/local-ai-v3.3.2-linux-amd64"} text="local-ai-v3.3.2-linux-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.3.2/local-ai-v3.3.2-linux-arm64"} text="local-ai-v3.3.2-linux-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.3.2/LocalAI-v3.3.2-checksums.txt"} text="LocalAI-v3.3.2-checksums.txt" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.3.2/LocalAI-v3.3.2-source.tar.gz"} text="LocalAI-v3.3.2-source.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.3.2/local-ai-v3.3.2-darwin-amd64" text="local-ai-v3.3.2-darwin-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.3.2/local-ai-v3.3.2-darwin-arm64" text="local-ai-v3.3.2-darwin-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.3.2/local-ai-v3.3.2-linux-amd64" text="local-ai-v3.3.2-linux-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.3.2/local-ai-v3.3.2-linux-arm64" text="local-ai-v3.3.2-linux-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.3.2/LocalAI-v3.3.2-checksums.txt" text="LocalAI-v3.3.2-checksums.txt" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.3.2/LocalAI-v3.3.2-source.tar.gz" text="LocalAI-v3.3.2-source.tar.gz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
 
 
 
 ## v3.3.1
 
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.3.1/local-ai-v3.3.1-darwin-amd64"} text="local-ai-v3.3.1-darwin-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.3.1/local-ai-v3.3.1-darwin-arm64"} text="local-ai-v3.3.1-darwin-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.3.1/local-ai-v3.3.1-linux-amd64"} text="local-ai-v3.3.1-linux-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.3.1/local-ai-v3.3.1-linux-arm64"} text="local-ai-v3.3.1-linux-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.3.1/LocalAI-v3.3.1-checksums.txt"} text="LocalAI-v3.3.1-checksums.txt" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.3.1/LocalAI-v3.3.1-source.tar.gz"} text="LocalAI-v3.3.1-source.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.3.1/local-ai-v3.3.1-darwin-amd64" text="local-ai-v3.3.1-darwin-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.3.1/local-ai-v3.3.1-darwin-arm64" text="local-ai-v3.3.1-darwin-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.3.1/local-ai-v3.3.1-linux-amd64" text="local-ai-v3.3.1-linux-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.3.1/local-ai-v3.3.1-linux-arm64" text="local-ai-v3.3.1-linux-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.3.1/LocalAI-v3.3.1-checksums.txt" text="LocalAI-v3.3.1-checksums.txt" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.3.1/LocalAI-v3.3.1-source.tar.gz" text="LocalAI-v3.3.1-source.tar.gz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
 
 
 
 ## v3.3.0
 
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.3.0/local-ai-v3.3.0-darwin-amd64"} text="local-ai-v3.3.0-darwin-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.3.0/local-ai-v3.3.0-darwin-arm64"} text="local-ai-v3.3.0-darwin-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.3.0/local-ai-v3.3.0-linux-amd64"} text="local-ai-v3.3.0-linux-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.3.0/local-ai-v3.3.0-linux-arm64"} text="local-ai-v3.3.0-linux-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.3.0/LocalAI-v3.3.0-checksums.txt"} text="LocalAI-v3.3.0-checksums.txt" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.3.0/LocalAI-v3.3.0-source.tar.gz"} text="LocalAI-v3.3.0-source.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.3.0/local-ai-v3.3.0-darwin-amd64" text="local-ai-v3.3.0-darwin-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.3.0/local-ai-v3.3.0-darwin-arm64" text="local-ai-v3.3.0-darwin-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.3.0/local-ai-v3.3.0-linux-amd64" text="local-ai-v3.3.0-linux-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.3.0/local-ai-v3.3.0-linux-arm64" text="local-ai-v3.3.0-linux-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.3.0/LocalAI-v3.3.0-checksums.txt" text="LocalAI-v3.3.0-checksums.txt" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.3.0/LocalAI-v3.3.0-source.tar.gz" text="LocalAI-v3.3.0-source.tar.gz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
 
 
 
 ## v3.2.3
 
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.2.3/local-ai-v3.2.3-darwin-amd64"} text="local-ai-v3.2.3-darwin-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.2.3/local-ai-v3.2.3-darwin-arm64"} text="local-ai-v3.2.3-darwin-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.2.3/local-ai-v3.2.3-linux-amd64"} text="local-ai-v3.2.3-linux-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.2.3/local-ai-v3.2.3-linux-arm64"} text="local-ai-v3.2.3-linux-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.2.3/LocalAI-v3.2.3-checksums.txt"} text="LocalAI-v3.2.3-checksums.txt" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.2.3/LocalAI-v3.2.3-source.tar.gz"} text="LocalAI-v3.2.3-source.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.2.3/local-ai-v3.2.3-darwin-amd64" text="local-ai-v3.2.3-darwin-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.2.3/local-ai-v3.2.3-darwin-arm64" text="local-ai-v3.2.3-darwin-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.2.3/local-ai-v3.2.3-linux-amd64" text="local-ai-v3.2.3-linux-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.2.3/local-ai-v3.2.3-linux-arm64" text="local-ai-v3.2.3-linux-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.2.3/LocalAI-v3.2.3-checksums.txt" text="LocalAI-v3.2.3-checksums.txt" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.2.3/LocalAI-v3.2.3-source.tar.gz" text="LocalAI-v3.2.3-source.tar.gz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
 
 
 
 ## v3.2.2
 
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.2.2/local-ai-v3.2.2-darwin-amd64"} text="local-ai-v3.2.2-darwin-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.2.2/local-ai-v3.2.2-darwin-arm64"} text="local-ai-v3.2.2-darwin-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.2.2/local-ai-v3.2.2-linux-amd64"} text="local-ai-v3.2.2-linux-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.2.2/local-ai-v3.2.2-linux-arm64"} text="local-ai-v3.2.2-linux-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.2.2/LocalAI-v3.2.2-checksums.txt"} text="LocalAI-v3.2.2-checksums.txt" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.2.2/LocalAI-v3.2.2-source.tar.gz"} text="LocalAI-v3.2.2-source.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.2.2/local-ai-v3.2.2-darwin-amd64" text="local-ai-v3.2.2-darwin-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.2.2/local-ai-v3.2.2-darwin-arm64" text="local-ai-v3.2.2-darwin-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.2.2/local-ai-v3.2.2-linux-amd64" text="local-ai-v3.2.2-linux-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.2.2/local-ai-v3.2.2-linux-arm64" text="local-ai-v3.2.2-linux-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.2.2/LocalAI-v3.2.2-checksums.txt" text="LocalAI-v3.2.2-checksums.txt" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.2.2/LocalAI-v3.2.2-source.tar.gz" text="LocalAI-v3.2.2-source.tar.gz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
 
 
 
 ## v3.2.1
 
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.2.1/local-ai-v3.2.1-darwin-amd64"} text="local-ai-v3.2.1-darwin-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.2.1/local-ai-v3.2.1-darwin-arm64"} text="local-ai-v3.2.1-darwin-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.2.1/local-ai-v3.2.1-linux-amd64"} text="local-ai-v3.2.1-linux-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.2.1/local-ai-v3.2.1-linux-arm64"} text="local-ai-v3.2.1-linux-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.2.1/LocalAI-v3.2.1-checksums.txt"} text="LocalAI-v3.2.1-checksums.txt" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.2.1/LocalAI-v3.2.1-source.tar.gz"} text="LocalAI-v3.2.1-source.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.2.1/local-ai-v3.2.1-darwin-amd64" text="local-ai-v3.2.1-darwin-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.2.1/local-ai-v3.2.1-darwin-arm64" text="local-ai-v3.2.1-darwin-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.2.1/local-ai-v3.2.1-linux-amd64" text="local-ai-v3.2.1-linux-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.2.1/local-ai-v3.2.1-linux-arm64" text="local-ai-v3.2.1-linux-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.2.1/LocalAI-v3.2.1-checksums.txt" text="LocalAI-v3.2.1-checksums.txt" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.2.1/LocalAI-v3.2.1-source.tar.gz" text="LocalAI-v3.2.1-source.tar.gz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
 
 
 
 ## v3.2.0
 
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.2.0/local-ai-v3.2.0-darwin-amd64"} text="local-ai-v3.2.0-darwin-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.2.0/local-ai-v3.2.0-darwin-arm64"} text="local-ai-v3.2.0-darwin-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.2.0/local-ai-v3.2.0-linux-amd64"} text="local-ai-v3.2.0-linux-amd64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.2.0/local-ai-v3.2.0-linux-arm64"} text="local-ai-v3.2.0-linux-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.2.0/LocalAI-v3.2.0-checksums.txt"} text="LocalAI-v3.2.0-checksums.txt" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.2.0/LocalAI-v3.2.0-source.tar.gz"} text="LocalAI-v3.2.0-source.tar.gz" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.2.0/local-ai-v3.2.0-darwin-amd64" text="local-ai-v3.2.0-darwin-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.2.0/local-ai-v3.2.0-darwin-arm64" text="local-ai-v3.2.0-darwin-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.2.0/local-ai-v3.2.0-linux-amd64" text="local-ai-v3.2.0-linux-amd64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.2.0/local-ai-v3.2.0-linux-arm64" text="local-ai-v3.2.0-linux-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.2.0/LocalAI-v3.2.0-checksums.txt" text="LocalAI-v3.2.0-checksums.txt" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.2.0/LocalAI-v3.2.0-source.tar.gz" text="LocalAI-v3.2.0-source.tar.gz" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
 
 
 
 ## v3.1.1
 
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.1.1/local-ai-Darwin-arm64"} text="local-ai-Darwin-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.1.1/local-ai-Darwin-arm64.sha256"} text="local-ai-Darwin-arm64.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.1.1/local-ai-Darwin-x86_64"} text="local-ai-Darwin-x86_64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.1.1/local-ai-Darwin-x86_64.sha256"} text="local-ai-Darwin-x86_64.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.1.1/local-ai-Linux-arm64"} text="local-ai-Linux-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.1.1/local-ai-Linux-arm64.sha256"} text="local-ai-Linux-arm64.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.1.1/local-ai-Linux-x86_64"} text="local-ai-Linux-x86_64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.1.1/local-ai-Linux-x86_64.sha256"} text="local-ai-Linux-x86_64.sha256" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.1.1/local-ai-Darwin-arm64" text="local-ai-Darwin-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.1.1/local-ai-Darwin-arm64.sha256" text="local-ai-Darwin-arm64.sha256" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.1.1/local-ai-Darwin-x86_64" text="local-ai-Darwin-x86_64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.1.1/local-ai-Darwin-x86_64.sha256" text="local-ai-Darwin-x86_64.sha256" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.1.1/local-ai-Linux-arm64" text="local-ai-Linux-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.1.1/local-ai-Linux-arm64.sha256" text="local-ai-Linux-arm64.sha256" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.1.1/local-ai-Linux-x86_64" text="local-ai-Linux-x86_64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.1.1/local-ai-Linux-x86_64.sha256" text="local-ai-Linux-x86_64.sha256" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
 
 
 
 ## v3.1.0
 
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.1.0/local-ai-Darwin-arm64"} text="local-ai-Darwin-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.1.0/local-ai-Darwin-arm64.sha256"} text="local-ai-Darwin-arm64.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.1.0/local-ai-Darwin-x86_64"} text="local-ai-Darwin-x86_64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.1.0/local-ai-Darwin-x86_64.sha256"} text="local-ai-Darwin-x86_64.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.1.0/local-ai-Linux-arm64"} text="local-ai-Linux-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.1.0/local-ai-Linux-arm64.sha256"} text="local-ai-Linux-arm64.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.1.0/local-ai-Linux-x86_64"} text="local-ai-Linux-x86_64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.1.0/local-ai-Linux-x86_64.sha256"} text="local-ai-Linux-x86_64.sha256" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.1.0/local-ai-Darwin-arm64" text="local-ai-Darwin-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.1.0/local-ai-Darwin-arm64.sha256" text="local-ai-Darwin-arm64.sha256" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.1.0/local-ai-Darwin-x86_64" text="local-ai-Darwin-x86_64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.1.0/local-ai-Darwin-x86_64.sha256" text="local-ai-Darwin-x86_64.sha256" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.1.0/local-ai-Linux-arm64" text="local-ai-Linux-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.1.0/local-ai-Linux-arm64.sha256" text="local-ai-Linux-arm64.sha256" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.1.0/local-ai-Linux-x86_64" text="local-ai-Linux-x86_64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.1.0/local-ai-Linux-x86_64.sha256" text="local-ai-Linux-x86_64.sha256" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
 
 
 
 ## v3.0.0
 
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.0.0/local-ai-Darwin-arm64"} text="local-ai-Darwin-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.0.0/local-ai-Darwin-arm64.sha256"} text="local-ai-Darwin-arm64.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.0.0/local-ai-Darwin-x86_64"} text="local-ai-Darwin-x86_64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.0.0/local-ai-Darwin-x86_64.sha256"} text="local-ai-Darwin-x86_64.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.0.0/local-ai-Linux-arm64"} text="local-ai-Linux-arm64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.0.0/local-ai-Linux-arm64.sha256"} text="local-ai-Linux-arm64.sha256" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.0.0/local-ai-Linux-x86_64"} text="local-ai-Linux-x86_64" oneDriveSupport={false} />
-- <GithubMirrorLink link={"https://github.com/mudler/LocalAI/releases/download/v3.0.0/local-ai-Linux-x86_64.sha256"} text="local-ai-Linux-x86_64.sha256" oneDriveSupport={false} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.0.0/local-ai-Darwin-arm64" text="local-ai-Darwin-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.0.0/local-ai-Darwin-arm64.sha256" text="local-ai-Darwin-arm64.sha256" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.0.0/local-ai-Darwin-x86_64" text="local-ai-Darwin-x86_64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.0.0/local-ai-Darwin-x86_64.sha256" text="local-ai-Darwin-x86_64.sha256" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.0.0/local-ai-Linux-arm64" text="local-ai-Linux-arm64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.0.0/local-ai-Linux-arm64.sha256" text="local-ai-Linux-arm64.sha256" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.0.0/local-ai-Linux-x86_64" text="local-ai-Linux-x86_64" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v3.0.0/local-ai-Linux-x86_64.sha256" text="local-ai-Linux-x86_64.sha256" oneDriveSupport=false repositoryKey="mudler/LocalAI" />
 
 
 
