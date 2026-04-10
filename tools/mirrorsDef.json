@@ -266,8 +266,7 @@
       "officialSite": "https://github.com/Wox-launcher/Wox/",
       "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
       "markdownFilename": "Mirrors-Wox.md",
-      "createDate": "2021-04-26",
-      "oneDriveSupport": true
+      "createDate": "2021-04-26"
     },
     {
       "type": "github",
@@ -339,8 +338,7 @@
       "officialSite": "https://github.com/microsoft/PowerToys/",
       "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
       "markdownFilename": "Mirrors-PowerToys.md",
-      "createDate": "2021-04-26",
-      "oneDriveSupport": true
+      "createDate": "2021-04-26"
     },
     {
       "type": "github",
