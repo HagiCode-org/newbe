@@ -92,7 +92,7 @@ def ensure_hagicode_promo_in_existing_doc(markdown_path):
                 post = f"{post[:frontmatter_end + 5]}\n{HAGICODE_PROMO_IMPORT}\n{post[frontmatter_end + 5:]}"
 
     if HAGICODE_PROMO_BLOCK not in post:
-        insert_markers = ["<OneDrive />", "## "]
+        insert_markers = ["## "]
         insert_index = -1
         for marker in insert_markers:
             marker_index = post.find(marker)
@@ -104,12 +104,6 @@ def ensure_hagicode_promo_in_existing_doc(markdown_path):
             post = f"{post.rstrip()}\n\n{HAGICODE_PROMO_BLOCK}\n"
         else:
             post = f"{post[:insert_index]}{HAGICODE_PROMO_BLOCK}\n\n{post[insert_index:]}"
-    elif "<OneDrive />" in post:
-        promo_index = post.find(HAGICODE_PROMO_BLOCK)
-        onedrive_index = post.find("<OneDrive />")
-        if promo_index > onedrive_index:
-            post = post.replace(f"\n{HAGICODE_PROMO_BLOCK}\n", "\n", 1)
-            post = post[:onedrive_index] + f"{HAGICODE_PROMO_BLOCK}\n\n" + post[onedrive_index:]
 
     with open(markdown_path, 'w', encoding='utf8') as f:
         f.write(post)
@@ -702,8 +696,6 @@ def create_github_mirror(mirror):
     software_name = mirror['softwareName']
     # https://github.com/{owner}/{repo}/
     official_site = mirror['officialSite']
-    # get oneDriveSupport else False
-    one_drive_support = mirror.get('oneDriveSupport', False)
     # exact owner and repo from official_site
     owner = re.search(r'github.com/([^/]+)/([^/]+)', official_site).group(1)
     repo = re.search(r'github.com/([^/]+)/([^/]+)', official_site).group(2)
@@ -731,16 +723,11 @@ top: -99
 
 {get_hagicode_promo_mdx()}
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
-import OneDrive from './_onedrive.md';
 
 """
     post += f"""
 {get_hagicode_promo_block()}
 """
-    if one_drive_support:
-        post += f"""
-        <OneDrive />
-        """
     github_api_url = f"https://api.github.com/repos/{owner}/{repo}/releases"
     resp = requests.get(
         github_api_url,
@@ -774,7 +761,6 @@ import OneDrive from './_onedrive.md';
         provider_links_by_asset = build_provider_links_by_asset(release, mirror, manifest_records)
         post += get_github_version_section(
             release,
-            one_drive_support=one_drive_support,
             repository_key=repository_key,
             preferred_providers=preferred_providers,
             provider_links_by_asset=provider_links_by_asset,
@@ -837,7 +823,7 @@ top: -99
     offset = 10 if version_count > 10 else 0
     for release in releases:
         section_index += 1
-        post += get_github_version_section(release, one_drive_support=False)
+        post += get_github_version_section(release)
         if section_index >= version_count - offset:
             break
 

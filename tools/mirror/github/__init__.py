@@ -3,7 +3,6 @@ import json
 
 def get_github_version_section(
     release,
-    one_drive_support,
     repository_key=None,
     preferred_providers=None,
     provider_links_by_asset=None,
@@ -16,7 +15,6 @@ def get_github_version_section(
         props = [
             f'link={json.dumps(asset["browser_download_url"], ensure_ascii=False)}',
             f'text={json.dumps(asset["name"], ensure_ascii=False)}',
-            f'oneDriveSupport={str(one_drive_support).lower()}',
         ]
 
         if repository_key:
