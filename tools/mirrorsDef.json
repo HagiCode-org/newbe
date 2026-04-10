@@ -77,6 +77,18 @@
       "softwareName": "ollama",
       "officialSite": "https://github.com/ollama/ollama/",
       "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "repositoryKey": "ollama/ollama",
+      "preferredProviders": [
+        "123pan"
+      ],
+      "manifestSource": {
+        "repositoryKey": "ollama/ollama",
+        "source": "azure",
+        "expectedVersion": 1,
+        "containerSasUrlEnv": "AZURE_STORAGE_BLOB_SAS_URL",
+        "blobPrefix": "release-sync",
+        "timeoutSeconds": 15
+      },
       "markdownFilename": "Mirrors-ollama.md",
       "createDate": "2025-02-02"
     },

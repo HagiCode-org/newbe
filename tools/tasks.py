@@ -5,7 +5,7 @@ import json
 import logging
 import os
 import re
-from urllib.parse import unquote
+from urllib.parse import quote, unquote, urlsplit, urlunsplit
 
 import requests
 try:
@@ -20,9 +20,28 @@ except ImportError:
 
         return decorator
 
-from mirror.github import get_github_version_section
-from mirror.huawei import get_version_name, get_tbody_xml, get_version_order, get_huawei_version_section, get_html_xml, get_huawei_version_section_v2
-from mirror import load_description
+try:
+    from mirror.github import get_github_version_section
+    from mirror.huawei import (
+        get_version_name,
+        get_tbody_xml,
+        get_version_order,
+        get_huawei_version_section,
+        get_html_xml,
+        get_huawei_version_section_v2,
+    )
+    from mirror import load_description
+except ModuleNotFoundError:
+    from tools.mirror.github import get_github_version_section
+    from tools.mirror.huawei import (
+        get_version_name,
+        get_tbody_xml,
+        get_version_order,
+        get_huawei_version_section,
+        get_html_xml,
+        get_huawei_version_section_v2,
+    )
+    from tools.mirror import load_description
 
 logging.basicConfig(level=logging.INFO,
                     format='%(asctime)s - %(filename)s[line:%(lineno)d] - %(levelname)s: %(message)s')
@@ -32,6 +51,12 @@ MIRROR_DEF_JSON_PATH = "mirrorsDef.json"
 GITHUB_REQUEST_HEADERS = {
     "User-Agent": "HagiCode-Mirror-Generator/1.0",
 }
+MANIFEST_REQUEST_HEADERS = {
+    "User-Agent": "HagiCode-Mirror-Manifest/1.0",
+    "Accept": "application/json",
+}
+MANIFEST_RECORD_CACHE = {}
+DEFAULT_MANIFEST_BLOB_PREFIX = 'release-sync'
 
 HAGICODE_PROMO_IMPORT = "import HagicodeRecommendation from '../../src/components/HagicodeRecommendation';"
 HAGICODE_PROMO_BLOCK = "<HagicodeRecommendation layout=\"page\" />"
@@ -95,6 +120,303 @@ def load_mirrors_def():
     # sort by software name
     mirrors_def['mirrors'].sort(key=lambda item: item['softwareName'])
     return mirrors_def
+
+
+def normalize_provider_key(provider_name):
+    if not provider_name:
+        return None
+    normalized = str(provider_name).strip().lower()
+    if normalized in {'pan123', '123 pan', '123-pan', '123_pan'}:
+        return '123pan'
+    return normalized
+
+
+def split_repository_key(repository_key):
+    normalized_repository_key = str(repository_key or '').strip().strip('/')
+    owner_repo = [segment for segment in normalized_repository_key.split('/') if segment]
+    if len(owner_repo) != 2:
+        raise ValueError('manifestSource.repositoryKey must use the "<owner>/<repo>" format')
+    return owner_repo[0], owner_repo[1]
+
+
+def normalize_manifest_blob_prefix(prefix):
+    normalized_prefix = str(prefix or DEFAULT_MANIFEST_BLOB_PREFIX).strip().strip('/')
+    return normalized_prefix or DEFAULT_MANIFEST_BLOB_PREFIX
+
+
+def resolve_manifest_container_sas_url(manifest_source):
+    if not manifest_source:
+        return None
+    direct_url = manifest_source.get('containerSasUrl')
+    if direct_url:
+        return str(direct_url).strip()
+    url_env = manifest_source.get('containerSasUrlEnv')
+    if not url_env:
+        return None
+    resolved_url = os.getenv(url_env)
+    return resolved_url.strip() if resolved_url else None
+
+
+def build_release_sync_manifest_blob_name(repository_key, release_tag_name, prefix=DEFAULT_MANIFEST_BLOB_PREFIX):
+    if not release_tag_name or not str(release_tag_name).strip():
+        return None
+
+    owner, repo = split_repository_key(repository_key)
+    segments = [
+        *normalize_manifest_blob_prefix(prefix).split('/'),
+        owner,
+        repo,
+        str(release_tag_name).strip(),
+        'manifest.json',
+    ]
+    return '/'.join(segments)
+
+
+def build_manifest_url(manifest_source, release_tag_name):
+    container_sas_url = manifest_source.get('containerSasUrl')
+    if not container_sas_url:
+        return None
+
+    blob_name = build_release_sync_manifest_blob_name(
+        manifest_source['repositoryKey'],
+        release_tag_name,
+        manifest_source.get('blobPrefix', DEFAULT_MANIFEST_BLOB_PREFIX),
+    )
+    if not blob_name:
+        return None
+
+    parsed_url = urlsplit(container_sas_url)
+    if not parsed_url.scheme or not parsed_url.netloc:
+        raise ValueError('manifestSource.containerSasUrl must be an absolute URL')
+
+    encoded_blob_name = '/'.join(quote(segment, safe='') for segment in blob_name.split('/'))
+    manifest_path = f"{parsed_url.path.rstrip('/')}/{encoded_blob_name}"
+
+    return urlunsplit((
+        parsed_url.scheme,
+        parsed_url.netloc,
+        manifest_path,
+        parsed_url.query,
+        parsed_url.fragment,
+    ))
+
+
+def validate_manifest_source(manifest_source):
+    if not manifest_source:
+        return None
+
+    repository_key = manifest_source.get('repositoryKey')
+    if not repository_key:
+        raise ValueError('manifestSource.repositoryKey is required when manifestSource is configured')
+    split_repository_key(repository_key)
+
+    expected_version = manifest_source.get('expectedVersion')
+    if expected_version is not None and not isinstance(expected_version, int):
+        raise ValueError('manifestSource.expectedVersion must be an integer when provided')
+
+    timeout_seconds = manifest_source.get('timeoutSeconds', 15)
+    if not isinstance(timeout_seconds, int) or timeout_seconds <= 0:
+        raise ValueError('manifestSource.timeoutSeconds must be a positive integer when provided')
+
+    container_sas_url = resolve_manifest_container_sas_url(manifest_source)
+    if not container_sas_url and not (
+        manifest_source.get('containerSasUrl') or manifest_source.get('containerSasUrlEnv')
+    ):
+        raise ValueError('manifestSource must define containerSasUrl or containerSasUrlEnv')
+
+    return {
+        'repositoryKey': repository_key,
+        'expectedVersion': expected_version,
+        'timeoutSeconds': timeout_seconds,
+        'source': manifest_source.get('source', 'azure'),
+        'blobPrefix': normalize_manifest_blob_prefix(manifest_source.get('blobPrefix')),
+        'containerSasUrl': container_sas_url,
+        'containerSasUrlEnv': manifest_source.get('containerSasUrlEnv'),
+    }
+
+
+def normalize_manifest_records(payload, manifest_source):
+    # Keep the manifest contract intentionally small so future providers can
+    # extend the upstream payload without forcing GithubMirrorLink prop changes.
+    payload_dict = payload if isinstance(payload, dict) else {}
+    manifest_version = payload_dict.get('version')
+    expected_version = manifest_source.get('expectedVersion')
+    if expected_version is not None and manifest_version != expected_version:
+        raise ValueError(
+            f"Manifest version mismatch for {manifest_source['repositoryKey']}: "
+            f"expected {expected_version}, got {manifest_version!r}"
+        )
+
+    raw_records = payload_dict.get('records') if isinstance(payload, dict) else payload
+    if not isinstance(raw_records, list):
+        raise ValueError('Manifest payload must provide a records array')
+
+    normalized_records = []
+    for record in raw_records:
+        if not isinstance(record, dict):
+            continue
+
+        repository_key = record.get('repositoryKey') or payload_dict.get('repositoryKey') or manifest_source['repositoryKey']
+        provider_key = normalize_provider_key(record.get('providerName') or record.get('providerKey'))
+        release_tag_name = record.get('releaseTagName')
+        asset_name = record.get('assetName')
+        share_url = (record.get('shareUrl') or '').strip()
+        status = str(record.get('status') or '').strip().lower() or 'unknown'
+        synced_at = (
+            record.get('lastSyncedAt')
+            or record.get('firstSyncedAt')
+            or record.get('updatedAt')
+            or payload_dict.get('updatedAt')
+        )
+        display_name = (
+            record.get('displayName')
+            or record.get('providerDisplayName')
+            or record.get('providerName')
+            or provider_key
+        )
+
+        if not repository_key or not release_tag_name or not asset_name or not provider_key:
+            continue
+
+        normalized_records.append({
+            'repositoryKey': repository_key,
+            'releaseTagName': release_tag_name,
+            'assetName': asset_name,
+            'providerKey': provider_key,
+            'displayName': display_name,
+            'shareUrl': share_url,
+            'status': status,
+            'syncedAt': synced_at,
+            'source': manifest_source.get('source', 'azure'),
+        })
+
+    return normalized_records
+
+
+def fetch_manifest_records(manifest_source, release_tag_name=None):
+    validated_source = validate_manifest_source(manifest_source)
+    if not validated_source:
+        return []
+
+    container_sas_url = validated_source.get('containerSasUrl')
+    if not container_sas_url:
+        logger.warning(
+            "Manifest container SAS URL is not configured for %s. Set %s to enable provider links.",
+            validated_source['repositoryKey'],
+            validated_source.get('containerSasUrlEnv') or 'manifestSource.containerSasUrl',
+        )
+        return []
+
+    manifest_url = build_manifest_url(validated_source, release_tag_name)
+    if not manifest_url:
+        logger.warning(
+            "Manifest URL could not be derived for %s because release tag is missing.",
+            validated_source['repositoryKey'],
+        )
+        return []
+
+    cache_key = (
+        manifest_url,
+        validated_source['repositoryKey'],
+        validated_source.get('expectedVersion'),
+    )
+    if cache_key in MANIFEST_RECORD_CACHE:
+        return MANIFEST_RECORD_CACHE[cache_key]
+
+    try:
+        response = requests.get(
+            manifest_url,
+            headers=MANIFEST_REQUEST_HEADERS,
+            timeout=validated_source['timeoutSeconds'],
+        )
+        response.raise_for_status()
+        payload = response.json()
+        normalized_records = normalize_manifest_records(payload, validated_source)
+    except requests.Timeout:
+        logger.warning(
+            "Manifest request timed out for %s @ %s (%s)",
+            validated_source['repositoryKey'],
+            release_tag_name,
+            manifest_url,
+        )
+        normalized_records = []
+    except requests.RequestException as exc:
+        logger.warning(
+            "Manifest request failed for %s @ %s: %s",
+            validated_source['repositoryKey'],
+            release_tag_name,
+            exc,
+        )
+        normalized_records = []
+    except json.JSONDecodeError as exc:
+        logger.warning(
+            "Manifest JSON was invalid for %s @ %s: %s",
+            validated_source['repositoryKey'],
+            release_tag_name,
+            exc,
+        )
+        normalized_records = []
+    except ValueError as exc:
+        logger.warning(
+            "Manifest payload was rejected for %s @ %s: %s",
+            validated_source['repositoryKey'],
+            release_tag_name,
+            exc,
+        )
+        normalized_records = []
+
+    MANIFEST_RECORD_CACHE[cache_key] = normalized_records
+    return normalized_records
+
+
+def build_provider_links_by_asset(release, mirror, manifest_records):
+    # Provider links must match the exact repository + release tag + asset name.
+    # This prevents stale or cross-product share links from leaking into Ollama.
+    manifest_source = mirror.get('manifestSource') or {}
+    repository_key = (
+        mirror.get('repositoryKey')
+        or manifest_source.get('repositoryKey')
+        or re.search(r'github.com/([^/]+)/([^/]+)', mirror['officialSite']).group(1) + '/' +
+        re.search(r'github.com/([^/]+)/([^/]+)', mirror['officialSite']).group(2)
+    )
+    normalized_repository_key = repository_key.strip().strip('/')
+    normalized_release_tag = str(release.get('tag_name') or '').strip().lower()
+
+    if not normalized_release_tag:
+        return {}
+
+    provider_links_by_asset = {}
+    for asset in release.get('assets', []):
+        asset_name = str(asset.get('name') or '').strip()
+        if not asset_name:
+            continue
+
+        matched_links = []
+        for record in manifest_records:
+            if record['repositoryKey'].strip().strip('/') != normalized_repository_key:
+                continue
+            if str(record['releaseTagName']).strip().lower() != normalized_release_tag:
+                continue
+            if str(record['assetName']).strip() != asset_name:
+                continue
+            if record.get('status') != 'synced':
+                continue
+            share_url = (record.get('shareUrl') or '').strip()
+            if not share_url:
+                continue
+            matched_links.append({
+                'providerKey': record['providerKey'],
+                'displayName': record['displayName'],
+                'fullUrl': share_url,
+                'status': record.get('status'),
+                'syncedAt': record.get('syncedAt'),
+                'source': record.get('source', 'azure'),
+            })
+
+        if matched_links:
+            provider_links_by_asset[asset_name] = matched_links
+
+    return provider_links_by_asset
 
 
 def load_github_releases_from_html(owner, repo):
@@ -385,10 +707,10 @@ def create_github_mirror(mirror):
     # exact owner and repo from official_site
     owner = re.search(r'github.com/([^/]+)/([^/]+)', official_site).group(1)
     repo = re.search(r'github.com/([^/]+)/([^/]+)', official_site).group(2)
-    mirror_prefix = mirror['mirrorPrefix']
     markdown_filename = mirror['markdownFilename']
     create_date = mirror['createDate']
-
+    repository_key = mirror.get('repositoryKey', f'{owner}/{repo}')
+    preferred_providers = mirror.get('preferredProviders', [])
     desc_section = load_description(software_name)
 
     post = f"""---
@@ -429,16 +751,16 @@ import OneDrive from './_onedrive.md';
     markdown_path = f'../docs/Mirrors/{markdown_filename}'
     if not isinstance(releases, list):
         logger.warning(
-            "GitHub API returned %s for %s/%s, falling back to existing markdown",
+            "GitHub API returned %s for %s/%s, trying HTML fallback before existing markdown",
             type(releases).__name__,
             owner,
             repo,
         )
-        if os.path.exists(markdown_path):
-            ensure_hagicode_promo_in_existing_doc(markdown_path)
-            return
         releases = load_github_releases_from_html(owner, repo)
         if not releases:
+            if os.path.exists(markdown_path):
+                ensure_hagicode_promo_in_existing_doc(markdown_path)
+                return
             raise RuntimeError(f"Unable to fetch releases for {owner}/{repo} from API or HTML fallback")
     elif releases and 'published_at' in releases[0]:
         # sort desc
@@ -448,7 +770,15 @@ import OneDrive from './_onedrive.md';
     offset = 10 if version_count > 10 else 0
     for release in releases:
         section_index += 1
-        post += get_github_version_section(release, mirror_prefix, one_drive_support)
+        manifest_records = fetch_manifest_records(mirror.get('manifestSource'), release.get('tag_name'))
+        provider_links_by_asset = build_provider_links_by_asset(release, mirror, manifest_records)
+        post += get_github_version_section(
+            release,
+            one_drive_support=one_drive_support,
+            repository_key=repository_key,
+            preferred_providers=preferred_providers,
+            provider_links_by_asset=provider_links_by_asset,
+        )
         if section_index == version_count - offset:
             post += f"""
 
@@ -507,7 +837,7 @@ top: -99
     offset = 10 if version_count > 10 else 0
     for release in releases:
         section_index += 1
-        post += get_github_version_section(release, mirror_prefix)
+        post += get_github_version_section(release, one_drive_support=False)
         if section_index >= version_count - offset:
             break
 
