@@ -12,8 +12,6 @@ export interface GithubMirrorLinkProps {
   text: string;
   /** GitHub resource URL to mirror */
   link: string;
-  /** Whether to show WeChat public account option */
-  oneDriveSupport?: boolean;
   /** Optional repository key used for repository-scoped mirror policy */
   repositoryKey?: string;
   /** Optional preferred provider order for repository-scoped recommendations */
@@ -60,18 +58,6 @@ export interface ToastProps {
   duration?: number;
   /** Callback when toast should be hidden */
   onHide?: () => void;
-}
-
-/**
- * Props for the QRCodeModal component
- */
-export interface QRCodeModalProps {
-  /** Whether QR code modal is visible */
-  visible: boolean;
-  /** Callback to close modal */
-  onClose: () => void;
-  /** Optional CSS class name */
-  className?: string;
 }
 
 /**

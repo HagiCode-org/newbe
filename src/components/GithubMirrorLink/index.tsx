@@ -14,7 +14,6 @@
  * <GithubMirrorLink
  *   text="下载源码"
  *   link="https://github.com/user/repo/archive/refs/heads/main.zip"
- *   oneDriveSupport={true}
  * />
  * ```
  */
@@ -28,7 +27,6 @@ import styles from './styles.module.css';
 import MirrorSection from './MirrorSection';
 import MirrorCard from './MirrorCard';
 import Toast from './Toast';
-import QRCodeModal from './QRCodeModal';
 import HagicodeRecommendation from '../HagicodeRecommendation';
 
 // Configuration
@@ -39,14 +37,12 @@ import {
 const GithubMirrorLink: React.FC<GithubMirrorLinkProps> = ({
   text,
   link,
-  oneDriveSupport = false,
   repositoryKey,
   preferredProviders = [],
   resolvedMirrors = [],
 }) => {
   // State management
   const [showPopup, setShowPopup] = useState(false);
-  const [showQRModal, setShowQRModal] = useState(false);
   const [toast, setToast] = useState<ToastState>({ visible: false, message: '' });
   const popupRef = useRef<HTMLDivElement>(null);
   const triggerRef = useRef<HTMLAnchorElement>(null);
@@ -54,14 +50,12 @@ const GithubMirrorLink: React.FC<GithubMirrorLinkProps> = ({
   // Close popup on ESC key
   const handleKeyDown = useCallback((event: KeyboardEvent) => {
     if (event.key === 'Escape') {
-      if (showQRModal) {
-        setShowQRModal(false);
-      } else if (showPopup) {
+      if (showPopup) {
         setShowPopup(false);
         triggerRef.current?.focus();
       }
     }
-  }, [showPopup, showQRModal]);
+  }, [showPopup]);
 
   useEffect(() => {
     document.addEventListener('keydown', handleKeyDown);
@@ -69,7 +63,7 @@ const GithubMirrorLink: React.FC<GithubMirrorLinkProps> = ({
   }, [handleKeyDown]);
 
   useEffect(() => {
-    if (!showPopup && !showQRModal) {
+    if (!showPopup) {
       return undefined;
     }
 
@@ -79,7 +73,7 @@ const GithubMirrorLink: React.FC<GithubMirrorLinkProps> = ({
     return () => {
       document.body.style.overflow = previousOverflow;
     };
-  }, [showPopup, showQRModal]);
+  }, [showPopup]);
 
   // Focus trap for popup
   useEffect(() => {
@@ -155,10 +149,6 @@ const GithubMirrorLink: React.FC<GithubMirrorLinkProps> = ({
     }
   };
 
-  const handleToggleQRModal = () => {
-    setShowQRModal(!showQRModal);
-  };
-
   const mirrorSections = buildMirrorSections({
     githubLink: link,
     repositoryKey,
@@ -228,22 +218,6 @@ const GithubMirrorLink: React.FC<GithubMirrorLinkProps> = ({
                   <div className={styles.promoSection}>
                     <HagicodeRecommendation layout="modal" />
                   </div>
-
-                  {/* Other Methods Section */}
-                  {oneDriveSupport && (
-                    <div className={styles.otherMethods}>
-                      <p className={styles.otherMethodsText}>
-                        如加速链接失效，关注公众号回复"加速"获取稳定下载地址
-                      </p>
-                      <button
-                        className={styles.qrToggleButton}
-                        onClick={handleToggleQRModal}
-                        type="button"
-                      >
-                        查看公众号二维码
-                      </button>
-                    </div>
-                  )}
                 </aside>
 
                 <div className={styles.contentMain}>
@@ -285,14 +259,6 @@ const GithubMirrorLink: React.FC<GithubMirrorLinkProps> = ({
           </div>
         </div>,
         document.body
-      )}
-
-      {/* QR Code Modal */}
-      {showQRModal && (
-        <QRCodeModal
-          visible={showQRModal}
-          onClose={() => setShowQRModal(false)}
-        />
       )}
 
       {/* Toast Notification */}
