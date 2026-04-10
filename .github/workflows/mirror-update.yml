@@ -37,6 +37,8 @@ jobs:
 
       - name: Init Pipenv CLI and run
         working-directory: ${{ github.workspace }}/tools
+        env:
+          AZURE_STORAGE_BLOB_SAS_URL: ${{ secrets.AZURE_STORAGE_BLOB_SAS_URL }}
         run: |
           export PATH=/home/runner/.local/bin/:$PATH
           pip install --upgrade pip
@@ -85,14 +87,14 @@ jobs:
         id: publish
         if: steps.diff.outputs.changed == 'true'
         env:
-          GH_TOKEN: ${{ secrets.NEWBE_GITHUB_PAT }}
+          GH_TOKEN: ${{ github.token }}
           PATCH_FILE: ${{ steps.diff.outputs.patch_file }}
         shell: bash
         run: |
           set -euo pipefail
 
           if [ -z "${GH_TOKEN:-}" ]; then
-            echo "NEWBE_GITHUB_PAT is required to push ${PUBLISH_BRANCH}." >&2
+            echo "GITHUB_TOKEN is required to push ${PUBLISH_BRANCH}." >&2
             exit 1
           fi
 
@@ -134,8 +136,12 @@ jobs:
           set -euo pipefail
 
           if [ -z "${GH_TOKEN:-}" ]; then
-            echo "NEWBE_GITHUB_PAT is required to dispatch ${INDEX_SYNC_REPOSITORY}." >&2
-            exit 1
+            {
+              echo "- Index sync: skipped"
+              echo "- Reason: NEWBE_GITHUB_PAT is not configured, so cross-repository workflow dispatch was not attempted."
+            } >> "$GITHUB_STEP_SUMMARY"
+            echo "dispatched=false" >> "$GITHUB_OUTPUT"
+            exit 0
           fi
 
           export PATH=/home/runner/.local/bin/:$PATH
