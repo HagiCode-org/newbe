@@ -1,11 +1,24 @@
 # -*- coding: UTF-8 -*-
 
+import html
 import json
 import logging
+import os
 import re
+from urllib.parse import unquote
 
 import requests
-from invoke import task
+try:
+    from invoke import task
+except ImportError:
+    def task(func=None, *args, **kwargs):
+        if callable(func) and not args and not kwargs:
+            return func
+
+        def decorator(inner):
+            return inner
+
+        return decorator
 
 from mirror.github import get_github_version_section
 from mirror.huawei import get_version_name, get_tbody_xml, get_version_order, get_huawei_version_section, get_html_xml, get_huawei_version_section_v2
@@ -16,6 +29,9 @@ logging.basicConfig(level=logging.INFO,
 
 logger = logging.getLogger()
 MIRROR_DEF_JSON_PATH = "mirrorsDef.json"
+GITHUB_REQUEST_HEADERS = {
+    "User-Agent": "HagiCode-Mirror-Generator/1.0",
+}
 
 HAGICODE_PROMO_IMPORT = "import HagicodeRecommendation from '../../src/components/HagicodeRecommendation';"
 HAGICODE_PROMO_BLOCK = "<HagicodeRecommendation layout=\"page\" />"
@@ -79,6 +95,59 @@ def load_mirrors_def():
     # sort by software name
     mirrors_def['mirrors'].sort(key=lambda item: item['softwareName'])
     return mirrors_def
+
+
+def load_github_releases_from_html(owner, repo):
+    releases_page_url = f"https://github.com/{owner}/{repo}/releases"
+    releases_page_resp = requests.get(
+        releases_page_url,
+        headers=GITHUB_REQUEST_HEADERS,
+        timeout=30,
+    )
+    releases_page_resp.raise_for_status()
+
+    fragment_pattern = re.compile(
+        rf'(?:src|data-deferred-src)="(?P<url>https://github\.com/{re.escape(owner)}/{re.escape(repo)}/releases/expanded_assets/[^"]+)"'
+    )
+    asset_pattern = re.compile(
+        rf'<a href="(?P<href>/{re.escape(owner)}/{re.escape(repo)}/releases/download/[^"]+)"[^>]*class="Truncate">.*?<span[^>]*class="Truncate-text text-bold">(?P<name>.*?)</span>',
+        re.S,
+    )
+
+    fragment_urls = []
+    for match in fragment_pattern.finditer(releases_page_resp.text):
+        fragment_url = html.unescape(match.group("url"))
+        if fragment_url not in fragment_urls:
+            fragment_urls.append(fragment_url)
+
+    releases = []
+    for fragment_url in fragment_urls:
+        fragment_resp = requests.get(
+            fragment_url,
+            headers=GITHUB_REQUEST_HEADERS,
+            timeout=30,
+        )
+        fragment_resp.raise_for_status()
+
+        seen_downloads = set()
+        assets = []
+        for asset_match in asset_pattern.finditer(fragment_resp.text):
+            href = html.unescape(asset_match.group("href"))
+            download_url = f"https://github.com{href}"
+            if download_url in seen_downloads:
+                continue
+            seen_downloads.add(download_url)
+            assets.append({
+                "browser_download_url": download_url,
+                "name": html.unescape(asset_match.group("name")).strip(),
+            })
+
+        releases.append({
+            "tag_name": unquote(fragment_url.rsplit("/", 1)[-1]),
+            "assets": assets,
+        })
+
+    return releases
 
 @task
 def create_mirrors(c):
@@ -351,7 +420,11 @@ import OneDrive from './_onedrive.md';
         <OneDrive />
         """
     github_api_url = f"https://api.github.com/repos/{owner}/{repo}/releases"
-    resp = requests.get(github_api_url)
+    resp = requests.get(
+        github_api_url,
+        headers=GITHUB_REQUEST_HEADERS,
+        timeout=30,
+    )
     releases = resp.json()
     markdown_path = f'../docs/Mirrors/{markdown_filename}'
     if not isinstance(releases, list):
@@ -361,10 +434,15 @@ import OneDrive from './_onedrive.md';
             owner,
             repo,
         )
-        ensure_hagicode_promo_in_existing_doc(markdown_path)
-        return
-    # sort desc
-    releases = sorted(releases, key=lambda item: item['published_at'], reverse=True)
+        if os.path.exists(markdown_path):
+            ensure_hagicode_promo_in_existing_doc(markdown_path)
+            return
+        releases = load_github_releases_from_html(owner, repo)
+        if not releases:
+            raise RuntimeError(f"Unable to fetch releases for {owner}/{repo} from API or HTML fallback")
+    elif releases and 'published_at' in releases[0]:
+        # sort desc
+        releases = sorted(releases, key=lambda item: item['published_at'], reverse=True)
     version_count = len(releases)
     section_index = 0
     offset = 10 if version_count > 10 else 0

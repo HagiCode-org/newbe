@@ -371,6 +371,102 @@
       "createDate": "2021-04-26"
     },
     {
+      "type": "github",
+      "softwareName": "Azure Data Studio",
+      "officialSite": "https://github.com/microsoft/azuredatastudio/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-Azure-Data-Studio.md",
+      "createDate": "2026-04-10"
+    },
+    {
+      "type": "github",
+      "softwareName": "Tabby",
+      "officialSite": "https://github.com/Eugeny/tabby/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-Tabby.md",
+      "createDate": "2026-04-10"
+    },
+    {
+      "type": "github",
+      "softwareName": "Motrix",
+      "officialSite": "https://github.com/agalwood/Motrix/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-Motrix.md",
+      "createDate": "2026-04-10"
+    },
+    {
+      "type": "github",
+      "softwareName": "MarkText",
+      "officialSite": "https://github.com/marktext/marktext/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-MarkText.md",
+      "createDate": "2026-04-10"
+    },
+    {
+      "type": "github",
+      "softwareName": "Electron Fiddle",
+      "officialSite": "https://github.com/electron/fiddle/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-Electron-Fiddle.md",
+      "createDate": "2026-04-10"
+    },
+    {
+      "type": "github",
+      "softwareName": "Gitea",
+      "officialSite": "https://github.com/go-gitea/gitea/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-Gitea.md",
+      "createDate": "2026-04-10"
+    },
+    {
+      "type": "github",
+      "softwareName": "GitHub Desktop",
+      "officialSite": "https://github.com/desktop/desktop/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-GitHub-Desktop.md",
+      "createDate": "2026-04-10"
+    },
+    {
+      "type": "github",
+      "softwareName": "WezTerm",
+      "officialSite": "https://github.com/wez/wezterm/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-WezTerm.md",
+      "createDate": "2026-04-10"
+    },
+    {
+      "type": "github",
+      "softwareName": "llama.cpp",
+      "officialSite": "https://github.com/ggml-org/llama.cpp/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-llama-cpp.md",
+      "createDate": "2026-04-10"
+    },
+    {
+      "type": "github",
+      "softwareName": "LocalAI",
+      "officialSite": "https://github.com/mudler/LocalAI/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-LocalAI.md",
+      "createDate": "2026-04-10"
+    },
+    {
+      "type": "github",
+      "softwareName": "GPT4All",
+      "officialSite": "https://github.com/nomic-ai/gpt4all/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-GPT4All.md",
+      "createDate": "2026-04-10"
+    },
+    {
+      "type": "github",
+      "softwareName": "Dive",
+      "officialSite": "https://github.com/OpenAgentPlatform/Dive/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-Dive.md",
+      "createDate": "2026-04-10"
+    },
+    {
       "type": "huawei",
       "softwareName": "Zabbix",
       "officialSite": "https://www.zabbix.com",
