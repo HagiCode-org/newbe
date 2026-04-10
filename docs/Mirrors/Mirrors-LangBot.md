@@ -21,7 +21,6 @@ LangBot. 国内直接从官网 https://github.com/RockChinQ/LangBot/ 下载比�
 import HagicodeRecommendation from '../../src/components/HagicodeRecommendation';
 
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
-import OneDrive from './_onedrive.md';
 
 
 

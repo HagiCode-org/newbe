@@ -18,7 +18,6 @@ ollama-app. 国内直接从官网 https://github.com/JHubi1/ollama-app/ 下载�
 import HagicodeRecommendation from '../../src/components/HagicodeRecommendation';
 
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
-import OneDrive from './_onedrive.md';
 
 
 
@@ -28,58 +27,58 @@ import OneDrive from './_onedrive.md';
 
 ## 1.2.0
 
-- <GithubMirrorLink link="https://github.com/JHubi1/ollama-app/releases/download/1.2.0/ollama-android-v1.2.0.apk" text="ollama-android-v1.2.0.apk" oneDriveSupport=false repositoryKey="JHubi1/ollama-app" />
-- <GithubMirrorLink link="https://github.com/JHubi1/ollama-app/releases/download/1.2.0/ollama-linux-x64-v1.2.0.tar.gz" text="ollama-linux-x64-v1.2.0.tar.gz" oneDriveSupport=false repositoryKey="JHubi1/ollama-app" />
-- <GithubMirrorLink link="https://github.com/JHubi1/ollama-app/releases/download/1.2.0/ollama-windows-x64-v1.2.0.exe" text="ollama-windows-x64-v1.2.0.exe" oneDriveSupport=false repositoryKey="JHubi1/ollama-app" />
+- <GithubMirrorLink link="https://github.com/JHubi1/ollama-app/releases/download/1.2.0/ollama-android-v1.2.0.apk" text="ollama-android-v1.2.0.apk" repositoryKey="JHubi1/ollama-app" />
+- <GithubMirrorLink link="https://github.com/JHubi1/ollama-app/releases/download/1.2.0/ollama-linux-x64-v1.2.0.tar.gz" text="ollama-linux-x64-v1.2.0.tar.gz" repositoryKey="JHubi1/ollama-app" />
+- <GithubMirrorLink link="https://github.com/JHubi1/ollama-app/releases/download/1.2.0/ollama-windows-x64-v1.2.0.exe" text="ollama-windows-x64-v1.2.0.exe" repositoryKey="JHubi1/ollama-app" />
 
 
 
 ## 1.1.1
 
-- <GithubMirrorLink link="https://github.com/JHubi1/ollama-app/releases/download/1.1.1/ollama.apk" text="ollama.apk" oneDriveSupport=false repositoryKey="JHubi1/ollama-app" />
-- <GithubMirrorLink link="https://github.com/JHubi1/ollama-app/releases/download/1.1.1/ollama.apk.sha1" text="ollama.apk.sha1" oneDriveSupport=false repositoryKey="JHubi1/ollama-app" />
+- <GithubMirrorLink link="https://github.com/JHubi1/ollama-app/releases/download/1.1.1/ollama.apk" text="ollama.apk" repositoryKey="JHubi1/ollama-app" />
+- <GithubMirrorLink link="https://github.com/JHubi1/ollama-app/releases/download/1.1.1/ollama.apk.sha1" text="ollama.apk.sha1" repositoryKey="JHubi1/ollama-app" />
 
 
 
 ## 1.1.0
 
-- <GithubMirrorLink link="https://github.com/JHubi1/ollama-app/releases/download/1.1.0/ollama.apk" text="ollama.apk" oneDriveSupport=false repositoryKey="JHubi1/ollama-app" />
+- <GithubMirrorLink link="https://github.com/JHubi1/ollama-app/releases/download/1.1.0/ollama.apk" text="ollama.apk" repositoryKey="JHubi1/ollama-app" />
 
 
 
 ## 1.0.3
 
-- <GithubMirrorLink link="https://github.com/JHubi1/ollama-app/releases/download/1.0.3/ollama.apk" text="ollama.apk" oneDriveSupport=false repositoryKey="JHubi1/ollama-app" />
+- <GithubMirrorLink link="https://github.com/JHubi1/ollama-app/releases/download/1.0.3/ollama.apk" text="ollama.apk" repositoryKey="JHubi1/ollama-app" />
 
 
 
 ## 1.0.2
 
-- <GithubMirrorLink link="https://github.com/JHubi1/ollama-app/releases/download/1.0.2/ollama.apk" text="ollama.apk" oneDriveSupport=false repositoryKey="JHubi1/ollama-app" />
+- <GithubMirrorLink link="https://github.com/JHubi1/ollama-app/releases/download/1.0.2/ollama.apk" text="ollama.apk" repositoryKey="JHubi1/ollama-app" />
 
 
 
 ## 1.0.1
 
-- <GithubMirrorLink link="https://github.com/JHubi1/ollama-app/releases/download/1.0.1/ollama.apk" text="ollama.apk" oneDriveSupport=false repositoryKey="JHubi1/ollama-app" />
+- <GithubMirrorLink link="https://github.com/JHubi1/ollama-app/releases/download/1.0.1/ollama.apk" text="ollama.apk" repositoryKey="JHubi1/ollama-app" />
 
 
 
 ## 1.0.0
 
-- <GithubMirrorLink link="https://github.com/JHubi1/ollama-app/releases/download/1.0.0/ollama.apk" text="ollama.apk" oneDriveSupport=false repositoryKey="JHubi1/ollama-app" />
+- <GithubMirrorLink link="https://github.com/JHubi1/ollama-app/releases/download/1.0.0/ollama.apk" text="ollama.apk" repositoryKey="JHubi1/ollama-app" />
 
 
 
 ## 0.0.2
 
-- <GithubMirrorLink link="https://github.com/JHubi1/ollama-app/releases/download/0.0.2/ollama.apk" text="ollama.apk" oneDriveSupport=false repositoryKey="JHubi1/ollama-app" />
+- <GithubMirrorLink link="https://github.com/JHubi1/ollama-app/releases/download/0.0.2/ollama.apk" text="ollama.apk" repositoryKey="JHubi1/ollama-app" />
 
 
 
 ## 0.0.1
 
-- <GithubMirrorLink link="https://github.com/JHubi1/ollama-app/releases/download/0.0.1/ollama.apk" text="ollama.apk" oneDriveSupport=false repositoryKey="JHubi1/ollama-app" />
+- <GithubMirrorLink link="https://github.com/JHubi1/ollama-app/releases/download/0.0.1/ollama.apk" text="ollama.apk" repositoryKey="JHubi1/ollama-app" />
 
 
 

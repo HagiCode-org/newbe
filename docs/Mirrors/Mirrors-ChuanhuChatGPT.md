@@ -23,7 +23,6 @@ GPT 3.5微调：支持微调 GPT 3.5，让 ChatGPT 更加个性化。
 import HagicodeRecommendation from '../../src/components/HagicodeRecommendation';
 
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
-import OneDrive from './_onedrive.md';
 
 
 
@@ -33,13 +32,13 @@ import OneDrive from './_onedrive.md';
 
 ## 20250815
 
-- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20250815/ChuanhuChatGPT-20250815-git.zip" text="ChuanhuChatGPT-20250815-git.zip" oneDriveSupport=false repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
+- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20250815/ChuanhuChatGPT-20250815-git.zip" text="ChuanhuChatGPT-20250815-git.zip" repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
 
 
 
 ## 20241204
 
-- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20241204/ChuanhuChatGPT-20241204-git.zip" text="ChuanhuChatGPT-20241204-git.zip" oneDriveSupport=false repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
+- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20241204/ChuanhuChatGPT-20241204-git.zip" text="ChuanhuChatGPT-20241204-git.zip" repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
 
 
 
@@ -50,85 +49,85 @@ import OneDrive from './_onedrive.md';
 
 ## 20240914
 
-- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20240914/ChuanhuChatGPT-20240914-git.zip" text="ChuanhuChatGPT-20240914-git.zip" oneDriveSupport=false repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
+- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20240914/ChuanhuChatGPT-20240914-git.zip" text="ChuanhuChatGPT-20240914-git.zip" repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
 
 
 
 ## 20240802
 
-- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20240802/ChuanhuChatGPT-20240802-git.zip" text="ChuanhuChatGPT-20240802-git.zip" oneDriveSupport=false repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
+- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20240802/ChuanhuChatGPT-20240802-git.zip" text="ChuanhuChatGPT-20240802-git.zip" repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
 
 
 
 ## 20240628
 
-- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20240628/ChuanhuChatGPT-20240628-git.zip" text="ChuanhuChatGPT-20240628-git.zip" oneDriveSupport=false repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
+- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20240628/ChuanhuChatGPT-20240628-git.zip" text="ChuanhuChatGPT-20240628-git.zip" repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
 
 
 
 ## 20240410
 
-- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20240410/ChuanhuChatGPT-20240410-git.zip" text="ChuanhuChatGPT-20240410-git.zip" oneDriveSupport=false repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
+- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20240410/ChuanhuChatGPT-20240410-git.zip" text="ChuanhuChatGPT-20240410-git.zip" repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
 
 
 
 ## 20240310
 
-- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20240310/ChuanhuChatGPT-20240310-git.zip" text="ChuanhuChatGPT-20240310-git.zip" oneDriveSupport=false repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
+- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20240310/ChuanhuChatGPT-20240310-git.zip" text="ChuanhuChatGPT-20240310-git.zip" repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
 
 
 
 ## 20240305
 
-- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20240305/ChuanhuChatGPT-20240305-git.zip" text="ChuanhuChatGPT-20240305-git.zip" oneDriveSupport=false repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
+- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20240305/ChuanhuChatGPT-20240305-git.zip" text="ChuanhuChatGPT-20240305-git.zip" repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
 
 
 
 ## 20240121
 
-- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20240121/ChuanhuChatGPT-20240121-git.zip" text="ChuanhuChatGPT-20240121-git.zip" oneDriveSupport=false repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
+- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20240121/ChuanhuChatGPT-20240121-git.zip" text="ChuanhuChatGPT-20240121-git.zip" repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
 
 
 
 ## 20231223
 
-- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20231223/ChuanhuChatGPT-20231223-git.zip" text="ChuanhuChatGPT-20231223-git.zip" oneDriveSupport=false repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
+- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20231223/ChuanhuChatGPT-20231223-git.zip" text="ChuanhuChatGPT-20231223-git.zip" repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
 
 
 
 ## 20231215
 
-- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20231215/ChuanhuChatGPT-20231215-git.zip" text="ChuanhuChatGPT-20231215-git.zip" oneDriveSupport=false repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
+- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20231215/ChuanhuChatGPT-20231215-git.zip" text="ChuanhuChatGPT-20231215-git.zip" repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
 
 
 
 ## 20231110
 
-- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20231110/ChuanhuChatGPT-20231110-git.zip" text="ChuanhuChatGPT-20231110-git.zip" oneDriveSupport=false repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
+- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20231110/ChuanhuChatGPT-20231110-git.zip" text="ChuanhuChatGPT-20231110-git.zip" repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
 
 
 
 ## 20231020
 
-- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20231020/ChuanhuChatGPT-20231020-git.zip" text="ChuanhuChatGPT-20231020-git.zip" oneDriveSupport=false repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
+- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20231020/ChuanhuChatGPT-20231020-git.zip" text="ChuanhuChatGPT-20231020-git.zip" repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
 
 
 
 ## 20231006
 
-- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20231006/ChuanhuChatGPT-20231006-git.zip" text="ChuanhuChatGPT-20231006-git.zip" oneDriveSupport=false repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
+- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20231006/ChuanhuChatGPT-20231006-git.zip" text="ChuanhuChatGPT-20231006-git.zip" repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
 
 
 
 ## 20230926
 
-- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20230926/ChuanhuChatGPT-20230926-git.zip" text="ChuanhuChatGPT-20230926-git.zip" oneDriveSupport=false repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
+- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20230926/ChuanhuChatGPT-20230926-git.zip" text="ChuanhuChatGPT-20230926-git.zip" repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
 
 
 
 ## 20230916
 
-- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20230916/ChuanhuChatGPT-20230916-git.zip" text="ChuanhuChatGPT-20230916-git.zip" oneDriveSupport=false repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
+- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20230916/ChuanhuChatGPT-20230916-git.zip" text="ChuanhuChatGPT-20230916-git.zip" repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
 
 
 
@@ -136,19 +135,19 @@ import OneDrive from './_onedrive.md';
 
 ## 20230911
 
-- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20230911/ChuanhuChatGPT-20230911-beta-git.zip" text="ChuanhuChatGPT-20230911-beta-git.zip" oneDriveSupport=false repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
+- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20230911/ChuanhuChatGPT-20230911-beta-git.zip" text="ChuanhuChatGPT-20230911-beta-git.zip" repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
 
 
 
 ## 20230830
 
-- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20230830/ChuanhuChatGPT-20230830-git.zip" text="ChuanhuChatGPT-20230830-git.zip" oneDriveSupport=false repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
+- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20230830/ChuanhuChatGPT-20230830-git.zip" text="ChuanhuChatGPT-20230830-git.zip" repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
 
 
 
 ## 20230820
 
-- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20230820/ChuanhuChatGPT-20230820-git.zip" text="ChuanhuChatGPT-20230820-git.zip" oneDriveSupport=false repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
+- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20230820/ChuanhuChatGPT-20230820-git.zip" text="ChuanhuChatGPT-20230820-git.zip" repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
 
 
 

@@ -19,7 +19,6 @@ Hearthstone-Deck-Tracker. 国内直接从官网 https://github.com/HearthSim/Hea
 import HagicodeRecommendation from '../../src/components/HagicodeRecommendation';
 
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
-import OneDrive from './_onedrive.md';
 
 
 
@@ -29,121 +28,121 @@ import OneDrive from './_onedrive.md';
 
 ## v1.51.5
 
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.51.5/Hearthstone.Deck.Tracker-v1.51.5.zip" text="Hearthstone.Deck.Tracker-v1.51.5.zip" oneDriveSupport=false repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.51.5/Hearthstone.Deck.Tracker-v1.51.5.zip" text="Hearthstone.Deck.Tracker-v1.51.5.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
 ## v1.51.4
 
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.51.4/Hearthstone.Deck.Tracker-v1.51.4.zip" text="Hearthstone.Deck.Tracker-v1.51.4.zip" oneDriveSupport=false repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.51.4/Hearthstone.Deck.Tracker-v1.51.4.zip" text="Hearthstone.Deck.Tracker-v1.51.4.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
 ## v1.51.2
 
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.51.2/Hearthstone.Deck.Tracker-v1.51.2.zip" text="Hearthstone.Deck.Tracker-v1.51.2.zip" oneDriveSupport=false repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.51.2/Hearthstone.Deck.Tracker-v1.51.2.zip" text="Hearthstone.Deck.Tracker-v1.51.2.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
 ## v1.51.1
 
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.51.1/Hearthstone.Deck.Tracker-v1.51.1.zip" text="Hearthstone.Deck.Tracker-v1.51.1.zip" oneDriveSupport=false repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.51.1/Hearthstone.Deck.Tracker-v1.51.1.zip" text="Hearthstone.Deck.Tracker-v1.51.1.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
 ## v1.50.5
 
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.50.5/Hearthstone.Deck.Tracker-v1.50.5.zip" text="Hearthstone.Deck.Tracker-v1.50.5.zip" oneDriveSupport=false repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.50.5/Hearthstone.Deck.Tracker-v1.50.5.zip" text="Hearthstone.Deck.Tracker-v1.50.5.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
 ## v1.50.2
 
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.50.2/Hearthstone.Deck.Tracker-v1.50.2.zip" text="Hearthstone.Deck.Tracker-v1.50.2.zip" oneDriveSupport=false repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.50.2/Hearthstone.Deck.Tracker-v1.50.2.zip" text="Hearthstone.Deck.Tracker-v1.50.2.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
 ## v1.50.1
 
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.50.1/Hearthstone.Deck.Tracker-v1.50.1.zip" text="Hearthstone.Deck.Tracker-v1.50.1.zip" oneDriveSupport=false repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.50.1/Hearthstone.Deck.Tracker-v1.50.1.zip" text="Hearthstone.Deck.Tracker-v1.50.1.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
 ## v1.50.0
 
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.50.0/Hearthstone.Deck.Tracker-v1.50.0.zip" text="Hearthstone.Deck.Tracker-v1.50.0.zip" oneDriveSupport=false repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.50.0/Hearthstone.Deck.Tracker-v1.50.0.zip" text="Hearthstone.Deck.Tracker-v1.50.0.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
 ## v1.49.15
 
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.49.15/Hearthstone.Deck.Tracker-v1.49.15.zip" text="Hearthstone.Deck.Tracker-v1.49.15.zip" oneDriveSupport=false repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.49.15/Hearthstone.Deck.Tracker-v1.49.15.zip" text="Hearthstone.Deck.Tracker-v1.49.15.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
 ## v1.49.14
 
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.49.14/Hearthstone.Deck.Tracker-v1.49.14.zip" text="Hearthstone.Deck.Tracker-v1.49.14.zip" oneDriveSupport=false repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.49.14/Hearthstone.Deck.Tracker-v1.49.14.zip" text="Hearthstone.Deck.Tracker-v1.49.14.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
 ## v1.49.13
 
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.49.13/Hearthstone.Deck.Tracker-v1.49.13.zip" text="Hearthstone.Deck.Tracker-v1.49.13.zip" oneDriveSupport=false repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.49.13/Hearthstone.Deck.Tracker-v1.49.13.zip" text="Hearthstone.Deck.Tracker-v1.49.13.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
 ## v1.49.12
 
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.49.12/Hearthstone.Deck.Tracker-v1.49.12.zip" text="Hearthstone.Deck.Tracker-v1.49.12.zip" oneDriveSupport=false repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.49.12/Hearthstone.Deck.Tracker-v1.49.12.zip" text="Hearthstone.Deck.Tracker-v1.49.12.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
 ## v1.49.11
 
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.49.11/Hearthstone.Deck.Tracker-v1.49.11.zip" text="Hearthstone.Deck.Tracker-v1.49.11.zip" oneDriveSupport=false repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.49.11/Hearthstone.Deck.Tracker-v1.49.11.zip" text="Hearthstone.Deck.Tracker-v1.49.11.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
 ## v1.49.10
 
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.49.10/Hearthstone.Deck.Tracker-v1.49.10.zip" text="Hearthstone.Deck.Tracker-v1.49.10.zip" oneDriveSupport=false repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.49.10/Hearthstone.Deck.Tracker-v1.49.10.zip" text="Hearthstone.Deck.Tracker-v1.49.10.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
 ## v1.49.9
 
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.49.9/Hearthstone.Deck.Tracker-v1.49.9.zip" text="Hearthstone.Deck.Tracker-v1.49.9.zip" oneDriveSupport=false repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.49.9/Hearthstone.Deck.Tracker-v1.49.9.zip" text="Hearthstone.Deck.Tracker-v1.49.9.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
 ## v1.49.8
 
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.49.8/Hearthstone.Deck.Tracker-v1.49.8.zip" text="Hearthstone.Deck.Tracker-v1.49.8.zip" oneDriveSupport=false repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.49.8/Hearthstone.Deck.Tracker-v1.49.8.zip" text="Hearthstone.Deck.Tracker-v1.49.8.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
 ## v1.49.7
 
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.49.7/Hearthstone.Deck.Tracker-v1.49.7.zip" text="Hearthstone.Deck.Tracker-v1.49.7.zip" oneDriveSupport=false repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.49.7/Hearthstone.Deck.Tracker-v1.49.7.zip" text="Hearthstone.Deck.Tracker-v1.49.7.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
 ## v1.49.4
 
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.49.4/Hearthstone.Deck.Tracker-v1.49.4.zip" text="Hearthstone.Deck.Tracker-v1.49.4.zip" oneDriveSupport=false repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.49.4/Hearthstone.Deck.Tracker-v1.49.4.zip" text="Hearthstone.Deck.Tracker-v1.49.4.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
 ## v1.49.3
 
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.49.3/Hearthstone.Deck.Tracker-v1.49.3.zip" text="Hearthstone.Deck.Tracker-v1.49.3.zip" oneDriveSupport=false repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.49.3/Hearthstone.Deck.Tracker-v1.49.3.zip" text="Hearthstone.Deck.Tracker-v1.49.3.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
 ## v1.49.2
 
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.49.2/Hearthstone.Deck.Tracker-v1.49.2.zip" text="Hearthstone.Deck.Tracker-v1.49.2.zip" oneDriveSupport=false repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.49.2/Hearthstone.Deck.Tracker-v1.49.2.zip" text="Hearthstone.Deck.Tracker-v1.49.2.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
@@ -151,61 +150,61 @@ import OneDrive from './_onedrive.md';
 
 ## v1.49.1
 
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.49.1/Hearthstone.Deck.Tracker-v1.49.1.zip" text="Hearthstone.Deck.Tracker-v1.49.1.zip" oneDriveSupport=false repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.49.1/Hearthstone.Deck.Tracker-v1.49.1.zip" text="Hearthstone.Deck.Tracker-v1.49.1.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
 ## v1.49.0
 
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.49.0/Hearthstone.Deck.Tracker-v1.49.0.zip" text="Hearthstone.Deck.Tracker-v1.49.0.zip" oneDriveSupport=false repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.49.0/Hearthstone.Deck.Tracker-v1.49.0.zip" text="Hearthstone.Deck.Tracker-v1.49.0.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
 ## v1.48.23
 
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.48.23/Hearthstone.Deck.Tracker-v1.48.23.zip" text="Hearthstone.Deck.Tracker-v1.48.23.zip" oneDriveSupport=false repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.48.23/Hearthstone.Deck.Tracker-v1.48.23.zip" text="Hearthstone.Deck.Tracker-v1.48.23.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
 ## v1.48.22
 
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.48.22/Hearthstone.Deck.Tracker-v1.48.22.zip" text="Hearthstone.Deck.Tracker-v1.48.22.zip" oneDriveSupport=false repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.48.22/Hearthstone.Deck.Tracker-v1.48.22.zip" text="Hearthstone.Deck.Tracker-v1.48.22.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
 ## v1.48.21
 
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.48.21/Hearthstone.Deck.Tracker-v1.48.21.zip" text="Hearthstone.Deck.Tracker-v1.48.21.zip" oneDriveSupport=false repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.48.21/Hearthstone.Deck.Tracker-v1.48.21.zip" text="Hearthstone.Deck.Tracker-v1.48.21.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
 ## v1.48.20
 
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.48.20/Hearthstone.Deck.Tracker-v1.48.20.zip" text="Hearthstone.Deck.Tracker-v1.48.20.zip" oneDriveSupport=false repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.48.20/Hearthstone.Deck.Tracker-v1.48.20.zip" text="Hearthstone.Deck.Tracker-v1.48.20.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
 ## v1.48.19
 
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.48.19/Hearthstone.Deck.Tracker-v1.48.19.zip" text="Hearthstone.Deck.Tracker-v1.48.19.zip" oneDriveSupport=false repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.48.19/Hearthstone.Deck.Tracker-v1.48.19.zip" text="Hearthstone.Deck.Tracker-v1.48.19.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
 ## v1.48.18
 
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.48.18/Hearthstone.Deck.Tracker-v1.48.18.zip" text="Hearthstone.Deck.Tracker-v1.48.18.zip" oneDriveSupport=false repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.48.18/Hearthstone.Deck.Tracker-v1.48.18.zip" text="Hearthstone.Deck.Tracker-v1.48.18.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
 ## v1.48.17
 
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.48.17/Hearthstone.Deck.Tracker-v1.48.17.zip" text="Hearthstone.Deck.Tracker-v1.48.17.zip" oneDriveSupport=false repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.48.17/Hearthstone.Deck.Tracker-v1.48.17.zip" text="Hearthstone.Deck.Tracker-v1.48.17.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
 ## v1.48.16
 
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.48.16/Hearthstone.Deck.Tracker-v1.48.16.zip" text="Hearthstone.Deck.Tracker-v1.48.16.zip" oneDriveSupport=false repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.48.16/Hearthstone.Deck.Tracker-v1.48.16.zip" text="Hearthstone.Deck.Tracker-v1.48.16.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
