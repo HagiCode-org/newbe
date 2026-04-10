@@ -33,16 +33,16 @@ import HagicodeRecommendation from '../HagicodeRecommendation';
 
 // Configuration
 import {
-  officialSource,
-  recommendedMirrors,
-  backupMirrors,
-  getMirrorUrl,
+  buildMirrorSections,
 } from './config';
 
 const GithubMirrorLink: React.FC<GithubMirrorLinkProps> = ({
   text,
   link,
   oneDriveSupport = false,
+  repositoryKey,
+  preferredProviders = [],
+  resolvedMirrors = [],
 }) => {
   // State management
   const [showPopup, setShowPopup] = useState(false);
@@ -159,6 +159,13 @@ const GithubMirrorLink: React.FC<GithubMirrorLinkProps> = ({
     setShowQRModal(!showQRModal);
   };
 
+  const mirrorSections = buildMirrorSections({
+    githubLink: link,
+    repositoryKey,
+    preferredProviders,
+    resolvedMirrors,
+  });
+
   return (
     <div>
       {/* Trigger Link */}
@@ -240,22 +247,12 @@ const GithubMirrorLink: React.FC<GithubMirrorLinkProps> = ({
                 </aside>
 
                 <div className={styles.contentMain}>
-                  {/* Official Source Section */}
-                  <MirrorSection title="官方源" icon="🔗">
-                    <MirrorCard
-                      mirror={officialSource}
-                      fullUrl={link}
-                      onCopy={copyToClipboard}
-                    />
-                  </MirrorSection>
-
                   {/* Recommended Mirrors Section */}
                   <MirrorSection title="推荐加速器" icon="⭐">
-                    {recommendedMirrors.map((mirror) => (
+                    {mirrorSections.recommended.map((mirror) => (
                       <MirrorCard
-                        key={mirror.id}
+                        key={`${mirror.id}-${mirror.fullUrl}`}
                         mirror={mirror}
-                        fullUrl={getMirrorUrl(mirror, link)}
                         onCopy={copyToClipboard}
                       />
                     ))}
@@ -263,11 +260,21 @@ const GithubMirrorLink: React.FC<GithubMirrorLinkProps> = ({
 
                   {/* Backup Mirrors Section */}
                   <MirrorSection title="备用加速器" icon="📦">
-                    {backupMirrors.map((mirror) => (
+                    {mirrorSections.backup.map((mirror) => (
                       <MirrorCard
-                        key={mirror.id}
+                        key={`${mirror.id}-${mirror.fullUrl}`}
                         mirror={mirror}
-                        fullUrl={getMirrorUrl(mirror, link)}
+                        onCopy={copyToClipboard}
+                      />
+                    ))}
+                  </MirrorSection>
+
+                  {/* Official Source Section */}
+                  <MirrorSection title="官方源" icon="🔗">
+                    {mirrorSections.official.map((mirror) => (
+                      <MirrorCard
+                        key={`${mirror.id}-${mirror.fullUrl}`}
+                        mirror={mirror}
                         onCopy={copyToClipboard}
                       />
                     ))}

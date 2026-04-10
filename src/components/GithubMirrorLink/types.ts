@@ -2,7 +2,7 @@
  * TypeScript type definitions for GithubMirrorLink component
  */
 
-import type { MirrorConfig } from './config';
+import type { ResolvedMirrorInput, ResolvedMirrorLink } from './config';
 
 /**
  * Props for the main GithubMirrorLink component
@@ -14,16 +14,20 @@ export interface GithubMirrorLinkProps {
   link: string;
   /** Whether to show WeChat public account option */
   oneDriveSupport?: boolean;
+  /** Optional repository key used for repository-scoped mirror policy */
+  repositoryKey?: string;
+  /** Optional preferred provider order for repository-scoped recommendations */
+  preferredProviders?: string[];
+  /** Optional resolved direct mirrors produced at documentation generation time */
+  resolvedMirrors?: ResolvedMirrorInput[];
 }
 
 /**
  * Props for the MirrorCard component
  */
 export interface MirrorCardProps {
-  /** Mirror configuration */
-  mirror: MirrorConfig;
-  /** Full URL to mirror */
-  fullUrl: string;
+  /** Resolved mirror entry */
+  mirror: ResolvedMirrorLink;
   /** Callback when copy is clicked */
   onCopy: (url: string) => Promise<void>;
   /** Optional CSS class name */
@@ -87,5 +91,5 @@ export interface SectionConfig {
   /** Section icon */
   icon: string;
   /** Mirrors in this section */
-  mirrors: MirrorConfig[];
+  mirrors: ResolvedMirrorLink[];
 }

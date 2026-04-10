@@ -9,7 +9,6 @@ import styles from './styles.module.css';
 
 const MirrorCard: React.FC<MirrorCardProps> = ({
   mirror,
-  fullUrl,
   onCopy,
   className = '',
 }) => {
@@ -21,7 +20,7 @@ const MirrorCard: React.FC<MirrorCardProps> = ({
 
     setCopyState('copying');
     try {
-      await onCopy(fullUrl);
+      await onCopy(mirror.fullUrl);
       setCopyState('success');
       setTimeout(() => setCopyState('idle'), 2000);
     } catch {
@@ -33,7 +32,7 @@ const MirrorCard: React.FC<MirrorCardProps> = ({
   const handleOpen = (e: React.MouseEvent) => {
     e.preventDefault();
     e.stopPropagation();
-    window.open(fullUrl, '_blank', 'noopener,noreferrer');
+    window.open(mirror.fullUrl, '_blank', 'noopener,noreferrer');
   };
 
   const getCopyButtonText = () => {
@@ -67,8 +66,19 @@ const MirrorCard: React.FC<MirrorCardProps> = ({
         <div className={styles.cardTitleSection}>
           <span className={styles.cardIcon} aria-hidden="true">{mirror.icon}</span>
           <div className={styles.cardTitleText}>
-            <span className={styles.cardName}>{mirror.name}</span>
+            <div className={styles.cardTitleRow}>
+              <span className={styles.cardName}>{mirror.name}</span>
+              {mirror.recommended && (
+                <span className={styles.cardBadge}>Recommended</span>
+              )}
+            </div>
             <span className={styles.cardDescription}>{mirror.description}</span>
+            <div className={styles.cardMeta}>
+              <span className={styles.cardMetaItem}>来源: {mirror.sourceLabel}</span>
+              {mirror.syncedAt && (
+                <span className={styles.cardMetaItem}>同步: {mirror.syncedAt}</span>
+              )}
+            </div>
           </div>
         </div>
         <div className={styles.cardActions}>
