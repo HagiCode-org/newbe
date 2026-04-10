@@ -16,6 +16,10 @@ const is51LADebug =
   process.env.LI_51LA_DEBUG === 'true' || process.env.LI_51LA_DEBUG === '1';
 
 // Reverse the sidebar items ordering (including nested category items)
+/**
+ * @param {any[]} items
+ * @returns {any[]}
+ */
 function reverseSidebarItems(items) {
   // Reverse items in categories
   const result = items.map((item) => {
