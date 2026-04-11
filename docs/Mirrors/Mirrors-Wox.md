@@ -23,7 +23,9 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 <HagicodeRecommendation layout="page" />
-        
+
+
+
 ## v2.0.2
 
 - <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.2/wox-linux-amd64" text="wox-linux-amd64" repositoryKey="Wox-launcher/Wox" />

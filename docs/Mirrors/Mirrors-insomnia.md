@@ -26,6 +26,34 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+## core@12.5.1-alpha.0
+
+- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4012.5.1-alpha.0/alpha.yml" text="alpha.yml" repositoryKey="Kong/insomnia" />
+- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4012.5.1-alpha.0/image-inso-Linux-X64-sbom.cyclonedx.json" text="image-inso-Linux-X64-sbom.cyclonedx.json" repositoryKey="Kong/insomnia" />
+- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4012.5.1-alpha.0/image-inso-Linux-X64-sbom.spdx.json" text="image-inso-Linux-X64-sbom.spdx.json" repositoryKey="Kong/insomnia" />
+- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4012.5.1-alpha.0/inso-docker-image.tar" text="inso-docker-image.tar" repositoryKey="Kong/insomnia" />
+- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4012.5.1-alpha.0/inso-linux-x64-12.5.1-alpha.0.tar.xz" text="inso-linux-x64-12.5.1-alpha.0.tar.xz" repositoryKey="Kong/insomnia" />
+- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4012.5.1-alpha.0/inso-macos-12.5.1-alpha.0.zip" text="inso-macos-12.5.1-alpha.0.zip" repositoryKey="Kong/insomnia" />
+- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4012.5.1-alpha.0/inso-macos-latest-large-12.5.1-alpha.0.pkg" text="inso-macos-latest-large-12.5.1-alpha.0.pkg" repositoryKey="Kong/insomnia" />
+- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4012.5.1-alpha.0/inso-provenance.intoto.jsonl" text="inso-provenance.intoto.jsonl" repositoryKey="Kong/insomnia" />
+- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4012.5.1-alpha.0/inso-windows-12.5.1-alpha.0.zip" text="inso-windows-12.5.1-alpha.0.zip" repositoryKey="Kong/insomnia" />
+- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4012.5.1-alpha.0/insomnia-12.5.1-alpha0-full.nupkg" text="insomnia-12.5.1-alpha0-full.nupkg" repositoryKey="Kong/insomnia" />
+- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4012.5.1-alpha.0/insomnia-provenance.intoto.jsonl" text="insomnia-provenance.intoto.jsonl" repositoryKey="Kong/insomnia" />
+- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4012.5.1-alpha.0/Insomnia.Core-12.5.1-alpha.0.AppImage" text="Insomnia.Core-12.5.1-alpha.0.AppImage" repositoryKey="Kong/insomnia" />
+- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4012.5.1-alpha.0/Insomnia.Core-12.5.1-alpha.0.deb" text="Insomnia.Core-12.5.1-alpha.0.deb" repositoryKey="Kong/insomnia" />
+- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4012.5.1-alpha.0/Insomnia.Core-12.5.1-alpha.0.dmg" text="Insomnia.Core-12.5.1-alpha.0.dmg" repositoryKey="Kong/insomnia" />
+- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4012.5.1-alpha.0/Insomnia.Core-12.5.1-alpha.0.exe" text="Insomnia.Core-12.5.1-alpha.0.exe" repositoryKey="Kong/insomnia" />
+- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4012.5.1-alpha.0/Insomnia.Core-12.5.1-alpha.0.rpm" text="Insomnia.Core-12.5.1-alpha.0.rpm" repositoryKey="Kong/insomnia" />
+- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4012.5.1-alpha.0/Insomnia.Core-12.5.1-alpha.0.snap" text="Insomnia.Core-12.5.1-alpha.0.snap" repositoryKey="Kong/insomnia" />
+- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4012.5.1-alpha.0/Insomnia.Core-12.5.1-alpha.0.tar.gz" text="Insomnia.Core-12.5.1-alpha.0.tar.gz" repositoryKey="Kong/insomnia" />
+- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4012.5.1-alpha.0/Insomnia.Core-12.5.1-alpha.0.zip" text="Insomnia.Core-12.5.1-alpha.0.zip" repositoryKey="Kong/insomnia" />
+- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4012.5.1-alpha.0/Insomnia.Core-nsis-12.5.1-alpha.0.exe" text="Insomnia.Core-nsis-12.5.1-alpha.0.exe" repositoryKey="Kong/insomnia" />
+- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4012.5.1-alpha.0/RELEASES" text="RELEASES" repositoryKey="Kong/insomnia" />
+- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4012.5.1-alpha.0/sbom.cyclonedx.json" text="sbom.cyclonedx.json" repositoryKey="Kong/insomnia" />
+- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4012.5.1-alpha.0/sbom.spdx.json" text="sbom.spdx.json" repositoryKey="Kong/insomnia" />
+
+
+
 ## core@12.5.0
 
 - <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4012.5.0/alpha.yml" text="alpha.yml" repositoryKey="Kong/insomnia" />
@@ -586,6 +614,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## core@11.6.0
 
 - <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.6.0/alpha.yml" text="alpha.yml" repositoryKey="Kong/insomnia" />
@@ -613,8 +643,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.6.0/RELEASES" text="RELEASES" repositoryKey="Kong/insomnia" />
 - <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.6.0/sbom.cyclonedx.json" text="sbom.cyclonedx.json" repositoryKey="Kong/insomnia" />
 - <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.6.0/sbom.spdx.json" text="sbom.spdx.json" repositoryKey="Kong/insomnia" />
-
-
 
 
 
@@ -878,35 +906,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.4.0-beta.1/RELEASES" text="RELEASES" repositoryKey="Kong/insomnia" />
 - <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.4.0-beta.1/sbom.cyclonedx.json" text="sbom.cyclonedx.json" repositoryKey="Kong/insomnia" />
 - <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.4.0-beta.1/sbom.spdx.json" text="sbom.spdx.json" repositoryKey="Kong/insomnia" />
-
-
-
-## core@11.4.0-beta.0
-
-- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.4.0-beta.0/alpha.yml" text="alpha.yml" repositoryKey="Kong/insomnia" />
-- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.4.0-beta.0/beta.yml" text="beta.yml" repositoryKey="Kong/insomnia" />
-- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.4.0-beta.0/image-inso-Linux-X64-sbom.cyclonedx.json" text="image-inso-Linux-X64-sbom.cyclonedx.json" repositoryKey="Kong/insomnia" />
-- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.4.0-beta.0/image-inso-Linux-X64-sbom.spdx.json" text="image-inso-Linux-X64-sbom.spdx.json" repositoryKey="Kong/insomnia" />
-- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.4.0-beta.0/inso-docker-image.tar" text="inso-docker-image.tar" repositoryKey="Kong/insomnia" />
-- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.4.0-beta.0/inso-linux-11.4.0-beta.0.tar.xz" text="inso-linux-11.4.0-beta.0.tar.xz" repositoryKey="Kong/insomnia" />
-- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.4.0-beta.0/inso-macos-11.4.0-beta.0.zip" text="inso-macos-11.4.0-beta.0.zip" repositoryKey="Kong/insomnia" />
-- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.4.0-beta.0/inso-macos-latest-large-11.4.0-beta.0.pkg" text="inso-macos-latest-large-11.4.0-beta.0.pkg" repositoryKey="Kong/insomnia" />
-- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.4.0-beta.0/inso-provenance.intoto.jsonl" text="inso-provenance.intoto.jsonl" repositoryKey="Kong/insomnia" />
-- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.4.0-beta.0/inso-windows-11.4.0-beta.0.zip" text="inso-windows-11.4.0-beta.0.zip" repositoryKey="Kong/insomnia" />
-- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.4.0-beta.0/insomnia-11.4.0-beta0-full.nupkg" text="insomnia-11.4.0-beta0-full.nupkg" repositoryKey="Kong/insomnia" />
-- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.4.0-beta.0/insomnia-provenance.intoto.jsonl" text="insomnia-provenance.intoto.jsonl" repositoryKey="Kong/insomnia" />
-- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.4.0-beta.0/Insomnia.Core-11.4.0-beta.0.AppImage" text="Insomnia.Core-11.4.0-beta.0.AppImage" repositoryKey="Kong/insomnia" />
-- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.4.0-beta.0/Insomnia.Core-11.4.0-beta.0.deb" text="Insomnia.Core-11.4.0-beta.0.deb" repositoryKey="Kong/insomnia" />
-- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.4.0-beta.0/Insomnia.Core-11.4.0-beta.0.dmg" text="Insomnia.Core-11.4.0-beta.0.dmg" repositoryKey="Kong/insomnia" />
-- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.4.0-beta.0/Insomnia.Core-11.4.0-beta.0.exe" text="Insomnia.Core-11.4.0-beta.0.exe" repositoryKey="Kong/insomnia" />
-- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.4.0-beta.0/Insomnia.Core-11.4.0-beta.0.rpm" text="Insomnia.Core-11.4.0-beta.0.rpm" repositoryKey="Kong/insomnia" />
-- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.4.0-beta.0/Insomnia.Core-11.4.0-beta.0.snap" text="Insomnia.Core-11.4.0-beta.0.snap" repositoryKey="Kong/insomnia" />
-- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.4.0-beta.0/Insomnia.Core-11.4.0-beta.0.tar.gz" text="Insomnia.Core-11.4.0-beta.0.tar.gz" repositoryKey="Kong/insomnia" />
-- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.4.0-beta.0/Insomnia.Core-11.4.0-beta.0.zip" text="Insomnia.Core-11.4.0-beta.0.zip" repositoryKey="Kong/insomnia" />
-- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.4.0-beta.0/Insomnia.Core-nsis-11.4.0-beta.0.exe" text="Insomnia.Core-nsis-11.4.0-beta.0.exe" repositoryKey="Kong/insomnia" />
-- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.4.0-beta.0/RELEASES" text="RELEASES" repositoryKey="Kong/insomnia" />
-- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.4.0-beta.0/sbom.cyclonedx.json" text="sbom.cyclonedx.json" repositoryKey="Kong/insomnia" />
-- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4011.4.0-beta.0/sbom.spdx.json" text="sbom.spdx.json" repositoryKey="Kong/insomnia" />
 
 
 

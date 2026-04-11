@@ -535,10 +535,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 
 
 
-
-
-
-
 ## 7.7
 
 - [7.7.0](https://mirrors.huaweicloud.com/bazel/7.7.0/)
@@ -548,6 +544,10 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [7.7.1](https://mirrors.huaweicloud.com/bazel/7.7.1/)
 - [7.7.1rc1](https://mirrors.huaweicloud.com/bazel/7.7.1rc1/)
 - [7.7.1rc2](https://mirrors.huaweicloud.com/bazel/7.7.1rc2/)
+
+
+
+
 
 
 
@@ -638,9 +638,16 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [9.0.0rc6](https://mirrors.huaweicloud.com/bazel/9.0.0rc6/)
 - [9.0.1](https://mirrors.huaweicloud.com/bazel/9.0.1/)
 - [9.0.1rc1](https://mirrors.huaweicloud.com/bazel/9.0.1rc1/)
+- [9.0.2](https://mirrors.huaweicloud.com/bazel/9.0.2/)
 - [9.0.2rc1](https://mirrors.huaweicloud.com/bazel/9.0.2rc1/)
 - [9.0.2rc2](https://mirrors.huaweicloud.com/bazel/9.0.2rc2/)
 - [9.0.2rc3](https://mirrors.huaweicloud.com/bazel/9.0.2rc3/)
+
+
+
+## 9.1
+
+- [9.1.0rc1](https://mirrors.huaweicloud.com/bazel/9.1.0rc1/)
 
 
 

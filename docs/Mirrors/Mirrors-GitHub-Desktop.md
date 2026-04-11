@@ -30,151 +30,443 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 ## release-3.5.7
 
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7/GitHub.Desktop-3.5.7-checksums.txt" text="GitHub Desktop 3.5.7 checksums" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7/GitHub.Desktop-arm64.zip" text="GitHub Desktop 3.5.7 macOS arm64" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7/GitHub.Desktop-x64.zip" text="GitHub Desktop 3.5.7 macOS x64" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7/GitHubDesktop-3.5.7-x64-delta.nupkg" text="GitHub Desktop 3.5.7 Windows x64 Delta Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7/GitHubDesktop-3.5.7-x64-full.nupkg" text="GitHub Desktop 3.5.7 Windows x64 Full Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7/GitHubDesktopSetup-x64.exe" text="GitHub Desktop 3.5.7 Windows x64 EXE Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7/GitHubDesktopSetup-x64.msi" text="GitHub Desktop 3.5.7 Windows x64 MSI Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7/GitHub.Desktop-3.5.7-checksums.txt" text="GitHub.Desktop-3.5.7-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7/GitHubDesktop-3.5.7-x64-delta.nupkg" text="GitHubDesktop-3.5.7-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7/GitHubDesktop-3.5.7-x64-full.nupkg" text="GitHubDesktop-3.5.7-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
 
 
 
 ## release-3.5.7-beta3
 
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta3/GitHub.Desktop-3.5.7-beta3-checksums.txt" text="GitHub Desktop 3.5.7-beta3 checksums" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta3/GitHub.Desktop-arm64.zip" text="GitHub Desktop 3.5.7-beta3 macOS arm64" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta3/GitHub.Desktop-x64.zip" text="GitHub Desktop 3.5.7-beta3 macOS x64" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta3/GitHubDesktop-3.5.7-beta3-arm64-delta.nupkg" text="GitHub Desktop 3.5.7-beta3 Windows arm64 Delta Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta3/GitHubDesktop-3.5.7-beta3-arm64-full.nupkg" text="GitHub Desktop 3.5.7-beta3 Windows arm64 Full Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta3/GitHubDesktop-3.5.7-beta3-x64-delta.nupkg" text="GitHub Desktop 3.5.7-beta3 Windows x64 Delta Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta3/GitHubDesktop-3.5.7-beta3-x64-full.nupkg" text="GitHub Desktop 3.5.7-beta3 Windows x64 Full Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta3/GitHubDesktopSetup-arm64.exe" text="GitHub Desktop 3.5.7-beta3 Windows arm64 EXE Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta3/GitHubDesktopSetup-arm64.msi" text="GitHub Desktop 3.5.7-beta3 Windows arm64 MSI Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta3/GitHubDesktopSetup-x64.exe" text="GitHub Desktop 3.5.7-beta3 Windows x64 EXE Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta3/GitHubDesktopSetup-x64.msi" text="GitHub Desktop 3.5.7-beta3 Windows x64 MSI Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta3/GitHub.Desktop-3.5.7-beta3-checksums.txt" text="GitHub.Desktop-3.5.7-beta3-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta3/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta3/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta3/GitHubDesktop-3.5.7-beta3-arm64-delta.nupkg" text="GitHubDesktop-3.5.7-beta3-arm64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta3/GitHubDesktop-3.5.7-beta3-arm64-full.nupkg" text="GitHubDesktop-3.5.7-beta3-arm64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta3/GitHubDesktop-3.5.7-beta3-x64-delta.nupkg" text="GitHubDesktop-3.5.7-beta3-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta3/GitHubDesktop-3.5.7-beta3-x64-full.nupkg" text="GitHubDesktop-3.5.7-beta3-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta3/GitHubDesktopSetup-arm64.exe" text="GitHubDesktopSetup-arm64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta3/GitHubDesktopSetup-arm64.msi" text="GitHubDesktopSetup-arm64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta3/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta3/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
 
 
 
 ## release-3.5.7-beta2
 
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta2/GitHub.Desktop-3.5.7-beta2-checksums.txt" text="GitHub Desktop 3.5.7-beta2 checksums" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta2/GitHub.Desktop-arm64.zip" text="GitHub Desktop 3.5.7-beta2 macOS arm64" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta2/GitHub.Desktop-x64.zip" text="GitHub Desktop 3.5.7-beta2 macOS x64" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta2/GitHubDesktop-3.5.7-beta2-arm64-delta.nupkg" text="GitHub Desktop 3.5.7-beta2 Windows arm64 Delta Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta2/GitHubDesktop-3.5.7-beta2-arm64-full.nupkg" text="GitHub Desktop 3.5.7-beta2 Windows arm64 Full Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta2/GitHubDesktop-3.5.7-beta2-x64-delta.nupkg" text="GitHub Desktop 3.5.7-beta2 Windows x64 Delta Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta2/GitHubDesktop-3.5.7-beta2-x64-full.nupkg" text="GitHub Desktop 3.5.7-beta2 Windows x64 Full Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta2/GitHubDesktopSetup-arm64.exe" text="GitHub Desktop 3.5.7-beta2 Windows arm64 EXE Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta2/GitHubDesktopSetup-arm64.msi" text="GitHub Desktop 3.5.7-beta2 Windows arm64 MSI Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta2/GitHubDesktopSetup-x64.exe" text="GitHub Desktop 3.5.7-beta2 Windows x64 EXE Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta2/GitHubDesktopSetup-x64.msi" text="GitHub Desktop 3.5.7-beta2 Windows x64 MSI Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-
-
-
-## release-3.5.6
-
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6/GitHub.Desktop-3.5.6-checksums.txt" text="GitHub Desktop 3.5.6 checksums" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6/GitHub.Desktop-arm64.zip" text="GitHub Desktop 3.5.6 macOS arm64" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6/GitHub.Desktop-x64.zip" text="GitHub Desktop 3.5.6 macOS x64" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6/GitHubDesktop-3.5.6-x64-delta.nupkg" text="GitHub Desktop 3.5.6 Windows x64 Delta Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6/GitHubDesktop-3.5.6-x64-full.nupkg" text="GitHub Desktop 3.5.6 Windows x64 Full Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6/GitHubDesktopSetup-x64.exe" text="GitHub Desktop 3.5.6 Windows x64 EXE Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6/GitHubDesktopSetup-x64.msi" text="GitHub Desktop 3.5.6 Windows x64 MSI Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta2/GitHub.Desktop-3.5.7-beta2-checksums.txt" text="GitHub.Desktop-3.5.7-beta2-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta2/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta2/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta2/GitHubDesktop-3.5.7-beta2-arm64-delta.nupkg" text="GitHubDesktop-3.5.7-beta2-arm64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta2/GitHubDesktop-3.5.7-beta2-arm64-full.nupkg" text="GitHubDesktop-3.5.7-beta2-arm64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta2/GitHubDesktop-3.5.7-beta2-x64-delta.nupkg" text="GitHubDesktop-3.5.7-beta2-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta2/GitHubDesktop-3.5.7-beta2-x64-full.nupkg" text="GitHubDesktop-3.5.7-beta2-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta2/GitHubDesktopSetup-arm64.exe" text="GitHubDesktopSetup-arm64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta2/GitHubDesktopSetup-arm64.msi" text="GitHubDesktopSetup-arm64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta2/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta2/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
 
 
 
 ## release-3.5.7-beta1
 
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta1/GitHub.Desktop-3.5.7-beta1-checksums.txt" text="GitHub Desktop 3.5.7-beta1 checksums" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta1/GitHub.Desktop-arm64.zip" text="GitHub Desktop 3.5.7-beta1 macOS arm64" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta1/GitHub.Desktop-x64.zip" text="GitHub Desktop 3.5.7-beta1 macOS x64" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta1/GitHubDesktop-3.5.7-beta1-arm64-delta.nupkg" text="GitHub Desktop 3.5.7-beta1 Windows arm64 Delta Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta1/GitHubDesktop-3.5.7-beta1-arm64-full.nupkg" text="GitHub Desktop 3.5.7-beta1 Windows arm64 Full Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta1/GitHubDesktop-3.5.7-beta1-x64-delta.nupkg" text="GitHub Desktop 3.5.7-beta1 Windows x64 Delta Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta1/GitHubDesktop-3.5.7-beta1-x64-full.nupkg" text="GitHub Desktop 3.5.7-beta1 Windows x64 Full Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta1/GitHubDesktopSetup-arm64.exe" text="GitHub Desktop 3.5.7-beta1 Windows arm64 EXE Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta1/GitHubDesktopSetup-arm64.msi" text="GitHub Desktop 3.5.7-beta1 Windows arm64 MSI Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta1/GitHubDesktopSetup-x64.exe" text="GitHub Desktop 3.5.7-beta1 Windows x64 EXE Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta1/GitHubDesktopSetup-x64.msi" text="GitHub Desktop 3.5.7-beta1 Windows x64 MSI Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta1/GitHub.Desktop-3.5.7-beta1-checksums.txt" text="GitHub.Desktop-3.5.7-beta1-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta1/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta1/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta1/GitHubDesktop-3.5.7-beta1-arm64-delta.nupkg" text="GitHubDesktop-3.5.7-beta1-arm64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta1/GitHubDesktop-3.5.7-beta1-arm64-full.nupkg" text="GitHubDesktop-3.5.7-beta1-arm64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta1/GitHubDesktop-3.5.7-beta1-x64-delta.nupkg" text="GitHubDesktop-3.5.7-beta1-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta1/GitHubDesktop-3.5.7-beta1-x64-full.nupkg" text="GitHubDesktop-3.5.7-beta1-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta1/GitHubDesktopSetup-arm64.exe" text="GitHubDesktopSetup-arm64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta1/GitHubDesktopSetup-arm64.msi" text="GitHubDesktopSetup-arm64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta1/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.7-beta1/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+
+
+
+## release-3.5.6
+
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6/GitHub.Desktop-3.5.6-checksums.txt" text="GitHub.Desktop-3.5.6-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6/GitHubDesktop-3.5.6-x64-delta.nupkg" text="GitHubDesktop-3.5.6-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6/GitHubDesktop-3.5.6-x64-full.nupkg" text="GitHubDesktop-3.5.6-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
 
 
 
 ## release-3.5.6-beta1
 
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6-beta1/GitHub.Desktop-3.5.6-beta1-checksums.txt" text="GitHub Desktop 3.5.6-beta1 checksums" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6-beta1/GitHub.Desktop-arm64.zip" text="GitHub Desktop 3.5.6-beta1 macOS arm64" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6-beta1/GitHub.Desktop-x64.zip" text="GitHub Desktop 3.5.6-beta1 macOS x64" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6-beta1/GitHubDesktop-3.5.6-beta1-arm64-delta.nupkg" text="GitHub Desktop 3.5.6-beta1 Windows arm64 Delta Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6-beta1/GitHubDesktop-3.5.6-beta1-arm64-full.nupkg" text="GitHub Desktop 3.5.6-beta1 Windows arm64 Full Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6-beta1/GitHubDesktop-3.5.6-beta1-x64-delta.nupkg" text="GitHub Desktop 3.5.6-beta1 Windows x64 Delta Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6-beta1/GitHubDesktop-3.5.6-beta1-x64-full.nupkg" text="GitHub Desktop 3.5.6-beta1 Windows x64 Full Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6-beta1/GitHubDesktopSetup-arm64.exe" text="GitHub Desktop 3.5.6-beta1 Windows arm64 EXE Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6-beta1/GitHubDesktopSetup-arm64.msi" text="GitHub Desktop 3.5.6-beta1 Windows arm64 MSI Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6-beta1/GitHubDesktopSetup-x64.exe" text="GitHub Desktop 3.5.6-beta1 Windows x64 EXE Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6-beta1/GitHubDesktopSetup-x64.msi" text="GitHub Desktop 3.5.6-beta1 Windows x64 MSI Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6-beta1/GitHub.Desktop-3.5.6-beta1-checksums.txt" text="GitHub.Desktop-3.5.6-beta1-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6-beta1/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6-beta1/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6-beta1/GitHubDesktop-3.5.6-beta1-arm64-delta.nupkg" text="GitHubDesktop-3.5.6-beta1-arm64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6-beta1/GitHubDesktop-3.5.6-beta1-arm64-full.nupkg" text="GitHubDesktop-3.5.6-beta1-arm64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6-beta1/GitHubDesktop-3.5.6-beta1-x64-delta.nupkg" text="GitHubDesktop-3.5.6-beta1-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6-beta1/GitHubDesktop-3.5.6-beta1-x64-full.nupkg" text="GitHubDesktop-3.5.6-beta1-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6-beta1/GitHubDesktopSetup-arm64.exe" text="GitHubDesktopSetup-arm64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6-beta1/GitHubDesktopSetup-arm64.msi" text="GitHubDesktopSetup-arm64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6-beta1/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.6-beta1/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
 
 
 
 ## release-3.5.5
 
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5/GitHub.Desktop-3.5.5-checksums.txt" text="GitHub Desktop 3.5.5 checksums" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5/GitHub.Desktop-arm64.zip" text="GitHub Desktop 3.5.5 macOS arm64" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5/GitHub.Desktop-x64.zip" text="GitHub Desktop 3.5.5 macOS x64" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5/GitHubDesktop-3.5.5-x64-delta.nupkg" text="GitHub Desktop 3.5.5 Windows x64 Delta Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5/GitHubDesktop-3.5.5-x64-full.nupkg" text="GitHub Desktop 3.5.5 Windows x64 Full Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5/GitHubDesktopSetup-x64.exe" text="GitHub Desktop 3.5.5 Windows x64 EXE Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5/GitHubDesktopSetup-x64.msi" text="GitHub Desktop 3.5.5 Windows x64 MSI Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5/GitHub.Desktop-3.5.5-checksums.txt" text="GitHub.Desktop-3.5.5-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5/GitHubDesktop-3.5.5-x64-delta.nupkg" text="GitHubDesktop-3.5.5-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5/GitHubDesktop-3.5.5-x64-full.nupkg" text="GitHubDesktop-3.5.5-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
 
 
 
 ## release-3.5.5-beta6
 
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHub.Desktop-3.5.5-beta6-checksums.txt" text="GitHub Desktop 3.5.5-beta6 checksums" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHub.Desktop-arm64.zip" text="GitHub Desktop 3.5.5-beta6 macOS arm64" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHub.Desktop-x64.zip" text="GitHub Desktop 3.5.5-beta6 macOS x64" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHubDesktop-3.5.5-beta6-arm64-delta.nupkg" text="GitHub Desktop 3.5.5-beta6 Windows arm64 Delta Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHubDesktop-3.5.5-beta6-arm64-full.nupkg" text="GitHub Desktop 3.5.5-beta6 Windows arm64 Full Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHubDesktop-3.5.5-beta6-x64-delta.nupkg" text="GitHub Desktop 3.5.5-beta6 Windows x64 Delta Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHubDesktop-3.5.5-beta6-x64-full.nupkg" text="GitHub Desktop 3.5.5-beta6 Windows x64 Full Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHubDesktopSetup-arm64.exe" text="GitHub Desktop 3.5.5-beta6 Windows arm64 EXE Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHubDesktopSetup-arm64.msi" text="GitHub Desktop 3.5.5-beta6 Windows arm64 MSI Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHubDesktopSetup-x64.exe" text="GitHub Desktop 3.5.5-beta6 Windows x64 EXE Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHubDesktopSetup-x64.msi" text="GitHub Desktop 3.5.5-beta6 Windows x64 MSI Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHub.Desktop-3.5.5-beta6-checksums.txt" text="GitHub.Desktop-3.5.5-beta6-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHubDesktop-3.5.5-beta6-arm64-delta.nupkg" text="GitHubDesktop-3.5.5-beta6-arm64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHubDesktop-3.5.5-beta6-arm64-full.nupkg" text="GitHubDesktop-3.5.5-beta6-arm64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHubDesktop-3.5.5-beta6-x64-delta.nupkg" text="GitHubDesktop-3.5.5-beta6-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHubDesktop-3.5.5-beta6-x64-full.nupkg" text="GitHubDesktop-3.5.5-beta6-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHubDesktopSetup-arm64.exe" text="GitHubDesktopSetup-arm64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHubDesktopSetup-arm64.msi" text="GitHubDesktopSetup-arm64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
 
 
 
 ## release-3.5.5-beta5
 
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta5/GitHub.Desktop-3.5.5-beta5-checksums.txt" text="GitHub Desktop 3.5.5-beta5 checksums" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta5/GitHub.Desktop-arm64.zip" text="GitHub Desktop 3.5.5-beta5 macOS arm64" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta5/GitHub.Desktop-x64.zip" text="GitHub Desktop 3.5.5-beta5 macOS x64" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta5/GitHubDesktop-3.5.5-beta5-arm64-delta.nupkg" text="GitHub Desktop 3.5.5-beta5 Windows arm64 Delta Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta5/GitHubDesktop-3.5.5-beta5-arm64-full.nupkg" text="GitHub Desktop 3.5.5-beta5 Windows arm64 Full Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta5/GitHubDesktop-3.5.5-beta5-x64-delta.nupkg" text="GitHub Desktop 3.5.5-beta5 Windows x64 Delta Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta5/GitHubDesktop-3.5.5-beta5-x64-full.nupkg" text="GitHub Desktop 3.5.5-beta5 Windows x64 Full Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta5/GitHubDesktopSetup-arm64.exe" text="GitHub Desktop 3.5.5-beta5 Windows arm64 EXE Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta5/GitHubDesktopSetup-arm64.msi" text="GitHub Desktop 3.5.5-beta5 Windows arm64 MSI Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta5/GitHubDesktopSetup-x64.exe" text="GitHub Desktop 3.5.5-beta5 Windows x64 EXE Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta5/GitHubDesktopSetup-x64.msi" text="GitHub Desktop 3.5.5-beta5 Windows x64 MSI Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta5/GitHub.Desktop-3.5.5-beta5-checksums.txt" text="GitHub.Desktop-3.5.5-beta5-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta5/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta5/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta5/GitHubDesktop-3.5.5-beta5-arm64-delta.nupkg" text="GitHubDesktop-3.5.5-beta5-arm64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta5/GitHubDesktop-3.5.5-beta5-arm64-full.nupkg" text="GitHubDesktop-3.5.5-beta5-arm64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta5/GitHubDesktop-3.5.5-beta5-x64-delta.nupkg" text="GitHubDesktop-3.5.5-beta5-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta5/GitHubDesktop-3.5.5-beta5-x64-full.nupkg" text="GitHubDesktop-3.5.5-beta5-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta5/GitHubDesktopSetup-arm64.exe" text="GitHubDesktopSetup-arm64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta5/GitHubDesktopSetup-arm64.msi" text="GitHubDesktopSetup-arm64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta5/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta5/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
 
 
 
 ## release-3.5.5-beta4
 
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta4/GitHub.Desktop-3.5.5-beta4-checksums.txt" text="GitHub Desktop 3.5.5-beta4 checksums" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta4/GitHub.Desktop-arm64.zip" text="GitHub Desktop 3.5.5-beta4 macOS arm64" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta4/GitHub.Desktop-x64.zip" text="GitHub Desktop 3.5.5-beta4 macOS x64" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta4/GitHubDesktop-3.5.5-beta4-arm64-delta.nupkg" text="GitHub Desktop 3.5.5-beta4 Windows arm64 Delta Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta4/GitHubDesktop-3.5.5-beta4-arm64-full.nupkg" text="GitHub Desktop 3.5.5-beta4 Windows arm64 Full Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta4/GitHubDesktop-3.5.5-beta4-x64-delta.nupkg" text="GitHub Desktop 3.5.5-beta4 Windows x64 Delta Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta4/GitHubDesktop-3.5.5-beta4-x64-full.nupkg" text="GitHub Desktop 3.5.5-beta4 Windows x64 Full Nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta4/GitHubDesktopSetup-arm64.exe" text="GitHub Desktop 3.5.5-beta4 Windows arm64 EXE Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta4/GitHubDesktopSetup-arm64.msi" text="GitHub Desktop 3.5.5-beta4 Windows arm64 MSI Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta4/GitHubDesktopSetup-x64.exe" text="GitHub Desktop 3.5.5-beta4 Windows x64 EXE Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta4/GitHubDesktopSetup-x64.msi" text="GitHub Desktop 3.5.5-beta4 Windows x64 MSI Installer" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta4/GitHub.Desktop-3.5.5-beta4-checksums.txt" text="GitHub.Desktop-3.5.5-beta4-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta4/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta4/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta4/GitHubDesktop-3.5.5-beta4-arm64-delta.nupkg" text="GitHubDesktop-3.5.5-beta4-arm64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta4/GitHubDesktop-3.5.5-beta4-arm64-full.nupkg" text="GitHubDesktop-3.5.5-beta4-arm64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta4/GitHubDesktop-3.5.5-beta4-x64-delta.nupkg" text="GitHubDesktop-3.5.5-beta4-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta4/GitHubDesktop-3.5.5-beta4-x64-full.nupkg" text="GitHubDesktop-3.5.5-beta4-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta4/GitHubDesktopSetup-arm64.exe" text="GitHubDesktopSetup-arm64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta4/GitHubDesktopSetup-arm64.msi" text="GitHubDesktopSetup-arm64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta4/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta4/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
 
 
+
+## release-3.5.5-beta3
+
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta3/GitHub.Desktop-3.5.5-beta3-checksums.txt" text="GitHub.Desktop-3.5.5-beta3-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta3/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta3/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta3/GitHubDesktop-3.5.5-beta3-arm64-delta.nupkg" text="GitHubDesktop-3.5.5-beta3-arm64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta3/GitHubDesktop-3.5.5-beta3-arm64-full.nupkg" text="GitHubDesktop-3.5.5-beta3-arm64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta3/GitHubDesktop-3.5.5-beta3-x64-delta.nupkg" text="GitHubDesktop-3.5.5-beta3-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta3/GitHubDesktop-3.5.5-beta3-x64-full.nupkg" text="GitHubDesktop-3.5.5-beta3-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta3/GitHubDesktopSetup-arm64.exe" text="GitHubDesktopSetup-arm64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta3/GitHubDesktopSetup-arm64.msi" text="GitHubDesktopSetup-arm64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta3/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta3/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+
+
+
+## release-3.5.5-beta2
+
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta2/GitHub.Desktop-3.5.5-beta2-checksums.txt" text="GitHub.Desktop-3.5.5-beta2-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta2/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta2/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta2/GitHubDesktop-3.5.5-beta2-arm64-delta.nupkg" text="GitHubDesktop-3.5.5-beta2-arm64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta2/GitHubDesktop-3.5.5-beta2-arm64-full.nupkg" text="GitHubDesktop-3.5.5-beta2-arm64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta2/GitHubDesktop-3.5.5-beta2-x64-delta.nupkg" text="GitHubDesktop-3.5.5-beta2-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta2/GitHubDesktop-3.5.5-beta2-x64-full.nupkg" text="GitHubDesktop-3.5.5-beta2-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta2/GitHubDesktopSetup-arm64.exe" text="GitHubDesktopSetup-arm64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta2/GitHubDesktopSetup-arm64.msi" text="GitHubDesktopSetup-arm64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta2/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta2/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+
+
+
+## release-3.5.5-beta1
+
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta1/GitHub.Desktop-3.5.5-beta1-checksums.txt" text="GitHub.Desktop-3.5.5-beta1-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta1/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta1/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta1/GitHubDesktop-3.5.5-beta1-arm64-delta.nupkg" text="GitHubDesktop-3.5.5-beta1-arm64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta1/GitHubDesktop-3.5.5-beta1-arm64-full.nupkg" text="GitHubDesktop-3.5.5-beta1-arm64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta1/GitHubDesktop-3.5.5-beta1-x64-delta.nupkg" text="GitHubDesktop-3.5.5-beta1-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta1/GitHubDesktop-3.5.5-beta1-x64-full.nupkg" text="GitHubDesktop-3.5.5-beta1-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta1/GitHubDesktopSetup-arm64.exe" text="GitHubDesktopSetup-arm64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta1/GitHubDesktopSetup-arm64.msi" text="GitHubDesktopSetup-arm64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta1/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta1/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+
+
+
+## release-3.5.4-beta3
+
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta3/GitHub.Desktop-3.5.4-beta3-checksums.txt" text="GitHub.Desktop-3.5.4-beta3-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta3/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta3/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta3/GitHubDesktop-3.5.4-beta3-arm64-delta.nupkg" text="GitHubDesktop-3.5.4-beta3-arm64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta3/GitHubDesktop-3.5.4-beta3-arm64-full.nupkg" text="GitHubDesktop-3.5.4-beta3-arm64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta3/GitHubDesktop-3.5.4-beta3-x64-delta.nupkg" text="GitHubDesktop-3.5.4-beta3-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta3/GitHubDesktop-3.5.4-beta3-x64-full.nupkg" text="GitHubDesktop-3.5.4-beta3-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta3/GitHubDesktopSetup-arm64.exe" text="GitHubDesktopSetup-arm64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta3/GitHubDesktopSetup-arm64.msi" text="GitHubDesktopSetup-arm64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta3/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta3/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+
+
+
+## release-3.5.4
+
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4/GitHub.Desktop-3.5.4-checksums.txt" text="GitHub.Desktop-3.5.4-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4/GitHubDesktop-3.5.4-x64-delta.nupkg" text="GitHubDesktop-3.5.4-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4/GitHubDesktop-3.5.4-x64-full.nupkg" text="GitHubDesktop-3.5.4-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+
+
+
+## release-3.5.4-beta2
+
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta2/GitHub.Desktop-3.5.4-beta2-checksums.txt" text="GitHub.Desktop-3.5.4-beta2-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta2/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta2/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta2/GitHubDesktop-3.5.4-beta2-arm64-delta.nupkg" text="GitHubDesktop-3.5.4-beta2-arm64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta2/GitHubDesktop-3.5.4-beta2-arm64-full.nupkg" text="GitHubDesktop-3.5.4-beta2-arm64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta2/GitHubDesktop-3.5.4-beta2-x64-delta.nupkg" text="GitHubDesktop-3.5.4-beta2-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta2/GitHubDesktop-3.5.4-beta2-x64-full.nupkg" text="GitHubDesktop-3.5.4-beta2-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta2/GitHubDesktopSetup-arm64.exe" text="GitHubDesktopSetup-arm64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta2/GitHubDesktopSetup-arm64.msi" text="GitHubDesktopSetup-arm64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta2/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta2/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+
+
+
+## release-3.5.4-beta1
+
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta1/GitHub.Desktop-3.5.4-beta1-checksums.txt" text="GitHub.Desktop-3.5.4-beta1-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta1/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta1/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta1/GitHubDesktop-3.5.4-beta1-arm64-delta.nupkg" text="GitHubDesktop-3.5.4-beta1-arm64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta1/GitHubDesktop-3.5.4-beta1-arm64-full.nupkg" text="GitHubDesktop-3.5.4-beta1-arm64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta1/GitHubDesktop-3.5.4-beta1-x64-delta.nupkg" text="GitHubDesktop-3.5.4-beta1-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta1/GitHubDesktop-3.5.4-beta1-x64-full.nupkg" text="GitHubDesktop-3.5.4-beta1-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta1/GitHubDesktopSetup-arm64.exe" text="GitHubDesktopSetup-arm64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta1/GitHubDesktopSetup-arm64.msi" text="GitHubDesktopSetup-arm64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta1/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.4-beta1/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+
+
+
+## release-3.5.3
+
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3/GitHub.Desktop-3.5.3-checksums.txt" text="GitHub.Desktop-3.5.3-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3/GitHubDesktop-3.5.3-x64-delta.nupkg" text="GitHubDesktop-3.5.3-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3/GitHubDesktop-3.5.3-x64-full.nupkg" text="GitHubDesktop-3.5.3-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+
+
+
+## release-3.5.3-beta4
+
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta4/GitHub.Desktop-3.5.3-beta4-checksums.txt" text="GitHub.Desktop-3.5.3-beta4-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta4/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta4/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta4/GitHubDesktop-3.5.3-beta4-arm64-delta.nupkg" text="GitHubDesktop-3.5.3-beta4-arm64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta4/GitHubDesktop-3.5.3-beta4-arm64-full.nupkg" text="GitHubDesktop-3.5.3-beta4-arm64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta4/GitHubDesktop-3.5.3-beta4-x64-delta.nupkg" text="GitHubDesktop-3.5.3-beta4-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta4/GitHubDesktop-3.5.3-beta4-x64-full.nupkg" text="GitHubDesktop-3.5.3-beta4-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta4/GitHubDesktopSetup-arm64.exe" text="GitHubDesktopSetup-arm64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta4/GitHubDesktopSetup-arm64.msi" text="GitHubDesktopSetup-arm64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta4/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta4/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+
+
+
+## release-3.5.3-beta3
+
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta3/GitHub.Desktop-3.5.3-beta3-checksums.txt" text="GitHub.Desktop-3.5.3-beta3-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta3/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta3/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta3/GitHubDesktop-3.5.3-beta3-arm64-delta.nupkg" text="GitHubDesktop-3.5.3-beta3-arm64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta3/GitHubDesktop-3.5.3-beta3-arm64-full.nupkg" text="GitHubDesktop-3.5.3-beta3-arm64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta3/GitHubDesktop-3.5.3-beta3-x64-delta.nupkg" text="GitHubDesktop-3.5.3-beta3-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta3/GitHubDesktop-3.5.3-beta3-x64-full.nupkg" text="GitHubDesktop-3.5.3-beta3-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta3/GitHubDesktopSetup-arm64.exe" text="GitHubDesktopSetup-arm64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta3/GitHubDesktopSetup-arm64.msi" text="GitHubDesktopSetup-arm64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta3/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta3/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+
+
+
+
+
+## release-3.5.3-beta2
+
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta2/GitHub.Desktop-3.5.3-beta2-checksums.txt" text="GitHub.Desktop-3.5.3-beta2-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta2/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta2/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta2/GitHubDesktop-3.5.3-beta2-arm64-delta.nupkg" text="GitHubDesktop-3.5.3-beta2-arm64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta2/GitHubDesktop-3.5.3-beta2-arm64-full.nupkg" text="GitHubDesktop-3.5.3-beta2-arm64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta2/GitHubDesktop-3.5.3-beta2-x64-delta.nupkg" text="GitHubDesktop-3.5.3-beta2-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta2/GitHubDesktop-3.5.3-beta2-x64-full.nupkg" text="GitHubDesktop-3.5.3-beta2-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta2/GitHubDesktopSetup-arm64.exe" text="GitHubDesktopSetup-arm64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta2/GitHubDesktopSetup-arm64.msi" text="GitHubDesktopSetup-arm64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta2/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta2/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+
+
+
+## release-3.5.3-beta1
+
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta1/GitHub.Desktop-3.5.3-beta1-checksums.txt" text="GitHub.Desktop-3.5.3-beta1-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta1/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta1/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta1/GitHubDesktop-3.5.3-beta1-arm64-delta.nupkg" text="GitHubDesktop-3.5.3-beta1-arm64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta1/GitHubDesktop-3.5.3-beta1-arm64-full.nupkg" text="GitHubDesktop-3.5.3-beta1-arm64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta1/GitHubDesktop-3.5.3-beta1-x64-delta.nupkg" text="GitHubDesktop-3.5.3-beta1-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta1/GitHubDesktop-3.5.3-beta1-x64-full.nupkg" text="GitHubDesktop-3.5.3-beta1-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta1/GitHubDesktopSetup-arm64.exe" text="GitHubDesktopSetup-arm64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta1/GitHubDesktopSetup-arm64.msi" text="GitHubDesktopSetup-arm64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta1/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.3-beta1/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+
+
+
+## release-3.5.2
+
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.2/GitHub.Desktop-3.5.2-checksums.txt" text="GitHub.Desktop-3.5.2-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.2/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.2/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.2/GitHubDesktop-3.5.2-x64-delta.nupkg" text="GitHubDesktop-3.5.2-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.2/GitHubDesktop-3.5.2-x64-full.nupkg" text="GitHubDesktop-3.5.2-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.2/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.2/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+
+
+
+## release-3.5.2-beta2
+
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.2-beta2/GitHub.Desktop-3.5.2-beta2-checksums.txt" text="GitHub.Desktop-3.5.2-beta2-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.2-beta2/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.2-beta2/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.2-beta2/GitHubDesktop-3.5.2-beta2-arm64-delta.nupkg" text="GitHubDesktop-3.5.2-beta2-arm64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.2-beta2/GitHubDesktop-3.5.2-beta2-arm64-full.nupkg" text="GitHubDesktop-3.5.2-beta2-arm64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.2-beta2/GitHubDesktop-3.5.2-beta2-x64-delta.nupkg" text="GitHubDesktop-3.5.2-beta2-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.2-beta2/GitHubDesktop-3.5.2-beta2-x64-full.nupkg" text="GitHubDesktop-3.5.2-beta2-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.2-beta2/GitHubDesktopSetup-arm64.exe" text="GitHubDesktopSetup-arm64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.2-beta2/GitHubDesktopSetup-arm64.msi" text="GitHubDesktopSetup-arm64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.2-beta2/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.2-beta2/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+
+
+
+## release-3.5.2-beta1
+
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.2-beta1/GitHub.Desktop-3.5.2-beta1-checksums.txt" text="GitHub.Desktop-3.5.2-beta1-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.2-beta1/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.2-beta1/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.2-beta1/GitHubDesktop-3.5.2-beta1-arm64-delta.nupkg" text="GitHubDesktop-3.5.2-beta1-arm64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.2-beta1/GitHubDesktop-3.5.2-beta1-arm64-full.nupkg" text="GitHubDesktop-3.5.2-beta1-arm64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.2-beta1/GitHubDesktop-3.5.2-beta1-x64-delta.nupkg" text="GitHubDesktop-3.5.2-beta1-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.2-beta1/GitHubDesktop-3.5.2-beta1-x64-full.nupkg" text="GitHubDesktop-3.5.2-beta1-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.2-beta1/GitHubDesktopSetup-arm64.exe" text="GitHubDesktopSetup-arm64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.2-beta1/GitHubDesktopSetup-arm64.msi" text="GitHubDesktopSetup-arm64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.2-beta1/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.2-beta1/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+
+
+
+## release-3.5.1
+
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.1/GitHub.Desktop-3.5.1-checksums.txt" text="GitHub.Desktop-3.5.1-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.1/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.1/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.1/GitHubDesktop-3.5.1-x64-delta.nupkg" text="GitHubDesktop-3.5.1-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.1/GitHubDesktop-3.5.1-x64-full.nupkg" text="GitHubDesktop-3.5.1-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.1/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.1/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+
+
+
+## release-3.5.0
+
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.0/GitHub.Desktop-3.5.0-checksums.txt" text="GitHub.Desktop-3.5.0-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.0/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.0/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.0/GitHubDesktop-3.5.0-x64-delta.nupkg" text="GitHubDesktop-3.5.0-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.0/GitHubDesktop-3.5.0-x64-full.nupkg" text="GitHubDesktop-3.5.0-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.0/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.0/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+
+
+
+## release-3.4.22-beta1
+
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.4.22-beta1/GitHub.Desktop-3.4.22-beta1-checksums.txt" text="GitHub.Desktop-3.4.22-beta1-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.4.22-beta1/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.4.22-beta1/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.4.22-beta1/GitHubDesktop-3.4.22-beta1-arm64-delta.nupkg" text="GitHubDesktop-3.4.22-beta1-arm64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.4.22-beta1/GitHubDesktop-3.4.22-beta1-arm64-full.nupkg" text="GitHubDesktop-3.4.22-beta1-arm64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.4.22-beta1/GitHubDesktop-3.4.22-beta1-x64-delta.nupkg" text="GitHubDesktop-3.4.22-beta1-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.4.22-beta1/GitHubDesktop-3.4.22-beta1-x64-full.nupkg" text="GitHubDesktop-3.4.22-beta1-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.4.22-beta1/GitHubDesktopSetup-arm64.exe" text="GitHubDesktopSetup-arm64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.4.22-beta1/GitHubDesktopSetup-arm64.msi" text="GitHubDesktopSetup-arm64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.4.22-beta1/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.4.22-beta1/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+
+
+
+## release-3.4.21
+
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.4.21/GitHub.Desktop-3.4.21-checksums.txt" text="GitHub.Desktop-3.4.21-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.4.21/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.4.21/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.4.21/GitHubDesktop-3.4.21-x64-delta.nupkg" text="GitHubDesktop-3.4.21-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.4.21/GitHubDesktop-3.4.21-x64-full.nupkg" text="GitHubDesktop-3.4.21-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.4.21/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.4.21/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+
+
+
+## release-3.4.20
+
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.4.20/GitHub.Desktop-3.4.20-checksums.txt" text="GitHub.Desktop-3.4.20-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.4.20/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.4.20/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.4.20/GitHubDesktop-3.4.20-x64-delta.nupkg" text="GitHubDesktop-3.4.20-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.4.20/GitHubDesktop-3.4.20-x64-full.nupkg" text="GitHubDesktop-3.4.20-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.4.20/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.4.20/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
 
 
 

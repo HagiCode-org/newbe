@@ -112,6 +112,168 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+## v3.4.2
+
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.4.2/gpt4all-installer-linux-v3.4.2.run" text="gpt4all-installer-linux-v3.4.2.run" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.4.2/gpt4all-installer-macos-v3.4.2.dmg" text="gpt4all-installer-macos-v3.4.2.dmg" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.4.2/gpt4all-installer-win64-v3.4.2.exe" text="gpt4all-installer-win64-v3.4.2.exe" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+
+
+
+## v3.4.1
+
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.4.1/gpt4all-installer-linux-v3.4.1.run" text="gpt4all-installer-linux-v3.4.1.run" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.4.1/gpt4all-installer-macos-v3.4.1.dmg" text="gpt4all-installer-macos-v3.4.1.dmg" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.4.1/gpt4all-installer-win64-v3.4.1.exe" text="gpt4all-installer-win64-v3.4.1.exe" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+
+
+
+## v3.4.0
+
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.4.0/gpt4all-installer-linux-v3.4.0.run" text="gpt4all-installer-linux-v3.4.0.run" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.4.0/gpt4all-installer-macos-v3.4.0.dmg" text="gpt4all-installer-macos-v3.4.0.dmg" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.4.0/gpt4all-installer-win64-v3.4.0.exe" text="gpt4all-installer-win64-v3.4.0.exe" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+
+
+
+## v3.3.1
+
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.3.1/gpt4all-installer-linux-v3.3.1.run" text="gpt4all-installer-linux-v3.3.1.run" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.3.1/gpt4all-installer-macos-v3.3.1.dmg" text="gpt4all-installer-macos-v3.3.1.dmg" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.3.1/gpt4all-installer-win64-v3.3.1.exe" text="gpt4all-installer-win64-v3.3.1.exe" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+
+
+
+## v3.3.0
+
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.3.0/gpt4all-installer-linux-v3.3.0.run" text="gpt4all-installer-linux-v3.3.0.run" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.3.0/gpt4all-installer-macos-v3.3.0.dmg" text="gpt4all-installer-macos-v3.3.0.dmg" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.3.0/gpt4all-installer-win64-v3.3.0.exe" text="gpt4all-installer-win64-v3.3.0.exe" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+
+
+
+## v3.2.1
+
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.2.1/gpt4all-installer-darwin-v3.2.1.dmg" text="gpt4all-installer-darwin-v3.2.1.dmg" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.2.1/gpt4all-installer-linux-v3.2.1.run" text="gpt4all-installer-linux-v3.2.1.run" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.2.1/gpt4all-installer-win64-v3.2.1.exe" text="gpt4all-installer-win64-v3.2.1.exe" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+
+
+
+## v3.2.0
+
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.2.0/gpt4all-installer-darwin-v3.2.0.dmg" text="gpt4all-installer-darwin-v3.2.0.dmg" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.2.0/gpt4all-installer-linux-v3.2.0.run" text="gpt4all-installer-linux-v3.2.0.run" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.2.0/gpt4all-installer-win64-v3.2.0.exe" text="gpt4all-installer-win64-v3.2.0.exe" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+
+
+
+## v3.1.1-web_search_beta_2
+
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.1.1-web_search_beta_2/gpt4all-installer-darwin-v3.1.1-web_search_beta_2.dmg" text="gpt4all-installer-darwin-v3.1.1-web_search_beta_2.dmg" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.1.1-web_search_beta_2/gpt4all-installer-linux-v3.1.1-web_search_beta_2.run" text="gpt4all-installer-linux-v3.1.1-web_search_beta_2.run" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.1.1-web_search_beta_2/gpt4all-installer-win64-v3.1.1-web_search_beta_2.exe" text="gpt4all-installer-win64-v3.1.1-web_search_beta_2.exe" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+
+
+
+## v3.1.1
+
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.1.1/gpt4all-installer-darwin-v3.1.1.dmg" text="gpt4all-installer-darwin-v3.1.1.dmg" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.1.1/gpt4all-installer-linux-v3.1.1.run" text="gpt4all-installer-linux-v3.1.1.run" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.1.1/gpt4all-installer-win64-v3.1.1.exe" text="gpt4all-installer-win64-v3.1.1.exe" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+
+
+
+## v3.1.0-web_search_beta
+
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.1.0-web_search_beta/gpt4all-installer-darwin-v3.1.0-web_search_beta.dmg" text="gpt4all-installer-darwin-v3.1.0-web_search_beta.dmg" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.1.0-web_search_beta/gpt4all-installer-linux-v3.1.0-web_search_beta.run" text="gpt4all-installer-linux-v3.1.0-web_search_beta.run" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.1.0-web_search_beta/gpt4all-installer-win64-v3.1.0-web_search_beta.exe" text="gpt4all-installer-win64-v3.1.0-web_search_beta.exe" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+
+
+
+
+
+## v3.1.0
+
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.1.0/gpt4all-installer-darwin-v3.1.0.dmg" text="gpt4all-installer-darwin-v3.1.0.dmg" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.1.0/gpt4all-installer-linux-v3.1.0.run" text="gpt4all-installer-linux-v3.1.0.run" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.1.0/gpt4all-installer-win64-v3.1.0.exe" text="gpt4all-installer-win64-v3.1.0.exe" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+
+
+
+## v3.0.0
+
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.0.0/gpt4all-installer-darwin-v3.0.0.dmg" text="gpt4all-installer-darwin-v3.0.0.dmg" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.0.0/gpt4all-installer-linux-v3.0.0.run" text="gpt4all-installer-linux-v3.0.0.run" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.0.0/gpt4all-installer-win64-v3.0.0.exe" text="gpt4all-installer-win64-v3.0.0.exe" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+
+
+
+## v2.8.0
+
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v2.8.0/gpt4all-installer-darwin-v2.8.0.dmg" text="gpt4all-installer-darwin-v2.8.0.dmg" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v2.8.0/gpt4all-installer-linux-v2.8.0.run" text="gpt4all-installer-linux-v2.8.0.run" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v2.8.0/gpt4all-installer-win64-v2.8.0.exe" text="gpt4all-installer-win64-v2.8.0.exe" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+
+
+
+## v2.8.0-pre1
+
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v2.8.0-pre1/gpt4all-installer-darwin-v2.8.0-pre1.dmg" text="gpt4all-installer-darwin-v2.8.0-pre1.dmg" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v2.8.0-pre1/gpt4all-installer-linux-v2.8.0-pre1.run" text="gpt4all-installer-linux-v2.8.0-pre1.run" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v2.8.0-pre1/gpt4all-installer-win64-v2.8.0-pre1.exe" text="gpt4all-installer-win64-v2.8.0-pre1.exe" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+
+
+
+## v2.7.5
+
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v2.7.5/gpt4all-installer-darwin-v2.7.5.dmg" text="gpt4all-installer-darwin-v2.7.5.dmg" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v2.7.5/gpt4all-installer-linux-v2.7.5.run" text="gpt4all-installer-linux-v2.7.5.run" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v2.7.5/gpt4all-installer-win64-v2.7.5.exe" text="gpt4all-installer-win64-v2.7.5.exe" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+
+
+
+## v2.7.4
+
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v2.7.4/gpt4all-installer-darwin-v2.7.4.dmg" text="gpt4all-installer-darwin-v2.7.4.dmg" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v2.7.4/gpt4all-installer-linux-v2.7.4.run" text="gpt4all-installer-linux-v2.7.4.run" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v2.7.4/gpt4all-installer-win64-v2.7.4.exe" text="gpt4all-installer-win64-v2.7.4.exe" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+
+
+
+## v2.7.3
+
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v2.7.3/gpt4all-installer-darwin-v2.7.3.dmg" text="gpt4all-installer-darwin-v2.7.3.dmg" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v2.7.3/gpt4all-installer-linux-v2.7.3-debug.run" text="gpt4all-installer-linux-v2.7.3-debug.run" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v2.7.3/gpt4all-installer-linux-v2.7.3.run" text="gpt4all-installer-linux-v2.7.3.run" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v2.7.3/gpt4all-installer-win64-v2.7.3-debug-console.exe" text="gpt4all-installer-win64-v2.7.3-debug-console.exe" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v2.7.3/gpt4all-installer-win64-v2.7.3.exe" text="gpt4all-installer-win64-v2.7.3.exe" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+
+
+
+## v2.7.2
+
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v2.7.2/gpt4all-installer-darwin-v2.7.2.dmg" text="gpt4all-installer-darwin-v2.7.2.dmg" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v2.7.2/gpt4all-installer-linux-v2.7.2.run" text="gpt4all-installer-linux-v2.7.2.run" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v2.7.2/gpt4all-installer-win64-v2.7.2.exe" text="gpt4all-installer-win64-v2.7.2.exe" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+
+
+
+## v2.7.1
+
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v2.7.1/gpt4all-installer-darwin-v2.7.1.dmg" text="gpt4all-installer-darwin-v2.7.1.dmg" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v2.7.1/gpt4all-installer-linux-v2.7.1.run" text="gpt4all-installer-linux-v2.7.1.run" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v2.7.1/gpt4all-installer-win64-v2.7.1.exe" text="gpt4all-installer-win64-v2.7.1.exe" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+
+
+
+## v2.7.0
+
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v2.7.0/gpt4all-installer-darwin-v2.7.0.dmg" text="gpt4all-installer-darwin-v2.7.0.dmg" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v2.7.0/gpt4all-installer-linux-v2.7.0.run" text="gpt4all-installer-linux-v2.7.0.run" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v2.7.0/gpt4all-installer-win64-v2.7.0.exe" text="gpt4all-installer-win64-v2.7.0.exe" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+
 
 
 
