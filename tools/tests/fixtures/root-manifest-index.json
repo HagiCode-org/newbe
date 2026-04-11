@@ -1,0 +1,38 @@
+{
+  "repositories": [
+    {
+      "repositoryKey": "microsoft/PowerToys",
+      "releases": [
+        {
+          "releaseTagName": "v0.92.1",
+          "manifestPath": "release-sync/microsoft/PowerToys/v0.92.1/manifest.json",
+          "recordCount": 1,
+          "status": "synced",
+          "lastAttemptedAt": "2026-04-10T12:20:00Z",
+          "lastSuccessfulAt": "2026-04-10T12:21:00Z"
+        },
+        {
+          "releaseTagName": "v0.92.0",
+          "manifestPath": "release-sync/microsoft/PowerToys/v0.92.0/manifest.json",
+          "recordCount": 0,
+          "status": "awaiting_evidence",
+          "lastAttemptedAt": "2026-04-09T12:20:00Z",
+          "lastSuccessfulAt": null
+        }
+      ]
+    },
+    {
+      "repositoryKey": "another/repo",
+      "releases": [
+        {
+          "releaseTagName": "v1.0.0",
+          "manifestPath": "release-sync/another/repo/v1.0.0/manifest.json",
+          "recordCount": 2,
+          "status": "synced",
+          "lastAttemptedAt": "2026-04-10T12:20:00Z",
+          "lastSuccessfulAt": "2026-04-10T12:22:00Z"
+        }
+      ]
+    }
+  ]
+}

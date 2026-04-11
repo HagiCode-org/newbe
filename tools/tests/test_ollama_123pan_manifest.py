@@ -40,6 +40,11 @@ def build_manifest_url(repository_key: str, release_tag_name: str) -> str:
     )
 
 
+def build_root_index_url(blob_prefix: str = "release-sync", container_sas_url: str = CONTAINER_SAS_URL) -> str:
+    blob_name = mirror_tasks.build_root_manifest_index_blob_name(blob_prefix)
+    return mirror_tasks.build_blob_url(container_sas_url, blob_name)
+
+
 def build_manifest_payload(repository_key: str, records):
     return {
         "repositoryKey": repository_key,
@@ -68,6 +73,7 @@ class FakeResponse:
 class ManifestFetchTests(unittest.TestCase):
     def setUp(self):
         mirror_tasks.MANIFEST_RECORD_CACHE.clear()
+        mirror_tasks.ROOT_MANIFEST_INDEX_CACHE.clear()
 
     def test_fetch_manifest_records_normalizes_entries_and_uses_cache_for_non_ollama_repo(self):
         repository_key = "microsoft/PowerToys"
@@ -164,9 +170,66 @@ class ManifestFetchTests(unittest.TestCase):
         self.assertEqual(mirror_tasks.fetch_manifest_records(None, "v0.92.1"), [])
 
 
+class RootManifestIndexTests(unittest.TestCase):
+    def setUp(self):
+        mirror_tasks.MANIFEST_RECORD_CACHE.clear()
+        mirror_tasks.ROOT_MANIFEST_INDEX_CACHE.clear()
+
+    def test_fetch_root_manifest_index_normalizes_release_summaries_and_caches_per_url(self):
+        manifest_source = build_manifest_source("microsoft/PowerToys")
+        other_root_url = "https://other.blob.core.windows.net/release-sync?sv=test&sp=rl&sig=other"
+        other_manifest_source = {
+            **build_manifest_source("microsoft/PowerToys"),
+            "containerSasUrl": other_root_url,
+            "containerSasUrlEnv": None,
+        }
+        payload = load_fixture("root-manifest-index.json")
+        calls = []
+
+        def fake_get(url, headers=None, timeout=15):
+            calls.append(url)
+            return FakeResponse(json_data=payload)
+
+        with patch.dict(os.environ, {CONTAINER_SAS_ENV: CONTAINER_SAS_URL}, clear=False):
+            with patch.object(mirror_tasks.requests, "get", side_effect=fake_get):
+                first = mirror_tasks.fetch_root_manifest_index(manifest_source)
+                second = mirror_tasks.fetch_root_manifest_index(manifest_source)
+                third = mirror_tasks.fetch_root_manifest_index(other_manifest_source)
+
+        self.assertEqual(first["state"], "ready")
+        self.assertEqual(first, second)
+        self.assertEqual(first["rootIndexUrl"], build_root_index_url())
+        self.assertEqual(first["repositoriesByKey"]["microsoft/PowerToys"]["releases"][0]["recordCount"], 1)
+        self.assertIn("v0.92.1", first["repositoriesByKey"]["microsoft/PowerToys"]["releaseSummariesByTag"])
+        self.assertEqual(third["state"], "ready")
+        self.assertEqual(
+            calls,
+            [
+                build_root_index_url(),
+                build_root_index_url(container_sas_url=other_root_url),
+            ],
+        )
+
+    def test_fetch_root_manifest_index_returns_diagnostic_fallback_for_invalid_payload(self):
+        manifest_source = build_manifest_source("microsoft/PowerToys")
+
+        with patch.dict(os.environ, {CONTAINER_SAS_ENV: CONTAINER_SAS_URL}, clear=False):
+            with patch.object(
+                mirror_tasks.requests,
+                "get",
+                return_value=FakeResponse(json_data=load_fixture("root-manifest-index-invalid.json")),
+            ):
+                result = mirror_tasks.fetch_root_manifest_index(manifest_source)
+
+        self.assertEqual(result["state"], "fallback")
+        self.assertEqual(result["reason"], "invalid_payload")
+        self.assertIn("missing fields: recordCount", result["diagnostic"])
+
+
 class SharedMirrorContractTests(unittest.TestCase):
     def setUp(self):
         mirror_tasks.MANIFEST_RECORD_CACHE.clear()
+        mirror_tasks.ROOT_MANIFEST_INDEX_CACHE.clear()
 
     def build_powertoys_mirror(self):
         return {
@@ -181,18 +244,27 @@ class SharedMirrorContractTests(unittest.TestCase):
             "createDate": "2026-04-10",
         }
 
-    def render_temp_mirror_page(self, mirror, releases_payload, manifest_payload):
+    def render_temp_mirror_page_with_responses(self, mirror, releases_payload, response_payloads, calls=None):
         github_api_url = (
             f"https://api.github.com/repos/"
             f"{mirror['repositoryKey'].split('/', 1)[0]}/{mirror['repositoryKey'].split('/', 1)[1]}/releases"
         )
-        manifest_url = build_manifest_url(mirror["repositoryKey"], releases_payload[0]["tag_name"])
+        root_index_url = None
+        manifest_source = mirror.get("manifestSource")
+        if manifest_source:
+            root_index_url = build_root_index_url(
+                blob_prefix=manifest_source.get("blobPrefix", "release-sync"),
+            )
 
         def fake_get(url, headers=None, timeout=None):
+            if calls is not None:
+                calls.append(url)
             if url == github_api_url:
                 return FakeResponse(json_data=releases_payload)
-            if url == manifest_url:
-                return FakeResponse(json_data=manifest_payload)
+            if url in response_payloads:
+                return FakeResponse(json_data=response_payloads[url])
+            if root_index_url and url == root_index_url:
+                return FakeResponse(status_code=404, json_data={"message": "missing root index"})
             raise AssertionError(f"Unexpected URL: {url}")
 
         with tempfile.TemporaryDirectory() as temp_dir:
@@ -218,6 +290,17 @@ class SharedMirrorContractTests(unittest.TestCase):
                 os.chdir(old_cwd)
 
             return (docs_dir / mirror["markdownFilename"]).read_text(encoding="utf-8")
+
+    def render_temp_mirror_page(self, mirror, releases_payload, manifest_payload, calls=None):
+        manifest_url = build_manifest_url(mirror["repositoryKey"], releases_payload[0]["tag_name"])
+        return self.render_temp_mirror_page_with_responses(
+            mirror,
+            releases_payload,
+            {
+                manifest_url: manifest_payload,
+            },
+            calls=calls,
+        )
 
     def test_build_provider_links_by_asset_matches_repository_release_and_asset_exactly(self):
         mirror = self.build_powertoys_mirror()
@@ -296,6 +379,98 @@ class SharedMirrorContractTests(unittest.TestCase):
         self.assertIn('"providerKey": "123pan"', page_text)
         self.assertIn('"providerKey": "future-drive"', page_text)
         self.assertIn('preferredProviders={["123pan"]}', page_text)
+
+    def test_create_github_mirror_uses_root_index_candidates_to_limit_manifest_fetches(self):
+        mirror = self.build_powertoys_mirror()
+        releases_payload = load_fixture("powertoys-releases-multi.json")
+        calls = []
+        page_text = self.render_temp_mirror_page_with_responses(
+            mirror,
+            releases_payload,
+            {
+                build_root_index_url(): load_fixture("root-manifest-index.json"),
+                build_manifest_url(mirror["repositoryKey"], "v0.92.1"): load_fixture("powertoys-azure-manifest.json"),
+            },
+            calls=calls,
+        )
+
+        self.assertEqual(calls.count(build_root_index_url()), 1)
+        self.assertEqual(calls.count(build_manifest_url(mirror["repositoryKey"], "v0.92.1")), 1)
+        self.assertNotIn(build_manifest_url(mirror["repositoryKey"], "v0.92.0"), calls)
+        self.assertIn('preferredProviders={["123pan"]}', page_text)
+        candidate_line = next(
+            line for line in page_text.splitlines()
+            if 'text="PowerToysUserSetup-0.92.1-x64.exe"' in line
+        )
+        skipped_line = next(
+            line for line in page_text.splitlines()
+            if 'text="PowerToysUserSetup-0.92.0-x64.exe"' in line
+        )
+        self.assertIn('resolvedMirrors=', candidate_line)
+        self.assertNotIn('resolvedMirrors=', skipped_line)
+        self.assertIn('repositoryKey="microsoft/PowerToys"', skipped_line)
+
+    def test_create_github_mirror_falls_back_to_legacy_probe_when_root_index_repo_is_missing(self):
+        mirror = self.build_powertoys_mirror()
+        releases_payload = load_fixture("powertoys-releases-multi.json")
+        calls = []
+        page_text = self.render_temp_mirror_page_with_responses(
+            mirror,
+            releases_payload,
+            {
+                build_root_index_url(): load_fixture("root-manifest-index-missing-repo.json"),
+                build_manifest_url(mirror["repositoryKey"], "v0.92.1"): load_fixture("powertoys-azure-manifest.json"),
+                build_manifest_url(mirror["repositoryKey"], "v0.92.0"): load_fixture("powertoys-azure-manifest-v0.92.0.json"),
+            },
+            calls=calls,
+        )
+
+        self.assertEqual(calls.count(build_root_index_url()), 1)
+        self.assertIn(build_manifest_url(mirror["repositoryKey"], "v0.92.1"), calls)
+        self.assertIn(build_manifest_url(mirror["repositoryKey"], "v0.92.0"), calls)
+        self.assertIn('preferredProviders={["123pan"]}', page_text)
+        setup_line = next(
+            line for line in page_text.splitlines()
+            if 'text="PowerToysUserSetup-0.92.1-x64.exe"' in line
+        )
+        older_line = next(
+            line for line in page_text.splitlines()
+            if 'text="PowerToysUserSetup-0.92.0-x64.exe"' in line
+        )
+        fallback_line = next(
+            line for line in page_text.splitlines()
+            if 'text="PowerToysSetup-0.92.1-arm64.exe"' in line
+        )
+        self.assertIn('resolvedMirrors=', setup_line)
+        self.assertIn('resolvedMirrors=', older_line)
+        self.assertNotIn('resolvedMirrors=', fallback_line)
+
+    def test_create_github_mirror_reuses_cached_root_index_across_runs(self):
+        mirror = self.build_powertoys_mirror()
+        releases_payload = load_fixture("powertoys-releases-multi.json")
+        response_payloads = {
+            build_root_index_url(): load_fixture("root-manifest-index.json"),
+            build_manifest_url(mirror["repositoryKey"], "v0.92.1"): load_fixture("powertoys-azure-manifest.json"),
+        }
+        first_calls = []
+        second_calls = []
+
+        first_page = self.render_temp_mirror_page_with_responses(
+            mirror,
+            releases_payload,
+            response_payloads,
+            calls=first_calls,
+        )
+        second_page = self.render_temp_mirror_page_with_responses(
+            mirror,
+            releases_payload,
+            response_payloads,
+            calls=second_calls,
+        )
+
+        self.assertEqual(first_calls.count(build_root_index_url()), 1)
+        self.assertEqual(second_calls.count(build_root_index_url()), 0)
+        self.assertEqual(first_page, second_page)
 
 
 if __name__ == "__main__":

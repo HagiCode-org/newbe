@@ -1,0 +1,26 @@
+[
+  {
+    "tag_name": "v0.92.1",
+    "published_at": "2026-04-10T12:30:00Z",
+    "assets": [
+      {
+        "browser_download_url": "https://github.com/microsoft/PowerToys/releases/download/v0.92.1/PowerToysUserSetup-0.92.1-x64.exe",
+        "name": "PowerToysUserSetup-0.92.1-x64.exe"
+      },
+      {
+        "browser_download_url": "https://github.com/microsoft/PowerToys/releases/download/v0.92.1/PowerToysSetup-0.92.1-arm64.exe",
+        "name": "PowerToysSetup-0.92.1-arm64.exe"
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.92.0",
+    "published_at": "2026-04-09T12:30:00Z",
+    "assets": [
+      {
+        "browser_download_url": "https://github.com/microsoft/PowerToys/releases/download/v0.92.0/PowerToysUserSetup-0.92.0-x64.exe",
+        "name": "PowerToysUserSetup-0.92.0-x64.exe"
+      }
+    ]
+  }
+]

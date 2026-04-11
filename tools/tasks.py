@@ -56,6 +56,7 @@ MANIFEST_REQUEST_HEADERS = {
     "Accept": "application/json",
 }
 MANIFEST_RECORD_CACHE = {}
+ROOT_MANIFEST_INDEX_CACHE = {}
 DEFAULT_MANIFEST_BLOB_PREFIX = 'release-sync'
 
 HAGICODE_PROMO_IMPORT = "import HagicodeRecommendation from '../../src/components/HagicodeRecommendation';"
@@ -166,6 +167,31 @@ def build_release_sync_manifest_blob_name(repository_key, release_tag_name, pref
     return '/'.join(segments)
 
 
+def build_root_manifest_index_blob_name(prefix=DEFAULT_MANIFEST_BLOB_PREFIX):
+    segments = [
+        *normalize_manifest_blob_prefix(prefix).split('/'),
+        'index.json',
+    ]
+    return '/'.join(segments)
+
+
+def build_blob_url(container_sas_url, blob_name):
+    parsed_url = urlsplit(container_sas_url)
+    if not parsed_url.scheme or not parsed_url.netloc:
+        raise ValueError('manifestSource.containerSasUrl must be an absolute URL')
+
+    encoded_blob_name = '/'.join(quote(segment, safe='') for segment in blob_name.split('/'))
+    blob_path = f"{parsed_url.path.rstrip('/')}/{encoded_blob_name}"
+
+    return urlunsplit((
+        parsed_url.scheme,
+        parsed_url.netloc,
+        blob_path,
+        parsed_url.query,
+        parsed_url.fragment,
+    ))
+
+
 def build_manifest_url(manifest_source, release_tag_name):
     container_sas_url = manifest_source.get('containerSasUrl')
     if not container_sas_url:
@@ -179,20 +205,19 @@ def build_manifest_url(manifest_source, release_tag_name):
     if not blob_name:
         return None
 
-    parsed_url = urlsplit(container_sas_url)
-    if not parsed_url.scheme or not parsed_url.netloc:
-        raise ValueError('manifestSource.containerSasUrl must be an absolute URL')
+    return build_blob_url(container_sas_url, blob_name)
 
-    encoded_blob_name = '/'.join(quote(segment, safe='') for segment in blob_name.split('/'))
-    manifest_path = f"{parsed_url.path.rstrip('/')}/{encoded_blob_name}"
 
-    return urlunsplit((
-        parsed_url.scheme,
-        parsed_url.netloc,
-        manifest_path,
-        parsed_url.query,
-        parsed_url.fragment,
-    ))
+def build_root_manifest_index_url(manifest_source):
+    container_sas_url = manifest_source.get('containerSasUrl')
+    if not container_sas_url:
+        return None
+    return build_blob_url(
+        container_sas_url,
+        build_root_manifest_index_blob_name(
+            manifest_source.get('blobPrefix', DEFAULT_MANIFEST_BLOB_PREFIX),
+        ),
+    )
 
 
 def validate_manifest_source(manifest_source):
@@ -227,6 +252,250 @@ def validate_manifest_source(manifest_source):
         'containerSasUrl': container_sas_url,
         'containerSasUrlEnv': manifest_source.get('containerSasUrlEnv'),
     }
+
+
+def normalize_root_manifest_release_summary(repository_key, release_summary):
+    if not isinstance(release_summary, dict):
+        raise ValueError('Root manifest release summary must be an object')
+
+    required_fields = ('releaseTagName', 'recordCount', 'status', 'lastSuccessfulAt')
+    missing_fields = [field for field in required_fields if field not in release_summary]
+    if missing_fields:
+        raise ValueError(
+            f"Root manifest release summary for {repository_key} is missing fields: {', '.join(missing_fields)}"
+        )
+
+    release_tag_name = str(release_summary.get('releaseTagName') or '').strip()
+    if not release_tag_name:
+        raise ValueError(f'Root manifest release summary for {repository_key} must provide releaseTagName')
+
+    record_count = release_summary.get('recordCount')
+    if isinstance(record_count, bool):
+        raise ValueError(f'Root manifest release summary for {repository_key} has invalid recordCount')
+    try:
+        normalized_record_count = int(record_count)
+    except (TypeError, ValueError) as exc:
+        raise ValueError(
+            f'Root manifest release summary for {repository_key} has non-integer recordCount'
+        ) from exc
+
+    status = str(release_summary.get('status') or '').strip().lower()
+    if not status:
+        raise ValueError(f'Root manifest release summary for {repository_key} must provide status')
+
+    last_successful_at = release_summary.get('lastSuccessfulAt')
+    normalized_last_successful_at = None
+    if last_successful_at is not None:
+        normalized_last_successful_at = str(last_successful_at).strip() or None
+
+    last_attempted_at = release_summary.get('lastAttemptedAt')
+    normalized_last_attempted_at = None
+    if last_attempted_at is not None:
+        normalized_last_attempted_at = str(last_attempted_at).strip() or None
+
+    manifest_path = release_summary.get('manifestPath')
+    normalized_manifest_path = None
+    if manifest_path is not None:
+        normalized_manifest_path = str(manifest_path).strip() or None
+
+    return {
+        'repositoryKey': repository_key,
+        'releaseTagName': release_tag_name,
+        'recordCount': normalized_record_count,
+        'status': status,
+        'lastAttemptedAt': normalized_last_attempted_at,
+        'lastSuccessfulAt': normalized_last_successful_at,
+        'manifestPath': normalized_manifest_path,
+    }
+
+
+def normalize_root_manifest_repository(repository_entry):
+    if not isinstance(repository_entry, dict):
+        raise ValueError('Root manifest repository entry must be an object')
+
+    repository_key = str(repository_entry.get('repositoryKey') or '').strip().strip('/')
+    if not repository_key:
+        raise ValueError('Root manifest repository entry must provide repositoryKey')
+
+    releases = repository_entry.get('releases')
+    if not isinstance(releases, list):
+        raise ValueError(f'Root manifest repository entry {repository_key} must provide a releases array')
+
+    normalized_releases = []
+    release_summaries_by_tag = {}
+    for release_summary in releases:
+        normalized_release = normalize_root_manifest_release_summary(repository_key, release_summary)
+        normalized_releases.append(normalized_release)
+        release_summaries_by_tag[normalized_release['releaseTagName'].strip().lower()] = normalized_release
+
+    return {
+        'repositoryKey': repository_key,
+        'releases': normalized_releases,
+        'releaseSummariesByTag': release_summaries_by_tag,
+    }
+
+
+def normalize_root_manifest_index(payload):
+    if not isinstance(payload, dict):
+        raise ValueError('Root manifest index payload must be an object')
+
+    repositories = payload.get('repositories')
+    if not isinstance(repositories, list):
+        raise ValueError('Root manifest index payload must provide a repositories array')
+
+    normalized_repositories = []
+    repositories_by_key = {}
+    for repository_entry in repositories:
+        normalized_repository = normalize_root_manifest_repository(repository_entry)
+        normalized_repositories.append(normalized_repository)
+        repositories_by_key[normalized_repository['repositoryKey']] = normalized_repository
+
+    return {
+        'repositories': normalized_repositories,
+        'repositoriesByKey': repositories_by_key,
+    }
+
+
+def fetch_root_manifest_index(manifest_source):
+    validated_source = validate_manifest_source(manifest_source)
+    if not validated_source:
+        return {
+            'state': 'fallback',
+            'reason': 'manifest_source_missing',
+            'diagnostic': 'manifestSource is not configured',
+        }
+
+    root_index_url = build_root_manifest_index_url(validated_source)
+    if not root_index_url:
+        diagnostic = (
+            f"Manifest container SAS URL is not configured for {validated_source['repositoryKey']}. "
+            f"Set {validated_source.get('containerSasUrlEnv') or 'manifestSource.containerSasUrl'} to enable root index discovery."
+        )
+        return {
+            'state': 'fallback',
+            'reason': 'container_sas_url_missing',
+            'diagnostic': diagnostic,
+        }
+
+    if root_index_url in ROOT_MANIFEST_INDEX_CACHE:
+        return ROOT_MANIFEST_INDEX_CACHE[root_index_url]
+
+    try:
+        response = requests.get(
+            root_index_url,
+            headers=MANIFEST_REQUEST_HEADERS,
+            timeout=validated_source['timeoutSeconds'],
+        )
+        response.raise_for_status()
+        payload = response.json()
+        normalized_payload = normalize_root_manifest_index(payload)
+        result = {
+            'state': 'ready',
+            'rootIndexUrl': root_index_url,
+            'repositories': normalized_payload['repositories'],
+            'repositoriesByKey': normalized_payload['repositoriesByKey'],
+        }
+    except requests.Timeout:
+        result = {
+            'state': 'fallback',
+            'rootIndexUrl': root_index_url,
+            'reason': 'request_timeout',
+            'diagnostic': f'Root manifest index request timed out for {validated_source["repositoryKey"]}',
+        }
+    except requests.RequestException as exc:
+        result = {
+            'state': 'fallback',
+            'rootIndexUrl': root_index_url,
+            'reason': 'request_failed',
+            'diagnostic': str(exc),
+        }
+    except json.JSONDecodeError as exc:
+        result = {
+            'state': 'fallback',
+            'rootIndexUrl': root_index_url,
+            'reason': 'invalid_json',
+            'diagnostic': str(exc),
+        }
+    except ValueError as exc:
+        result = {
+            'state': 'fallback',
+            'rootIndexUrl': root_index_url,
+            'reason': 'invalid_payload',
+            'diagnostic': str(exc),
+        }
+
+    ROOT_MANIFEST_INDEX_CACHE[root_index_url] = result
+    return result
+
+
+def get_repository_root_manifest_catalog(manifest_source):
+    validated_source = validate_manifest_source(manifest_source)
+    if not validated_source:
+        return {
+            'state': 'legacy',
+            'reason': 'manifest_source_missing',
+            'diagnostic': 'manifestSource is not configured',
+            'releaseSummariesByTag': {},
+            'candidateReleaseTags': set(),
+        }
+
+    root_manifest_index = fetch_root_manifest_index(validated_source)
+    if root_manifest_index.get('state') != 'ready':
+        return {
+            'state': 'legacy',
+            'reason': root_manifest_index.get('reason', 'root_index_unavailable'),
+            'diagnostic': root_manifest_index.get('diagnostic'),
+            'rootIndexUrl': root_manifest_index.get('rootIndexUrl'),
+            'releaseSummariesByTag': {},
+            'candidateReleaseTags': set(),
+        }
+
+    repository_key = validated_source['repositoryKey']
+    repository_catalog = root_manifest_index['repositoriesByKey'].get(repository_key)
+    if not repository_catalog:
+        return {
+            'state': 'legacy',
+            'reason': 'repository_missing',
+            'diagnostic': f'Root manifest index does not cover repository {repository_key}',
+            'rootIndexUrl': root_manifest_index.get('rootIndexUrl'),
+            'releaseSummariesByTag': {},
+            'candidateReleaseTags': set(),
+        }
+
+    release_summaries_by_tag = repository_catalog['releaseSummariesByTag']
+    candidate_release_tags = select_candidate_release_tags(release_summaries_by_tag)
+    return {
+        'state': 'guided',
+        'reason': 'repository_covered',
+        'diagnostic': None,
+        'rootIndexUrl': root_manifest_index.get('rootIndexUrl'),
+        'repository': repository_catalog,
+        'releaseSummariesByTag': release_summaries_by_tag,
+        'candidateReleaseTags': candidate_release_tags,
+    }
+
+
+def has_root_manifest_sync_evidence(release_summary):
+    if not release_summary:
+        return False
+
+    record_count = release_summary.get('recordCount')
+    last_successful_at = release_summary.get('lastSuccessfulAt')
+    return (
+        isinstance(record_count, int)
+        and record_count > 0
+        and last_successful_at is not None
+        and str(last_successful_at).strip() != ''
+    )
+
+
+def select_candidate_release_tags(release_summaries):
+    candidate_release_tags = set()
+    items = release_summaries.values() if isinstance(release_summaries, dict) else release_summaries
+    for release_summary in items:
+        if has_root_manifest_sync_evidence(release_summary):
+            candidate_release_tags.add(str(release_summary['releaseTagName']).strip().lower())
+    return candidate_release_tags
 
 
 def normalize_manifest_records(payload, manifest_source):
@@ -752,12 +1021,43 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
     elif releases and 'published_at' in releases[0]:
         # sort desc
         releases = sorted(releases, key=lambda item: item['published_at'], reverse=True)
+
+    manifest_source = mirror.get('manifestSource')
+    manifest_catalog = get_repository_root_manifest_catalog(manifest_source) if manifest_source else {
+        'state': 'legacy',
+        'reason': 'manifest_source_missing',
+        'diagnostic': 'manifestSource is not configured',
+        'releaseSummariesByTag': {},
+        'candidateReleaseTags': set(),
+    }
+    if manifest_source and manifest_catalog['state'] == 'legacy':
+        logger.info(
+            "Root manifest index fallback for %s: %s (%s)",
+            repository_key,
+            manifest_catalog.get('reason'),
+            manifest_catalog.get('diagnostic'),
+        )
+
     version_count = len(releases)
     section_index = 0
     offset = 10 if version_count > 10 else 0
     for release in releases:
         section_index += 1
-        manifest_records = fetch_manifest_records(mirror.get('manifestSource'), release.get('tag_name'))
+        release_tag_name = str(release.get('tag_name') or '').strip()
+        normalized_release_tag = release_tag_name.lower()
+        manifest_records = []
+        if manifest_source:
+            if manifest_catalog['state'] == 'guided':
+                if normalized_release_tag in manifest_catalog['candidateReleaseTags']:
+                    manifest_records = fetch_manifest_records(manifest_source, release_tag_name)
+                else:
+                    logger.debug(
+                        "Skipping manifest fetch for %s @ %s because the root manifest index has no sync evidence.",
+                        repository_key,
+                        release_tag_name,
+                    )
+            else:
+                manifest_records = fetch_manifest_records(manifest_source, release_tag_name)
         provider_links_by_asset = build_provider_links_by_asset(release, mirror, manifest_records)
         post += get_github_version_section(
             release,

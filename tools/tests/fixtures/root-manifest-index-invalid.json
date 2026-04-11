@@ -1,0 +1,14 @@
+{
+  "repositories": [
+    {
+      "repositoryKey": "microsoft/PowerToys",
+      "releases": [
+        {
+          "releaseTagName": "v0.92.1",
+          "status": "synced",
+          "lastSuccessfulAt": "2026-04-10T12:21:00Z"
+        }
+      ]
+    }
+  ]
+}
