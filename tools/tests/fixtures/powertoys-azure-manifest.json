@@ -1,0 +1,40 @@
+{
+  "repositoryKey": "microsoft/PowerToys",
+  "version": 1,
+  "updatedAt": "2026-04-10T12:30:00Z",
+  "records": [
+    {
+      "repositoryKey": "microsoft/PowerToys",
+      "releaseTagName": "v0.92.1",
+      "assetName": "PowerToysUserSetup-0.92.1-x64.exe",
+      "providerName": "123pan",
+      "shareUrl": "https://www.123pan.com/s/powertoys-share",
+      "status": "synced",
+      "lastSyncedAt": "2026-04-10T12:00:00Z"
+    },
+    {
+      "repositoryKey": "microsoft/PowerToys",
+      "releaseTagName": "v0.92.1",
+      "assetName": "PowerToysSetup-0.92.1-arm64.exe",
+      "providerName": "123pan",
+      "shareUrl": "",
+      "status": "synced"
+    },
+    {
+      "repositoryKey": "microsoft/PowerToys",
+      "releaseTagName": "v0.92.0",
+      "assetName": "PowerToysUserSetup-0.92.1-x64.exe",
+      "providerName": "123pan",
+      "shareUrl": "https://www.123pan.com/s/older-release",
+      "status": "synced"
+    },
+    {
+      "repositoryKey": "another/repo",
+      "releaseTagName": "v0.92.1",
+      "assetName": "PowerToysUserSetup-0.92.1-x64.exe",
+      "providerName": "123pan",
+      "shareUrl": "https://www.123pan.com/s/wrong-repo",
+      "status": "synced"
+    }
+  ]
+}
