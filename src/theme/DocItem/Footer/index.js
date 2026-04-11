@@ -1,21 +1,8 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import Footer from '@theme-original/DocItem/Footer';
 import HagicodeAd from "@site/src/components/HagicodeAd";
-import HagicodeModal from "@site/src/components/HagicodeModal";
-import { shouldShowModal } from "@site/src/components/HagicodeConfig";
 
 export default function FooterWrapper(props) {
-  const [showModal, setShowModal] = useState(false);
-
-  useEffect(() => {
-    // Check if modal should be shown
-    const shouldShow = shouldShowModal();
-    console.log('[HagicodeModal] shouldShowModal result:', shouldShow);
-    if (shouldShow) {
-      setShowModal(true);
-    }
-  }, []);
-
   let weixinContent = (
     <div className="fig-author-figure-title">
       <div>
@@ -30,7 +17,6 @@ export default function FooterWrapper(props) {
       <hr />
       {weixinContent}
       <HagicodeAd />
-      <HagicodeModal isOpen={showModal} onClose={() => setShowModal(false)} />
     </>
   );
 }

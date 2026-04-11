@@ -37,7 +37,6 @@ export interface HagicodeConfig {
     items: HagicodeShowcaseItem[];
   };
   modal: {
-    storageKey: string;
     ctaButtons: {
       install: string;
       video: string;
@@ -48,7 +47,7 @@ export interface HagicodeConfig {
 /**
  * Default Hagicode configuration
  * Sync this copy against the latest Hagicode official site/docs before updating
- * promo surfaces, because mirror pages and modal CTAs share this single source.
+ * promo surfaces, because mirror pages and CTA labels share this single source.
  */
 export const HAGICODE_CONFIG: HagicodeConfig = {
   name: 'Hagicode',
@@ -105,44 +104,9 @@ export const HAGICODE_CONFIG: HagicodeConfig = {
     ],
   },
   modal: {
-    storageKey: 'hagicode_last_visit_date',
     ctaButtons: {
       install: '安装指南',
       video: '实战视频',
     },
   },
-};
-
-/**
- * Get today's date in ISO format (YYYY-MM-DD) for localStorage comparison
- */
-export const getTodayDate = (): string => {
-  return new Date().toISOString().split('T')[0];
-};
-
-/**
- * Check if the modal should be shown based on localStorage
- * @returns true if modal should be shown, false otherwise
- */
-export const shouldShowModal = (): boolean => {
-  try {
-    const lastVisit = localStorage.getItem(HAGICODE_CONFIG.modal.storageKey);
-    const today = getTodayDate();
-    return lastVisit !== today;
-  } catch (error) {
-    // localStorage may not be available in all environments
-    console.warn('localStorage not available, modal will show each visit:', error);
-    return true;
-  }
-};
-
-/**
- * Mark today as visited in localStorage
- */
-export const markTodayVisited = (): void => {
-  try {
-    localStorage.setItem(HAGICODE_CONFIG.modal.storageKey, getTodayDate());
-  } catch (error) {
-    console.warn('Unable to write to localStorage:', error);
-  }
 };
