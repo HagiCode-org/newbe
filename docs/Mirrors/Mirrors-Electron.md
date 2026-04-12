@@ -2755,6 +2755,7 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [42.0.0-alpha.5](https://mirrors.huaweicloud.com/electron/42.0.0-alpha.5/)
 - [42.0.0-alpha.6](https://mirrors.huaweicloud.com/electron/42.0.0-alpha.6/)
 - [42.0.0-beta.1](https://mirrors.huaweicloud.com/electron/42.0.0-beta.1/)
+- [42.0.0-beta.2](https://mirrors.huaweicloud.com/electron/42.0.0-beta.2/)
 
 
 

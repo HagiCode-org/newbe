@@ -30,10 +30,10 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 ## v3.10.0
 
-- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.10.0/gpt4all-installer-linux-v3.10.0.run" text="gpt4all-installer-linux-v3.10.0.run" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.10.0/gpt4all-installer-macos-v3.10.0.dmg" text="gpt4all-installer-macos-v3.10.0.dmg" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.10.0/gpt4all-installer-win64-arm-v3.10.0.exe" text="gpt4all-installer-win64-arm-v3.10.0.exe" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.10.0/gpt4all-installer-win64-v3.10.0.exe" text="gpt4all-installer-win64-v3.10.0.exe" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.10.0/gpt4all-installer-linux-v3.10.0.run" text="gpt4all-installer-linux-v3.10.0.run" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-aMpuA", "status": "synced", "syncedAt": "2026-04-11T15:04:31.746Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.10.0/gpt4all-installer-macos-v3.10.0.dmg" text="gpt4all-installer-macos-v3.10.0.dmg" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-wJpuA", "status": "synced", "syncedAt": "2026-04-11T15:05:15.624Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.10.0/gpt4all-installer-win64-arm-v3.10.0.exe" text="gpt4all-installer-win64-arm-v3.10.0.exe" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-gJpuA", "status": "synced", "syncedAt": "2026-04-11T15:05:58.407Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/nomic-ai/gpt4all/releases/download/v3.10.0/gpt4all-installer-win64-v3.10.0.exe" text="gpt4all-installer-win64-v3.10.0.exe" repositoryKey="nomic-ai/gpt4all" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-BMpuA", "status": "synced", "syncedAt": "2026-04-11T15:06:57.597Z", "source": "azure"}]} />
 
 
 

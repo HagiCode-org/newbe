@@ -2797,6 +2797,8 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [149.0.7780.0](https://mirrors.huaweicloud.com/chromedriver/149.0.7780.0/)
 - [149.0.7781.0](https://mirrors.huaweicloud.com/chromedriver/149.0.7781.0/)
 - [149.0.7782.0](https://mirrors.huaweicloud.com/chromedriver/149.0.7782.0/)
+- [149.0.7783.0](https://mirrors.huaweicloud.com/chromedriver/149.0.7783.0/)
+- [149.0.7784.0](https://mirrors.huaweicloud.com/chromedriver/149.0.7784.0/)
 
 
 
