@@ -395,14 +395,14 @@ def fetch_root_manifest_index(manifest_source):
         }
 
     if root_index_url in ROOT_MANIFEST_INDEX_CACHE:
-        logger.info(
+        logger.debug(
             "Manifest root index cache hit for %s (%s)",
             validated_source['repositoryKey'],
             root_index_url,
         )
         return ROOT_MANIFEST_INDEX_CACHE[root_index_url]
 
-    logger.info(
+    logger.debug(
         "Fetching manifest root index for %s from %s",
         validated_source['repositoryKey'],
         root_index_url,
@@ -423,7 +423,7 @@ def fetch_root_manifest_index(manifest_source):
             'repositories': normalized_payload['repositories'],
             'repositoriesByKey': normalized_payload['repositoriesByKey'],
         }
-        logger.info(
+        logger.debug(
             "Manifest root index ready for %s: %s repositories discovered",
             validated_source['repositoryKey'],
             len(normalized_payload['repositories']),
@@ -632,7 +632,7 @@ def fetch_manifest_records(manifest_source, release_tag_name=None):
         validated_source.get('expectedVersion'),
     )
     if cache_key in MANIFEST_RECORD_CACHE:
-        logger.info(
+        logger.debug(
             "Manifest cache hit for %s @ %s (%s)",
             validated_source['repositoryKey'],
             release_tag_name,
@@ -640,7 +640,7 @@ def fetch_manifest_records(manifest_source, release_tag_name=None):
         )
         return MANIFEST_RECORD_CACHE[cache_key]
 
-    logger.info(
+    logger.debug(
         "Fetching manifest records for %s @ %s from %s",
         validated_source['repositoryKey'],
         release_tag_name,
@@ -656,7 +656,7 @@ def fetch_manifest_records(manifest_source, release_tag_name=None):
         response.raise_for_status()
         payload = response.json()
         normalized_records = normalize_manifest_records(payload, validated_source)
-        logger.info(
+        logger.debug(
             "Manifest records ready for %s @ %s: %s records across providers %s",
             validated_source['repositoryKey'],
             release_tag_name,
@@ -1048,7 +1048,7 @@ def create_github_mirror(mirror):
     repository_key = mirror.get('repositoryKey', f'{owner}/{repo}')
     preferred_providers = mirror.get('preferredProviders', [])
     desc_section = load_description(software_name)
-    logger.info(
+    logger.debug(
         "Starting GitHub mirror generation for %s (%s); preferred providers=%s; manifest enabled=%s",
         software_name,
         repository_key,
@@ -1140,7 +1140,7 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
                 if normalized_release_tag in manifest_catalog['candidateReleaseTags']:
                     manifest_records = fetch_manifest_records(manifest_source, release_tag_name)
                 else:
-                    logger.info(
+                    logger.debug(
                         "Skipping manifest fetch for %s @ %s because the root manifest index has no sync evidence.",
                         repository_key,
                         release_tag_name,
@@ -1155,7 +1155,7 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
         total_matched_links += matched_links_count
         for provider_key, count in matched_provider_counts.items():
             aggregate_provider_counts[provider_key] = aggregate_provider_counts.get(provider_key, 0) + count
-        logger.info(
+        logger.debug(
             "Release %s for %s: assets=%s, manifest_records=%s, matched_assets=%s, matched_links=%s, matched_providers=%s",
             release_tag_name or '<missing-tag>',
             repository_key,
