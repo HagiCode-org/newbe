@@ -126,6 +126,23 @@ def normalize_provider_key(provider_name):
     return normalized
 
 
+def summarize_provider_counts(records):
+    provider_counts = {}
+    for record in records or []:
+        provider_key = record.get('providerKey') or 'unknown'
+        provider_counts[provider_key] = provider_counts.get(provider_key, 0) + 1
+    return provider_counts
+
+
+def summarize_matched_provider_counts(provider_links_by_asset):
+    provider_counts = {}
+    for matched_links in (provider_links_by_asset or {}).values():
+        for link in matched_links:
+            provider_key = link.get('providerKey') or 'unknown'
+            provider_counts[provider_key] = provider_counts.get(provider_key, 0) + 1
+    return provider_counts
+
+
 def split_repository_key(repository_key):
     normalized_repository_key = str(repository_key or '').strip().strip('/')
     owner_repo = [segment for segment in normalized_repository_key.split('/') if segment]
@@ -378,7 +395,18 @@ def fetch_root_manifest_index(manifest_source):
         }
 
     if root_index_url in ROOT_MANIFEST_INDEX_CACHE:
+        logger.info(
+            "Manifest root index cache hit for %s (%s)",
+            validated_source['repositoryKey'],
+            root_index_url,
+        )
         return ROOT_MANIFEST_INDEX_CACHE[root_index_url]
+
+    logger.info(
+        "Fetching manifest root index for %s from %s",
+        validated_source['repositoryKey'],
+        root_index_url,
+    )
 
     try:
         response = requests.get(
@@ -395,6 +423,11 @@ def fetch_root_manifest_index(manifest_source):
             'repositories': normalized_payload['repositories'],
             'repositoriesByKey': normalized_payload['repositoriesByKey'],
         }
+        logger.info(
+            "Manifest root index ready for %s: %s repositories discovered",
+            validated_source['repositoryKey'],
+            len(normalized_payload['repositories']),
+        )
     except requests.Timeout:
         result = {
             'state': 'fallback',
@@ -441,6 +474,12 @@ def get_repository_root_manifest_catalog(manifest_source):
 
     root_manifest_index = fetch_root_manifest_index(validated_source)
     if root_manifest_index.get('state') != 'ready':
+        logger.info(
+            "Manifest root index unavailable for %s, falling back to legacy probing: %s (%s)",
+            validated_source['repositoryKey'],
+            root_manifest_index.get('reason', 'root_index_unavailable'),
+            root_manifest_index.get('diagnostic'),
+        )
         return {
             'state': 'legacy',
             'reason': root_manifest_index.get('reason', 'root_index_unavailable'),
@@ -453,6 +492,10 @@ def get_repository_root_manifest_catalog(manifest_source):
     repository_key = validated_source['repositoryKey']
     repository_catalog = root_manifest_index['repositoriesByKey'].get(repository_key)
     if not repository_catalog:
+        logger.info(
+            "Manifest root index does not include %s, falling back to legacy probing",
+            repository_key,
+        )
         return {
             'state': 'legacy',
             'reason': 'repository_missing',
@@ -464,6 +507,11 @@ def get_repository_root_manifest_catalog(manifest_source):
 
     release_summaries_by_tag = repository_catalog['releaseSummariesByTag']
     candidate_release_tags = select_candidate_release_tags(release_summaries_by_tag)
+    logger.info(
+        "Manifest root index guided mode for %s: %s candidate releases with sync evidence",
+        repository_key,
+        len(candidate_release_tags),
+    )
     return {
         'state': 'guided',
         'reason': 'repository_covered',
@@ -584,7 +632,20 @@ def fetch_manifest_records(manifest_source, release_tag_name=None):
         validated_source.get('expectedVersion'),
     )
     if cache_key in MANIFEST_RECORD_CACHE:
+        logger.info(
+            "Manifest cache hit for %s @ %s (%s)",
+            validated_source['repositoryKey'],
+            release_tag_name,
+            manifest_url,
+        )
         return MANIFEST_RECORD_CACHE[cache_key]
+
+    logger.info(
+        "Fetching manifest records for %s @ %s from %s",
+        validated_source['repositoryKey'],
+        release_tag_name,
+        manifest_url,
+    )
 
     try:
         response = requests.get(
@@ -595,6 +656,13 @@ def fetch_manifest_records(manifest_source, release_tag_name=None):
         response.raise_for_status()
         payload = response.json()
         normalized_records = normalize_manifest_records(payload, validated_source)
+        logger.info(
+            "Manifest records ready for %s @ %s: %s records across providers %s",
+            validated_source['repositoryKey'],
+            release_tag_name,
+            len(normalized_records),
+            summarize_provider_counts(normalized_records),
+        )
     except requests.Timeout:
         logger.warning(
             "Manifest request timed out for %s @ %s (%s)",
@@ -738,13 +806,14 @@ def load_github_releases_from_html(owner, repo):
 def create_mirrors(c):
     mirrors_def = load_mirrors_def()
     total = len(mirrors_def['mirrors'])
+    logger.info("Starting mirror update run with %s mirror definitions", total)
     index = 1
     failed_mirrors = []
     for mirror in mirrors_def['mirrors']:
-        logger.info(f"{index} / {total}")
-        index += 1
         mirror_type = mirror['type']
         software_name = mirror['softwareName']
+        logger.info("[%s/%s] Generating %s mirror for %s", index, total, mirror_type, software_name)
+        index += 1
         print(mirror['softwareName'])
         try:
             if mirror_type == 'huawei':
@@ -758,6 +827,12 @@ def create_mirrors(c):
             failed_mirrors.append(software_name)
             continue
 
+    logger.info(
+        "Mirror update run finished: succeeded=%s failed=%s total=%s",
+        total - len(failed_mirrors),
+        len(failed_mirrors),
+        total,
+    )
     if failed_mirrors:
         logger.warning(f"Failed mirrors: {', '.join(failed_mirrors)}")
     else:
@@ -973,6 +1048,13 @@ def create_github_mirror(mirror):
     repository_key = mirror.get('repositoryKey', f'{owner}/{repo}')
     preferred_providers = mirror.get('preferredProviders', [])
     desc_section = load_description(software_name)
+    logger.info(
+        "Starting GitHub mirror generation for %s (%s); preferred providers=%s; manifest enabled=%s",
+        software_name,
+        repository_key,
+        preferred_providers,
+        bool(mirror.get('manifestSource')),
+    )
 
     post = f"""---
 date: {create_date}
@@ -1041,17 +1123,24 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
     version_count = len(releases)
     section_index = 0
     offset = 10 if version_count > 10 else 0
+    total_assets = 0
+    total_manifest_records = 0
+    total_matched_assets = 0
+    total_matched_links = 0
+    aggregate_provider_counts = {}
     for release in releases:
         section_index += 1
         release_tag_name = str(release.get('tag_name') or '').strip()
         normalized_release_tag = release_tag_name.lower()
         manifest_records = []
+        release_assets = release.get('assets', [])
+        total_assets += len(release_assets)
         if manifest_source:
             if manifest_catalog['state'] == 'guided':
                 if normalized_release_tag in manifest_catalog['candidateReleaseTags']:
                     manifest_records = fetch_manifest_records(manifest_source, release_tag_name)
                 else:
-                    logger.debug(
+                    logger.info(
                         "Skipping manifest fetch for %s @ %s because the root manifest index has no sync evidence.",
                         repository_key,
                         release_tag_name,
@@ -1059,6 +1148,23 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
             else:
                 manifest_records = fetch_manifest_records(manifest_source, release_tag_name)
         provider_links_by_asset = build_provider_links_by_asset(release, mirror, manifest_records)
+        matched_links_count = sum(len(matched_links) for matched_links in provider_links_by_asset.values())
+        matched_provider_counts = summarize_matched_provider_counts(provider_links_by_asset)
+        total_manifest_records += len(manifest_records)
+        total_matched_assets += len(provider_links_by_asset)
+        total_matched_links += matched_links_count
+        for provider_key, count in matched_provider_counts.items():
+            aggregate_provider_counts[provider_key] = aggregate_provider_counts.get(provider_key, 0) + count
+        logger.info(
+            "Release %s for %s: assets=%s, manifest_records=%s, matched_assets=%s, matched_links=%s, matched_providers=%s",
+            release_tag_name or '<missing-tag>',
+            repository_key,
+            len(release_assets),
+            len(manifest_records),
+            len(provider_links_by_asset),
+            matched_links_count,
+            matched_provider_counts,
+        )
         post += get_github_version_section(
             release,
             repository_key=repository_key,
@@ -1080,6 +1186,18 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 """
     with open(markdown_path, 'w', encoding='utf8') as f:
         f.write(post)
+    logger.info(
+        "Finished GitHub mirror generation for %s (%s): releases=%s, assets=%s, manifest_records=%s, matched_assets=%s, matched_links=%s, provider_totals=%s, output=%s",
+        software_name,
+        repository_key,
+        version_count,
+        total_assets,
+        total_manifest_records,
+        total_matched_assets,
+        total_matched_links,
+        aggregate_provider_counts,
+        markdown_path,
+    )
 
 def create_aliyunpan_mirror(mirror):
     software_name = mirror['softwareName']
