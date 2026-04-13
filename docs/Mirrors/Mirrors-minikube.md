@@ -634,6 +634,1077 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+## v1.32.0-beta.0
+
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/docker-machine-driver-hyperkit.sha256" text="docker-machine-driver-hyperkit.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/docker-machine-driver-kvm2" text="docker-machine-driver-kvm2" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/docker-machine-driver-kvm2-1.32.0.beta.0-0.x86_64.rpm" text="docker-machine-driver-kvm2-1.32.0.beta.0-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/docker-machine-driver-kvm2-amd64" text="docker-machine-driver-kvm2-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/docker-machine-driver-kvm2-amd64.sha256" text="docker-machine-driver-kvm2-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/docker-machine-driver-kvm2-arm64" text="docker-machine-driver-kvm2-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/docker-machine-driver-kvm2-arm64.sha256" text="docker-machine-driver-kvm2-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/docker-machine-driver-kvm2-x86_64" text="docker-machine-driver-kvm2-x86_64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/docker-machine-driver-kvm2.sha256" text="docker-machine-driver-kvm2.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/docker-machine-driver-kvm2_1.32.0.beta.0-0_amd64.deb" text="docker-machine-driver-kvm2_1.32.0.beta.0-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/docker-machine-driver-kvm2_1.32.0.beta.0-0_arm64.deb" text="docker-machine-driver-kvm2_1.32.0.beta.0-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube-1.32.0.beta.0-0.aarch64.rpm" text="minikube-1.32.0.beta.0-0.aarch64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube-1.32.0.beta.0-0.armv7hl.rpm" text="minikube-1.32.0.beta.0-0.armv7hl.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube-1.32.0.beta.0-0.ppc64le.rpm" text="minikube-1.32.0.beta.0-0.ppc64le.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube-1.32.0.beta.0-0.s390x.rpm" text="minikube-1.32.0.beta.0-0.s390x.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube-1.32.0.beta.0-0.x86_64.rpm" text="minikube-1.32.0.beta.0-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube-darwin-amd64" text="minikube-darwin-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube-darwin-amd64.sha256" text="minikube-darwin-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube-darwin-amd64.tar.gz" text="minikube-darwin-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube-darwin-arm64" text="minikube-darwin-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube-darwin-arm64.sha256" text="minikube-darwin-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube-darwin-arm64.tar.gz" text="minikube-darwin-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube-installer.exe" text="minikube-installer.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube-linux-386" text="minikube-linux-386" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube-linux-amd64" text="minikube-linux-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube-linux-amd64.sha256" text="minikube-linux-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube-linux-amd64.tar.gz" text="minikube-linux-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube-linux-arm" text="minikube-linux-arm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube-linux-arm.sha256" text="minikube-linux-arm.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube-linux-arm64" text="minikube-linux-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube-linux-arm64.sha256" text="minikube-linux-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube-linux-arm64.tar.gz" text="minikube-linux-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube-linux-armv6" text="minikube-linux-armv6" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube-linux-ppc64le" text="minikube-linux-ppc64le" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube-linux-ppc64le.sha256" text="minikube-linux-ppc64le.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube-linux-s390x" text="minikube-linux-s390x" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube-linux-s390x.sha256" text="minikube-linux-s390x.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube-windows-amd64.exe" text="minikube-windows-amd64.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube-windows-amd64.exe.sha256" text="minikube-windows-amd64.exe.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube-windows-amd64.tar.gz" text="minikube-windows-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube_1.32.0.beta.0-0_amd64.deb" text="minikube_1.32.0.beta.0-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube_1.32.0.beta.0-0_arm64.deb" text="minikube_1.32.0.beta.0-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube_1.32.0.beta.0-0_armhf.deb" text="minikube_1.32.0.beta.0-0_armhf.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube_1.32.0.beta.0-0_ppc64el.deb" text="minikube_1.32.0.beta.0-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube_1.32.0.beta.0-0_s390x.deb" text="minikube_1.32.0.beta.0-0_s390x.deb" repositoryKey="kubernetes/minikube" />
+
+
+
+## v1.31.2
+
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/docker-machine-driver-hyperkit.sha256" text="docker-machine-driver-hyperkit.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/docker-machine-driver-kvm2" text="docker-machine-driver-kvm2" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/docker-machine-driver-kvm2-1.31.2-0.x86_64.rpm" text="docker-machine-driver-kvm2-1.31.2-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/docker-machine-driver-kvm2-amd64" text="docker-machine-driver-kvm2-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/docker-machine-driver-kvm2-amd64.sha256" text="docker-machine-driver-kvm2-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/docker-machine-driver-kvm2-arm64" text="docker-machine-driver-kvm2-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/docker-machine-driver-kvm2-arm64.sha256" text="docker-machine-driver-kvm2-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/docker-machine-driver-kvm2-x86_64" text="docker-machine-driver-kvm2-x86_64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/docker-machine-driver-kvm2.sha256" text="docker-machine-driver-kvm2.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/docker-machine-driver-kvm2_1.31.2-0_amd64.deb" text="docker-machine-driver-kvm2_1.31.2-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/docker-machine-driver-kvm2_1.31.2-0_arm64.deb" text="docker-machine-driver-kvm2_1.31.2-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube-1.31.2-0.aarch64.rpm" text="minikube-1.31.2-0.aarch64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube-1.31.2-0.armv7hl.rpm" text="minikube-1.31.2-0.armv7hl.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube-1.31.2-0.ppc64le.rpm" text="minikube-1.31.2-0.ppc64le.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube-1.31.2-0.s390x.rpm" text="minikube-1.31.2-0.s390x.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube-1.31.2-0.x86_64.rpm" text="minikube-1.31.2-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube-darwin-amd64" text="minikube-darwin-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube-darwin-amd64.sha256" text="minikube-darwin-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube-darwin-amd64.tar.gz" text="minikube-darwin-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube-darwin-arm64" text="minikube-darwin-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube-darwin-arm64.sha256" text="minikube-darwin-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube-darwin-arm64.tar.gz" text="minikube-darwin-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube-installer.exe" text="minikube-installer.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube-linux-386" text="minikube-linux-386" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube-linux-amd64" text="minikube-linux-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube-linux-amd64.sha256" text="minikube-linux-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube-linux-amd64.tar.gz" text="minikube-linux-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube-linux-arm" text="minikube-linux-arm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube-linux-arm.sha256" text="minikube-linux-arm.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube-linux-arm64" text="minikube-linux-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube-linux-arm64.sha256" text="minikube-linux-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube-linux-arm64.tar.gz" text="minikube-linux-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube-linux-armv6" text="minikube-linux-armv6" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube-linux-ppc64le" text="minikube-linux-ppc64le" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube-linux-ppc64le.sha256" text="minikube-linux-ppc64le.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube-linux-s390x" text="minikube-linux-s390x" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube-linux-s390x.sha256" text="minikube-linux-s390x.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube-windows-amd64.exe" text="minikube-windows-amd64.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube-windows-amd64.exe.sha256" text="minikube-windows-amd64.exe.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube-windows-amd64.tar.gz" text="minikube-windows-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube_1.31.2-0_amd64.deb" text="minikube_1.31.2-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube_1.31.2-0_arm64.deb" text="minikube_1.31.2-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube_1.31.2-0_armhf.deb" text="minikube_1.31.2-0_armhf.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube_1.31.2-0_ppc64el.deb" text="minikube_1.31.2-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube_1.31.2-0_s390x.deb" text="minikube_1.31.2-0_s390x.deb" repositoryKey="kubernetes/minikube" />
+
+
+
+## v1.31.1
+
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/docker-machine-driver-hyperkit.sha256" text="docker-machine-driver-hyperkit.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/docker-machine-driver-kvm2" text="docker-machine-driver-kvm2" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/docker-machine-driver-kvm2-1.31.1-0.x86_64.rpm" text="docker-machine-driver-kvm2-1.31.1-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/docker-machine-driver-kvm2-amd64" text="docker-machine-driver-kvm2-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/docker-machine-driver-kvm2-amd64.sha256" text="docker-machine-driver-kvm2-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/docker-machine-driver-kvm2-arm64" text="docker-machine-driver-kvm2-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/docker-machine-driver-kvm2-arm64.sha256" text="docker-machine-driver-kvm2-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/docker-machine-driver-kvm2-x86_64" text="docker-machine-driver-kvm2-x86_64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/docker-machine-driver-kvm2.sha256" text="docker-machine-driver-kvm2.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/docker-machine-driver-kvm2_1.31.1-0_amd64.deb" text="docker-machine-driver-kvm2_1.31.1-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/docker-machine-driver-kvm2_1.31.1-0_arm64.deb" text="docker-machine-driver-kvm2_1.31.1-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube-1.31.1-0.aarch64.rpm" text="minikube-1.31.1-0.aarch64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube-1.31.1-0.armv7hl.rpm" text="minikube-1.31.1-0.armv7hl.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube-1.31.1-0.ppc64le.rpm" text="minikube-1.31.1-0.ppc64le.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube-1.31.1-0.s390x.rpm" text="minikube-1.31.1-0.s390x.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube-1.31.1-0.x86_64.rpm" text="minikube-1.31.1-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube-darwin-amd64" text="minikube-darwin-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube-darwin-amd64.sha256" text="minikube-darwin-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube-darwin-amd64.tar.gz" text="minikube-darwin-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube-darwin-arm64" text="minikube-darwin-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube-darwin-arm64.sha256" text="minikube-darwin-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube-darwin-arm64.tar.gz" text="minikube-darwin-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube-installer.exe" text="minikube-installer.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube-linux-386" text="minikube-linux-386" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube-linux-amd64" text="minikube-linux-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube-linux-amd64.sha256" text="minikube-linux-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube-linux-amd64.tar.gz" text="minikube-linux-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube-linux-arm" text="minikube-linux-arm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube-linux-arm.sha256" text="minikube-linux-arm.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube-linux-arm64" text="minikube-linux-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube-linux-arm64.sha256" text="minikube-linux-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube-linux-arm64.tar.gz" text="minikube-linux-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube-linux-armv6" text="minikube-linux-armv6" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube-linux-ppc64le" text="minikube-linux-ppc64le" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube-linux-ppc64le.sha256" text="minikube-linux-ppc64le.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube-linux-s390x" text="minikube-linux-s390x" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube-linux-s390x.sha256" text="minikube-linux-s390x.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube-windows-amd64.exe" text="minikube-windows-amd64.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube-windows-amd64.exe.sha256" text="minikube-windows-amd64.exe.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube-windows-amd64.tar.gz" text="minikube-windows-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube_1.31.1-0_amd64.deb" text="minikube_1.31.1-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube_1.31.1-0_arm64.deb" text="minikube_1.31.1-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube_1.31.1-0_armhf.deb" text="minikube_1.31.1-0_armhf.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube_1.31.1-0_ppc64el.deb" text="minikube_1.31.1-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube_1.31.1-0_s390x.deb" text="minikube_1.31.1-0_s390x.deb" repositoryKey="kubernetes/minikube" />
+
+
+
+## v1.31.0
+
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/docker-machine-driver-hyperkit.sha256" text="docker-machine-driver-hyperkit.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/docker-machine-driver-kvm2" text="docker-machine-driver-kvm2" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/docker-machine-driver-kvm2-1.31.0-0.x86_64.rpm" text="docker-machine-driver-kvm2-1.31.0-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/docker-machine-driver-kvm2-amd64" text="docker-machine-driver-kvm2-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/docker-machine-driver-kvm2-amd64.sha256" text="docker-machine-driver-kvm2-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/docker-machine-driver-kvm2-arm64" text="docker-machine-driver-kvm2-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/docker-machine-driver-kvm2-arm64.sha256" text="docker-machine-driver-kvm2-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/docker-machine-driver-kvm2-x86_64" text="docker-machine-driver-kvm2-x86_64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/docker-machine-driver-kvm2.sha256" text="docker-machine-driver-kvm2.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/docker-machine-driver-kvm2_1.31.0-0_amd64.deb" text="docker-machine-driver-kvm2_1.31.0-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/docker-machine-driver-kvm2_1.31.0-0_arm64.deb" text="docker-machine-driver-kvm2_1.31.0-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-1.31.0-0.aarch64.rpm" text="minikube-1.31.0-0.aarch64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-1.31.0-0.armv7hl.rpm" text="minikube-1.31.0-0.armv7hl.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-1.31.0-0.ppc64le.rpm" text="minikube-1.31.0-0.ppc64le.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-1.31.0-0.s390x.rpm" text="minikube-1.31.0-0.s390x.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-1.31.0-0.x86_64.rpm" text="minikube-1.31.0-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-darwin-amd64" text="minikube-darwin-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-darwin-amd64.sha256" text="minikube-darwin-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-darwin-amd64.tar.gz" text="minikube-darwin-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-darwin-arm64" text="minikube-darwin-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-darwin-arm64.sha256" text="minikube-darwin-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-darwin-arm64.tar.gz" text="minikube-darwin-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-installer.exe" text="minikube-installer.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-linux-386" text="minikube-linux-386" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-linux-amd64" text="minikube-linux-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-linux-amd64.sha256" text="minikube-linux-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-linux-amd64.tar.gz" text="minikube-linux-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-linux-arm" text="minikube-linux-arm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-linux-arm.sha256" text="minikube-linux-arm.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-linux-arm64" text="minikube-linux-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-linux-arm64.sha256" text="minikube-linux-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-linux-arm64.tar.gz" text="minikube-linux-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-linux-armv6" text="minikube-linux-armv6" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-linux-ppc64le" text="minikube-linux-ppc64le" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-linux-ppc64le.sha256" text="minikube-linux-ppc64le.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-linux-s390x" text="minikube-linux-s390x" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-linux-s390x.sha256" text="minikube-linux-s390x.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-v1.31.0-amd64.iso" text="minikube-v1.31.0-amd64.iso" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-v1.31.0-amd64.iso.sha256" text="minikube-v1.31.0-amd64.iso.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-v1.31.0-arm64.iso" text="minikube-v1.31.0-arm64.iso" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-v1.31.0-arm64.iso.sha256" text="minikube-v1.31.0-arm64.iso.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-windows-amd64.exe" text="minikube-windows-amd64.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-windows-amd64.exe.sha256" text="minikube-windows-amd64.exe.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube-windows-amd64.tar.gz" text="minikube-windows-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube_1.31.0-0_amd64.deb" text="minikube_1.31.0-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube_1.31.0-0_arm64.deb" text="minikube_1.31.0-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube_1.31.0-0_armhf.deb" text="minikube_1.31.0-0_armhf.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube_1.31.0-0_ppc64el.deb" text="minikube_1.31.0-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube_1.31.0-0_s390x.deb" text="minikube_1.31.0-0_s390x.deb" repositoryKey="kubernetes/minikube" />
+
+
+
+## v1.30.1
+
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/docker-machine-driver-hyperkit.sha256" text="docker-machine-driver-hyperkit.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/docker-machine-driver-kvm2" text="docker-machine-driver-kvm2" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/docker-machine-driver-kvm2-1.30.1-0.x86_64.rpm" text="docker-machine-driver-kvm2-1.30.1-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/docker-machine-driver-kvm2-amd64" text="docker-machine-driver-kvm2-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/docker-machine-driver-kvm2-amd64.sha256" text="docker-machine-driver-kvm2-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/docker-machine-driver-kvm2-arm64" text="docker-machine-driver-kvm2-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/docker-machine-driver-kvm2-arm64.sha256" text="docker-machine-driver-kvm2-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/docker-machine-driver-kvm2-x86_64" text="docker-machine-driver-kvm2-x86_64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/docker-machine-driver-kvm2.sha256" text="docker-machine-driver-kvm2.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/docker-machine-driver-kvm2_1.30.1-0_amd64.deb" text="docker-machine-driver-kvm2_1.30.1-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/docker-machine-driver-kvm2_1.30.1-0_arm64.deb" text="docker-machine-driver-kvm2_1.30.1-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-1.30.1-0.aarch64.rpm" text="minikube-1.30.1-0.aarch64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-1.30.1-0.armv7hl.rpm" text="minikube-1.30.1-0.armv7hl.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-1.30.1-0.ppc64le.rpm" text="minikube-1.30.1-0.ppc64le.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-1.30.1-0.s390x.rpm" text="minikube-1.30.1-0.s390x.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-1.30.1-0.x86_64.rpm" text="minikube-1.30.1-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-darwin-amd64" text="minikube-darwin-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-darwin-amd64.sha256" text="minikube-darwin-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-darwin-amd64.tar.gz" text="minikube-darwin-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-darwin-arm64" text="minikube-darwin-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-darwin-arm64.sha256" text="minikube-darwin-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-darwin-arm64.tar.gz" text="minikube-darwin-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-installer.exe" text="minikube-installer.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-linux-386" text="minikube-linux-386" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-linux-amd64" text="minikube-linux-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-linux-amd64.sha256" text="minikube-linux-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-linux-amd64.tar.gz" text="minikube-linux-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-linux-arm" text="minikube-linux-arm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-linux-arm.sha256" text="minikube-linux-arm.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-linux-arm64" text="minikube-linux-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-linux-arm64.sha256" text="minikube-linux-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-linux-arm64.tar.gz" text="minikube-linux-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-linux-armv6" text="minikube-linux-armv6" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-linux-ppc64le" text="minikube-linux-ppc64le" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-linux-ppc64le.sha256" text="minikube-linux-ppc64le.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-linux-s390x" text="minikube-linux-s390x" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-linux-s390x.sha256" text="minikube-linux-s390x.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-v1.30.1-amd64.iso" text="minikube-v1.30.1-amd64.iso" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-v1.30.1-amd64.iso.sha256" text="minikube-v1.30.1-amd64.iso.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-v1.30.1-arm64.iso" text="minikube-v1.30.1-arm64.iso" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-v1.30.1-arm64.iso.sha256" text="minikube-v1.30.1-arm64.iso.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-windows-amd64.exe" text="minikube-windows-amd64.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-windows-amd64.exe.sha256" text="minikube-windows-amd64.exe.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube-windows-amd64.tar.gz" text="minikube-windows-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube_1.30.1-0_amd64.deb" text="minikube_1.30.1-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube_1.30.1-0_arm64.deb" text="minikube_1.30.1-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube_1.30.1-0_armhf.deb" text="minikube_1.30.1-0_armhf.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube_1.30.1-0_ppc64el.deb" text="minikube_1.30.1-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube_1.30.1-0_s390x.deb" text="minikube_1.30.1-0_s390x.deb" repositoryKey="kubernetes/minikube" />
+
+
+
+## v1.30.0
+
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/docker-machine-driver-hyperkit.sha256" text="docker-machine-driver-hyperkit.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/docker-machine-driver-kvm2" text="docker-machine-driver-kvm2" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/docker-machine-driver-kvm2-1.30.0-0.x86_64.rpm" text="docker-machine-driver-kvm2-1.30.0-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/docker-machine-driver-kvm2-amd64" text="docker-machine-driver-kvm2-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/docker-machine-driver-kvm2-amd64.sha256" text="docker-machine-driver-kvm2-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/docker-machine-driver-kvm2-arm64" text="docker-machine-driver-kvm2-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/docker-machine-driver-kvm2-arm64.sha256" text="docker-machine-driver-kvm2-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/docker-machine-driver-kvm2-x86_64" text="docker-machine-driver-kvm2-x86_64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/docker-machine-driver-kvm2.sha256" text="docker-machine-driver-kvm2.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/docker-machine-driver-kvm2_1.30.0-0_amd64.deb" text="docker-machine-driver-kvm2_1.30.0-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/docker-machine-driver-kvm2_1.30.0-0_arm64.deb" text="docker-machine-driver-kvm2_1.30.0-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-1.30.0-0.aarch64.rpm" text="minikube-1.30.0-0.aarch64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-1.30.0-0.armv7hl.rpm" text="minikube-1.30.0-0.armv7hl.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-1.30.0-0.ppc64le.rpm" text="minikube-1.30.0-0.ppc64le.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-1.30.0-0.s390x.rpm" text="minikube-1.30.0-0.s390x.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-1.30.0-0.x86_64.rpm" text="minikube-1.30.0-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-darwin-amd64" text="minikube-darwin-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-darwin-amd64.sha256" text="minikube-darwin-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-darwin-amd64.tar.gz" text="minikube-darwin-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-darwin-arm64" text="minikube-darwin-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-darwin-arm64.sha256" text="minikube-darwin-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-darwin-arm64.tar.gz" text="minikube-darwin-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-installer.exe" text="minikube-installer.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-linux-386" text="minikube-linux-386" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-linux-amd64" text="minikube-linux-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-linux-amd64.sha256" text="minikube-linux-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-linux-amd64.tar.gz" text="minikube-linux-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-linux-arm" text="minikube-linux-arm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-linux-arm.sha256" text="minikube-linux-arm.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-linux-arm64" text="minikube-linux-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-linux-arm64.sha256" text="minikube-linux-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-linux-arm64.tar.gz" text="minikube-linux-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-linux-armv6" text="minikube-linux-armv6" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-linux-ppc64le" text="minikube-linux-ppc64le" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-linux-ppc64le.sha256" text="minikube-linux-ppc64le.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-linux-s390x" text="minikube-linux-s390x" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-linux-s390x.sha256" text="minikube-linux-s390x.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-v1.30.0-amd64.iso" text="minikube-v1.30.0-amd64.iso" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-v1.30.0-amd64.iso.sha256" text="minikube-v1.30.0-amd64.iso.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-v1.30.0-arm64.iso" text="minikube-v1.30.0-arm64.iso" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-v1.30.0-arm64.iso.sha256" text="minikube-v1.30.0-arm64.iso.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-windows-amd64.exe" text="minikube-windows-amd64.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-windows-amd64.exe.sha256" text="minikube-windows-amd64.exe.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube-windows-amd64.tar.gz" text="minikube-windows-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube_1.30.0-0_amd64.deb" text="minikube_1.30.0-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube_1.30.0-0_arm64.deb" text="minikube_1.30.0-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube_1.30.0-0_armhf.deb" text="minikube_1.30.0-0_armhf.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube_1.30.0-0_ppc64el.deb" text="minikube_1.30.0-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube_1.30.0-0_s390x.deb" text="minikube_1.30.0-0_s390x.deb" repositoryKey="kubernetes/minikube" />
+
+
+
+## v1.29.0
+
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/docker-machine-driver-hyperkit.sha256" text="docker-machine-driver-hyperkit.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/docker-machine-driver-kvm2" text="docker-machine-driver-kvm2" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/docker-machine-driver-kvm2-1.29.0-0.x86_64.rpm" text="docker-machine-driver-kvm2-1.29.0-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/docker-machine-driver-kvm2-amd64" text="docker-machine-driver-kvm2-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/docker-machine-driver-kvm2-amd64.sha256" text="docker-machine-driver-kvm2-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/docker-machine-driver-kvm2-arm64" text="docker-machine-driver-kvm2-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/docker-machine-driver-kvm2-arm64.sha256" text="docker-machine-driver-kvm2-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/docker-machine-driver-kvm2-x86_64" text="docker-machine-driver-kvm2-x86_64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/docker-machine-driver-kvm2.sha256" text="docker-machine-driver-kvm2.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/docker-machine-driver-kvm2_1.29.0-0_amd64.deb" text="docker-machine-driver-kvm2_1.29.0-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/docker-machine-driver-kvm2_1.29.0-0_arm64.deb" text="docker-machine-driver-kvm2_1.29.0-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-1.29.0-0.aarch64.rpm" text="minikube-1.29.0-0.aarch64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-1.29.0-0.armv7hl.rpm" text="minikube-1.29.0-0.armv7hl.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-1.29.0-0.ppc64le.rpm" text="minikube-1.29.0-0.ppc64le.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-1.29.0-0.s390x.rpm" text="minikube-1.29.0-0.s390x.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-1.29.0-0.x86_64.rpm" text="minikube-1.29.0-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-darwin-amd64" text="minikube-darwin-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-darwin-amd64.sha256" text="minikube-darwin-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-darwin-amd64.tar.gz" text="minikube-darwin-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-darwin-arm64" text="minikube-darwin-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-darwin-arm64.sha256" text="minikube-darwin-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-darwin-arm64.tar.gz" text="minikube-darwin-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-installer.exe" text="minikube-installer.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-linux-386" text="minikube-linux-386" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-linux-amd64" text="minikube-linux-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-linux-amd64.sha256" text="minikube-linux-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-linux-amd64.tar.gz" text="minikube-linux-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-linux-arm" text="minikube-linux-arm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-linux-arm.sha256" text="minikube-linux-arm.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-linux-arm64" text="minikube-linux-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-linux-arm64.sha256" text="minikube-linux-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-linux-arm64.tar.gz" text="minikube-linux-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-linux-armv6" text="minikube-linux-armv6" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-linux-ppc64le" text="minikube-linux-ppc64le" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-linux-ppc64le.sha256" text="minikube-linux-ppc64le.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-linux-s390x" text="minikube-linux-s390x" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-linux-s390x.sha256" text="minikube-linux-s390x.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-v1.29.0-amd64.iso" text="minikube-v1.29.0-amd64.iso" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-v1.29.0-amd64.iso.sha256" text="minikube-v1.29.0-amd64.iso.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-v1.29.0-arm64.iso" text="minikube-v1.29.0-arm64.iso" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-v1.29.0-arm64.iso.sha256" text="minikube-v1.29.0-arm64.iso.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-windows-amd64.exe" text="minikube-windows-amd64.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-windows-amd64.exe.sha256" text="minikube-windows-amd64.exe.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube-windows-amd64.tar.gz" text="minikube-windows-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube_1.29.0-0_amd64.deb" text="minikube_1.29.0-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube_1.29.0-0_arm64.deb" text="minikube_1.29.0-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube_1.29.0-0_armhf.deb" text="minikube_1.29.0-0_armhf.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube_1.29.0-0_ppc64el.deb" text="minikube_1.29.0-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube_1.29.0-0_s390x.deb" text="minikube_1.29.0-0_s390x.deb" repositoryKey="kubernetes/minikube" />
+
+
+
+## v1.28.0
+
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/docker-machine-driver-hyperkit.sha256" text="docker-machine-driver-hyperkit.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/docker-machine-driver-kvm2" text="docker-machine-driver-kvm2" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/docker-machine-driver-kvm2-1.28.0-0.x86_64.rpm" text="docker-machine-driver-kvm2-1.28.0-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/docker-machine-driver-kvm2-amd64" text="docker-machine-driver-kvm2-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/docker-machine-driver-kvm2-amd64.sha256" text="docker-machine-driver-kvm2-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/docker-machine-driver-kvm2-arm64" text="docker-machine-driver-kvm2-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/docker-machine-driver-kvm2-arm64.sha256" text="docker-machine-driver-kvm2-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/docker-machine-driver-kvm2-x86_64" text="docker-machine-driver-kvm2-x86_64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/docker-machine-driver-kvm2.sha256" text="docker-machine-driver-kvm2.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/docker-machine-driver-kvm2_1.28.0-0_amd64.deb" text="docker-machine-driver-kvm2_1.28.0-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/docker-machine-driver-kvm2_1.28.0-0_arm64.deb" text="docker-machine-driver-kvm2_1.28.0-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-1.28.0-0.aarch64.rpm" text="minikube-1.28.0-0.aarch64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-1.28.0-0.armv7hl.rpm" text="minikube-1.28.0-0.armv7hl.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-1.28.0-0.ppc64le.rpm" text="minikube-1.28.0-0.ppc64le.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-1.28.0-0.s390x.rpm" text="minikube-1.28.0-0.s390x.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-1.28.0-0.x86_64.rpm" text="minikube-1.28.0-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-darwin-amd64" text="minikube-darwin-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-darwin-amd64.sha256" text="minikube-darwin-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-darwin-amd64.tar.gz" text="minikube-darwin-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-darwin-arm64" text="minikube-darwin-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-darwin-arm64.sha256" text="minikube-darwin-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-darwin-arm64.tar.gz" text="minikube-darwin-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-installer.exe" text="minikube-installer.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-linux-386" text="minikube-linux-386" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-linux-amd64" text="minikube-linux-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-linux-amd64.sha256" text="minikube-linux-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-linux-amd64.tar.gz" text="minikube-linux-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-linux-arm" text="minikube-linux-arm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-linux-arm.sha256" text="minikube-linux-arm.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-linux-arm64" text="minikube-linux-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-linux-arm64.sha256" text="minikube-linux-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-linux-arm64.tar.gz" text="minikube-linux-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-linux-armv6" text="minikube-linux-armv6" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-linux-ppc64le" text="minikube-linux-ppc64le" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-linux-ppc64le.sha256" text="minikube-linux-ppc64le.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-linux-s390x" text="minikube-linux-s390x" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-linux-s390x.sha256" text="minikube-linux-s390x.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-v1.28.0-amd64.iso" text="minikube-v1.28.0-amd64.iso" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-v1.28.0-amd64.iso.sha256" text="minikube-v1.28.0-amd64.iso.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-v1.28.0-arm64.iso" text="minikube-v1.28.0-arm64.iso" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-v1.28.0-arm64.iso.sha256" text="minikube-v1.28.0-arm64.iso.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-windows-amd64.exe" text="minikube-windows-amd64.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-windows-amd64.exe.sha256" text="minikube-windows-amd64.exe.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube-windows-amd64.tar.gz" text="minikube-windows-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube_1.28.0-0_amd64.deb" text="minikube_1.28.0-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube_1.28.0-0_arm64.deb" text="minikube_1.28.0-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube_1.28.0-0_armhf.deb" text="minikube_1.28.0-0_armhf.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube_1.28.0-0_ppc64el.deb" text="minikube_1.28.0-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube_1.28.0-0_s390x.deb" text="minikube_1.28.0-0_s390x.deb" repositoryKey="kubernetes/minikube" />
+
+
+
+## v1.27.1
+
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/docker-machine-driver-hyperkit.sha256" text="docker-machine-driver-hyperkit.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/docker-machine-driver-kvm2" text="docker-machine-driver-kvm2" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/docker-machine-driver-kvm2-1.27.1-0.x86_64.rpm" text="docker-machine-driver-kvm2-1.27.1-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/docker-machine-driver-kvm2-amd64" text="docker-machine-driver-kvm2-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/docker-machine-driver-kvm2-amd64.sha256" text="docker-machine-driver-kvm2-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/docker-machine-driver-kvm2-arm64" text="docker-machine-driver-kvm2-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/docker-machine-driver-kvm2-arm64.sha256" text="docker-machine-driver-kvm2-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/docker-machine-driver-kvm2-x86_64" text="docker-machine-driver-kvm2-x86_64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/docker-machine-driver-kvm2.sha256" text="docker-machine-driver-kvm2.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/docker-machine-driver-kvm2_1.27.1-0_amd64.deb" text="docker-machine-driver-kvm2_1.27.1-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/docker-machine-driver-kvm2_1.27.1-0_arm64.deb" text="docker-machine-driver-kvm2_1.27.1-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube-1.27.1-0.aarch64.rpm" text="minikube-1.27.1-0.aarch64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube-1.27.1-0.armv7hl.rpm" text="minikube-1.27.1-0.armv7hl.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube-1.27.1-0.ppc64le.rpm" text="minikube-1.27.1-0.ppc64le.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube-1.27.1-0.s390x.rpm" text="minikube-1.27.1-0.s390x.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube-1.27.1-0.x86_64.rpm" text="minikube-1.27.1-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube-darwin-amd64" text="minikube-darwin-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube-darwin-amd64.sha256" text="minikube-darwin-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube-darwin-amd64.tar.gz" text="minikube-darwin-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube-darwin-arm64" text="minikube-darwin-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube-darwin-arm64.sha256" text="minikube-darwin-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube-darwin-arm64.tar.gz" text="minikube-darwin-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube-installer.exe" text="minikube-installer.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube-linux-386" text="minikube-linux-386" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube-linux-amd64" text="minikube-linux-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube-linux-amd64.sha256" text="minikube-linux-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube-linux-amd64.tar.gz" text="minikube-linux-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube-linux-arm" text="minikube-linux-arm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube-linux-arm.sha256" text="minikube-linux-arm.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube-linux-arm64" text="minikube-linux-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube-linux-arm64.sha256" text="minikube-linux-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube-linux-arm64.tar.gz" text="minikube-linux-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube-linux-armv6" text="minikube-linux-armv6" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube-linux-ppc64le" text="minikube-linux-ppc64le" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube-linux-ppc64le.sha256" text="minikube-linux-ppc64le.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube-linux-s390x" text="minikube-linux-s390x" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube-linux-s390x.sha256" text="minikube-linux-s390x.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube-windows-amd64.exe" text="minikube-windows-amd64.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube-windows-amd64.exe.sha256" text="minikube-windows-amd64.exe.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube-windows-amd64.tar.gz" text="minikube-windows-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube_1.27.1-0_amd64.deb" text="minikube_1.27.1-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube_1.27.1-0_arm64.deb" text="minikube_1.27.1-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube_1.27.1-0_armhf.deb" text="minikube_1.27.1-0_armhf.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube_1.27.1-0_ppc64el.deb" text="minikube_1.27.1-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube_1.27.1-0_s390x.deb" text="minikube_1.27.1-0_s390x.deb" repositoryKey="kubernetes/minikube" />
+
+
+
+## v1.27.0
+
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/docker-machine-driver-hyperkit.sha256" text="docker-machine-driver-hyperkit.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/docker-machine-driver-kvm2" text="docker-machine-driver-kvm2" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/docker-machine-driver-kvm2-1.27.0-0.x86_64.rpm" text="docker-machine-driver-kvm2-1.27.0-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/docker-machine-driver-kvm2-amd64" text="docker-machine-driver-kvm2-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/docker-machine-driver-kvm2-amd64.sha256" text="docker-machine-driver-kvm2-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/docker-machine-driver-kvm2-arm64" text="docker-machine-driver-kvm2-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/docker-machine-driver-kvm2-arm64.sha256" text="docker-machine-driver-kvm2-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/docker-machine-driver-kvm2-x86_64" text="docker-machine-driver-kvm2-x86_64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/docker-machine-driver-kvm2.sha256" text="docker-machine-driver-kvm2.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/docker-machine-driver-kvm2_1.27.0-0_amd64.deb" text="docker-machine-driver-kvm2_1.27.0-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/docker-machine-driver-kvm2_1.27.0-0_arm64.deb" text="docker-machine-driver-kvm2_1.27.0-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-1.27.0-0.aarch64.rpm" text="minikube-1.27.0-0.aarch64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-1.27.0-0.armv7hl.rpm" text="minikube-1.27.0-0.armv7hl.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-1.27.0-0.ppc64le.rpm" text="minikube-1.27.0-0.ppc64le.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-1.27.0-0.s390x.rpm" text="minikube-1.27.0-0.s390x.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-1.27.0-0.x86_64.rpm" text="minikube-1.27.0-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-darwin-amd64" text="minikube-darwin-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-darwin-amd64.sha256" text="minikube-darwin-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-darwin-amd64.tar.gz" text="minikube-darwin-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-darwin-arm64" text="minikube-darwin-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-darwin-arm64.sha256" text="minikube-darwin-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-darwin-arm64.tar.gz" text="minikube-darwin-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-installer.exe" text="minikube-installer.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-linux-386" text="minikube-linux-386" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-linux-amd64" text="minikube-linux-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-linux-amd64.sha256" text="minikube-linux-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-linux-amd64.tar.gz" text="minikube-linux-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-linux-arm" text="minikube-linux-arm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-linux-arm.sha256" text="minikube-linux-arm.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-linux-arm64" text="minikube-linux-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-linux-arm64.sha256" text="minikube-linux-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-linux-arm64.tar.gz" text="minikube-linux-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-linux-armv6" text="minikube-linux-armv6" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-linux-ppc64le" text="minikube-linux-ppc64le" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-linux-ppc64le.sha256" text="minikube-linux-ppc64le.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-linux-s390x" text="minikube-linux-s390x" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-linux-s390x.sha256" text="minikube-linux-s390x.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-v1.27.0-amd64.iso" text="minikube-v1.27.0-amd64.iso" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-v1.27.0-amd64.iso.sha256" text="minikube-v1.27.0-amd64.iso.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-v1.27.0-arm64.iso" text="minikube-v1.27.0-arm64.iso" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-v1.27.0-arm64.iso.sha256" text="minikube-v1.27.0-arm64.iso.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-windows-amd64.exe" text="minikube-windows-amd64.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-windows-amd64.exe.sha256" text="minikube-windows-amd64.exe.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube-windows-amd64.tar.gz" text="minikube-windows-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube_1.27.0-0_amd64.deb" text="minikube_1.27.0-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube_1.27.0-0_arm64.deb" text="minikube_1.27.0-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube_1.27.0-0_armhf.deb" text="minikube_1.27.0-0_armhf.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube_1.27.0-0_ppc64el.deb" text="minikube_1.27.0-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube_1.27.0-0_s390x.deb" text="minikube_1.27.0-0_s390x.deb" repositoryKey="kubernetes/minikube" />
+
+
+
+
+
+## v1.26.1
+
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/docker-machine-driver-hyperkit.sha256" text="docker-machine-driver-hyperkit.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/docker-machine-driver-kvm2" text="docker-machine-driver-kvm2" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/docker-machine-driver-kvm2-1.26.1-0.x86_64.rpm" text="docker-machine-driver-kvm2-1.26.1-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/docker-machine-driver-kvm2-amd64" text="docker-machine-driver-kvm2-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/docker-machine-driver-kvm2-amd64.sha256" text="docker-machine-driver-kvm2-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/docker-machine-driver-kvm2-arm64" text="docker-machine-driver-kvm2-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/docker-machine-driver-kvm2-arm64.sha256" text="docker-machine-driver-kvm2-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/docker-machine-driver-kvm2-x86_64" text="docker-machine-driver-kvm2-x86_64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/docker-machine-driver-kvm2.sha256" text="docker-machine-driver-kvm2.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/docker-machine-driver-kvm2_1.26.1-0_amd64.deb" text="docker-machine-driver-kvm2_1.26.1-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/docker-machine-driver-kvm2_1.26.1-0_arm64.deb" text="docker-machine-driver-kvm2_1.26.1-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-1.26.1-0.aarch64.rpm" text="minikube-1.26.1-0.aarch64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-1.26.1-0.armv7hl.rpm" text="minikube-1.26.1-0.armv7hl.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-1.26.1-0.ppc64le.rpm" text="minikube-1.26.1-0.ppc64le.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-1.26.1-0.s390x.rpm" text="minikube-1.26.1-0.s390x.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-1.26.1-0.x86_64.rpm" text="minikube-1.26.1-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-darwin-amd64" text="minikube-darwin-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-darwin-amd64.sha256" text="minikube-darwin-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-darwin-amd64.tar.gz" text="minikube-darwin-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-darwin-arm64" text="minikube-darwin-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-darwin-arm64.sha256" text="minikube-darwin-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-darwin-arm64.tar.gz" text="minikube-darwin-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-installer.exe" text="minikube-installer.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-linux-386" text="minikube-linux-386" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-linux-amd64" text="minikube-linux-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-linux-amd64.sha256" text="minikube-linux-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-linux-amd64.tar.gz" text="minikube-linux-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-linux-arm" text="minikube-linux-arm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-linux-arm.sha256" text="minikube-linux-arm.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-linux-arm64" text="minikube-linux-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-linux-arm64.sha256" text="minikube-linux-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-linux-arm64.tar.gz" text="minikube-linux-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-linux-armv6" text="minikube-linux-armv6" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-linux-ppc64le" text="minikube-linux-ppc64le" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-linux-ppc64le.sha256" text="minikube-linux-ppc64le.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-linux-s390x" text="minikube-linux-s390x" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-linux-s390x.sha256" text="minikube-linux-s390x.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-v1.26.1-amd64.iso" text="minikube-v1.26.1-amd64.iso" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-v1.26.1-amd64.iso.sha256" text="minikube-v1.26.1-amd64.iso.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-v1.26.1-arm64.iso" text="minikube-v1.26.1-arm64.iso" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-v1.26.1-arm64.iso.sha256" text="minikube-v1.26.1-arm64.iso.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-windows-amd64.exe" text="minikube-windows-amd64.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-windows-amd64.exe.sha256" text="minikube-windows-amd64.exe.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube-windows-amd64.tar.gz" text="minikube-windows-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube_1.26.1-0_amd64.deb" text="minikube_1.26.1-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube_1.26.1-0_arm64.deb" text="minikube_1.26.1-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube_1.26.1-0_armhf.deb" text="minikube_1.26.1-0_armhf.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube_1.26.1-0_ppc64el.deb" text="minikube_1.26.1-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube_1.26.1-0_s390x.deb" text="minikube_1.26.1-0_s390x.deb" repositoryKey="kubernetes/minikube" />
+
+
+
+## v1.26.0
+
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/docker-machine-driver-hyperkit.sha256" text="docker-machine-driver-hyperkit.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/docker-machine-driver-kvm2" text="docker-machine-driver-kvm2" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/docker-machine-driver-kvm2-1.26.0-0.x86_64.rpm" text="docker-machine-driver-kvm2-1.26.0-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/docker-machine-driver-kvm2-amd64" text="docker-machine-driver-kvm2-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/docker-machine-driver-kvm2-amd64.sha256" text="docker-machine-driver-kvm2-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/docker-machine-driver-kvm2-arm64" text="docker-machine-driver-kvm2-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/docker-machine-driver-kvm2-arm64.sha256" text="docker-machine-driver-kvm2-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/docker-machine-driver-kvm2-x86_64" text="docker-machine-driver-kvm2-x86_64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/docker-machine-driver-kvm2.sha256" text="docker-machine-driver-kvm2.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/docker-machine-driver-kvm2_1.26.0-0_amd64.deb" text="docker-machine-driver-kvm2_1.26.0-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/docker-machine-driver-kvm2_1.26.0-0_arm64.deb" text="docker-machine-driver-kvm2_1.26.0-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-1.26.0-0.aarch64.rpm" text="minikube-1.26.0-0.aarch64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-1.26.0-0.armv7hl.rpm" text="minikube-1.26.0-0.armv7hl.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-1.26.0-0.ppc64le.rpm" text="minikube-1.26.0-0.ppc64le.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-1.26.0-0.s390x.rpm" text="minikube-1.26.0-0.s390x.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-1.26.0-0.x86_64.rpm" text="minikube-1.26.0-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-darwin-amd64" text="minikube-darwin-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-darwin-amd64.sha256" text="minikube-darwin-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-darwin-amd64.tar.gz" text="minikube-darwin-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-darwin-arm64" text="minikube-darwin-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-darwin-arm64.sha256" text="minikube-darwin-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-darwin-arm64.tar.gz" text="minikube-darwin-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-installer.exe" text="minikube-installer.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-linux-386" text="minikube-linux-386" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-linux-amd64" text="minikube-linux-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-linux-amd64.sha256" text="minikube-linux-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-linux-amd64.tar.gz" text="minikube-linux-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-linux-arm" text="minikube-linux-arm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-linux-arm.sha256" text="minikube-linux-arm.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-linux-arm64" text="minikube-linux-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-linux-arm64.sha256" text="minikube-linux-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-linux-arm64.tar.gz" text="minikube-linux-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-linux-armv6" text="minikube-linux-armv6" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-linux-ppc64le" text="minikube-linux-ppc64le" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-linux-ppc64le.sha256" text="minikube-linux-ppc64le.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-linux-s390x" text="minikube-linux-s390x" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-linux-s390x.sha256" text="minikube-linux-s390x.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-v1.26.0-amd64.iso" text="minikube-v1.26.0-amd64.iso" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-v1.26.0-amd64.iso.sha256" text="minikube-v1.26.0-amd64.iso.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-v1.26.0-arm64.iso" text="minikube-v1.26.0-arm64.iso" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-v1.26.0-arm64.iso.sha256" text="minikube-v1.26.0-arm64.iso.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-v1.26.0-beta.0-amd64.iso" text="minikube-v1.26.0-beta.0-amd64.iso" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-v1.26.0-beta.0-amd64.iso.sha256" text="minikube-v1.26.0-beta.0-amd64.iso.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-v1.26.0-beta.0-arm64.iso" text="minikube-v1.26.0-beta.0-arm64.iso" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-v1.26.0-beta.0-arm64.iso.sha256" text="minikube-v1.26.0-beta.0-arm64.iso.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-v1.26.0-beta.1-amd64.iso" text="minikube-v1.26.0-beta.1-amd64.iso" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-v1.26.0-beta.1-amd64.iso.sha256" text="minikube-v1.26.0-beta.1-amd64.iso.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-v1.26.0-beta.1-arm64.iso" text="minikube-v1.26.0-beta.1-arm64.iso" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-v1.26.0-beta.1-arm64.iso.sha256" text="minikube-v1.26.0-beta.1-arm64.iso.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-windows-amd64.exe" text="minikube-windows-amd64.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-windows-amd64.exe.sha256" text="minikube-windows-amd64.exe.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube-windows-amd64.tar.gz" text="minikube-windows-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube_1.26.0-0_amd64.deb" text="minikube_1.26.0-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube_1.26.0-0_arm64.deb" text="minikube_1.26.0-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube_1.26.0-0_armhf.deb" text="minikube_1.26.0-0_armhf.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube_1.26.0-0_ppc64el.deb" text="minikube_1.26.0-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube_1.26.0-0_s390x.deb" text="minikube_1.26.0-0_s390x.deb" repositoryKey="kubernetes/minikube" />
+
+
+
+## v1.26.0-beta.1
+
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/docker-machine-driver-hyperkit.sha256" text="docker-machine-driver-hyperkit.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/docker-machine-driver-kvm2" text="docker-machine-driver-kvm2" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/docker-machine-driver-kvm2-1.26.0.beta.1-0.x86_64.rpm" text="docker-machine-driver-kvm2-1.26.0.beta.1-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/docker-machine-driver-kvm2-amd64" text="docker-machine-driver-kvm2-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/docker-machine-driver-kvm2-amd64.sha256" text="docker-machine-driver-kvm2-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/docker-machine-driver-kvm2-arm64" text="docker-machine-driver-kvm2-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/docker-machine-driver-kvm2-arm64.sha256" text="docker-machine-driver-kvm2-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/docker-machine-driver-kvm2-x86_64" text="docker-machine-driver-kvm2-x86_64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/docker-machine-driver-kvm2.sha256" text="docker-machine-driver-kvm2.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/docker-machine-driver-kvm2_1.26.0.beta.1-0_amd64.deb" text="docker-machine-driver-kvm2_1.26.0.beta.1-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/docker-machine-driver-kvm2_1.26.0.beta.1-0_arm64.deb" text="docker-machine-driver-kvm2_1.26.0.beta.1-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-1.26.0.beta.1-0.aarch64.rpm" text="minikube-1.26.0.beta.1-0.aarch64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-1.26.0.beta.1-0.armv7hl.rpm" text="minikube-1.26.0.beta.1-0.armv7hl.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-1.26.0.beta.1-0.ppc64le.rpm" text="minikube-1.26.0.beta.1-0.ppc64le.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-1.26.0.beta.1-0.s390x.rpm" text="minikube-1.26.0.beta.1-0.s390x.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-1.26.0.beta.1-0.x86_64.rpm" text="minikube-1.26.0.beta.1-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-darwin-amd64" text="minikube-darwin-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-darwin-amd64.sha256" text="minikube-darwin-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-darwin-amd64.tar.gz" text="minikube-darwin-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-darwin-arm64" text="minikube-darwin-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-darwin-arm64.sha256" text="minikube-darwin-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-darwin-arm64.tar.gz" text="minikube-darwin-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-installer.exe" text="minikube-installer.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-linux-386" text="minikube-linux-386" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-linux-amd64" text="minikube-linux-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-linux-amd64.sha256" text="minikube-linux-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-linux-amd64.tar.gz" text="minikube-linux-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-linux-arm" text="minikube-linux-arm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-linux-arm.sha256" text="minikube-linux-arm.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-linux-arm64" text="minikube-linux-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-linux-arm64.sha256" text="minikube-linux-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-linux-arm64.tar.gz" text="minikube-linux-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-linux-armv6" text="minikube-linux-armv6" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-linux-ppc64le" text="minikube-linux-ppc64le" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-linux-ppc64le.sha256" text="minikube-linux-ppc64le.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-linux-s390x" text="minikube-linux-s390x" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-linux-s390x.sha256" text="minikube-linux-s390x.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-v1.26.0-beta.1-amd64.iso" text="minikube-v1.26.0-beta.1-amd64.iso" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-v1.26.0-beta.1-amd64.iso.sha256" text="minikube-v1.26.0-beta.1-amd64.iso.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-v1.26.0-beta.1-arm64.iso" text="minikube-v1.26.0-beta.1-arm64.iso" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-v1.26.0-beta.1-arm64.iso.sha256" text="minikube-v1.26.0-beta.1-arm64.iso.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-windows-amd64.exe" text="minikube-windows-amd64.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-windows-amd64.exe.sha256" text="minikube-windows-amd64.exe.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube-windows-amd64.tar.gz" text="minikube-windows-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube_1.26.0.beta.1-0_amd64.deb" text="minikube_1.26.0.beta.1-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube_1.26.0.beta.1-0_arm64.deb" text="minikube_1.26.0.beta.1-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube_1.26.0.beta.1-0_armhf.deb" text="minikube_1.26.0.beta.1-0_armhf.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube_1.26.0.beta.1-0_ppc64el.deb" text="minikube_1.26.0.beta.1-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube_1.26.0.beta.1-0_s390x.deb" text="minikube_1.26.0.beta.1-0_s390x.deb" repositoryKey="kubernetes/minikube" />
+
+
+
+## v1.26.0-beta.0
+
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/docker-machine-driver-hyperkit.sha256" text="docker-machine-driver-hyperkit.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/docker-machine-driver-kvm2" text="docker-machine-driver-kvm2" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/docker-machine-driver-kvm2-1.26.0.beta.0-0.x86_64.rpm" text="docker-machine-driver-kvm2-1.26.0.beta.0-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/docker-machine-driver-kvm2-amd64" text="docker-machine-driver-kvm2-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/docker-machine-driver-kvm2-amd64.sha256" text="docker-machine-driver-kvm2-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/docker-machine-driver-kvm2-arm64" text="docker-machine-driver-kvm2-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/docker-machine-driver-kvm2-arm64.sha256" text="docker-machine-driver-kvm2-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/docker-machine-driver-kvm2-x86_64" text="docker-machine-driver-kvm2-x86_64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/docker-machine-driver-kvm2.sha256" text="docker-machine-driver-kvm2.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/docker-machine-driver-kvm2_1.26.0.beta.0-0_amd64.deb" text="docker-machine-driver-kvm2_1.26.0.beta.0-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/docker-machine-driver-kvm2_1.26.0.beta.0-0_arm64.deb" text="docker-machine-driver-kvm2_1.26.0.beta.0-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-1.26.0.beta.0-0.aarch64.rpm" text="minikube-1.26.0.beta.0-0.aarch64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-1.26.0.beta.0-0.armv7hl.rpm" text="minikube-1.26.0.beta.0-0.armv7hl.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-1.26.0.beta.0-0.ppc64le.rpm" text="minikube-1.26.0.beta.0-0.ppc64le.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-1.26.0.beta.0-0.s390x.rpm" text="minikube-1.26.0.beta.0-0.s390x.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-1.26.0.beta.0-0.x86_64.rpm" text="minikube-1.26.0.beta.0-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-darwin-amd64" text="minikube-darwin-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-darwin-amd64.sha256" text="minikube-darwin-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-darwin-amd64.tar.gz" text="minikube-darwin-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-darwin-arm64" text="minikube-darwin-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-darwin-arm64.sha256" text="minikube-darwin-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-darwin-arm64.tar.gz" text="minikube-darwin-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-installer.exe" text="minikube-installer.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-linux-386" text="minikube-linux-386" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-linux-amd64" text="minikube-linux-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-linux-amd64.sha256" text="minikube-linux-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-linux-amd64.tar.gz" text="minikube-linux-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-linux-arm" text="minikube-linux-arm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-linux-arm.sha256" text="minikube-linux-arm.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-linux-arm64" text="minikube-linux-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-linux-arm64.sha256" text="minikube-linux-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-linux-arm64.tar.gz" text="minikube-linux-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-linux-armv6" text="minikube-linux-armv6" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-linux-ppc64le" text="minikube-linux-ppc64le" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-linux-ppc64le.sha256" text="minikube-linux-ppc64le.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-linux-s390x" text="minikube-linux-s390x" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-linux-s390x.sha256" text="minikube-linux-s390x.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-v1.26.0-beta.0-amd64.iso" text="minikube-v1.26.0-beta.0-amd64.iso" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-v1.26.0-beta.0-amd64.iso.sha256" text="minikube-v1.26.0-beta.0-amd64.iso.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-v1.26.0-beta.0-arm64.iso" text="minikube-v1.26.0-beta.0-arm64.iso" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-v1.26.0-beta.0-arm64.iso.sha256" text="minikube-v1.26.0-beta.0-arm64.iso.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-windows-amd64.exe" text="minikube-windows-amd64.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-windows-amd64.exe.sha256" text="minikube-windows-amd64.exe.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube-windows-amd64.tar.gz" text="minikube-windows-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube_1.26.0.beta.0-0_amd64.deb" text="minikube_1.26.0.beta.0-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube_1.26.0.beta.0-0_arm64.deb" text="minikube_1.26.0.beta.0-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube_1.26.0.beta.0-0_armhf.deb" text="minikube_1.26.0.beta.0-0_armhf.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube_1.26.0.beta.0-0_ppc64el.deb" text="minikube_1.26.0.beta.0-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube_1.26.0.beta.0-0_s390x.deb" text="minikube_1.26.0.beta.0-0_s390x.deb" repositoryKey="kubernetes/minikube" />
+
+
+
+## v1.25.2
+
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/docker-machine-driver-hyperkit.sha256" text="docker-machine-driver-hyperkit.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/docker-machine-driver-kvm2" text="docker-machine-driver-kvm2" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/docker-machine-driver-kvm2-1.25.2-0.x86_64.rpm" text="docker-machine-driver-kvm2-1.25.2-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/docker-machine-driver-kvm2-amd64" text="docker-machine-driver-kvm2-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/docker-machine-driver-kvm2-amd64.sha256" text="docker-machine-driver-kvm2-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/docker-machine-driver-kvm2-arm64" text="docker-machine-driver-kvm2-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/docker-machine-driver-kvm2-arm64.sha256" text="docker-machine-driver-kvm2-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/docker-machine-driver-kvm2-x86_64" text="docker-machine-driver-kvm2-x86_64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/docker-machine-driver-kvm2.sha256" text="docker-machine-driver-kvm2.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/docker-machine-driver-kvm2_1.25.2-0_amd64.deb" text="docker-machine-driver-kvm2_1.25.2-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/docker-machine-driver-kvm2_1.25.2-0_arm64.deb" text="docker-machine-driver-kvm2_1.25.2-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-1.25.2-0.aarch64.rpm" text="minikube-1.25.2-0.aarch64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-1.25.2-0.armv7hl.rpm" text="minikube-1.25.2-0.armv7hl.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-1.25.2-0.ppc64le.rpm" text="minikube-1.25.2-0.ppc64le.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-1.25.2-0.s390x.rpm" text="minikube-1.25.2-0.s390x.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-1.25.2-0.x86_64.rpm" text="minikube-1.25.2-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-darwin-amd64" text="minikube-darwin-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-darwin-amd64.sha256" text="minikube-darwin-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-darwin-amd64.tar.gz" text="minikube-darwin-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-darwin-arm64" text="minikube-darwin-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-darwin-arm64.sha256" text="minikube-darwin-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-darwin-arm64.tar.gz" text="minikube-darwin-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-installer.exe" text="minikube-installer.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-linux-386" text="minikube-linux-386" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-linux-amd64" text="minikube-linux-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-linux-amd64.sha256" text="minikube-linux-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-linux-amd64.tar.gz" text="minikube-linux-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-linux-arm" text="minikube-linux-arm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-linux-arm.sha256" text="minikube-linux-arm.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-linux-arm64" text="minikube-linux-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-linux-arm64.sha256" text="minikube-linux-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-linux-arm64.tar.gz" text="minikube-linux-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-linux-armv6" text="minikube-linux-armv6" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-linux-ppc64le" text="minikube-linux-ppc64le" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-linux-ppc64le.sha256" text="minikube-linux-ppc64le.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-linux-s390x" text="minikube-linux-s390x" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-linux-s390x.sha256" text="minikube-linux-s390x.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-v1.25.2.iso" text="minikube-v1.25.2.iso" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-v1.25.2.iso.sha256" text="minikube-v1.25.2.iso.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-windows-amd64.exe" text="minikube-windows-amd64.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-windows-amd64.exe.sha256" text="minikube-windows-amd64.exe.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube-windows-amd64.tar.gz" text="minikube-windows-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube_1.25.2-0_amd64.deb" text="minikube_1.25.2-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube_1.25.2-0_arm64.deb" text="minikube_1.25.2-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube_1.25.2-0_armhf.deb" text="minikube_1.25.2-0_armhf.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube_1.25.2-0_ppc64el.deb" text="minikube_1.25.2-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube_1.25.2-0_s390x.deb" text="minikube_1.25.2-0_s390x.deb" repositoryKey="kubernetes/minikube" />
+
+
+
+## v1.25.1
+
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/docker-machine-driver-hyperkit.sha256" text="docker-machine-driver-hyperkit.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/docker-machine-driver-kvm2" text="docker-machine-driver-kvm2" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/docker-machine-driver-kvm2-1.25.1-0.x86_64.rpm" text="docker-machine-driver-kvm2-1.25.1-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/docker-machine-driver-kvm2-amd64" text="docker-machine-driver-kvm2-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/docker-machine-driver-kvm2-amd64.sha256" text="docker-machine-driver-kvm2-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/docker-machine-driver-kvm2-arm64" text="docker-machine-driver-kvm2-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/docker-machine-driver-kvm2-arm64.sha256" text="docker-machine-driver-kvm2-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/docker-machine-driver-kvm2-x86_64" text="docker-machine-driver-kvm2-x86_64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/docker-machine-driver-kvm2.sha256" text="docker-machine-driver-kvm2.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/docker-machine-driver-kvm2_1.25.1-0_amd64.deb" text="docker-machine-driver-kvm2_1.25.1-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/docker-machine-driver-kvm2_1.25.1-0_arm64.deb" text="docker-machine-driver-kvm2_1.25.1-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube-1.25.1-0.aarch64.rpm" text="minikube-1.25.1-0.aarch64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube-1.25.1-0.armv7hl.rpm" text="minikube-1.25.1-0.armv7hl.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube-1.25.1-0.ppc64le.rpm" text="minikube-1.25.1-0.ppc64le.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube-1.25.1-0.s390x.rpm" text="minikube-1.25.1-0.s390x.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube-1.25.1-0.x86_64.rpm" text="minikube-1.25.1-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube-darwin-amd64" text="minikube-darwin-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube-darwin-amd64.sha256" text="minikube-darwin-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube-darwin-amd64.tar.gz" text="minikube-darwin-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube-darwin-arm64" text="minikube-darwin-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube-darwin-arm64.sha256" text="minikube-darwin-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube-darwin-arm64.tar.gz" text="minikube-darwin-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube-installer.exe" text="minikube-installer.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube-linux-386" text="minikube-linux-386" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube-linux-amd64" text="minikube-linux-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube-linux-amd64.sha256" text="minikube-linux-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube-linux-amd64.tar.gz" text="minikube-linux-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube-linux-arm" text="minikube-linux-arm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube-linux-arm.sha256" text="minikube-linux-arm.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube-linux-arm64" text="minikube-linux-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube-linux-arm64.sha256" text="minikube-linux-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube-linux-arm64.tar.gz" text="minikube-linux-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube-linux-armv6" text="minikube-linux-armv6" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube-linux-ppc64le" text="minikube-linux-ppc64le" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube-linux-ppc64le.sha256" text="minikube-linux-ppc64le.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube-linux-s390x" text="minikube-linux-s390x" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube-linux-s390x.sha256" text="minikube-linux-s390x.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube-windows-amd64.exe" text="minikube-windows-amd64.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube-windows-amd64.exe.sha256" text="minikube-windows-amd64.exe.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube-windows-amd64.tar.gz" text="minikube-windows-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube_1.25.1-0_amd64.deb" text="minikube_1.25.1-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube_1.25.1-0_arm64.deb" text="minikube_1.25.1-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube_1.25.1-0_armhf.deb" text="minikube_1.25.1-0_armhf.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube_1.25.1-0_ppc64el.deb" text="minikube_1.25.1-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube_1.25.1-0_s390x.deb" text="minikube_1.25.1-0_s390x.deb" repositoryKey="kubernetes/minikube" />
+
+
+
+## v1.25.0
+
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/docker-machine-driver-hyperkit.sha256" text="docker-machine-driver-hyperkit.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/docker-machine-driver-kvm2" text="docker-machine-driver-kvm2" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/docker-machine-driver-kvm2-1.25.0-0.x86_64.rpm" text="docker-machine-driver-kvm2-1.25.0-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/docker-machine-driver-kvm2-amd64" text="docker-machine-driver-kvm2-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/docker-machine-driver-kvm2-amd64.sha256" text="docker-machine-driver-kvm2-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/docker-machine-driver-kvm2-arm64" text="docker-machine-driver-kvm2-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/docker-machine-driver-kvm2-arm64.sha256" text="docker-machine-driver-kvm2-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/docker-machine-driver-kvm2-x86_64" text="docker-machine-driver-kvm2-x86_64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/docker-machine-driver-kvm2.sha256" text="docker-machine-driver-kvm2.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/docker-machine-driver-kvm2_1.25.0-0_amd64.deb" text="docker-machine-driver-kvm2_1.25.0-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/docker-machine-driver-kvm2_1.25.0-0_arm64.deb" text="docker-machine-driver-kvm2_1.25.0-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-1.25.0-0.aarch64.rpm" text="minikube-1.25.0-0.aarch64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-1.25.0-0.armv7hl.rpm" text="minikube-1.25.0-0.armv7hl.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-1.25.0-0.ppc64le.rpm" text="minikube-1.25.0-0.ppc64le.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-1.25.0-0.s390x.rpm" text="minikube-1.25.0-0.s390x.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-1.25.0-0.x86_64.rpm" text="minikube-1.25.0-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-darwin-amd64" text="minikube-darwin-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-darwin-amd64.sha256" text="minikube-darwin-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-darwin-amd64.tar.gz" text="minikube-darwin-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-darwin-arm64" text="minikube-darwin-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-darwin-arm64.sha256" text="minikube-darwin-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-darwin-arm64.tar.gz" text="minikube-darwin-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-installer.exe" text="minikube-installer.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-linux-386" text="minikube-linux-386" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-linux-amd64" text="minikube-linux-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-linux-amd64.sha256" text="minikube-linux-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-linux-amd64.tar.gz" text="minikube-linux-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-linux-arm" text="minikube-linux-arm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-linux-arm.sha256" text="minikube-linux-arm.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-linux-arm64" text="minikube-linux-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-linux-arm64.sha256" text="minikube-linux-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-linux-arm64.tar.gz" text="minikube-linux-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-linux-armv6" text="minikube-linux-armv6" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-linux-ppc64le" text="minikube-linux-ppc64le" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-linux-ppc64le.sha256" text="minikube-linux-ppc64le.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-linux-s390x" text="minikube-linux-s390x" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-linux-s390x.sha256" text="minikube-linux-s390x.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-v1.25.0.iso" text="minikube-v1.25.0.iso" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-v1.25.0.iso.sha256" text="minikube-v1.25.0.iso.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-windows-amd64.exe" text="minikube-windows-amd64.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-windows-amd64.exe.sha256" text="minikube-windows-amd64.exe.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube-windows-amd64.tar.gz" text="minikube-windows-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube_1.25.0-0_amd64.deb" text="minikube_1.25.0-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube_1.25.0-0_arm64.deb" text="minikube_1.25.0-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube_1.25.0-0_armhf.deb" text="minikube_1.25.0-0_armhf.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube_1.25.0-0_ppc64el.deb" text="minikube_1.25.0-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube_1.25.0-0_s390x.deb" text="minikube_1.25.0-0_s390x.deb" repositoryKey="kubernetes/minikube" />
+
+
+
+## v1.24.0
+
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/docker-machine-driver-hyperkit.sha256" text="docker-machine-driver-hyperkit.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/docker-machine-driver-kvm2" text="docker-machine-driver-kvm2" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/docker-machine-driver-kvm2-1.24.0-0.x86_64.rpm" text="docker-machine-driver-kvm2-1.24.0-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/docker-machine-driver-kvm2-amd64" text="docker-machine-driver-kvm2-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/docker-machine-driver-kvm2-amd64.sha256" text="docker-machine-driver-kvm2-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/docker-machine-driver-kvm2-arm64" text="docker-machine-driver-kvm2-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/docker-machine-driver-kvm2-arm64.sha256" text="docker-machine-driver-kvm2-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/docker-machine-driver-kvm2-x86_64" text="docker-machine-driver-kvm2-x86_64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/docker-machine-driver-kvm2.sha256" text="docker-machine-driver-kvm2.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/docker-machine-driver-kvm2_1.24.0-0_amd64.deb" text="docker-machine-driver-kvm2_1.24.0-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/docker-machine-driver-kvm2_1.24.0-0_arm64.deb" text="docker-machine-driver-kvm2_1.24.0-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-1.24.0-0.aarch64.rpm" text="minikube-1.24.0-0.aarch64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-1.24.0-0.armv7hl.rpm" text="minikube-1.24.0-0.armv7hl.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-1.24.0-0.ppc64le.rpm" text="minikube-1.24.0-0.ppc64le.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-1.24.0-0.s390x.rpm" text="minikube-1.24.0-0.s390x.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-1.24.0-0.x86_64.rpm" text="minikube-1.24.0-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-darwin-amd64" text="minikube-darwin-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-darwin-amd64.sha256" text="minikube-darwin-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-darwin-amd64.tar.gz" text="minikube-darwin-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-darwin-arm64" text="minikube-darwin-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-darwin-arm64.tar.gz" text="minikube-darwin-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-installer.exe" text="minikube-installer.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-linux-386" text="minikube-linux-386" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-linux-amd64" text="minikube-linux-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-linux-amd64.sha256" text="minikube-linux-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-linux-amd64.tar.gz" text="minikube-linux-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-linux-arm" text="minikube-linux-arm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-linux-arm.sha256" text="minikube-linux-arm.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-linux-arm64" text="minikube-linux-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-linux-arm64.sha256" text="minikube-linux-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-linux-arm64.tar.gz" text="minikube-linux-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-linux-armv6" text="minikube-linux-armv6" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-linux-ppc64le" text="minikube-linux-ppc64le" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-linux-ppc64le.sha256" text="minikube-linux-ppc64le.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-linux-s390x" text="minikube-linux-s390x" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-linux-s390x.sha256" text="minikube-linux-s390x.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-v1.24.0.iso" text="minikube-v1.24.0.iso" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-v1.24.0.iso.sha256" text="minikube-v1.24.0.iso.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-windows-amd64.exe" text="minikube-windows-amd64.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-windows-amd64.exe.sha256" text="minikube-windows-amd64.exe.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-windows-amd64.tar.gz" text="minikube-windows-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube_1.24.0-0_amd64.deb" text="minikube_1.24.0-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube_1.24.0-0_arm64.deb" text="minikube_1.24.0-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube_1.24.0-0_armhf.deb" text="minikube_1.24.0-0_armhf.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube_1.24.0-0_ppc64el.deb" text="minikube_1.24.0-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube_1.24.0-0_s390x.deb" text="minikube_1.24.0-0_s390x.deb" repositoryKey="kubernetes/minikube" />
+
+
+
+## v1.24.0-beta.0
+
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/docker-machine-driver-hyperkit.sha256" text="docker-machine-driver-hyperkit.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/docker-machine-driver-kvm2" text="docker-machine-driver-kvm2" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/docker-machine-driver-kvm2-1.24.0.beta.0-0.x86_64.rpm" text="docker-machine-driver-kvm2-1.24.0.beta.0-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/docker-machine-driver-kvm2-amd64" text="docker-machine-driver-kvm2-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/docker-machine-driver-kvm2-amd64.sha256" text="docker-machine-driver-kvm2-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/docker-machine-driver-kvm2-arm64" text="docker-machine-driver-kvm2-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/docker-machine-driver-kvm2-arm64.sha256" text="docker-machine-driver-kvm2-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/docker-machine-driver-kvm2-x86_64" text="docker-machine-driver-kvm2-x86_64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/docker-machine-driver-kvm2.sha256" text="docker-machine-driver-kvm2.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/docker-machine-driver-kvm2_1.24.0.beta.0-0_amd64.deb" text="docker-machine-driver-kvm2_1.24.0.beta.0-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/docker-machine-driver-kvm2_1.24.0.beta.0-0_arm64.deb" text="docker-machine-driver-kvm2_1.24.0.beta.0-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube-1.24.0.beta.0-0.aarch64.rpm" text="minikube-1.24.0.beta.0-0.aarch64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube-1.24.0.beta.0-0.armv7hl.rpm" text="minikube-1.24.0.beta.0-0.armv7hl.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube-1.24.0.beta.0-0.ppc64le.rpm" text="minikube-1.24.0.beta.0-0.ppc64le.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube-1.24.0.beta.0-0.s390x.rpm" text="minikube-1.24.0.beta.0-0.s390x.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube-1.24.0.beta.0-0.x86_64.rpm" text="minikube-1.24.0.beta.0-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube-darwin-amd64" text="minikube-darwin-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube-darwin-amd64.sha256" text="minikube-darwin-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube-darwin-amd64.tar.gz" text="minikube-darwin-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube-darwin-arm64" text="minikube-darwin-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube-darwin-arm64.tar.gz" text="minikube-darwin-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube-installer.exe" text="minikube-installer.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube-linux-386" text="minikube-linux-386" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube-linux-amd64" text="minikube-linux-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube-linux-amd64.sha256" text="minikube-linux-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube-linux-amd64.tar.gz" text="minikube-linux-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube-linux-arm" text="minikube-linux-arm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube-linux-arm.sha256" text="minikube-linux-arm.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube-linux-arm64" text="minikube-linux-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube-linux-arm64.sha256" text="minikube-linux-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube-linux-arm64.tar.gz" text="minikube-linux-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube-linux-armv6" text="minikube-linux-armv6" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube-linux-ppc64le" text="minikube-linux-ppc64le" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube-linux-ppc64le.sha256" text="minikube-linux-ppc64le.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube-linux-s390x" text="minikube-linux-s390x" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube-linux-s390x.sha256" text="minikube-linux-s390x.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube-windows-amd64.exe" text="minikube-windows-amd64.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube-windows-amd64.exe.sha256" text="minikube-windows-amd64.exe.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube-windows-amd64.tar.gz" text="minikube-windows-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube_1.24.0.beta.0-0_amd64.deb" text="minikube_1.24.0.beta.0-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube_1.24.0.beta.0-0_arm64.deb" text="minikube_1.24.0.beta.0-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube_1.24.0.beta.0-0_armhf.deb" text="minikube_1.24.0.beta.0-0_armhf.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube_1.24.0.beta.0-0_ppc64el.deb" text="minikube_1.24.0.beta.0-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube_1.24.0.beta.0-0_s390x.deb" text="minikube_1.24.0.beta.0-0_s390x.deb" repositoryKey="kubernetes/minikube" />
+
+
+
+## v1.23.2
+
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/docker-machine-driver-hyperkit.sha256" text="docker-machine-driver-hyperkit.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/docker-machine-driver-kvm2" text="docker-machine-driver-kvm2" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/docker-machine-driver-kvm2-1.23.2-0.x86_64.rpm" text="docker-machine-driver-kvm2-1.23.2-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/docker-machine-driver-kvm2-amd64" text="docker-machine-driver-kvm2-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/docker-machine-driver-kvm2-amd64.sha256" text="docker-machine-driver-kvm2-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/docker-machine-driver-kvm2-arm64" text="docker-machine-driver-kvm2-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/docker-machine-driver-kvm2-arm64.sha256" text="docker-machine-driver-kvm2-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/docker-machine-driver-kvm2-x86_64" text="docker-machine-driver-kvm2-x86_64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/docker-machine-driver-kvm2.sha256" text="docker-machine-driver-kvm2.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/docker-machine-driver-kvm2_1.23.2-0_amd64.deb" text="docker-machine-driver-kvm2_1.23.2-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/docker-machine-driver-kvm2_1.23.2-0_arm64.deb" text="docker-machine-driver-kvm2_1.23.2-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube-1.23.2-0.aarch64.rpm" text="minikube-1.23.2-0.aarch64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube-1.23.2-0.armv7hl.rpm" text="minikube-1.23.2-0.armv7hl.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube-1.23.2-0.ppc64le.rpm" text="minikube-1.23.2-0.ppc64le.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube-1.23.2-0.s390x.rpm" text="minikube-1.23.2-0.s390x.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube-1.23.2-0.x86_64.rpm" text="minikube-1.23.2-0.x86_64.rpm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube-darwin-amd64" text="minikube-darwin-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube-darwin-amd64.sha256" text="minikube-darwin-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube-darwin-amd64.tar.gz" text="minikube-darwin-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube-darwin-arm64" text="minikube-darwin-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube-darwin-arm64.tar.gz" text="minikube-darwin-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube-installer.exe" text="minikube-installer.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube-linux-386" text="minikube-linux-386" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube-linux-amd64" text="minikube-linux-amd64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube-linux-amd64.sha256" text="minikube-linux-amd64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube-linux-amd64.tar.gz" text="minikube-linux-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube-linux-arm" text="minikube-linux-arm" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube-linux-arm.sha256" text="minikube-linux-arm.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube-linux-arm64" text="minikube-linux-arm64" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube-linux-arm64.sha256" text="minikube-linux-arm64.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube-linux-arm64.tar.gz" text="minikube-linux-arm64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube-linux-armv6" text="minikube-linux-armv6" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube-linux-ppc64le" text="minikube-linux-ppc64le" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube-linux-ppc64le.sha256" text="minikube-linux-ppc64le.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube-linux-s390x" text="minikube-linux-s390x" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube-linux-s390x.sha256" text="minikube-linux-s390x.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube-windows-amd64.exe" text="minikube-windows-amd64.exe" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube-windows-amd64.exe.sha256" text="minikube-windows-amd64.exe.sha256" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube-windows-amd64.tar.gz" text="minikube-windows-amd64.tar.gz" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube_1.23.2-0_amd64.deb" text="minikube_1.23.2-0_amd64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube_1.23.2-0_arm64.deb" text="minikube_1.23.2-0_arm64.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube_1.23.2-0_armhf.deb" text="minikube_1.23.2-0_armhf.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube_1.23.2-0_ppc64el.deb" text="minikube_1.23.2-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
+- <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube_1.23.2-0_s390x.deb" text="minikube_1.23.2-0_s390x.deb" repositoryKey="kubernetes/minikube" />
+
 
 
 
