@@ -244,6 +244,19 @@ class SharedMirrorContractTests(unittest.TestCase):
             "createDate": "2026-04-10",
         }
 
+    def build_ollama_mirror(self):
+        return {
+            "type": "github",
+            "softwareName": "ollama",
+            "officialSite": "https://github.com/ollama/ollama/",
+            "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+            "repositoryKey": "ollama/ollama",
+            "preferredProviders": ["123pan"],
+            "manifestSource": build_manifest_source("ollama/ollama"),
+            "markdownFilename": "Mirrors-ollama.md",
+            "createDate": "2026-04-10",
+        }
+
     def render_temp_mirror_page_with_responses(self, mirror, releases_payload, response_payloads, calls=None):
         github_api_url = (
             f"https://api.github.com/repos/"
@@ -471,6 +484,83 @@ class SharedMirrorContractTests(unittest.TestCase):
         self.assertEqual(first_calls.count(build_root_index_url()), 1)
         self.assertEqual(second_calls.count(build_root_index_url()), 0)
         self.assertEqual(first_page, second_page)
+
+    def test_build_provider_links_by_asset_handles_ollama_azure_123pan_links_exactly(self):
+        mirror = self.build_ollama_mirror()
+        release = {
+            "tag_name": "v0.20.2",
+            "assets": [
+                {
+                    "name": "OllamaSetup.exe",
+                    "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.20.2/OllamaSetup.exe",
+                },
+                {
+                    "name": "install.sh",
+                    "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.20.2/install.sh",
+                },
+            ],
+        }
+        manifest_records = mirror_tasks.normalize_manifest_records(
+            load_fixture("ollama-azure-manifest.json"),
+            build_manifest_source("ollama/ollama"),
+        )
+
+        provider_links_by_asset = mirror_tasks.build_provider_links_by_asset(
+            release,
+            mirror,
+            manifest_records,
+        )
+
+        self.assertEqual(
+            provider_links_by_asset["OllamaSetup.exe"][0]["fullUrl"],
+            "https://www.123pan.com/s/example-share",
+        )
+        self.assertNotIn("install.sh", provider_links_by_asset)
+        self.assertEqual(set(provider_links_by_asset.keys()), {"OllamaSetup.exe"})
+
+    def test_create_github_mirror_embeds_ollama_123pan_share_links_without_cross_release_leaks(self):
+        mirror = self.build_ollama_mirror()
+        releases_payload = [
+            {
+                "tag_name": "v0.20.2",
+                "published_at": "2026-04-10T12:30:00Z",
+                "assets": [
+                    {
+                        "name": "OllamaSetup.exe",
+                        "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.20.2/OllamaSetup.exe",
+                    },
+                    {
+                        "name": "install.sh",
+                        "browser_download_url": "https://github.com/ollama/ollama/releases/download/v0.20.2/install.sh",
+                    },
+                ],
+            },
+        ]
+
+        page_text = self.render_temp_mirror_page_with_responses(
+            mirror,
+            releases_payload,
+            {
+                build_root_index_url(): load_fixture("root-manifest-index-missing-repo.json"),
+                build_manifest_url(mirror["repositoryKey"], "v0.20.2"): load_fixture("ollama-azure-manifest.json"),
+            },
+        )
+
+        setup_line = next(
+            line for line in page_text.splitlines()
+            if 'text="OllamaSetup.exe"' in line
+        )
+        install_line = next(
+            line for line in page_text.splitlines()
+            if 'text="install.sh"' in line
+        )
+
+        self.assertIn('preferredProviders={["123pan"]}', page_text)
+        self.assertIn('https://www.123pan.com/s/example-share', page_text)
+        self.assertIn('resolvedMirrors=', setup_line)
+        self.assertNotIn('https://www.123pan.com/s/older-release', page_text)
+        self.assertNotIn('https://www.123pan.com/s/wrong-repo', page_text)
+        self.assertNotIn('resolvedMirrors=', install_line)
 
 
 if __name__ == "__main__":
