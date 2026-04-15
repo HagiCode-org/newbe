@@ -504,6 +504,7 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [v2.53.0-rc2.windows.1](https://mirrors.huaweicloud.com/git-for-windows/v2.53.0-rc2.windows.1/)
 - [v2.53.0.windows.1](https://mirrors.huaweicloud.com/git-for-windows/v2.53.0.windows.1/)
 - [v2.53.0.windows.2](https://mirrors.huaweicloud.com/git-for-windows/v2.53.0.windows.2/)
+- [v2.53.0.windows.3](https://mirrors.huaweicloud.com/git-for-windows/v2.53.0.windows.3/)
 
 
 
