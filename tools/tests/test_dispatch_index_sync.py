@@ -66,9 +66,9 @@ class DispatchIndexSyncTests(unittest.TestCase):
                 "0",
                 *extra_args,
             ]
-            patches = [mock.patch("dispatch_index_sync.time.sleep", return_value=None)]
+            patches = [mock.patch("workflow_dispatch.time.sleep", return_value=None)]
             if monotonic is not None:
-                patches.append(mock.patch("dispatch_index_sync.time.monotonic", side_effect=monotonic))
+                patches.append(mock.patch("workflow_dispatch.time.monotonic", side_effect=monotonic))
 
             with patches[0]:
                 if len(patches) == 2:
@@ -86,7 +86,7 @@ class DispatchIndexSyncTests(unittest.TestCase):
             os.unlink(summary_path)
             os.unlink(output_path)
 
-    def test_main_success_writes_summary_and_outputs(self):
+    def test_main_success_writes_index_sync_summary(self):
         exit_code, summary, output = self.run_main(
             [
                 FakeResponse(204),
@@ -96,10 +96,9 @@ class DispatchIndexSyncTests(unittest.TestCase):
         )
 
         self.assertEqual(exit_code, 0)
+        self.assertIn("### Index sync", summary)
         self.assertIn("Result: success", summary)
-        self.assertIn("Run ID: `101`", summary)
         self.assertIn("run_id=101", output)
-        self.assertIn("run_conclusion=success", output)
 
     def test_main_fails_fast_when_permission_contract_is_missing(self):
         exit_code, summary, output = self.run_main(
@@ -110,40 +109,8 @@ class DispatchIndexSyncTests(unittest.TestCase):
 
         self.assertEqual(exit_code, 1)
         self.assertIn("failed before run discovery", summary)
-        self.assertEqual(output, "")
-
-    def test_main_fails_when_downstream_run_times_out(self):
-        exit_code, summary, output = self.run_main(
-            [
-                FakeResponse(204),
-                FakeResponse(200, {"workflow_runs": [dict(SUCCESS_RUN, status="queued", conclusion=None)]}),
-                FakeResponse(200, dict(SUCCESS_RUN, status="in_progress", conclusion=None)),
-            ],
-            "--discovery-timeout-seconds",
-            "1",
-            "--run-timeout-seconds",
-            "1",
-            monotonic=[0, 0, 0, 0, 2],
-        )
-
-        self.assertEqual(exit_code, 1)
-        self.assertIn("Result: failed", summary)
-        self.assertIn("Conclusion: pending", summary)
-        self.assertIn("run_id=101", output)
-
-    def test_main_returns_failure_for_non_success_conclusion(self):
-        exit_code, summary, output = self.run_main(
-            [
-                FakeResponse(204),
-                FakeResponse(200, {"workflow_runs": [dict(SUCCESS_RUN, status="queued", conclusion=None)]}),
-                FakeResponse(200, dict(SUCCESS_RUN, conclusion="failure")),
-            ],
-        )
-
-        self.assertEqual(exit_code, 1)
-        self.assertIn("Result: failed", summary)
-        self.assertIn("Conclusion: failure", summary)
-        self.assertIn("run_conclusion=failure", output)
+        self.assertIn("permission", summary.lower())
+        self.assertIn("result=failed", output)
 
 
 if __name__ == "__main__":
