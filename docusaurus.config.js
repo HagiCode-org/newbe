@@ -211,6 +211,10 @@ ${is51LADebug ? `console.log('[51LA Analytics] Enabled:', true, 'id:', '***${la5
                 label: 'QQ 群 610394020',
                 href: 'https://jq.qq.com/?_wv=1027&k=3PUr2L5i',
               },
+              {
+                label: 'Steam',
+                href: 'https://store.steampowered.com/app/4625540/Hagicode/',
+              },
               // {
               //   label: 'Discord',
               //   href: 'https://discordapp.com/invite/docusaurus',
