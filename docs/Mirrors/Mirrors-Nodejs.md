@@ -2610,6 +2610,12 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 
 
 
+## 24.15
+
+- [v24.15.0](https://repo.huaweicloud.com/nodejs/v24.15.0/)
+
+
+
 ## 25.0
 
 - [v25.0.0](https://repo.huaweicloud.com/nodejs/v25.0.0/)

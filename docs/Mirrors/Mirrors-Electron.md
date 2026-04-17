@@ -2627,6 +2627,7 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [39.8.5](https://mirrors.huaweicloud.com/electron/39.8.5/)
 - [39.8.6](https://mirrors.huaweicloud.com/electron/39.8.6/)
 - [39.8.7](https://mirrors.huaweicloud.com/electron/39.8.7/)
+- [39.8.8](https://mirrors.huaweicloud.com/electron/39.8.8/)
 
 
 
@@ -2669,14 +2670,14 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 
 
 
-
-
-
-
 ## 40.4
 
 - [40.4.0](https://mirrors.huaweicloud.com/electron/40.4.0/)
 - [40.4.1](https://mirrors.huaweicloud.com/electron/40.4.1/)
+
+
+
+
 
 
 
@@ -2707,6 +2708,13 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [40.8.3](https://mirrors.huaweicloud.com/electron/40.8.3/)
 - [40.8.4](https://mirrors.huaweicloud.com/electron/40.8.4/)
 - [40.8.5](https://mirrors.huaweicloud.com/electron/40.8.5/)
+
+
+
+## 40.9
+
+- [40.9.0](https://mirrors.huaweicloud.com/electron/40.9.0/)
+- [40.9.1](https://mirrors.huaweicloud.com/electron/40.9.1/)
 
 
 
@@ -2744,6 +2752,7 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 ## 41.2
 
 - [41.2.0](https://mirrors.huaweicloud.com/electron/41.2.0/)
+- [41.2.1](https://mirrors.huaweicloud.com/electron/41.2.1/)
 
 
 
