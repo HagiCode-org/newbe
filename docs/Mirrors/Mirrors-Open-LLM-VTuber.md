@@ -94,58 +94,10 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
-
-
 ## v0.4.1
 
 - <GithubMirrorLink link="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/releases/download/v0.4.1/Open-LLM-VTuber-v0.4.1.zip" text="Open-LLM-VTuber-v0.4.1.zip" repositoryKey="Open-LLM-VTuber/Open-LLM-VTuber" />
 
-
-
-## v0.4.0
-
-- <GithubMirrorLink link="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/releases/download/v0.4.0/Open-LLM-VTuber-v0.4.0.release.zip" text="Open-LLM-VTuber-v0.4.0.release.zip" repositoryKey="Open-LLM-VTuber/Open-LLM-VTuber" />
-
-
-
-## v0.3.1
-
-- <GithubMirrorLink link="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/releases/download/v0.3.1/Open-LLM-VTuber-v0.3.1.zip" text="Open-LLM-VTuber-v0.3.1.zip" repositoryKey="Open-LLM-VTuber/Open-LLM-VTuber" />
-
-
-
-## v0.2.5
-
-- <GithubMirrorLink link="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/releases/download/v0.2.5/Open-LLM-VTuber-v0.2.5.zip" text="Open-LLM-VTuber-v0.2.5.zip" repositoryKey="Open-LLM-VTuber/Open-LLM-VTuber" />
-
-
-
-## v0.2.4
-
-
-
-
-## v0.2.3
-
-
-
-
-## v0.2.2
-
-
-
-
-## v0.2.1
-
-
-
-
-## v0.2.0
-
-
-
-
-## v0.1.0
 
 
 
