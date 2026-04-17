@@ -9,7 +9,6 @@ on:
   workflow_dispatch:
 
 permissions:
-  actions: write
   contents: write
 
 concurrency:
@@ -20,9 +19,6 @@ env:
   PUBLISH_BRANCH: main
   INDEX_SYNC_REPOSITORY: HagiCode-org/index
   INDEX_SYNC_WORKFLOW: index-file-sync.yml
-  RELEASE_WORKFLOW: ${{ vars.NEWBE_RELEASE_WORKFLOW }}
-  RELEASE_WORKFLOW_REF: ${{ vars.NEWBE_RELEASE_WORKFLOW_REF }}
-  RELEASE_WORKFLOW_INPUTS_JSON: ${{ vars.NEWBE_RELEASE_WORKFLOW_INPUTS_JSON }}
 
 jobs:
   release:
@@ -87,17 +83,15 @@ jobs:
             echo '```'
           } >> "$GITHUB_STEP_SUMMARY"
 
-      - name: Mark release handoff as skipped for no-op
+      - name: Mark downstream actions as skipped for no-op
         if: steps.diff.outputs.changed != 'true'
         shell: bash
         run: |
           {
-            echo "### Release handoff"
+            echo "### Release follow-up"
             echo "- Result: skipped (no-op publish)"
-            echo "- Repository: $GITHUB_REPOSITORY"
-            echo "- Workflow: ${RELEASE_WORKFLOW:-'(unset)'}"
-            echo "- Ref: ${RELEASE_WORKFLOW_REF:-$PUBLISH_BRANCH}"
-            echo "- Inputs: ${RELEASE_WORKFLOW_INPUTS_JSON:-'(none)'}"
+            echo "- Trigger branch: $PUBLISH_BRANCH"
+            echo "- Note: no commit was pushed to main, so the main-branch release workflow was not triggered."
           } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Publish mirror updates to main
@@ -142,42 +136,21 @@ jobs:
             echo "- Commit: \`$COMMIT_SHA\`"
           } >> "$GITHUB_STEP_SUMMARY"
 
-      - name: Trigger release workflow
-        id: release_dispatch
+      - name: Record release follow-up
         if: steps.publish.outputs.published == 'true'
-        working-directory: ${{ github.workspace }}/tools
-        env:
-          GH_TOKEN: ${{ github.token }}
         shell: bash
         run: |
-          set -euo pipefail
-
-          if [ -z "${GH_TOKEN:-}" ]; then
-            echo "GITHUB_TOKEN is required to dispatch the configured release workflow." >&2
-            exit 1
-          fi
-
-          export PATH=/home/runner/.local/bin/:$PATH
-          RELEASE_REF="${RELEASE_WORKFLOW_REF:-$PUBLISH_BRANCH}"
-          INPUT_ARGS=()
-          if [ -n "${RELEASE_WORKFLOW_INPUTS_JSON:-}" ]; then
-            INPUT_ARGS+=(--inputs-json "$RELEASE_WORKFLOW_INPUTS_JSON")
-          fi
-
-          pipenv run python workflow_dispatch.py \
-            --repo "$GITHUB_REPOSITORY" \
-            --workflow "$RELEASE_WORKFLOW" \
-            --ref "$RELEASE_REF" \
-            --token "$GH_TOKEN" \
-            --label "Release handoff" \
-            --local-workflow-dir "$GITHUB_WORKSPACE/.github/workflows" \
-            --summary-file "$GITHUB_STEP_SUMMARY" \
-            --github-output "$GITHUB_OUTPUT" \
-            "${INPUT_ARGS[@]}"
+          {
+            echo "### Release follow-up"
+            echo "- Result: delegated to main push"
+            echo "- Trigger branch: $PUBLISH_BRANCH"
+            echo "- Commit: \`${{ steps.publish.outputs.commit_sha }}\`"
+            echo "- Note: update-mirror does not dispatch release directly; the push to main triggers the normal release workflow."
+          } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Trigger index sync
         id: index_sync
-        if: steps.publish.outputs.published == 'true' && steps.release_dispatch.outputs.result == 'success'
+        if: steps.publish.outputs.published == 'true'
         working-directory: ${{ github.workspace }}/tools
         env:
           GH_TOKEN: ${{ secrets.NEWBE_GITHUB_PAT }}
