@@ -159,6 +159,160 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+## v0.5.3
+
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.3/ollama-grid-search-0.5.3-1.x86_64.rpm" text="ollama-grid-search-0.5.3-1.x86_64.rpm" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.3/ollama-grid-search_0.5.3_aarch64.dmg" text="ollama-grid-search_0.5.3_aarch64.dmg" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.3/ollama-grid-search_0.5.3_amd64.AppImage" text="ollama-grid-search_0.5.3_amd64.AppImage" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.3/ollama-grid-search_0.5.3_amd64.deb" text="ollama-grid-search_0.5.3_amd64.deb" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.3/ollama-grid-search_0.5.3_x64-setup.exe" text="ollama-grid-search_0.5.3_x64-setup.exe" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.3/ollama-grid-search_0.5.3_x64.dmg" text="ollama-grid-search_0.5.3_x64.dmg" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.3/ollama-grid-search_0.5.3_x64_en-US.msi" text="ollama-grid-search_0.5.3_x64_en-US.msi" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.3/ollama-grid-search_aarch64.app.tar.gz" text="ollama-grid-search_aarch64.app.tar.gz" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.3/ollama-grid-search_x64.app.tar.gz" text="ollama-grid-search_x64.app.tar.gz" repositoryKey="dezoito/ollama-grid-search" />
+
+
+
+## v0.5.2
+
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.2/ollama-grid-search-0.5.2-1.x86_64.rpm" text="ollama-grid-search-0.5.2-1.x86_64.rpm" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.2/ollama-grid-search_0.5.2_aarch64.dmg" text="ollama-grid-search_0.5.2_aarch64.dmg" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.2/ollama-grid-search_0.5.2_amd64.AppImage" text="ollama-grid-search_0.5.2_amd64.AppImage" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.2/ollama-grid-search_0.5.2_amd64.deb" text="ollama-grid-search_0.5.2_amd64.deb" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.2/ollama-grid-search_0.5.2_x64-setup.exe" text="ollama-grid-search_0.5.2_x64-setup.exe" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.2/ollama-grid-search_0.5.2_x64.dmg" text="ollama-grid-search_0.5.2_x64.dmg" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.2/ollama-grid-search_0.5.2_x64_en-US.msi" text="ollama-grid-search_0.5.2_x64_en-US.msi" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.2/ollama-grid-search_aarch64.app.tar.gz" text="ollama-grid-search_aarch64.app.tar.gz" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.2/ollama-grid-search_x64.app.tar.gz" text="ollama-grid-search_x64.app.tar.gz" repositoryKey="dezoito/ollama-grid-search" />
+
+
+
+## v0.5.1
+
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.1/ollama-grid-search-0.5.1-1.x86_64.rpm" text="ollama-grid-search-0.5.1-1.x86_64.rpm" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.1/ollama-grid-search_0.5.1_aarch64.dmg" text="ollama-grid-search_0.5.1_aarch64.dmg" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.1/ollama-grid-search_0.5.1_amd64.AppImage" text="ollama-grid-search_0.5.1_amd64.AppImage" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.1/ollama-grid-search_0.5.1_amd64.deb" text="ollama-grid-search_0.5.1_amd64.deb" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.1/ollama-grid-search_0.5.1_x64-setup.exe" text="ollama-grid-search_0.5.1_x64-setup.exe" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.1/ollama-grid-search_0.5.1_x64.dmg" text="ollama-grid-search_0.5.1_x64.dmg" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.1/ollama-grid-search_0.5.1_x64_en-US.msi" text="ollama-grid-search_0.5.1_x64_en-US.msi" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.1/ollama-grid-search_aarch64.app.tar.gz" text="ollama-grid-search_aarch64.app.tar.gz" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.1/ollama-grid-search_x64.app.tar.gz" text="ollama-grid-search_x64.app.tar.gz" repositoryKey="dezoito/ollama-grid-search" />
+
+
+
+
+
+## v0.5.0
+
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.0/ollama-grid-search_0.5.0_aarch64.dmg" text="ollama-grid-search_0.5.0_aarch64.dmg" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.0/ollama-grid-search_0.5.0_amd64.AppImage" text="ollama-grid-search_0.5.0_amd64.AppImage" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.0/ollama-grid-search_0.5.0_amd64.deb" text="ollama-grid-search_0.5.0_amd64.deb" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.0/ollama-grid-search_0.5.0_x64-setup.exe" text="ollama-grid-search_0.5.0_x64-setup.exe" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.0/ollama-grid-search_0.5.0_x64.dmg" text="ollama-grid-search_0.5.0_x64.dmg" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.0/ollama-grid-search_0.5.0_x64_en-US.msi" text="ollama-grid-search_0.5.0_x64_en-US.msi" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.0/ollama-grid-search_aarch64.app.tar.gz" text="ollama-grid-search_aarch64.app.tar.gz" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.5.0/ollama-grid-search_x64.app.tar.gz" text="ollama-grid-search_x64.app.tar.gz" repositoryKey="dezoito/ollama-grid-search" />
+
+
+
+## v0.4.3
+
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.4.3/ollama-grid-search_0.4.3_aarch64.dmg" text="ollama-grid-search_0.4.3_aarch64.dmg" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.4.3/ollama-grid-search_0.4.3_amd64.AppImage" text="ollama-grid-search_0.4.3_amd64.AppImage" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.4.3/ollama-grid-search_0.4.3_amd64.deb" text="ollama-grid-search_0.4.3_amd64.deb" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.4.3/ollama-grid-search_0.4.3_x64-setup.exe" text="ollama-grid-search_0.4.3_x64-setup.exe" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.4.3/ollama-grid-search_0.4.3_x64.dmg" text="ollama-grid-search_0.4.3_x64.dmg" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.4.3/ollama-grid-search_0.4.3_x64_en-US.msi" text="ollama-grid-search_0.4.3_x64_en-US.msi" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.4.3/ollama-grid-search_aarch64.app.tar.gz" text="ollama-grid-search_aarch64.app.tar.gz" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.4.3/ollama-grid-search_x64.app.tar.gz" text="ollama-grid-search_x64.app.tar.gz" repositoryKey="dezoito/ollama-grid-search" />
+
+
+
+## v0.4.2
+
+
+
+
+## v0.4.1
+
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.4.1/ollama-grid-search_0.4.1_aarch64.dmg" text="ollama-grid-search_0.4.1_aarch64.dmg" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.4.1/ollama-grid-search_0.4.1_amd64.AppImage" text="ollama-grid-search_0.4.1_amd64.AppImage" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.4.1/ollama-grid-search_0.4.1_amd64.deb" text="ollama-grid-search_0.4.1_amd64.deb" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.4.1/ollama-grid-search_0.4.1_x64-setup.exe" text="ollama-grid-search_0.4.1_x64-setup.exe" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.4.1/ollama-grid-search_0.4.1_x64.dmg" text="ollama-grid-search_0.4.1_x64.dmg" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.4.1/ollama-grid-search_0.4.1_x64_en-US.msi" text="ollama-grid-search_0.4.1_x64_en-US.msi" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.4.1/ollama-grid-search_aarch64.app.tar.gz" text="ollama-grid-search_aarch64.app.tar.gz" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.4.1/ollama-grid-search_x64.app.tar.gz" text="ollama-grid-search_x64.app.tar.gz" repositoryKey="dezoito/ollama-grid-search" />
+
+
+
+## v0.4.0
+
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.4.0/ollama-grid-search_0.4.0_aarch64.dmg" text="ollama-grid-search_0.4.0_aarch64.dmg" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.4.0/ollama-grid-search_0.4.0_amd64.AppImage" text="ollama-grid-search_0.4.0_amd64.AppImage" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.4.0/ollama-grid-search_0.4.0_amd64.deb" text="ollama-grid-search_0.4.0_amd64.deb" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.4.0/ollama-grid-search_0.4.0_x64-setup.exe" text="ollama-grid-search_0.4.0_x64-setup.exe" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.4.0/ollama-grid-search_0.4.0_x64.dmg" text="ollama-grid-search_0.4.0_x64.dmg" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.4.0/ollama-grid-search_0.4.0_x64_en-US.msi" text="ollama-grid-search_0.4.0_x64_en-US.msi" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.4.0/ollama-grid-search_aarch64.app.tar.gz" text="ollama-grid-search_aarch64.app.tar.gz" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.4.0/ollama-grid-search_x64.app.tar.gz" text="ollama-grid-search_x64.app.tar.gz" repositoryKey="dezoito/ollama-grid-search" />
+
+
+
+## v0.3.0
+
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.3.0/ollama-grid-search_0.3.0_amd64.AppImage" text="ollama-grid-search_0.3.0_amd64.AppImage" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.3.0/ollama-grid-search_0.3.0_amd64.deb" text="ollama-grid-search_0.3.0_amd64.deb" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.3.0/ollama-grid-search_0.3.0_x64-setup.exe" text="ollama-grid-search_0.3.0_x64-setup.exe" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.3.0/ollama-grid-search_0.3.0_x64.dmg" text="ollama-grid-search_0.3.0_x64.dmg" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.3.0/ollama-grid-search_0.3.0_x64_en-US.msi" text="ollama-grid-search_0.3.0_x64_en-US.msi" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.3.0/ollama-grid-search_x64.app.tar.gz" text="ollama-grid-search_x64.app.tar.gz" repositoryKey="dezoito/ollama-grid-search" />
+
+
+
+## v0.2.1
+
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.2.1/ollama-grid-search_0.2.1_amd64.AppImage" text="ollama-grid-search_0.2.1_amd64.AppImage" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.2.1/ollama-grid-search_0.2.1_amd64.deb" text="ollama-grid-search_0.2.1_amd64.deb" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.2.1/ollama-grid-search_0.2.1_x64-setup.exe" text="ollama-grid-search_0.2.1_x64-setup.exe" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.2.1/ollama-grid-search_0.2.1_x64.dmg" text="ollama-grid-search_0.2.1_x64.dmg" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.2.1/ollama-grid-search_0.2.1_x64_en-US.msi" text="ollama-grid-search_0.2.1_x64_en-US.msi" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.2.1/ollama-grid-search_x64.app.tar.gz" text="ollama-grid-search_x64.app.tar.gz" repositoryKey="dezoito/ollama-grid-search" />
+
+
+
+## v0.2.0
+
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.2.0/ollama-grid-search_0.2.0_amd64.AppImage" text="ollama-grid-search_0.2.0_amd64.AppImage" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.2.0/ollama-grid-search_0.2.0_amd64.deb" text="ollama-grid-search_0.2.0_amd64.deb" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.2.0/ollama-grid-search_0.2.0_x64-setup.exe" text="ollama-grid-search_0.2.0_x64-setup.exe" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.2.0/ollama-grid-search_0.2.0_x64.dmg" text="ollama-grid-search_0.2.0_x64.dmg" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.2.0/ollama-grid-search_0.2.0_x64_en-US.msi" text="ollama-grid-search_0.2.0_x64_en-US.msi" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.2.0/ollama-grid-search_x64.app.tar.gz" text="ollama-grid-search_x64.app.tar.gz" repositoryKey="dezoito/ollama-grid-search" />
+
+
+
+## v0.1.2
+
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.1.2/ollama-grid-search_0.1.2_amd64.AppImage" text="ollama-grid-search_0.1.2_amd64.AppImage" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.1.2/ollama-grid-search_0.1.2_amd64.deb" text="ollama-grid-search_0.1.2_amd64.deb" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.1.2/ollama-grid-search_0.1.2_x64-setup.exe" text="ollama-grid-search_0.1.2_x64-setup.exe" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.1.2/ollama-grid-search_0.1.2_x64.dmg" text="ollama-grid-search_0.1.2_x64.dmg" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.1.2/ollama-grid-search_0.1.2_x64_en-US.msi" text="ollama-grid-search_0.1.2_x64_en-US.msi" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.1.2/ollama-grid-search_x64.app.tar.gz" text="ollama-grid-search_x64.app.tar.gz" repositoryKey="dezoito/ollama-grid-search" />
+
+
+
+## v0.1.1
+
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.1.1/ollama-grid-search_0.1.1_amd64.AppImage" text="ollama-grid-search_0.1.1_amd64.AppImage" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.1.1/ollama-grid-search_0.1.1_amd64.deb" text="ollama-grid-search_0.1.1_amd64.deb" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.1.1/ollama-grid-search_0.1.1_x64-setup.exe" text="ollama-grid-search_0.1.1_x64-setup.exe" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.1.1/ollama-grid-search_0.1.1_x64.dmg" text="ollama-grid-search_0.1.1_x64.dmg" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.1.1/ollama-grid-search_0.1.1_x64_en-US.msi" text="ollama-grid-search_0.1.1_x64_en-US.msi" repositoryKey="dezoito/ollama-grid-search" />
+- <GithubMirrorLink link="https://github.com/dezoito/ollama-grid-search/releases/download/v0.1.1/ollama-grid-search_x64.app.tar.gz" text="ollama-grid-search_x64.app.tar.gz" repositoryKey="dezoito/ollama-grid-search" />
+
 
 
 

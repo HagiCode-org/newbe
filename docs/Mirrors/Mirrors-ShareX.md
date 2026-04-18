@@ -96,6 +96,146 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+## v14.1.0
+
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v14.1.0/ShareX-14.1.0-portable.zip" text="ShareX-14.1.0-portable.zip" repositoryKey="ShareX/ShareX" />
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v14.1.0/ShareX-14.1.0-setup.exe" text="ShareX-14.1.0-setup.exe" repositoryKey="ShareX/ShareX" />
+
+
+
+## v14.0.1
+
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v14.0.1/ShareX-14.0.1-portable.zip" text="ShareX-14.0.1-portable.zip" repositoryKey="ShareX/ShareX" />
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v14.0.1/ShareX-14.0.1-setup.exe" text="ShareX-14.0.1-setup.exe" repositoryKey="ShareX/ShareX" />
+
+
+
+## v14.0.0
+
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v14.0.0/ShareX-14.0.0-portable.zip" text="ShareX-14.0.0-portable.zip" repositoryKey="ShareX/ShareX" />
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v14.0.0/ShareX-14.0.0-setup.exe" text="ShareX-14.0.0-setup.exe" repositoryKey="ShareX/ShareX" />
+
+
+
+## v13.7.0
+
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v13.7.0/ShareX-13.7.0-portable.zip" text="ShareX-13.7.0-portable.zip" repositoryKey="ShareX/ShareX" />
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v13.7.0/ShareX-13.7.0-setup.exe" text="ShareX-13.7.0-setup.exe" repositoryKey="ShareX/ShareX" />
+
+
+
+## v13.6.1
+
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v13.6.1/ShareX-13.6.1-portable.zip" text="ShareX-13.6.1-portable.zip" repositoryKey="ShareX/ShareX" />
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v13.6.1/ShareX-13.6.1-setup.exe" text="ShareX-13.6.1-setup.exe" repositoryKey="ShareX/ShareX" />
+
+
+
+## v13.6.0
+
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v13.6.0/ShareX-13.6.0-setup.exe" text="ShareX-13.6.0-setup.exe" repositoryKey="ShareX/ShareX" />
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v13.6.0/ShareX-portable.zip" text="ShareX-portable.zip" repositoryKey="ShareX/ShareX" />
+
+
+
+## v13.5.0
+
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v13.5.0/ShareX-13.5.0-setup.exe" text="ShareX-13.5.0-setup.exe" repositoryKey="ShareX/ShareX" />
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v13.5.0/ShareX-portable.zip" text="ShareX-portable.zip" repositoryKey="ShareX/ShareX" />
+
+
+
+## v13.4.0
+
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v13.4.0/ShareX-13.4.0-setup.exe" text="ShareX-13.4.0-setup.exe" repositoryKey="ShareX/ShareX" />
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v13.4.0/ShareX-portable.zip" text="ShareX-portable.zip" repositoryKey="ShareX/ShareX" />
+
+
+
+## v13.3.0
+
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v13.3.0/ShareX-13.3.0-setup.exe" text="ShareX-13.3.0-setup.exe" repositoryKey="ShareX/ShareX" />
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v13.3.0/ShareX-portable.zip" text="ShareX-portable.zip" repositoryKey="ShareX/ShareX" />
+
+
+
+## v13.2.1
+
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v13.2.1/ShareX-13.2.1-setup.exe" text="ShareX-13.2.1-setup.exe" repositoryKey="ShareX/ShareX" />
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v13.2.1/ShareX-portable.zip" text="ShareX-portable.zip" repositoryKey="ShareX/ShareX" />
+
+
+
+
+
+## v13.2.0
+
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v13.2.0/ShareX-13.2.0-setup.exe" text="ShareX-13.2.0-setup.exe" repositoryKey="ShareX/ShareX" />
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v13.2.0/ShareX-portable.zip" text="ShareX-portable.zip" repositoryKey="ShareX/ShareX" />
+
+
+
+## v13.1.0
+
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v13.1.0/ShareX-13.1.0-setup.exe" text="ShareX-13.1.0-setup.exe" repositoryKey="ShareX/ShareX" />
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v13.1.0/ShareX-portable.zip" text="ShareX-portable.zip" repositoryKey="ShareX/ShareX" />
+
+
+
+## v13.0.1
+
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v13.0.1/ShareX-13.0.1-setup.exe" text="ShareX-13.0.1-setup.exe" repositoryKey="ShareX/ShareX" />
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v13.0.1/ShareX-portable.zip" text="ShareX-portable.zip" repositoryKey="ShareX/ShareX" />
+
+
+
+## v13.0.0
+
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v13.0.0/ShareX-13.0.0-setup.exe" text="ShareX-13.0.0-setup.exe" repositoryKey="ShareX/ShareX" />
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v13.0.0/ShareX-portable.zip" text="ShareX-portable.zip" repositoryKey="ShareX/ShareX" />
+
+
+
+## v12.4.1
+
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v12.4.1/ShareX-12.4.1-setup.exe" text="ShareX-12.4.1-setup.exe" repositoryKey="ShareX/ShareX" />
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v12.4.1/ShareX-portable.zip" text="ShareX-portable.zip" repositoryKey="ShareX/ShareX" />
+
+
+
+## v12.4.0
+
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v12.4.0/ShareX-12.4.0-setup.exe" text="ShareX-12.4.0-setup.exe" repositoryKey="ShareX/ShareX" />
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v12.4.0/ShareX-portable.zip" text="ShareX-portable.zip" repositoryKey="ShareX/ShareX" />
+
+
+
+## v12.3.1
+
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v12.3.1/ShareX-12.3.1-setup.exe" text="ShareX-12.3.1-setup.exe" repositoryKey="ShareX/ShareX" />
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v12.3.1/ShareX-portable.zip" text="ShareX-portable.zip" repositoryKey="ShareX/ShareX" />
+
+
+
+## v12.3.0
+
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v12.3.0/ShareX-12.3.0-setup.exe" text="ShareX-12.3.0-setup.exe" repositoryKey="ShareX/ShareX" />
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v12.3.0/ShareX-portable.zip" text="ShareX-portable.zip" repositoryKey="ShareX/ShareX" />
+
+
+
+## v12.2.0
+
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v12.2.0/ShareX-12.2.0-setup.exe" text="ShareX-12.2.0-setup.exe" repositoryKey="ShareX/ShareX" />
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v12.2.0/ShareX-portable.zip" text="ShareX-portable.zip" repositoryKey="ShareX/ShareX" />
+
+
+
+## v12.1.1
+
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v12.1.1/ShareX-12.1.1-setup.exe" text="ShareX-12.1.1-setup.exe" repositoryKey="ShareX/ShareX" />
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v12.1.1/ShareX-portable.zip" text="ShareX-portable.zip" repositoryKey="ShareX/ShareX" />
+
 
 
 
