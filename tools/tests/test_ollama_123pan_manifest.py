@@ -388,10 +388,20 @@ class SharedMirrorContractTests(unittest.TestCase):
         )
 
         page_text = self.render_temp_mirror_page(mirror, releases_payload, manifest_payload)
+        setup_line = next(
+            line for line in page_text.splitlines()
+            if 'text="PowerToysUserSetup-0.92.1-x64.exe"' in line
+        )
 
         self.assertIn('"providerKey": "123pan"', page_text)
         self.assertIn('"providerKey": "future-drive"', page_text)
         self.assertIn('preferredProviders={["123pan"]}', page_text)
+        self.assertIn('preferredProviders={["123pan"]}', setup_line)
+        self.assertIn('resolvedMirrors=', setup_line)
+        self.assertLess(
+            setup_line.index('"providerKey": "123pan"'),
+            setup_line.index('"providerKey": "future-drive"'),
+        )
 
     def test_create_github_mirror_uses_root_index_candidates_to_limit_manifest_fetches(self):
         mirror = self.build_powertoys_mirror()
