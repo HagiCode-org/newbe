@@ -5,6 +5,10 @@
  */
 
 export type MirrorPriority = 'recommended' | 'backup' | 'official';
+export type MirrorRecommendationTier = 'standard' | 'primary';
+
+export const PRIMARY_RECOMMENDED_PROVIDER_KEY = '123pan';
+export const PRIMARY_RECOMMENDATION_BADGES = ['推荐', '优先线路'] as const;
 
 export interface ResolvedMirrorInput {
   providerKey: string;
@@ -22,6 +26,7 @@ export interface MirrorDescriptor {
   name: string;
   icon: string;
   priority: MirrorPriority;
+  recommendationTier?: MirrorRecommendationTier;
   description: string;
   urlPrefix?: string;
   source: string;
@@ -31,6 +36,7 @@ export interface MirrorDescriptor {
 export interface ResolvedMirrorLink extends MirrorDescriptor {
   fullUrl: string;
   recommended: boolean;
+  recommendationTier: MirrorRecommendationTier;
   sourceLabel: string;
   syncedAt?: string;
   status?: string;
@@ -117,6 +123,7 @@ const directMirrorDescriptors: Record<string, MirrorDescriptor> = {
     name: '123pan 分享链接',
     icon: '🏎️',
     priority: 'backup',
+    recommendationTier: 'primary',
     description: '直连分享页 · 已同步到国内网盘',
     source: 'azure',
     order: 0,
@@ -150,10 +157,18 @@ function createResolvedMirror(
   fullUrl: string,
   overrides?: Partial<ResolvedMirrorLink>,
 ): ResolvedMirrorLink {
+  const recommended = overrides?.recommended ?? descriptor.priority === 'recommended';
+  const recommendationTier =
+    overrides?.recommendationTier ??
+    (recommended && descriptor.providerKey === PRIMARY_RECOMMENDED_PROVIDER_KEY
+      ? 'primary'
+      : descriptor.recommendationTier ?? 'standard');
+
   return {
     ...descriptor,
     fullUrl,
-    recommended: descriptor.priority === 'recommended',
+    recommended,
+    recommendationTier,
     sourceLabel: getSourceLabel(descriptor.source),
     ...overrides,
   };
@@ -223,6 +238,12 @@ function sortMirrors(
   );
 
   return [...mirrors].sort((left, right) => {
+    const leftPrimary = Number(isPrimaryRecommendedMirror(left));
+    const rightPrimary = Number(isPrimaryRecommendedMirror(right));
+    if (leftPrimary !== rightPrimary) {
+      return rightPrimary - leftPrimary;
+    }
+
     const leftPreferredOrder = preferredOrder.get(left.providerKey) ?? Number.MAX_SAFE_INTEGER;
     const rightPreferredOrder = preferredOrder.get(right.providerKey) ?? Number.MAX_SAFE_INTEGER;
 
@@ -234,6 +255,10 @@ function sortMirrors(
     }
     return left.name.localeCompare(right.name, 'zh-Hans-CN');
   });
+}
+
+export function isPrimaryRecommendedMirror(mirror: Pick<ResolvedMirrorLink, 'providerKey' | 'recommended'>): boolean {
+  return mirror.recommended && mirror.providerKey === PRIMARY_RECOMMENDED_PROVIDER_KEY;
 }
 
 export function buildMirrorSections({

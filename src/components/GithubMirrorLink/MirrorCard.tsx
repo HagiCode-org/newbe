@@ -5,6 +5,10 @@
 
 import React, { useState } from 'react';
 import type { MirrorCardProps } from './types';
+import {
+  PRIMARY_RECOMMENDATION_BADGES,
+  isPrimaryRecommendedMirror,
+} from './config';
 import styles from './styles.module.css';
 
 const MirrorCard: React.FC<MirrorCardProps> = ({
@@ -13,6 +17,12 @@ const MirrorCard: React.FC<MirrorCardProps> = ({
   className = '',
 }) => {
   const [copyState, setCopyState] = useState<'idle' | 'copying' | 'success' | 'error'>('idle');
+  const isPrimaryRecommendation = isPrimaryRecommendedMirror(mirror);
+  const recommendationTier = isPrimaryRecommendation
+    ? 'primary'
+    : mirror.recommended
+      ? 'standard'
+      : undefined;
 
   const handleCopy = async (e: React.MouseEvent) => {
     e.preventDefault();
@@ -61,15 +71,35 @@ const MirrorCard: React.FC<MirrorCardProps> = ({
   };
 
   return (
-    <div className={`${styles.card} ${className}`}>
+    <div
+      className={[
+        styles.card,
+        isPrimaryRecommendation ? styles.cardPrimaryRecommendation : '',
+        className,
+      ].filter(Boolean).join(' ')}
+      data-provider-key={mirror.providerKey}
+      data-recommendation-tier={recommendationTier}
+    >
       <div className={styles.cardHeader}>
         <div className={styles.cardTitleSection}>
           <span className={styles.cardIcon} aria-hidden="true">{mirror.icon}</span>
           <div className={styles.cardTitleText}>
             <div className={styles.cardTitleRow}>
               <span className={styles.cardName}>{mirror.name}</span>
-              {mirror.recommended && (
-                <span className={styles.cardBadge}>Recommended</span>
+              {isPrimaryRecommendation && (
+                <span className={styles.cardBadgeGroup}>
+                  {PRIMARY_RECOMMENDATION_BADGES.map((badgeText, index) => (
+                    <span
+                      key={badgeText}
+                      className={`${styles.cardBadge} ${index === 0 ? styles.cardBadgePrimary : styles.cardBadgeSecondary}`}
+                    >
+                      {badgeText}
+                    </span>
+                  ))}
+                </span>
+              )}
+              {!isPrimaryRecommendation && mirror.recommended && (
+                <span className={styles.cardBadge}>推荐</span>
               )}
             </div>
             <span className={styles.cardDescription}>{mirror.description}</span>
