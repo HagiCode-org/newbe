@@ -14,16 +14,7 @@ k3d. 国内直接从官网 https://github.com/k3d-io/k3d/ 下载比较困难，�
 
 k3s 是由 Rancher 推出的轻量级 Kubernetes 发行版：k3s-io/k3s。k3d 创建容器化的 k3s 集群。这意味着，你可以使用 Docker 在一台机器上启动一个多节点的 k3s 集群。
 
-
-import HagicodeRecommendation from '../../src/components/HagicodeRecommendation';
-
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
-
-
-
-<HagicodeRecommendation layout="page" />
-
-
 
 ## v5.9.0-rc.0
 
@@ -36,8 +27,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.9.0-rc.0/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.9.0-rc.0/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
 
-
-
 ## v5.8.3
 
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.8.3/checksums.txt" text="checksums.txt" repositoryKey="k3d-io/k3d" />
@@ -48,8 +37,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.8.3/k3d-linux-arm" text="k3d-linux-arm" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.8.3/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.8.3/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
-
-
 
 ## v5.8.2
 
@@ -62,8 +49,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.8.2/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.8.2/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
 
-
-
 ## v5.8.1
 
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.8.1/checksums.txt" text="checksums.txt" repositoryKey="k3d-io/k3d" />
@@ -74,8 +59,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.8.1/k3d-linux-arm" text="k3d-linux-arm" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.8.1/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.8.1/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
-
-
 
 ## v5.8.0
 
@@ -88,8 +71,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.8.0/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.8.0/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
 
-
-
 ## v5.7.5
 
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.7.5/checksums.txt" text="checksums.txt" repositoryKey="k3d-io/k3d" />
@@ -100,8 +81,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.7.5/k3d-linux-arm" text="k3d-linux-arm" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.7.5/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.7.5/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
-
-
 
 ## v5.7.4
 
@@ -114,8 +93,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.7.4/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.7.4/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
 
-
-
 ## v5.7.3
 
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.7.3/checksums.txt" text="checksums.txt" repositoryKey="k3d-io/k3d" />
@@ -126,8 +103,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.7.3/k3d-linux-arm" text="k3d-linux-arm" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.7.3/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.7.3/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
-
-
 
 ## v5.7.2
 
@@ -140,8 +115,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.7.2/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.7.2/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
 
-
-
 ## v5.7.1
 
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.7.1/checksums.txt" text="checksums.txt" repositoryKey="k3d-io/k3d" />
@@ -152,8 +125,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.7.1/k3d-linux-arm" text="k3d-linux-arm" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.7.1/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.7.1/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
-
-
 
 ## v5.7.0
 
@@ -166,8 +137,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.7.0/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.7.0/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
 
-
-
 ## v5.6.3
 
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.6.3/checksums.txt" text="checksums.txt" repositoryKey="k3d-io/k3d" />
@@ -178,8 +147,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.6.3/k3d-linux-arm" text="k3d-linux-arm" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.6.3/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.6.3/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
-
-
 
 ## v5.6.2
 
@@ -192,8 +159,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.6.2/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.6.2/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
 
-
-
 ## v5.6.0
 
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.6.0/checksums.txt" text="checksums.txt" repositoryKey="k3d-io/k3d" />
@@ -204,8 +169,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.6.0/k3d-linux-arm" text="k3d-linux-arm" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.6.0/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.6.0/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
-
-
 
 ## v5.5.2
 
@@ -218,8 +181,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.5.2/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.5.2/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
 
-
-
 ## v5.5.1
 
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.5.1/checksums.txt" text="checksums.txt" repositoryKey="k3d-io/k3d" />
@@ -230,8 +191,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.5.1/k3d-linux-arm" text="k3d-linux-arm" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.5.1/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.5.1/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
-
-
 
 ## v5.5.0
 
@@ -244,8 +203,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.5.0/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.5.0/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
 
-
-
 ## v5.4.9
 
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.9/k3d-darwin-amd64" text="k3d-darwin-amd64" repositoryKey="k3d-io/k3d" />
@@ -255,8 +212,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.9/k3d-linux-arm" text="k3d-linux-arm" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.9/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.9/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
-
-
 
 ## v5.4.8
 
@@ -268,8 +223,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.8/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.8/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
 
-
-
 ## v5.4.7
 
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.7/k3d-darwin-amd64" text="k3d-darwin-amd64" repositoryKey="k3d-io/k3d" />
@@ -279,10 +232,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.7/k3d-linux-arm" text="k3d-linux-arm" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.7/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.7/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
-
-
-
-
 
 ## v5.4.6
 
@@ -294,8 +243,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.6/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.6/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
 
-
-
 ## v5.4.4
 
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.4/k3d-darwin-amd64" text="k3d-darwin-amd64" repositoryKey="k3d-io/k3d" />
@@ -305,8 +252,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.4/k3d-linux-arm" text="k3d-linux-arm" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.4/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.4/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
-
-
 
 ## v5.4.3
 
@@ -318,8 +263,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.3/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.3/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
 
-
-
 ## v5.4.2
 
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.2/k3d-darwin-amd64" text="k3d-darwin-amd64" repositoryKey="k3d-io/k3d" />
@@ -329,8 +272,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.2/k3d-linux-arm" text="k3d-linux-arm" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.2/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.2/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
-
-
 
 ## v5.4.1
 
@@ -342,8 +283,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.1/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.1/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
 
-
-
 ## v5.4.0
 
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.0/k3d-darwin-amd64" text="k3d-darwin-amd64" repositoryKey="k3d-io/k3d" />
@@ -353,8 +292,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.0/k3d-linux-arm" text="k3d-linux-arm" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.0/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.0/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
-
-
 
 ## v5.4.0-dev.3
 
@@ -366,8 +303,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.0-dev.3/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.0-dev.3/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
 
-
-
 ## v5.4.0-dev.2
 
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.0-dev.2/k3d-darwin-amd64" text="k3d-darwin-amd64" repositoryKey="k3d-io/k3d" />
@@ -377,8 +312,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.0-dev.2/k3d-linux-arm" text="k3d-linux-arm" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.0-dev.2/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.0-dev.2/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
-
-
 
 ## v5.3.0
 
@@ -391,8 +324,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.3.0/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.3.0/sha256sum.txt" text="sha256sum.txt" repositoryKey="k3d-io/k3d" />
 
-
-
 ## v5.3.0-rc.1
 
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.3.0-rc.1/k3d-darwin-amd64" text="k3d-darwin-amd64" repositoryKey="k3d-io/k3d" />
@@ -404,11 +335,7 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.3.0-rc.1/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.3.0-rc.1/sha256sum.txt" text="sha256sum.txt" repositoryKey="k3d-io/k3d" />
 
-
-
-
 找不到想要的版本？您可以访问 [官方网站](https://github.com/k3d-io/k3d/) 以下载更多版本。
 
 <!-- md Mirrors.md -->
-
 

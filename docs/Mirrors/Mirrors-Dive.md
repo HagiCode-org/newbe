@@ -16,17 +16,7 @@ Dive 是一个开源 MCP Host 桌面应用，目标是把支持函数调用能�
 当前先按 AI Agent 工具链中的高价值仓库纳入镜像目录，优先保障安装包与更新资源的分发可达性。
 这份说明属于可用的临时业务描述，后续仍可以继续根据产品定位和典型使用场景补充优化。
 
-
-
-import HagicodeRecommendation from '../../src/components/HagicodeRecommendation';
-
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
-
-
-
-<HagicodeRecommendation layout="page" />
-
-
 
 ## v0.14.2
 
@@ -48,8 +38,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.14.2/latest.json" text="latest.json" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-LJpuA", "status": "synced", "syncedAt": "2026-04-11T13:14:48.888Z", "source": "azure"}]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.14.2/latest.yml" text="latest.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-YJpuA", "status": "synced", "syncedAt": "2026-04-11T13:04:50.260Z", "source": "azure"}]} />
 
-
-
 ## v0.14.1
 
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.14.1/dive-0.14.1-1.x86_64.rpm" text="dive-0.14.1-1.x86_64.rpm" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
@@ -69,8 +57,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.14.1/latest-mac.yml" text="latest-mac.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.14.1/latest.json" text="latest.json" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.14.1/latest.yml" text="latest.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
-
-
 
 ## v0.14.0
 
@@ -92,8 +78,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.14.0/latest.json" text="latest.json" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.14.0/latest.yml" text="latest.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 
-
-
 ## v0.13.2
 
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.13.2/dive-0.13.2-1.x86_64.rpm" text="dive-0.13.2-1.x86_64.rpm" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
@@ -113,8 +97,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.13.2/latest-mac.yml" text="latest-mac.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.13.2/latest.json" text="latest.json" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.13.2/latest.yml" text="latest.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
-
-
 
 ## v0.13.1
 
@@ -136,8 +118,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.13.1/latest.json" text="latest.json" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.13.1/latest.yml" text="latest.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 
-
-
 ## v0.13.0
 
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.13.0/dive-0.13.0-1.x86_64.rpm" text="dive-0.13.0-1.x86_64.rpm" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
@@ -157,8 +137,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.13.0/latest-mac.yml" text="latest-mac.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.13.0/latest.json" text="latest.json" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.13.0/latest.yml" text="latest.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
-
-
 
 ## v0.12.6
 
@@ -180,8 +158,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.12.6/latest.json" text="latest.json" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.12.6/latest.yml" text="latest.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 
-
-
 ## v0.12.5
 
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.12.5/dive-0.12.5-1.x86_64.rpm" text="dive-0.12.5-1.x86_64.rpm" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
@@ -202,8 +178,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.12.5/latest.json" text="latest.json" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.12.5/latest.yml" text="latest.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 
-
-
 ## v0.12.4
 
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.12.4/dive-0.12.4-1.x86_64.rpm" text="dive-0.12.4-1.x86_64.rpm" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
@@ -223,8 +197,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.12.4/latest-mac.yml" text="latest-mac.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.12.4/latest.json" text="latest.json" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.12.4/latest.yml" text="latest.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
-
-
 
 ## v0.12.3
 
@@ -248,8 +220,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.12.3/latest.json" text="latest.json" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.12.3/latest.yml" text="latest.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 
-
-
 ## v0.12.2
 
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.12.2/dive-0.12.2-1.x86_64.rpm" text="dive-0.12.2-1.x86_64.rpm" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
@@ -271,8 +241,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.12.2/latest-mac.yml" text="latest-mac.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.12.2/latest.json" text="latest.json" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.12.2/latest.yml" text="latest.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
-
-
 
 ## v0.12.1
 
@@ -296,8 +264,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.12.1/latest.json" text="latest.json" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.12.1/latest.yml" text="latest.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 
-
-
 ## v0.12.0
 
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.12.0/dive-0.12.0-1.x86_64.rpm" text="dive-0.12.0-1.x86_64.rpm" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
@@ -319,8 +285,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.12.0/latest-mac.yml" text="latest-mac.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.12.0/latest.json" text="latest.json" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.12.0/latest.yml" text="latest.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
-
-
 
 ## v0.11.1
 
@@ -344,8 +308,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.11.1/latest.json" text="latest.json" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.11.1/latest.yml" text="latest.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 
-
-
 ## v0.11.0
 
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.11.0/dive-0.11.0-1.x86_64.rpm" text="dive-0.11.0-1.x86_64.rpm" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
@@ -367,8 +329,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.11.0/latest-mac.yml" text="latest-mac.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.11.0/latest.json" text="latest.json" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.11.0/latest.yml" text="latest.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
-
-
 
 ## v0.10.1
 
@@ -392,8 +352,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.10.1/latest.json" text="latest.json" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.10.1/latest.yml" text="latest.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 
-
-
 ## v0.10.0
 
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.10.0/dive-0.10.0-1.x86_64_linux.rpm" text="dive-0.10.0-1.x86_64_linux.rpm" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
@@ -415,8 +373,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.10.0/latest-mac.yml" text="latest-mac.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.10.0/latest.json" text="latest.json" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.10.0/latest.yml" text="latest.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
-
-
 
 ## v0.9.11
 
@@ -440,8 +396,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.11/latest.json" text="latest.json" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.11/latest.yml" text="latest.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 
-
-
 ## v0.9.10
 
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.10/dive-0.9.10-1.x86_64.rpm" text="dive-0.9.10-1.x86_64.rpm" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
@@ -461,8 +415,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.10/latest-mac.yml" text="latest-mac.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.10/latest.json" text="latest.json" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.10/latest.yml" text="latest.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
-
-
 
 ## v0.9.9
 
@@ -485,10 +437,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.9/latest.json" text="latest.json" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.9/latest.yml" text="latest.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 
-
-
-
-
 ## v0.9.8
 
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.8/dive-0.9.8-1.x86_64.rpm" text="dive-0.9.8-1.x86_64.rpm" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
@@ -508,8 +456,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.8/latest-mac.yml" text="latest-mac.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.8/latest.json" text="latest.json" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.8/latest.yml" text="latest.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
-
-
 
 ## v0.9.7
 
@@ -531,8 +477,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.7/latest.json" text="latest.json" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.7/latest.yml" text="latest.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 
-
-
 ## v0.9.6
 
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.6/dive-0.9.6-1.x86_64.rpm" text="dive-0.9.6-1.x86_64.rpm" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
@@ -552,8 +496,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.6/latest-mac.yml" text="latest-mac.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.6/latest.json" text="latest.json" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.6/latest.yml" text="latest.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
-
-
 
 ## v0.9.5
 
@@ -575,8 +517,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.5/latest.json" text="latest.json" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.5/latest.yml" text="latest.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 
-
-
 ## v0.9.4
 
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.4/dive-0.9.4-1.x86_64.rpm" text="dive-0.9.4-1.x86_64.rpm" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
@@ -591,8 +531,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.4/dive_0.9.4_x64-setup.exe.sig" text="dive_0.9.4_x64-setup.exe.sig" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.4/latest-mac.yml" text="latest-mac.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.4/latest.json" text="latest.json" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
-
-
 
 ## v0.9.3
 
@@ -609,8 +547,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.3/latest-linux.yml" text="latest-linux.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.3/latest.json" text="latest.json" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 
-
-
 ## v0.9.2
 
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.2/Dive-0.9.2-linux-x64.tar.gz" text="Dive-0.9.2-linux-x64.tar.gz" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
@@ -624,8 +560,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.2/latest-linux.yml" text="latest-linux.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.2/latest-mac.yml" text="latest-mac.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.2/latest.json" text="latest.json" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
-
-
 
 ## v0.9.1
 
@@ -641,8 +575,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.1/latest-mac.yml" text="latest-mac.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.1/latest.json" text="latest.json" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 
-
-
 ## v0.9.0
 
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.0/Dive-0.9.0-linux-x64.tar.gz" text="Dive-0.9.0-linux-x64.tar.gz" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
@@ -657,8 +589,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.0/latest-mac.yml" text="latest-mac.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.9.0/latest.json" text="latest.json" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 
-
-
 ## v0.8.9-rc.1
 
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.8.9-rc.1/Dive-0.8.9-rc.0-linux-x64.tar.gz" text="Dive-0.8.9-rc.0-linux-x64.tar.gz" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
@@ -672,11 +602,7 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.8.9-rc.1/latest-mac.yml" text="latest-mac.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/OpenAgentPlatform/Dive/releases/download/v0.8.9-rc.1/latest.yml" text="latest.yml" repositoryKey="OpenAgentPlatform/Dive" preferredProviders={["123pan"]} />
 
-
-
-
 找不到想要的版本？您可以访问 [官方网站](https://github.com/OpenAgentPlatform/Dive/) 以下载更多版本。
 
 <!-- md Mirrors.md -->
-
 

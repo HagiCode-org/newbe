@@ -14,17 +14,7 @@ minikube. 国内直接从官网 https://github.com/kubernetes/minikube/ 下载�
 
 minikube 在 macOS、Linux 和 Windows 上实现了一个本地 Kubernetes 集群。minikube 的主要目标是成为本地 Kubernetes 应用开发的最佳工具，并支持所有适合的 Kubernetes 功能。
 
-
-
-import HagicodeRecommendation from '../../src/components/HagicodeRecommendation';
-
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
-
-
-
-<HagicodeRecommendation layout="page" />
-
-
 
 ## v1.38.1
 
@@ -74,8 +64,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.38.1/minikube_latest_ppc64el.deb" text="minikube_latest_ppc64el.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.38.1/minikube_latest_s390x.deb" text="minikube_latest_s390x.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.38.1/minikube_v1.38.1_sbom.spdx" text="minikube_v1.38.1_sbom.spdx" repositoryKey="kubernetes/minikube" />
-
-
 
 ## v1.38.0
 
@@ -129,8 +117,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.38.0/minikube_latest_ppc64el.deb" text="minikube_latest_ppc64el.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.38.0/minikube_latest_s390x.deb" text="minikube_latest_s390x.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.38.0/minikube_v1.38.0_sbom.spdx" text="minikube_v1.38.0_sbom.spdx" repositoryKey="kubernetes/minikube" />
-
-
 
 ## v1.37.0
 
@@ -204,8 +190,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.37.0/minikube_latest_s390x.deb" text="minikube_latest_s390x.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.37.0/minikube_v1.37.0_sbom.spdx" text="minikube_v1.37.0_sbom.spdx" repositoryKey="kubernetes/minikube" />
 
-
-
 ## v1.36.0
 
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.36.0/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
@@ -278,8 +262,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.36.0/minikube_latest_s390x.deb" text="minikube_latest_s390x.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.36.0/minikube_v1.36.0_sbom.spdx" text="minikube_v1.36.0_sbom.spdx" repositoryKey="kubernetes/minikube" />
 
-
-
 ## v1.35.0
 
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.35.0/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
@@ -350,8 +332,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.35.0/minikube_latest_s390x.deb" text="minikube_latest_s390x.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.35.0/minikube_v1.35.0_sbom.spdx" text="minikube_v1.35.0_sbom.spdx" repositoryKey="kubernetes/minikube" />
 
-
-
 ## v1.34.0
 
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.34.0/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
@@ -406,8 +386,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.34.0/minikube_1.34.0-0_s390x.deb" text="minikube_1.34.0-0_s390x.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.34.0/minikube_v1.34.0_sbom.spdx" text="minikube_v1.34.0_sbom.spdx" repositoryKey="kubernetes/minikube" />
 
-
-
 ## v1.33.1
 
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.33.1/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
@@ -461,8 +439,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.33.1/minikube_1.33.1-0_ppc64el.deb" text="minikube_1.33.1-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.33.1/minikube_1.33.1-0_s390x.deb" text="minikube_1.33.1-0_s390x.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.33.1/minikube_v1.33.1_sbom.spdx" text="minikube_v1.33.1_sbom.spdx" repositoryKey="kubernetes/minikube" />
-
-
 
 ## v1.33.0
 
@@ -522,8 +498,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.33.0/minikube_1.33.0-0_s390x.deb" text="minikube_1.33.0-0_s390x.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.33.0/minikube_v1.33.0_sbom.spdx" text="minikube_v1.33.0_sbom.spdx" repositoryKey="kubernetes/minikube" />
 
-
-
 ## v1.33.0-beta.0
 
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.33.0-beta.0/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
@@ -576,8 +550,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.33.0-beta.0/minikube_1.33.0.beta.0-0_armhf.deb" text="minikube_1.33.0.beta.0-0_armhf.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.33.0-beta.0/minikube_1.33.0.beta.0-0_ppc64el.deb" text="minikube_1.33.0.beta.0-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.33.0-beta.0/minikube_1.33.0.beta.0-0_s390x.deb" text="minikube_1.33.0.beta.0-0_s390x.deb" repositoryKey="kubernetes/minikube" />
-
-
 
 ## v1.32.0
 
@@ -632,8 +604,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0/minikube_1.32.0-0_ppc64el.deb" text="minikube_1.32.0-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0/minikube_1.32.0-0_s390x.deb" text="minikube_1.32.0-0_s390x.deb" repositoryKey="kubernetes/minikube" />
 
-
-
 ## v1.32.0-beta.0
 
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
@@ -682,8 +652,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube_1.32.0.beta.0-0_armhf.deb" text="minikube_1.32.0.beta.0-0_armhf.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube_1.32.0.beta.0-0_ppc64el.deb" text="minikube_1.32.0.beta.0-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.32.0-beta.0/minikube_1.32.0.beta.0-0_s390x.deb" text="minikube_1.32.0.beta.0-0_s390x.deb" repositoryKey="kubernetes/minikube" />
-
-
 
 ## v1.31.2
 
@@ -734,8 +702,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube_1.31.2-0_ppc64el.deb" text="minikube_1.31.2-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.2/minikube_1.31.2-0_s390x.deb" text="minikube_1.31.2-0_s390x.deb" repositoryKey="kubernetes/minikube" />
 
-
-
 ## v1.31.1
 
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
@@ -784,8 +750,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube_1.31.1-0_armhf.deb" text="minikube_1.31.1-0_armhf.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube_1.31.1-0_ppc64el.deb" text="minikube_1.31.1-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.1/minikube_1.31.1-0_s390x.deb" text="minikube_1.31.1-0_s390x.deb" repositoryKey="kubernetes/minikube" />
-
-
 
 ## v1.31.0
 
@@ -840,8 +804,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube_1.31.0-0_ppc64el.deb" text="minikube_1.31.0-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.31.0/minikube_1.31.0-0_s390x.deb" text="minikube_1.31.0-0_s390x.deb" repositoryKey="kubernetes/minikube" />
 
-
-
 ## v1.30.1
 
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
@@ -894,8 +856,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube_1.30.1-0_armhf.deb" text="minikube_1.30.1-0_armhf.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube_1.30.1-0_ppc64el.deb" text="minikube_1.30.1-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.1/minikube_1.30.1-0_s390x.deb" text="minikube_1.30.1-0_s390x.deb" repositoryKey="kubernetes/minikube" />
-
-
 
 ## v1.30.0
 
@@ -950,8 +910,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube_1.30.0-0_ppc64el.deb" text="minikube_1.30.0-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.30.0/minikube_1.30.0-0_s390x.deb" text="minikube_1.30.0-0_s390x.deb" repositoryKey="kubernetes/minikube" />
 
-
-
 ## v1.29.0
 
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
@@ -1004,8 +962,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube_1.29.0-0_armhf.deb" text="minikube_1.29.0-0_armhf.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube_1.29.0-0_ppc64el.deb" text="minikube_1.29.0-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.29.0/minikube_1.29.0-0_s390x.deb" text="minikube_1.29.0-0_s390x.deb" repositoryKey="kubernetes/minikube" />
-
-
 
 ## v1.28.0
 
@@ -1060,8 +1016,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube_1.28.0-0_ppc64el.deb" text="minikube_1.28.0-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.28.0/minikube_1.28.0-0_s390x.deb" text="minikube_1.28.0-0_s390x.deb" repositoryKey="kubernetes/minikube" />
 
-
-
 ## v1.27.1
 
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
@@ -1110,8 +1064,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube_1.27.1-0_armhf.deb" text="minikube_1.27.1-0_armhf.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube_1.27.1-0_ppc64el.deb" text="minikube_1.27.1-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.1/minikube_1.27.1-0_s390x.deb" text="minikube_1.27.1-0_s390x.deb" repositoryKey="kubernetes/minikube" />
-
-
 
 ## v1.27.0
 
@@ -1166,10 +1118,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube_1.27.0-0_ppc64el.deb" text="minikube_1.27.0-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.27.0/minikube_1.27.0-0_s390x.deb" text="minikube_1.27.0-0_s390x.deb" repositoryKey="kubernetes/minikube" />
 
-
-
-
-
 ## v1.26.1
 
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
@@ -1222,8 +1170,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube_1.26.1-0_armhf.deb" text="minikube_1.26.1-0_armhf.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube_1.26.1-0_ppc64el.deb" text="minikube_1.26.1-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.1/minikube_1.26.1-0_s390x.deb" text="minikube_1.26.1-0_s390x.deb" repositoryKey="kubernetes/minikube" />
-
-
 
 ## v1.26.0
 
@@ -1286,8 +1232,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube_1.26.0-0_ppc64el.deb" text="minikube_1.26.0-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0/minikube_1.26.0-0_s390x.deb" text="minikube_1.26.0-0_s390x.deb" repositoryKey="kubernetes/minikube" />
 
-
-
 ## v1.26.0-beta.1
 
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
@@ -1340,8 +1284,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube_1.26.0.beta.1-0_armhf.deb" text="minikube_1.26.0.beta.1-0_armhf.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube_1.26.0.beta.1-0_ppc64el.deb" text="minikube_1.26.0.beta.1-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.1/minikube_1.26.0.beta.1-0_s390x.deb" text="minikube_1.26.0.beta.1-0_s390x.deb" repositoryKey="kubernetes/minikube" />
-
-
 
 ## v1.26.0-beta.0
 
@@ -1396,8 +1338,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube_1.26.0.beta.0-0_ppc64el.deb" text="minikube_1.26.0.beta.0-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.26.0-beta.0/minikube_1.26.0.beta.0-0_s390x.deb" text="minikube_1.26.0.beta.0-0_s390x.deb" repositoryKey="kubernetes/minikube" />
 
-
-
 ## v1.25.2
 
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
@@ -1449,8 +1389,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube_1.25.2-0_ppc64el.deb" text="minikube_1.25.2-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.2/minikube_1.25.2-0_s390x.deb" text="minikube_1.25.2-0_s390x.deb" repositoryKey="kubernetes/minikube" />
 
-
-
 ## v1.25.1
 
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
@@ -1499,8 +1437,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube_1.25.1-0_armhf.deb" text="minikube_1.25.1-0_armhf.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube_1.25.1-0_ppc64el.deb" text="minikube_1.25.1-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.1/minikube_1.25.1-0_s390x.deb" text="minikube_1.25.1-0_s390x.deb" repositoryKey="kubernetes/minikube" />
-
-
 
 ## v1.25.0
 
@@ -1553,8 +1489,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube_1.25.0-0_ppc64el.deb" text="minikube_1.25.0-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.25.0/minikube_1.25.0-0_s390x.deb" text="minikube_1.25.0-0_s390x.deb" repositoryKey="kubernetes/minikube" />
 
-
-
 ## v1.24.0
 
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
@@ -1605,8 +1539,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube_1.24.0-0_ppc64el.deb" text="minikube_1.24.0-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube_1.24.0-0_s390x.deb" text="minikube_1.24.0-0_s390x.deb" repositoryKey="kubernetes/minikube" />
 
-
-
 ## v1.24.0-beta.0
 
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/docker-machine-driver-hyperkit" text="docker-machine-driver-hyperkit" repositoryKey="kubernetes/minikube" />
@@ -1654,8 +1586,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube_1.24.0.beta.0-0_armhf.deb" text="minikube_1.24.0.beta.0-0_armhf.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube_1.24.0.beta.0-0_ppc64el.deb" text="minikube_1.24.0.beta.0-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.24.0-beta.0/minikube_1.24.0.beta.0-0_s390x.deb" text="minikube_1.24.0.beta.0-0_s390x.deb" repositoryKey="kubernetes/minikube" />
-
-
 
 ## v1.23.2
 
@@ -1705,11 +1635,7 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube_1.23.2-0_ppc64el.deb" text="minikube_1.23.2-0_ppc64el.deb" repositoryKey="kubernetes/minikube" />
 - <GithubMirrorLink link="https://github.com/kubernetes/minikube/releases/download/v1.23.2/minikube_1.23.2-0_s390x.deb" text="minikube_1.23.2-0_s390x.deb" repositoryKey="kubernetes/minikube" />
 
-
-
-
 找不到想要的版本？您可以访问 [官方网站](https://github.com/kubernetes/minikube/) 以下载更多版本。
 
 <!-- md Mirrors.md -->
-
 

@@ -16,17 +16,7 @@ Gitea 是一个自托管的一体化软件开发平台，覆盖 Git 托管、代
 它常被中小团队和私有化部署场景采用，也会提供适用于多平台的服务端与客户端发布资产。
 把 Gitea 纳入镜像目录后，国内用户下载服务端程序和升级包会更稳定。
 
-
-
-import HagicodeRecommendation from '../../src/components/HagicodeRecommendation';
-
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
-
-
-
-<HagicodeRecommendation layout="page" />
-
-
 
 ## v1.26.0
 
@@ -155,8 +145,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.26.0/gitea-src-1.26.0.tar.gz.sha256" text="gitea-src-1.26.0.tar.gz.sha256" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-3npuA", "status": "synced", "syncedAt": "2026-04-18T21:52:29.757Z", "source": "azure"}]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.26.0/gitea-src-1.26.0.tar.gz.sha256.asc" text="gitea-src-1.26.0.tar.gz.sha256.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-hnpuA", "status": "synced", "syncedAt": "2026-04-18T21:52:34.247Z", "source": "azure"}]} />
 
-
-
 ## v1.26.0-rc0
 
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.26.0-rc0/gitea-1.26.0-rc0-darwin-10.12-amd64" text="gitea-1.26.0-rc0-darwin-10.12-amd64" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-iIpuA", "status": "synced", "syncedAt": "2026-04-11T15:40:18.738Z", "source": "azure"}]} />
@@ -283,8 +271,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.26.0-rc0/gitea-src-1.26.0-rc0.tar.gz.asc" text="gitea-src-1.26.0-rc0.tar.gz.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-3apuA", "status": "synced", "syncedAt": "2026-04-11T10:49:47.638Z", "source": "azure"}]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.26.0-rc0/gitea-src-1.26.0-rc0.tar.gz.sha256" text="gitea-src-1.26.0-rc0.tar.gz.sha256" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-AapuA", "status": "synced", "syncedAt": "2026-04-11T10:49:50.610Z", "source": "azure"}]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.26.0-rc0/gitea-src-1.26.0-rc0.tar.gz.sha256.asc" text="gitea-src-1.26.0-rc0.tar.gz.sha256.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-HapuA", "status": "synced", "syncedAt": "2026-04-11T10:49:53.875Z", "source": "azure"}]} />
-
-
 
 ## v1.25.5
 
@@ -413,8 +399,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.25.5/gitea-src-1.25.5.tar.gz.sha256" text="gitea-src-1.25.5.tar.gz.sha256" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.25.5/gitea-src-1.25.5.tar.gz.sha256.asc" text="gitea-src-1.25.5.tar.gz.sha256.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 
-
-
 ## v1.25.4
 
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.25.4/gitea-1.25.4-darwin-10.12-amd64" text="gitea-1.25.4-darwin-10.12-amd64" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
@@ -525,8 +509,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.25.4/gitea-src-1.25.4.tar.gz.asc" text="gitea-src-1.25.4.tar.gz.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.25.4/gitea-src-1.25.4.tar.gz.sha256" text="gitea-src-1.25.4.tar.gz.sha256" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.25.4/gitea-src-1.25.4.tar.gz.sha256.asc" text="gitea-src-1.25.4.tar.gz.sha256.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
-
-
 
 ## v1.25.3
 
@@ -639,8 +621,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.25.3/gitea-src-1.25.3.tar.gz.sha256" text="gitea-src-1.25.3.tar.gz.sha256" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.25.3/gitea-src-1.25.3.tar.gz.sha256.asc" text="gitea-src-1.25.3.tar.gz.sha256.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 
-
-
 ## v1.25.2
 
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.25.2/gitea-1.25.2-darwin-10.12-amd64" text="gitea-1.25.2-darwin-10.12-amd64" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
@@ -751,8 +731,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.25.2/gitea-src-1.25.2.tar.gz.asc" text="gitea-src-1.25.2.tar.gz.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.25.2/gitea-src-1.25.2.tar.gz.sha256" text="gitea-src-1.25.2.tar.gz.sha256" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.25.2/gitea-src-1.25.2.tar.gz.sha256.asc" text="gitea-src-1.25.2.tar.gz.sha256.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
-
-
 
 ## v1.25.1
 
@@ -865,8 +843,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.25.1/gitea-src-1.25.1.tar.gz.sha256" text="gitea-src-1.25.1.tar.gz.sha256" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.25.1/gitea-src-1.25.1.tar.gz.sha256.asc" text="gitea-src-1.25.1.tar.gz.sha256.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 
-
-
 ## v1.25.0
 
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.25.0/gitea-1.25.0-darwin-10.12-amd64" text="gitea-1.25.0-darwin-10.12-amd64" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
@@ -977,8 +953,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.25.0/gitea-src-1.25.0.tar.gz.asc" text="gitea-src-1.25.0.tar.gz.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.25.0/gitea-src-1.25.0.tar.gz.sha256" text="gitea-src-1.25.0.tar.gz.sha256" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.25.0/gitea-src-1.25.0.tar.gz.sha256.asc" text="gitea-src-1.25.0.tar.gz.sha256.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
-
-
 
 ## v1.24.7
 
@@ -1091,8 +1065,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.24.7/gitea-src-1.24.7.tar.gz.sha256" text="gitea-src-1.24.7.tar.gz.sha256" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.24.7/gitea-src-1.24.7.tar.gz.sha256.asc" text="gitea-src-1.24.7.tar.gz.sha256.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 
-
-
 ## v1.25.0-rc0
 
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.25.0-rc0/gitea-1.25.0-rc0-darwin-10.12-amd64" text="gitea-1.25.0-rc0-darwin-10.12-amd64" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
@@ -1203,8 +1175,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.25.0-rc0/gitea-src-1.25.0-rc0.tar.gz.asc" text="gitea-src-1.25.0-rc0.tar.gz.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.25.0-rc0/gitea-src-1.25.0-rc0.tar.gz.sha256" text="gitea-src-1.25.0-rc0.tar.gz.sha256" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.25.0-rc0/gitea-src-1.25.0-rc0.tar.gz.sha256.asc" text="gitea-src-1.25.0-rc0.tar.gz.sha256.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
-
-
 
 ## v1.24.6
 
@@ -1317,8 +1287,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.24.6/gitea-src-1.24.6.tar.gz.sha256" text="gitea-src-1.24.6.tar.gz.sha256" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.24.6/gitea-src-1.24.6.tar.gz.sha256.asc" text="gitea-src-1.24.6.tar.gz.sha256.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 
-
-
 ## v1.24.5
 
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.24.5/gitea-1.24.5-darwin-10.12-amd64" text="gitea-1.24.5-darwin-10.12-amd64" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
@@ -1429,8 +1397,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.24.5/gitea-src-1.24.5.tar.gz.asc" text="gitea-src-1.24.5.tar.gz.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.24.5/gitea-src-1.24.5.tar.gz.sha256" text="gitea-src-1.24.5.tar.gz.sha256" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.24.5/gitea-src-1.24.5.tar.gz.sha256.asc" text="gitea-src-1.24.5.tar.gz.sha256.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
-
-
 
 ## v1.24.4
 
@@ -1543,8 +1509,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.24.4/gitea-src-1.24.4.tar.gz.sha256" text="gitea-src-1.24.4.tar.gz.sha256" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.24.4/gitea-src-1.24.4.tar.gz.sha256.asc" text="gitea-src-1.24.4.tar.gz.sha256.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 
-
-
 ## v1.24.3
 
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.24.3/gitea-1.24.3-darwin-10.12-amd64" text="gitea-1.24.3-darwin-10.12-amd64" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
@@ -1655,8 +1619,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.24.3/gitea-src-1.24.3.tar.gz.asc" text="gitea-src-1.24.3.tar.gz.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.24.3/gitea-src-1.24.3.tar.gz.sha256" text="gitea-src-1.24.3.tar.gz.sha256" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.24.3/gitea-src-1.24.3.tar.gz.sha256.asc" text="gitea-src-1.24.3.tar.gz.sha256.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
-
-
 
 ## v1.24.2
 
@@ -1769,8 +1731,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.24.2/gitea-src-1.24.2.tar.gz.sha256" text="gitea-src-1.24.2.tar.gz.sha256" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.24.2/gitea-src-1.24.2.tar.gz.sha256.asc" text="gitea-src-1.24.2.tar.gz.sha256.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 
-
-
 ## v1.24.1
 
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.24.1/gitea-1.24.1-darwin-10.12-amd64" text="gitea-1.24.1-darwin-10.12-amd64" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
@@ -1881,8 +1841,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.24.1/gitea-src-1.24.1.tar.gz.asc" text="gitea-src-1.24.1.tar.gz.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.24.1/gitea-src-1.24.1.tar.gz.sha256" text="gitea-src-1.24.1.tar.gz.sha256" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.24.1/gitea-src-1.24.1.tar.gz.sha256.asc" text="gitea-src-1.24.1.tar.gz.sha256.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
-
-
 
 ## v1.24.0
 
@@ -1995,8 +1953,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.24.0/gitea-src-1.24.0.tar.gz.sha256" text="gitea-src-1.24.0.tar.gz.sha256" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.24.0/gitea-src-1.24.0.tar.gz.sha256.asc" text="gitea-src-1.24.0.tar.gz.sha256.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 
-
-
 ## v1.23.8
 
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.8/gitea-1.23.8-darwin-10.12-amd64" text="gitea-1.23.8-darwin-10.12-amd64" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
@@ -2107,8 +2063,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.8/gitea-src-1.23.8.tar.gz.asc" text="gitea-src-1.23.8.tar.gz.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.8/gitea-src-1.23.8.tar.gz.sha256" text="gitea-src-1.23.8.tar.gz.sha256" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.8/gitea-src-1.23.8.tar.gz.sha256.asc" text="gitea-src-1.23.8.tar.gz.sha256.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
-
-
 
 ## v1.24.0-rc0
 
@@ -2221,8 +2175,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.24.0-rc0/gitea-src-1.24.0-rc0.tar.gz.sha256" text="gitea-src-1.24.0-rc0.tar.gz.sha256" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.24.0-rc0/gitea-src-1.24.0-rc0.tar.gz.sha256.asc" text="gitea-src-1.24.0-rc0.tar.gz.sha256.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 
-
-
 ## v1.23.7
 
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.7/gitea-1.23.7-darwin-10.12-amd64" text="gitea-1.23.7-darwin-10.12-amd64" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
@@ -2325,10 +2277,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.7/gitea-src-1.23.7.tar.gz.asc" text="gitea-src-1.23.7.tar.gz.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.7/gitea-src-1.23.7.tar.gz.sha256" text="gitea-src-1.23.7.tar.gz.sha256" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.7/gitea-src-1.23.7.tar.gz.sha256.asc" text="gitea-src-1.23.7.tar.gz.sha256.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
-
-
-
-
 
 ## v1.23.6
 
@@ -2433,8 +2381,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.6/gitea-src-1.23.6.tar.gz.sha256" text="gitea-src-1.23.6.tar.gz.sha256" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.6/gitea-src-1.23.6.tar.gz.sha256.asc" text="gitea-src-1.23.6.tar.gz.sha256.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 
-
-
 ## v1.23.5
 
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.5/gitea-1.23.5-darwin-10.12-amd64" text="gitea-1.23.5-darwin-10.12-amd64" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
@@ -2537,8 +2483,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.5/gitea-src-1.23.5.tar.gz.asc" text="gitea-src-1.23.5.tar.gz.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.5/gitea-src-1.23.5.tar.gz.sha256" text="gitea-src-1.23.5.tar.gz.sha256" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.5/gitea-src-1.23.5.tar.gz.sha256.asc" text="gitea-src-1.23.5.tar.gz.sha256.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
-
-
 
 ## v1.23.4
 
@@ -2643,8 +2587,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.4/gitea-src-1.23.4.tar.gz.sha256" text="gitea-src-1.23.4.tar.gz.sha256" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.4/gitea-src-1.23.4.tar.gz.sha256.asc" text="gitea-src-1.23.4.tar.gz.sha256.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 
-
-
 ## v1.23.3
 
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.3/gitea-1.23.3-darwin-10.12-amd64" text="gitea-1.23.3-darwin-10.12-amd64" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
@@ -2747,8 +2689,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.3/gitea-src-1.23.3.tar.gz.asc" text="gitea-src-1.23.3.tar.gz.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.3/gitea-src-1.23.3.tar.gz.sha256" text="gitea-src-1.23.3.tar.gz.sha256" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.3/gitea-src-1.23.3.tar.gz.sha256.asc" text="gitea-src-1.23.3.tar.gz.sha256.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
-
-
 
 ## v1.23.2
 
@@ -2853,8 +2793,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.2/gitea-src-1.23.2.tar.gz.sha256" text="gitea-src-1.23.2.tar.gz.sha256" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.2/gitea-src-1.23.2.tar.gz.sha256.asc" text="gitea-src-1.23.2.tar.gz.sha256.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 
-
-
 ## v1.23.1
 
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.1/gitea-1.23.1-darwin-10.12-amd64" text="gitea-1.23.1-darwin-10.12-amd64" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
@@ -2957,8 +2895,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.1/gitea-src-1.23.1.tar.gz.asc" text="gitea-src-1.23.1.tar.gz.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.1/gitea-src-1.23.1.tar.gz.sha256" text="gitea-src-1.23.1.tar.gz.sha256" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.1/gitea-src-1.23.1.tar.gz.sha256.asc" text="gitea-src-1.23.1.tar.gz.sha256.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
-
-
 
 ## v1.23.0
 
@@ -3063,8 +2999,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.0/gitea-src-1.23.0.tar.gz.sha256" text="gitea-src-1.23.0.tar.gz.sha256" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.0/gitea-src-1.23.0.tar.gz.sha256.asc" text="gitea-src-1.23.0.tar.gz.sha256.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 
-
-
 ## v1.23.0-rc0
 
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.0-rc0/gitea-1.23.0-rc0-darwin-10.12-amd64" text="gitea-1.23.0-rc0-darwin-10.12-amd64" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
@@ -3167,8 +3101,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.0-rc0/gitea-src-1.23.0-rc0.tar.gz.asc" text="gitea-src-1.23.0-rc0.tar.gz.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.0-rc0/gitea-src-1.23.0-rc0.tar.gz.sha256" text="gitea-src-1.23.0-rc0.tar.gz.sha256" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.23.0-rc0/gitea-src-1.23.0-rc0.tar.gz.sha256.asc" text="gitea-src-1.23.0-rc0.tar.gz.sha256.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
-
-
 
 ## v1.22.6
 
@@ -3277,8 +3209,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.22.6/gitea-src-1.22.6.tar.gz.sha256" text="gitea-src-1.22.6.tar.gz.sha256" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.22.6/gitea-src-1.22.6.tar.gz.sha256.asc" text="gitea-src-1.22.6.tar.gz.sha256.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 
-
-
 ## v1.22.5
 
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.22.5/gitea-1.22.5-darwin-10.12-amd64" text="gitea-1.22.5-darwin-10.12-amd64" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
@@ -3378,11 +3308,7 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.22.5/gitea-src-1.22.5.tar.gz.sha256" text="gitea-src-1.22.5.tar.gz.sha256" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/go-gitea/gitea/releases/download/v1.22.5/gitea-src-1.22.5.tar.gz.sha256.asc" text="gitea-src-1.22.5.tar.gz.sha256.asc" repositoryKey="go-gitea/gitea" preferredProviders={["123pan"]} />
 
-
-
-
 找不到想要的版本？您可以访问 [官方网站](https://github.com/go-gitea/gitea/) 以下载更多版本。
 
 <!-- md Mirrors.md -->
-
 

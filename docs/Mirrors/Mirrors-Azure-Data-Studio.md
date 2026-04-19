@@ -16,17 +16,7 @@ Azure Data Studio 是一个面向开发者和数据库工程师的数据管理�
 它提供跨平台桌面安装包、扩展机制和面向查询分析的工作流，适合经常需要下载安装器或扩展包的用户。
 这类发布资产通常体积较大，补齐镜像页面后，国内用户获取主程序和相关扩展会更稳定。
 
-
-
-import HagicodeRecommendation from '../../src/components/HagicodeRecommendation';
-
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
-
-
-
-<HagicodeRecommendation layout="page" />
-
-
 
 ## final
 
@@ -84,52 +74,23 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/vscodeintellicode-1.3.1.vsix" text="vscodeintellicode-1.3.1.vsix" repositoryKey="microsoft/azuredatastudio" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/final/whoisactive-0.1.5.vsix" text="whoisactive-0.1.5.vsix" repositoryKey="microsoft/azuredatastudio" preferredProviders={["123pan"]} />
 
-
-
 ## 1.52.0
-
-
-
 
 ## 1.51.1
 
-
-
-
 ## 1.51.0
-
-
-
 
 ## 1.50.0
 
-
-
-
 ## 1.49.1
-
-
-
 
 ## 1.49.0
 
-
-
-
 ## 1.48.1
-
-
-
 
 ## 1.48.0
 
-
-
-
 ## 1.47.1
-
-
-
 
 ## 1.41.3
 
@@ -146,108 +107,45 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-windows-setup-1.41.3.exe" text="azuredatastudio-windows-setup-1.41.3.exe" repositoryKey="microsoft/azuredatastudio" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-windows-user-setup-1.41.3.exe" text="azuredatastudio-windows-user-setup-1.41.3.exe" repositoryKey="microsoft/azuredatastudio" preferredProviders={["123pan"]} />
 
-
-
 ## 1.47.0
-
-
-
 
 ## 1.46.1
 
-
-
-
 ## 1.46.0
-
-
-
 
 ## 1.45.1
 
-
-
-
 ## 1.45.0
-
-
-
 
 ## 1.44.1
 
-
-
-
 ## 1.44.0
-
-
-
 
 ## 1.43.0
 
-
-
-
 ## 1.42.0
-
-
-
-
-
 
 ## 1.41.2
 
-
-
-
 ## 1.41.1
-
-
-
 
 ## 1.41.0
 
-
-
-
 ## 1.40.2
-
-
-
 
 ## 1.40.1
 
-
-
-
 ## 1.40.0
-
-
-
 
 ## 1.39.1
 
-
-
-
 ## 1.39.0
-
-
-
 
 ## 1.38.0
 
-
-
-
 ## 1.37.0
-
-
-
-
 
 找不到想要的版本？您可以访问 [官方网站](https://github.com/microsoft/azuredatastudio/) 以下载更多版本。
 
 <!-- md Mirrors.md -->
-
 

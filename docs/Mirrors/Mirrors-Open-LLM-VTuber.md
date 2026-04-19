@@ -19,16 +19,7 @@ Open-LLM-VTuber 是一个独特的语音交互人工智能伙伴。它不仅支�
 它被称为 Open-LLM-VTuber 而不是 Open-LLM-Companion 或 Open-LLM-Waifu，是因为该项目的初始开发目标是使用能在非 Windows 平台上离线运行的开源解决方案来重现闭源的人工智能虚拟主播 neuro-sama。
 这个项目在 v1.0.0 版本后进行了代码重构，目前正在积极开发中，很快会有许多令人兴奋的功能推出！可以查看路线图了解更新计划。
 
-
-import HagicodeRecommendation from '../../src/components/HagicodeRecommendation';
-
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
-
-
-
-<HagicodeRecommendation layout="page" />
-
-
 
 ## v1.2.1
 
@@ -37,16 +28,12 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/releases/download/v1.2.1/v1.2.1_Open-LLM-VTuber-v1.2.1-en.zip" text="v1.2.1_Open-LLM-VTuber-v1.2.1-en.zip" repositoryKey="Open-LLM-VTuber/Open-LLM-VTuber" />
 - <GithubMirrorLink link="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/releases/download/v1.2.1/v1.2.1_Open-LLM-VTuber-v1.2.1-zh.zip" text="v1.2.1_Open-LLM-VTuber-v1.2.1-zh.zip" repositoryKey="Open-LLM-VTuber/Open-LLM-VTuber" />
 
-
-
 ## 1.2.0
 
 - <GithubMirrorLink link="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/releases/download/1.2.0/open-llm-vtuber-1.2.0-setup.exe" text="open-llm-vtuber-1.2.0-setup.exe" repositoryKey="Open-LLM-VTuber/Open-LLM-VTuber" />
 - <GithubMirrorLink link="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/releases/download/1.2.0/open-llm-vtuber-1.2.0.dmg" text="open-llm-vtuber-1.2.0.dmg" repositoryKey="Open-LLM-VTuber/Open-LLM-VTuber" />
 - <GithubMirrorLink link="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/releases/download/1.2.0/Open-LLM-VTuber-v1.2.0-en.zip" text="Open-LLM-VTuber-v1.2.0-en.zip" repositoryKey="Open-LLM-VTuber/Open-LLM-VTuber" />
 - <GithubMirrorLink link="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/releases/download/1.2.0/Open-LLM-VTuber-v1.2.0-zh.zip" text="Open-LLM-VTuber-v1.2.0-zh.zip" repositoryKey="Open-LLM-VTuber/Open-LLM-VTuber" />
-
-
 
 ## v1.1.0
 
@@ -55,104 +42,59 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/releases/download/v1.1.0/Open-LLM-VTuber-v1.1.0-en.zip" text="Open-LLM-VTuber-v1.1.0-en.zip" repositoryKey="Open-LLM-VTuber/Open-LLM-VTuber" />
 - <GithubMirrorLink link="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/releases/download/v1.1.0/Open-LLM-VTuber-v1.1.0-zh.zip" text="Open-LLM-VTuber-v1.1.0-zh.zip" repositoryKey="Open-LLM-VTuber/Open-LLM-VTuber" />
 
-
-
 ## v1.0.0
 
 - <GithubMirrorLink link="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/releases/download/v1.0.0/open-llm-vtuber-electron-1.0.0-frontend.dmg" text="open-llm-vtuber-electron-1.0.0-frontend.dmg" repositoryKey="Open-LLM-VTuber/Open-LLM-VTuber" />
 - <GithubMirrorLink link="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/releases/download/v1.0.0/open-llm-vtuber-electron-1.0.0-frontend.exe" text="open-llm-vtuber-electron-1.0.0-frontend.exe" repositoryKey="Open-LLM-VTuber/Open-LLM-VTuber" />
 - <GithubMirrorLink link="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/releases/download/v1.0.0/Open-LLM-VTuber-v1.0.1.zip" text="Open-LLM-VTuber-v1.0.1.zip" repositoryKey="Open-LLM-VTuber/Open-LLM-VTuber" />
 
-
-
 ## v0.5.2
 
 - <GithubMirrorLink link="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/releases/download/v0.5.2/Open-LLM-VTuber-v0.5.2.zip" text="Open-LLM-VTuber-v0.5.2.zip" repositoryKey="Open-LLM-VTuber/Open-LLM-VTuber" />
-
-
 
 ## v0.5.1
 
 - <GithubMirrorLink link="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/releases/download/v0.5.1/Open-LLM-VTuber-v0.5.1.zip" text="Open-LLM-VTuber-v0.5.1.zip" repositoryKey="Open-LLM-VTuber/Open-LLM-VTuber" />
 
-
-
 ## v0.4.4
-
-
-
 
 ## v0.4.3
 
 - <GithubMirrorLink link="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/releases/download/v0.4.3/Open-LLM-VTuber-v0.4.3.zip" text="Open-LLM-VTuber-v0.4.3.zip" repositoryKey="Open-LLM-VTuber/Open-LLM-VTuber" />
 
-
-
 ## v0.4.2
 
 - <GithubMirrorLink link="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/releases/download/v0.4.2/Open-LLM-VTuber-v0.4.2.zip" text="Open-LLM-VTuber-v0.4.2.zip" repositoryKey="Open-LLM-VTuber/Open-LLM-VTuber" />
-
-
-
-
 
 ## v0.4.1
 
 - <GithubMirrorLink link="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/releases/download/v0.4.1/Open-LLM-VTuber-v0.4.1.zip" text="Open-LLM-VTuber-v0.4.1.zip" repositoryKey="Open-LLM-VTuber/Open-LLM-VTuber" />
 
-
-
 ## v0.4.0
 
 - <GithubMirrorLink link="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/releases/download/v0.4.0/Open-LLM-VTuber-v0.4.0.release.zip" text="Open-LLM-VTuber-v0.4.0.release.zip" repositoryKey="Open-LLM-VTuber/Open-LLM-VTuber" />
-
-
 
 ## v0.3.1
 
 - <GithubMirrorLink link="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/releases/download/v0.3.1/Open-LLM-VTuber-v0.3.1.zip" text="Open-LLM-VTuber-v0.3.1.zip" repositoryKey="Open-LLM-VTuber/Open-LLM-VTuber" />
 
-
-
 ## v0.2.5
 
 - <GithubMirrorLink link="https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/releases/download/v0.2.5/Open-LLM-VTuber-v0.2.5.zip" text="Open-LLM-VTuber-v0.2.5.zip" repositoryKey="Open-LLM-VTuber/Open-LLM-VTuber" />
 
-
-
 ## v0.2.4
-
-
-
 
 ## v0.2.3
 
-
-
-
 ## v0.2.2
-
-
-
 
 ## v0.2.1
 
-
-
-
 ## v0.2.0
 
-
-
-
 ## v0.1.0
-
-
-
-
 
 找不到想要的版本？您可以访问 [官方网站](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/) 以下载更多版本。
 
 <!-- md Mirrors.md -->
-
 

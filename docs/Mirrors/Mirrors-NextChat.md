@@ -24,26 +24,11 @@ NextChat. 国内直接从官网 https://github.com/ChatGPTNextWeb/NextChat/ 下�
 “Automatically compresses chat history to support long conversations while also saving your tokens”：自动压缩聊天历史记录，以支持长时间的对话，同时节省你的令牌。
 “I18n: English, 简体中文，繁体中文，日本語，Français, Español, Italiano, Türkçe, Deutsch, Tiếng Việt, Русský, Čeština, 한국어, Indonesia”：支持多种语言，包括英语、简体中文、繁体中文、日语、法语、西班牙语、意大利语、土耳其语、德语、越南语、俄语、捷克语、韩语、印度尼西亚语。
 
-
-import HagicodeRecommendation from '../../src/components/HagicodeRecommendation';
-
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
-
-
-
-<HagicodeRecommendation layout="page" />
-
-
 
 ## v2.16.1
 
-
-
-
 ## v2.16.0
-
-
-
 
 ## v2.15.8
 
@@ -62,8 +47,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.15.8/NextChat_universal.app.tar.gz" text="NextChat_universal.app.tar.gz" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.15.8/NextChat_universal.app.tar.gz.sig" text="NextChat_universal.app.tar.gz.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
 
-
-
 ## v2.15.7
 
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.15.7/latest.json" text="latest.json" repositoryKey="ChatGPTNextWeb/NextChat" />
@@ -81,8 +64,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.15.7/NextChat_universal.app.tar.gz" text="NextChat_universal.app.tar.gz" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.15.7/NextChat_universal.app.tar.gz.sig" text="NextChat_universal.app.tar.gz.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
 
-
-
 ## v2.15.6
 
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.15.6/latest.json" text="latest.json" repositoryKey="ChatGPTNextWeb/NextChat" />
@@ -99,8 +80,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.15.6/NextChat_2.15.6_x64_en-US.msi.zip.sig" text="NextChat_2.15.6_x64_en-US.msi.zip.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.15.6/NextChat_universal.app.tar.gz" text="NextChat_universal.app.tar.gz" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.15.6/NextChat_universal.app.tar.gz.sig" text="NextChat_universal.app.tar.gz.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
-
-
 
 ## v2.15.5
 
@@ -123,8 +102,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.15.5/NextChat_universal.app.tar.gz" text="NextChat_universal.app.tar.gz" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.15.5/NextChat_universal.app.tar.gz.sig" text="NextChat_universal.app.tar.gz.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
 
-
-
 ## v2.15.4
 
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.15.4/latest.json" text="latest.json" repositoryKey="ChatGPTNextWeb/NextChat" />
@@ -145,8 +122,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.15.4/NextChat_2.15.4_x64_en-US.msi.zip.sig" text="NextChat_2.15.4_x64_en-US.msi.zip.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.15.4/NextChat_universal.app.tar.gz" text="NextChat_universal.app.tar.gz" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.15.4/NextChat_universal.app.tar.gz.sig" text="NextChat_universal.app.tar.gz.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
-
-
 
 ## v2.15.3
 
@@ -169,8 +144,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.15.3/NextChat_universal.app.tar.gz" text="NextChat_universal.app.tar.gz" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.15.3/NextChat_universal.app.tar.gz.sig" text="NextChat_universal.app.tar.gz.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
 
-
-
 ## v2.15.2
 
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.15.2/latest.json" text="latest.json" repositoryKey="ChatGPTNextWeb/NextChat" />
@@ -191,8 +164,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.15.2/NextChat_2.15.2_x64_en-US.msi.zip.sig" text="NextChat_2.15.2_x64_en-US.msi.zip.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.15.2/NextChat_universal.app.tar.gz" text="NextChat_universal.app.tar.gz" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.15.2/NextChat_universal.app.tar.gz.sig" text="NextChat_universal.app.tar.gz.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
-
-
 
 ## v2.15.1
 
@@ -215,8 +186,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.15.1/NextChat_universal.app.tar.gz" text="NextChat_universal.app.tar.gz" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.15.1/NextChat_universal.app.tar.gz.sig" text="NextChat_universal.app.tar.gz.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
 
-
-
 ## v2.15.0
 
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.15.0/latest.json" text="latest.json" repositoryKey="ChatGPTNextWeb/NextChat" />
@@ -233,8 +202,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.15.0/NextChat_2.15.0_x64_en-US.msi.zip.sig" text="NextChat_2.15.0_x64_en-US.msi.zip.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.15.0/NextChat_universal.app.tar.gz" text="NextChat_universal.app.tar.gz" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.15.0/NextChat_universal.app.tar.gz.sig" text="NextChat_universal.app.tar.gz.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
-
-
 
 ## v2.14.2
 
@@ -253,8 +220,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.14.2/NextChat_universal.app.tar.gz" text="NextChat_universal.app.tar.gz" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.14.2/NextChat_universal.app.tar.gz.sig" text="NextChat_universal.app.tar.gz.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
 
-
-
 ## v2.14.1
 
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.14.1/latest.json" text="latest.json" repositoryKey="ChatGPTNextWeb/NextChat" />
@@ -271,8 +236,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.14.1/NextChat_2.14.1_x64_en-US.msi.zip.sig" text="NextChat_2.14.1_x64_en-US.msi.zip.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.14.1/NextChat_universal.app.tar.gz" text="NextChat_universal.app.tar.gz" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.14.1/NextChat_universal.app.tar.gz.sig" text="NextChat_universal.app.tar.gz.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
-
-
 
 ## v2.14.0
 
@@ -291,8 +254,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.14.0/NextChat_universal.app.tar.gz" text="NextChat_universal.app.tar.gz" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.14.0/NextChat_universal.app.tar.gz.sig" text="NextChat_universal.app.tar.gz.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
 
-
-
 ## v2.13.1
 
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.13.1/latest.json" text="latest.json" repositoryKey="ChatGPTNextWeb/NextChat" />
@@ -309,8 +270,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.13.1/NextChat_2.13.1_x64_en-US.msi.zip.sig" text="NextChat_2.13.1_x64_en-US.msi.zip.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.13.1/NextChat_universal.app.tar.gz" text="NextChat_universal.app.tar.gz" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.13.1/NextChat_universal.app.tar.gz.sig" text="NextChat_universal.app.tar.gz.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
-
-
 
 ## v2.13.0
 
@@ -329,8 +288,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.13.0/NextChat_universal.app.tar.gz" text="NextChat_universal.app.tar.gz" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.13.0/NextChat_universal.app.tar.gz.sig" text="NextChat_universal.app.tar.gz.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
 
-
-
 ## v2.12.4
 
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.12.4/latest.json" text="latest.json" repositoryKey="ChatGPTNextWeb/NextChat" />
@@ -347,8 +304,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.12.4/NextChat_2.12.4_x64_en-US.msi.zip.sig" text="NextChat_2.12.4_x64_en-US.msi.zip.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.12.4/NextChat_universal.app.tar.gz" text="NextChat_universal.app.tar.gz" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.12.4/NextChat_universal.app.tar.gz.sig" text="NextChat_universal.app.tar.gz.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
-
-
 
 ## v2.12.3
 
@@ -367,8 +322,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.12.3/NextChat_universal.app.tar.gz" text="NextChat_universal.app.tar.gz" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.12.3/NextChat_universal.app.tar.gz.sig" text="NextChat_universal.app.tar.gz.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
 
-
-
 ## v2.12.2
 
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.12.2/latest.json" text="latest.json" repositoryKey="ChatGPTNextWeb/NextChat" />
@@ -385,8 +338,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.12.2/NextChat_2.12.2_x64_en-US.msi.zip.sig" text="NextChat_2.12.2_x64_en-US.msi.zip.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.12.2/NextChat_universal.app.tar.gz" text="NextChat_universal.app.tar.gz" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.12.2/NextChat_universal.app.tar.gz.sig" text="NextChat_universal.app.tar.gz.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
-
-
 
 ## v2.11.3
 
@@ -405,10 +356,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.11.3/NextChat_universal.app.tar.gz" text="NextChat_universal.app.tar.gz" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.11.3/NextChat_universal.app.tar.gz.sig" text="NextChat_universal.app.tar.gz.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
 
-
-
-
-
 ## v2.11.2
 
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.11.2/latest.json" text="latest.json" repositoryKey="ChatGPTNextWeb/NextChat" />
@@ -425,8 +372,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.11.2/NextChat_2.11.2_x64_en-US.msi.zip.sig" text="NextChat_2.11.2_x64_en-US.msi.zip.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.11.2/NextChat_universal.app.tar.gz" text="NextChat_universal.app.tar.gz" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.11.2/NextChat_universal.app.tar.gz.sig" text="NextChat_universal.app.tar.gz.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
-
-
 
 ## v2.10.3
 
@@ -445,8 +390,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.10.3/NextChat_universal.app.tar.gz" text="NextChat_universal.app.tar.gz" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.10.3/NextChat_universal.app.tar.gz.sig" text="NextChat_universal.app.tar.gz.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
 
-
-
 ## v2.10.2
 
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.10.2/latest.json" text="latest.json" repositoryKey="ChatGPTNextWeb/NextChat" />
@@ -463,8 +406,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.10.2/NextChat_2.10.2_x64_en-US.msi.zip.sig" text="NextChat_2.10.2_x64_en-US.msi.zip.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.10.2/NextChat_universal.app.tar.gz" text="NextChat_universal.app.tar.gz" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.10.2/NextChat_universal.app.tar.gz.sig" text="NextChat_universal.app.tar.gz.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
-
-
 
 ## v2.10.1
 
@@ -483,8 +424,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.10.1/NextChat_x64.app.tar.gz" text="NextChat_x64.app.tar.gz" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.10.1/NextChat_x64.app.tar.gz.sig" text="NextChat_x64.app.tar.gz.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
 
-
-
 ## v2.9.13
 
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.9.13/chat-gpt-next-web_2.9.13_amd64.AppImage" text="chat-gpt-next-web_2.9.13_amd64.AppImage" repositoryKey="ChatGPTNextWeb/NextChat" />
@@ -501,8 +440,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.9.13/ChatGPT.Next.Web_x64.app.tar.gz" text="ChatGPT.Next.Web_x64.app.tar.gz" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.9.13/ChatGPT.Next.Web_x64.app.tar.gz.sig" text="ChatGPT.Next.Web_x64.app.tar.gz.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.9.13/latest.json" text="latest.json" repositoryKey="ChatGPTNextWeb/NextChat" />
-
-
 
 ## v2.9.12
 
@@ -521,8 +458,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.9.12/ChatGPT.Next.Web_x64.app.tar.gz.sig" text="ChatGPT.Next.Web_x64.app.tar.gz.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.9.12/latest.json" text="latest.json" repositoryKey="ChatGPTNextWeb/NextChat" />
 
-
-
 ## v2.9.11
 
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.9.11/chat-gpt-next-web_2.9.11_amd64.AppImage" text="chat-gpt-next-web_2.9.11_amd64.AppImage" repositoryKey="ChatGPTNextWeb/NextChat" />
@@ -539,8 +474,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.9.11/ChatGPT.Next.Web_x64.app.tar.gz" text="ChatGPT.Next.Web_x64.app.tar.gz" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.9.11/ChatGPT.Next.Web_x64.app.tar.gz.sig" text="ChatGPT.Next.Web_x64.app.tar.gz.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.9.11/latest.json" text="latest.json" repositoryKey="ChatGPTNextWeb/NextChat" />
-
-
 
 ## v2.9.10
 
@@ -559,8 +492,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.9.10/ChatGPT.Next.Web_x64.app.tar.gz.sig" text="ChatGPT.Next.Web_x64.app.tar.gz.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.9.10/latest.json" text="latest.json" repositoryKey="ChatGPTNextWeb/NextChat" />
 
-
-
 ## v2.9.9
 
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.9.9/chat-gpt-next-web_2.9.9_amd64.AppImage" text="chat-gpt-next-web_2.9.9_amd64.AppImage" repositoryKey="ChatGPTNextWeb/NextChat" />
@@ -577,8 +508,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.9.9/ChatGPT.Next.Web_x64.app.tar.gz" text="ChatGPT.Next.Web_x64.app.tar.gz" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.9.9/ChatGPT.Next.Web_x64.app.tar.gz.sig" text="ChatGPT.Next.Web_x64.app.tar.gz.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.9.9/latest.json" text="latest.json" repositoryKey="ChatGPTNextWeb/NextChat" />
-
-
 
 ## v2.9.8
 
@@ -597,11 +526,7 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.9.8/ChatGPT.Next.Web_x64.app.tar.gz.sig" text="ChatGPT.Next.Web_x64.app.tar.gz.sig" repositoryKey="ChatGPTNextWeb/NextChat" />
 - <GithubMirrorLink link="https://github.com/ChatGPTNextWeb/NextChat/releases/download/v2.9.8/latest.json" text="latest.json" repositoryKey="ChatGPTNextWeb/NextChat" />
 
-
-
-
 找不到想要的版本？您可以访问 [官方网站](https://github.com/ChatGPTNextWeb/NextChat/) 以下载更多版本。
 
 <!-- md Mirrors.md -->
-
 

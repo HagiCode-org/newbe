@@ -17,20 +17,9 @@ LangBot. 国内直接从官网 https://github.com/RockChinQ/LangBot/ 下载比�
 🧩 插件扩展、活跃社区：支持事件驱动、组件扩展等插件机制；丰富生态，目前已有数十个插件
 😻 [New] Web 管理面板：支持通过浏览器管理 LangBot 实例，具体支持功能，查看文档
 
-
-import HagicodeRecommendation from '../../src/components/HagicodeRecommendation';
-
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
-
-
-
-<HagicodeRecommendation layout="page" />
-
-
-
 
 找不到想要的版本？您可以访问 [官方网站](https://github.com/RockChinQ/LangBot/) 以下载更多版本。
 
 <!-- md Mirrors.md -->
-
 

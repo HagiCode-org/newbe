@@ -14,17 +14,7 @@ yq. 国内直接从官网 https://github.com/mikefarah/yq/ 下载比较困难，
 
 yq是一个轻量级和可移植的命令行YAML处理器。yq使用类似于jq的语法，但可以处理YAML文件以及json文件。它还不支持jq的所有功能--但它确实支持最常见的操作和函数，而且还在不断增加。
 
-
-
-import HagicodeRecommendation from '../../src/components/HagicodeRecommendation';
-
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
-
-
-
-<HagicodeRecommendation layout="page" />
-
-
 
 ## v4.53.2
 
@@ -88,8 +78,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.53.2/yq_windows_arm64.exe" text="yq_windows_arm64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.53.2/yq_windows_arm64.zip" text="yq_windows_arm64.zip" repositoryKey="mikefarah/yq" />
 
-
-
 ## v4.52.5
 
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.52.5/checksums" text="checksums" repositoryKey="mikefarah/yq" />
@@ -150,8 +138,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_windows_arm64.exe" text="yq_windows_arm64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.52.5/yq_windows_arm64.zip" text="yq_windows_arm64.zip" repositoryKey="mikefarah/yq" />
 
-
-
 ## v4.52.4
 
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.52.4/checksums" text="checksums" repositoryKey="mikefarah/yq" />
@@ -211,8 +197,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_windows_amd64.zip" text="yq_windows_amd64.zip" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_windows_arm64.exe" text="yq_windows_arm64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.52.4/yq_windows_arm64.zip" text="yq_windows_arm64.zip" repositoryKey="mikefarah/yq" />
-
-
 
 ## v4.52.2
 
@@ -276,8 +260,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_windows_arm64.exe" text="yq_windows_arm64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.52.2/yq_windows_arm64.zip" text="yq_windows_arm64.zip" repositoryKey="mikefarah/yq" />
 
-
-
 ## v4.52.1
 
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.52.1/checksums" text="checksums" repositoryKey="mikefarah/yq" />
@@ -339,8 +321,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_windows_arm.exe.tar.gz" text="yq_windows_arm.exe.tar.gz" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_windows_arm64.exe" text="yq_windows_arm64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.52.1/yq_windows_arm64.zip" text="yq_windows_arm64.zip" repositoryKey="mikefarah/yq" />
-
-
 
 ## v4.50.1
 
@@ -404,8 +384,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_windows_arm64.exe" text="yq_windows_arm64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.50.1/yq_windows_arm64.zip" text="yq_windows_arm64.zip" repositoryKey="mikefarah/yq" />
 
-
-
 ## v4.49.2
 
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.49.2/checksums" text="checksums" repositoryKey="mikefarah/yq" />
@@ -467,8 +445,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_windows_arm.exe.tar.gz" text="yq_windows_arm.exe.tar.gz" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_windows_arm64.exe" text="yq_windows_arm64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.49.2/yq_windows_arm64.zip" text="yq_windows_arm64.zip" repositoryKey="mikefarah/yq" />
-
-
 
 ## v4.49.1
 
@@ -532,8 +508,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_windows_arm64.exe" text="yq_windows_arm64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.49.1/yq_windows_arm64.zip" text="yq_windows_arm64.zip" repositoryKey="mikefarah/yq" />
 
-
-
 ## v4.48.2
 
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.48.2/checksums" text="checksums" repositoryKey="mikefarah/yq" />
@@ -596,8 +570,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_windows_arm64.exe" text="yq_windows_arm64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.48.2/yq_windows_arm64.zip" text="yq_windows_arm64.zip" repositoryKey="mikefarah/yq" />
 
-
-
 ## v4.48.1
 
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.48.1/checksums" text="checksums" repositoryKey="mikefarah/yq" />
@@ -657,8 +629,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_windows_arm.exe.tar.gz" text="yq_windows_arm.exe.tar.gz" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_windows_arm64.exe" text="yq_windows_arm64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.48.1/yq_windows_arm64.zip" text="yq_windows_arm64.zip" repositoryKey="mikefarah/yq" />
-
-
 
 ## v4.47.2
 
@@ -720,8 +690,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_windows_arm64.exe" text="yq_windows_arm64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.47.2/yq_windows_arm64.zip" text="yq_windows_arm64.zip" repositoryKey="mikefarah/yq" />
 
-
-
 ## v4.47.1
 
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.47.1/checksums" text="checksums" repositoryKey="mikefarah/yq" />
@@ -781,8 +749,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_windows_arm.exe.tar.gz" text="yq_windows_arm.exe.tar.gz" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_windows_arm64.exe" text="yq_windows_arm64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.47.1/yq_windows_arm64.zip" text="yq_windows_arm64.zip" repositoryKey="mikefarah/yq" />
-
-
 
 ## v4.46.1
 
@@ -844,8 +810,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_windows_arm64.exe" text="yq_windows_arm64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.46.1/yq_windows_arm64.zip" text="yq_windows_arm64.zip" repositoryKey="mikefarah/yq" />
 
-
-
 ## v4.45.4
 
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.45.4/checksums" text="checksums" repositoryKey="mikefarah/yq" />
@@ -905,8 +869,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_windows_arm.exe.tar.gz" text="yq_windows_arm.exe.tar.gz" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_windows_arm64.exe" text="yq_windows_arm64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.45.4/yq_windows_arm64.zip" text="yq_windows_arm64.zip" repositoryKey="mikefarah/yq" />
-
-
 
 ## v4.45.3
 
@@ -968,8 +930,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_windows_arm64.exe" text="yq_windows_arm64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.45.3/yq_windows_arm64.zip" text="yq_windows_arm64.zip" repositoryKey="mikefarah/yq" />
 
-
-
 ## v4.45.2
 
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.45.2/checksums" text="checksums" repositoryKey="mikefarah/yq" />
@@ -1030,8 +990,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_windows_arm64.exe" text="yq_windows_arm64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_windows_arm64.zip" text="yq_windows_arm64.zip" repositoryKey="mikefarah/yq" />
 
-
-
 ## v4.45.1
 
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.45.1/checksums" text="checksums" repositoryKey="mikefarah/yq" />
@@ -1087,8 +1045,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_windows_386.zip" text="yq_windows_386.zip" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_windows_amd64.exe" text="yq_windows_amd64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.45.1/yq_windows_amd64.zip" text="yq_windows_amd64.zip" repositoryKey="mikefarah/yq" />
-
-
 
 ## v4.44.6
 
@@ -1146,8 +1102,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_windows_amd64.exe" text="yq_windows_amd64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.44.6/yq_windows_amd64.zip" text="yq_windows_amd64.zip" repositoryKey="mikefarah/yq" />
 
-
-
 ## v4.44.5
 
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.44.5/checksums" text="checksums" repositoryKey="mikefarah/yq" />
@@ -1204,8 +1158,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_windows_amd64.exe" text="yq_windows_amd64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.44.5/yq_windows_amd64.zip" text="yq_windows_amd64.zip" repositoryKey="mikefarah/yq" />
 
-
-
 ## v4.44.3
 
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.44.3/checksums" text="checksums" repositoryKey="mikefarah/yq" />
@@ -1259,10 +1211,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_windows_386.zip" text="yq_windows_386.zip" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_windows_amd64.exe" text="yq_windows_amd64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.44.3/yq_windows_amd64.zip" text="yq_windows_amd64.zip" repositoryKey="mikefarah/yq" />
-
-
-
-
 
 ## v4.44.2
 
@@ -1318,8 +1266,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_windows_amd64.exe" text="yq_windows_amd64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.44.2/yq_windows_amd64.zip" text="yq_windows_amd64.zip" repositoryKey="mikefarah/yq" />
 
-
-
 ## v4.44.1
 
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.44.1/checksums" text="checksums" repositoryKey="mikefarah/yq" />
@@ -1373,8 +1319,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_windows_386.zip" text="yq_windows_386.zip" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_windows_amd64.exe" text="yq_windows_amd64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.44.1/yq_windows_amd64.zip" text="yq_windows_amd64.zip" repositoryKey="mikefarah/yq" />
-
-
 
 ## v4.43.1
 
@@ -1430,8 +1374,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_windows_amd64.exe" text="yq_windows_amd64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.43.1/yq_windows_amd64.zip" text="yq_windows_amd64.zip" repositoryKey="mikefarah/yq" />
 
-
-
 ## v4.42.1
 
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.42.1/checksums" text="checksums" repositoryKey="mikefarah/yq" />
@@ -1485,8 +1427,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_windows_386.zip" text="yq_windows_386.zip" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_windows_amd64.exe" text="yq_windows_amd64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.42.1/yq_windows_amd64.zip" text="yq_windows_amd64.zip" repositoryKey="mikefarah/yq" />
-
-
 
 ## v4.41.1
 
@@ -1542,8 +1482,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_windows_amd64.exe" text="yq_windows_amd64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_windows_amd64.zip" text="yq_windows_amd64.zip" repositoryKey="mikefarah/yq" />
 
-
-
 ## v4.40.7
 
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/checksums" text="checksums" repositoryKey="mikefarah/yq" />
@@ -1597,8 +1535,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_windows_386.zip" text="yq_windows_386.zip" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_windows_amd64.exe" text="yq_windows_amd64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_windows_amd64.zip" text="yq_windows_amd64.zip" repositoryKey="mikefarah/yq" />
-
-
 
 ## v4.40.5
 
@@ -1654,8 +1590,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_windows_amd64.exe" text="yq_windows_amd64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.5/yq_windows_amd64.zip" text="yq_windows_amd64.zip" repositoryKey="mikefarah/yq" />
 
-
-
 ## v4.40.4
 
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.4/checksums" text="checksums" repositoryKey="mikefarah/yq" />
@@ -1709,8 +1643,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_windows_386.zip" text="yq_windows_386.zip" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_windows_amd64.exe" text="yq_windows_amd64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.4/yq_windows_amd64.zip" text="yq_windows_amd64.zip" repositoryKey="mikefarah/yq" />
-
-
 
 ## v4.40.3
 
@@ -1766,8 +1698,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_windows_amd64.exe" text="yq_windows_amd64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.3/yq_windows_amd64.zip" text="yq_windows_amd64.zip" repositoryKey="mikefarah/yq" />
 
-
-
 ## v4.40.2
 
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.2/checksums" text="checksums" repositoryKey="mikefarah/yq" />
@@ -1822,11 +1752,7 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_windows_amd64.exe" text="yq_windows_amd64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.2/yq_windows_amd64.zip" text="yq_windows_amd64.zip" repositoryKey="mikefarah/yq" />
 
-
-
-
 找不到想要的版本？您可以访问 [官方网站](https://github.com/mikefarah/yq/) 以下载更多版本。
 
 <!-- md Mirrors.md -->
-
 

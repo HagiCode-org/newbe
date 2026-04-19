@@ -14,17 +14,7 @@ Hugo. 国内直接从官网 https://github.com/gohugoio/hugo/ 下载比较困难
 
 Hugo 是由 Go 语言实现的静态网站生成器。简单、易用、高效、易扩展、快速部署。
 
-
-
-import HagicodeRecommendation from '../../src/components/HagicodeRecommendation';
-
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
-
-
-
-<HagicodeRecommendation layout="page" />
-
-
 
 ## v0.160.1
 
@@ -65,8 +55,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.160.1/hugo_withdeploy_0.160.1_linux-arm64.tar.gz" text="hugo_withdeploy_0.160.1_linux-arm64.tar.gz" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.160.1/hugo_withdeploy_0.160.1_windows-amd64.zip" text="hugo_withdeploy_0.160.1_windows-amd64.zip" repositoryKey="gohugoio/hugo" />
 
-
-
 ## v0.160.0
 
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.160.0/hugo_0.160.0_checksums.txt" text="hugo_0.160.0_checksums.txt" repositoryKey="gohugoio/hugo" />
@@ -105,8 +93,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.160.0/hugo_withdeploy_0.160.0_linux-arm64.deb" text="hugo_withdeploy_0.160.0_linux-arm64.deb" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.160.0/hugo_withdeploy_0.160.0_linux-arm64.tar.gz" text="hugo_withdeploy_0.160.0_linux-arm64.tar.gz" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.160.0/hugo_withdeploy_0.160.0_windows-amd64.zip" text="hugo_withdeploy_0.160.0_windows-amd64.zip" repositoryKey="gohugoio/hugo" />
-
-
 
 ## v0.159.2
 
@@ -147,8 +133,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.159.2/hugo_withdeploy_0.159.2_linux-arm64.tar.gz" text="hugo_withdeploy_0.159.2_linux-arm64.tar.gz" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.159.2/hugo_withdeploy_0.159.2_windows-amd64.zip" text="hugo_withdeploy_0.159.2_windows-amd64.zip" repositoryKey="gohugoio/hugo" />
 
-
-
 ## v0.159.1
 
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.159.1/hugo_0.159.1_checksums.txt" text="hugo_0.159.1_checksums.txt" repositoryKey="gohugoio/hugo" />
@@ -180,8 +164,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.159.1/hugo_extended_withdeploy_0.159.1_linux-arm64.deb" text="hugo_extended_withdeploy_0.159.1_linux-arm64.deb" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.159.1/hugo_extended_withdeploy_0.159.1_linux-arm64.tar.gz" text="hugo_extended_withdeploy_0.159.1_linux-arm64.tar.gz" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.159.1/hugo_extended_withdeploy_0.159.1_windows-amd64.zip" text="hugo_extended_withdeploy_0.159.1_windows-amd64.zip" repositoryKey="gohugoio/hugo" />
-
-
 
 ## v0.159.0
 
@@ -215,8 +197,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.159.0/hugo_extended_withdeploy_0.159.0_linux-arm64.tar.gz" text="hugo_extended_withdeploy_0.159.0_linux-arm64.tar.gz" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.159.0/hugo_extended_withdeploy_0.159.0_windows-amd64.zip" text="hugo_extended_withdeploy_0.159.0_windows-amd64.zip" repositoryKey="gohugoio/hugo" />
 
-
-
 ## v0.158.0
 
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.158.0/hugo_0.158.0_checksums.txt" text="hugo_0.158.0_checksums.txt" repositoryKey="gohugoio/hugo" />
@@ -248,8 +228,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.158.0/hugo_extended_withdeploy_0.158.0_linux-arm64.deb" text="hugo_extended_withdeploy_0.158.0_linux-arm64.deb" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.158.0/hugo_extended_withdeploy_0.158.0_linux-arm64.tar.gz" text="hugo_extended_withdeploy_0.158.0_linux-arm64.tar.gz" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.158.0/hugo_extended_withdeploy_0.158.0_windows-amd64.zip" text="hugo_extended_withdeploy_0.158.0_windows-amd64.zip" repositoryKey="gohugoio/hugo" />
-
-
 
 ## v0.157.0
 
@@ -283,8 +261,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.157.0/hugo_extended_withdeploy_0.157.0_linux-arm64.tar.gz" text="hugo_extended_withdeploy_0.157.0_linux-arm64.tar.gz" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.157.0/hugo_extended_withdeploy_0.157.0_windows-amd64.zip" text="hugo_extended_withdeploy_0.157.0_windows-amd64.zip" repositoryKey="gohugoio/hugo" />
 
-
-
 ## v0.156.0
 
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.156.0/hugo_0.156.0_checksums.txt" text="hugo_0.156.0_checksums.txt" repositoryKey="gohugoio/hugo" />
@@ -316,8 +292,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.156.0/hugo_extended_withdeploy_0.156.0_linux-arm64.deb" text="hugo_extended_withdeploy_0.156.0_linux-arm64.deb" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.156.0/hugo_extended_withdeploy_0.156.0_linux-arm64.tar.gz" text="hugo_extended_withdeploy_0.156.0_linux-arm64.tar.gz" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.156.0/hugo_extended_withdeploy_0.156.0_windows-amd64.zip" text="hugo_extended_withdeploy_0.156.0_windows-amd64.zip" repositoryKey="gohugoio/hugo" />
-
-
 
 ## v0.155.3
 
@@ -351,8 +325,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.155.3/hugo_extended_withdeploy_0.155.3_linux-arm64.tar.gz" text="hugo_extended_withdeploy_0.155.3_linux-arm64.tar.gz" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.155.3/hugo_extended_withdeploy_0.155.3_windows-amd64.zip" text="hugo_extended_withdeploy_0.155.3_windows-amd64.zip" repositoryKey="gohugoio/hugo" />
 
-
-
 ## v0.155.2
 
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.155.2/hugo_0.155.2_checksums.txt" text="hugo_0.155.2_checksums.txt" repositoryKey="gohugoio/hugo" />
@@ -384,8 +356,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.155.2/hugo_extended_withdeploy_0.155.2_linux-arm64.deb" text="hugo_extended_withdeploy_0.155.2_linux-arm64.deb" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.155.2/hugo_extended_withdeploy_0.155.2_linux-arm64.tar.gz" text="hugo_extended_withdeploy_0.155.2_linux-arm64.tar.gz" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.155.2/hugo_extended_withdeploy_0.155.2_windows-amd64.zip" text="hugo_extended_withdeploy_0.155.2_windows-amd64.zip" repositoryKey="gohugoio/hugo" />
-
-
 
 ## v0.155.1
 
@@ -419,8 +389,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.155.1/hugo_extended_withdeploy_0.155.1_linux-arm64.tar.gz" text="hugo_extended_withdeploy_0.155.1_linux-arm64.tar.gz" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.155.1/hugo_extended_withdeploy_0.155.1_windows-amd64.zip" text="hugo_extended_withdeploy_0.155.1_windows-amd64.zip" repositoryKey="gohugoio/hugo" />
 
-
-
 ## v0.155.0
 
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.155.0/hugo_0.155.0_checksums.txt" text="hugo_0.155.0_checksums.txt" repositoryKey="gohugoio/hugo" />
@@ -452,8 +420,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.155.0/hugo_extended_withdeploy_0.155.0_linux-arm64.deb" text="hugo_extended_withdeploy_0.155.0_linux-arm64.deb" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.155.0/hugo_extended_withdeploy_0.155.0_linux-arm64.tar.gz" text="hugo_extended_withdeploy_0.155.0_linux-arm64.tar.gz" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.155.0/hugo_extended_withdeploy_0.155.0_windows-amd64.zip" text="hugo_extended_withdeploy_0.155.0_windows-amd64.zip" repositoryKey="gohugoio/hugo" />
-
-
 
 ## v0.154.5
 
@@ -487,8 +453,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.154.5/hugo_extended_withdeploy_0.154.5_linux-arm64.tar.gz" text="hugo_extended_withdeploy_0.154.5_linux-arm64.tar.gz" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.154.5/hugo_extended_withdeploy_0.154.5_windows-amd64.zip" text="hugo_extended_withdeploy_0.154.5_windows-amd64.zip" repositoryKey="gohugoio/hugo" />
 
-
-
 ## v0.154.4
 
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.154.4/hugo_0.154.4_checksums.txt" text="hugo_0.154.4_checksums.txt" repositoryKey="gohugoio/hugo" />
@@ -520,8 +484,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.154.4/hugo_extended_withdeploy_0.154.4_linux-arm64.deb" text="hugo_extended_withdeploy_0.154.4_linux-arm64.deb" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.154.4/hugo_extended_withdeploy_0.154.4_linux-arm64.tar.gz" text="hugo_extended_withdeploy_0.154.4_linux-arm64.tar.gz" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.154.4/hugo_extended_withdeploy_0.154.4_windows-amd64.zip" text="hugo_extended_withdeploy_0.154.4_windows-amd64.zip" repositoryKey="gohugoio/hugo" />
-
-
 
 ## v0.154.3
 
@@ -555,8 +517,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.154.3/hugo_extended_withdeploy_0.154.3_linux-arm64.tar.gz" text="hugo_extended_withdeploy_0.154.3_linux-arm64.tar.gz" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.154.3/hugo_extended_withdeploy_0.154.3_windows-amd64.zip" text="hugo_extended_withdeploy_0.154.3_windows-amd64.zip" repositoryKey="gohugoio/hugo" />
 
-
-
 ## v0.154.2
 
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.154.2/hugo_0.154.2_checksums.txt" text="hugo_0.154.2_checksums.txt" repositoryKey="gohugoio/hugo" />
@@ -588,8 +548,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.154.2/hugo_extended_withdeploy_0.154.2_linux-arm64.deb" text="hugo_extended_withdeploy_0.154.2_linux-arm64.deb" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.154.2/hugo_extended_withdeploy_0.154.2_linux-arm64.tar.gz" text="hugo_extended_withdeploy_0.154.2_linux-arm64.tar.gz" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.154.2/hugo_extended_withdeploy_0.154.2_windows-amd64.zip" text="hugo_extended_withdeploy_0.154.2_windows-amd64.zip" repositoryKey="gohugoio/hugo" />
-
-
 
 ## v0.154.1
 
@@ -623,8 +581,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.154.1/hugo_extended_withdeploy_0.154.1_linux-arm64.tar.gz" text="hugo_extended_withdeploy_0.154.1_linux-arm64.tar.gz" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.154.1/hugo_extended_withdeploy_0.154.1_windows-amd64.zip" text="hugo_extended_withdeploy_0.154.1_windows-amd64.zip" repositoryKey="gohugoio/hugo" />
 
-
-
 ## v0.154.0
 
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.154.0/hugo_0.154.0_checksums.txt" text="hugo_0.154.0_checksums.txt" repositoryKey="gohugoio/hugo" />
@@ -656,8 +612,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.154.0/hugo_extended_withdeploy_0.154.0_linux-arm64.deb" text="hugo_extended_withdeploy_0.154.0_linux-arm64.deb" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.154.0/hugo_extended_withdeploy_0.154.0_linux-arm64.tar.gz" text="hugo_extended_withdeploy_0.154.0_linux-arm64.tar.gz" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.154.0/hugo_extended_withdeploy_0.154.0_windows-amd64.zip" text="hugo_extended_withdeploy_0.154.0_windows-amd64.zip" repositoryKey="gohugoio/hugo" />
-
-
 
 ## v0.153.5
 
@@ -691,8 +645,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.153.5/hugo_extended_withdeploy_0.153.5_linux-arm64.tar.gz" text="hugo_extended_withdeploy_0.153.5_linux-arm64.tar.gz" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.153.5/hugo_extended_withdeploy_0.153.5_windows-amd64.zip" text="hugo_extended_withdeploy_0.153.5_windows-amd64.zip" repositoryKey="gohugoio/hugo" />
 
-
-
 ## v0.153.4
 
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.153.4/hugo_0.153.4_checksums.txt" text="hugo_0.153.4_checksums.txt" repositoryKey="gohugoio/hugo" />
@@ -724,10 +676,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.153.4/hugo_extended_withdeploy_0.153.4_linux-arm64.deb" text="hugo_extended_withdeploy_0.153.4_linux-arm64.deb" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.153.4/hugo_extended_withdeploy_0.153.4_linux-arm64.tar.gz" text="hugo_extended_withdeploy_0.153.4_linux-arm64.tar.gz" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.153.4/hugo_extended_withdeploy_0.153.4_windows-amd64.zip" text="hugo_extended_withdeploy_0.153.4_windows-amd64.zip" repositoryKey="gohugoio/hugo" />
-
-
-
-
 
 ## v0.153.3
 
@@ -761,8 +709,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.153.3/hugo_extended_withdeploy_0.153.3_linux-arm64.tar.gz" text="hugo_extended_withdeploy_0.153.3_linux-arm64.tar.gz" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.153.3/hugo_extended_withdeploy_0.153.3_windows-amd64.zip" text="hugo_extended_withdeploy_0.153.3_windows-amd64.zip" repositoryKey="gohugoio/hugo" />
 
-
-
 ## v0.153.2
 
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.153.2/hugo_0.153.2_checksums.txt" text="hugo_0.153.2_checksums.txt" repositoryKey="gohugoio/hugo" />
@@ -794,8 +740,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.153.2/hugo_extended_withdeploy_0.153.2_linux-arm64.deb" text="hugo_extended_withdeploy_0.153.2_linux-arm64.deb" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.153.2/hugo_extended_withdeploy_0.153.2_linux-arm64.tar.gz" text="hugo_extended_withdeploy_0.153.2_linux-arm64.tar.gz" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.153.2/hugo_extended_withdeploy_0.153.2_windows-amd64.zip" text="hugo_extended_withdeploy_0.153.2_windows-amd64.zip" repositoryKey="gohugoio/hugo" />
-
-
 
 ## v0.153.1
 
@@ -829,8 +773,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.153.1/hugo_extended_withdeploy_0.153.1_linux-arm64.tar.gz" text="hugo_extended_withdeploy_0.153.1_linux-arm64.tar.gz" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.153.1/hugo_extended_withdeploy_0.153.1_windows-amd64.zip" text="hugo_extended_withdeploy_0.153.1_windows-amd64.zip" repositoryKey="gohugoio/hugo" />
 
-
-
 ## v0.153.0
 
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.153.0/hugo_0.153.0_checksums.txt" text="hugo_0.153.0_checksums.txt" repositoryKey="gohugoio/hugo" />
@@ -862,8 +804,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.153.0/hugo_extended_withdeploy_0.153.0_linux-arm64.deb" text="hugo_extended_withdeploy_0.153.0_linux-arm64.deb" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.153.0/hugo_extended_withdeploy_0.153.0_linux-arm64.tar.gz" text="hugo_extended_withdeploy_0.153.0_linux-arm64.tar.gz" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.153.0/hugo_extended_withdeploy_0.153.0_windows-amd64.zip" text="hugo_extended_withdeploy_0.153.0_windows-amd64.zip" repositoryKey="gohugoio/hugo" />
-
-
 
 ## v0.152.2
 
@@ -897,8 +837,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.152.2/hugo_extended_withdeploy_0.152.2_linux-arm64.tar.gz" text="hugo_extended_withdeploy_0.152.2_linux-arm64.tar.gz" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.152.2/hugo_extended_withdeploy_0.152.2_windows-amd64.zip" text="hugo_extended_withdeploy_0.152.2_windows-amd64.zip" repositoryKey="gohugoio/hugo" />
 
-
-
 ## v0.152.1
 
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.152.1/hugo_0.152.1_checksums.txt" text="hugo_0.152.1_checksums.txt" repositoryKey="gohugoio/hugo" />
@@ -930,8 +868,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.152.1/hugo_extended_withdeploy_0.152.1_linux-arm64.deb" text="hugo_extended_withdeploy_0.152.1_linux-arm64.deb" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.152.1/hugo_extended_withdeploy_0.152.1_linux-arm64.tar.gz" text="hugo_extended_withdeploy_0.152.1_linux-arm64.tar.gz" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.152.1/hugo_extended_withdeploy_0.152.1_windows-amd64.zip" text="hugo_extended_withdeploy_0.152.1_windows-amd64.zip" repositoryKey="gohugoio/hugo" />
-
-
 
 ## v0.152.0
 
@@ -965,8 +901,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.152.0/hugo_extended_withdeploy_0.152.0_linux-arm64.tar.gz" text="hugo_extended_withdeploy_0.152.0_linux-arm64.tar.gz" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.152.0/hugo_extended_withdeploy_0.152.0_windows-amd64.zip" text="hugo_extended_withdeploy_0.152.0_windows-amd64.zip" repositoryKey="gohugoio/hugo" />
 
-
-
 ## v0.151.2
 
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.151.2/hugo_0.151.2_checksums.txt" text="hugo_0.151.2_checksums.txt" repositoryKey="gohugoio/hugo" />
@@ -998,8 +932,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.151.2/hugo_extended_withdeploy_0.151.2_linux-arm64.deb" text="hugo_extended_withdeploy_0.151.2_linux-arm64.deb" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.151.2/hugo_extended_withdeploy_0.151.2_linux-arm64.tar.gz" text="hugo_extended_withdeploy_0.151.2_linux-arm64.tar.gz" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.151.2/hugo_extended_withdeploy_0.151.2_windows-amd64.zip" text="hugo_extended_withdeploy_0.151.2_windows-amd64.zip" repositoryKey="gohugoio/hugo" />
-
-
 
 ## v0.151.1
 
@@ -1033,8 +965,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.151.1/hugo_extended_withdeploy_0.151.1_linux-arm64.tar.gz" text="hugo_extended_withdeploy_0.151.1_linux-arm64.tar.gz" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.151.1/hugo_extended_withdeploy_0.151.1_windows-amd64.zip" text="hugo_extended_withdeploy_0.151.1_windows-amd64.zip" repositoryKey="gohugoio/hugo" />
 
-
-
 ## v0.151.0
 
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.151.0/hugo_0.151.0_checksums.txt" text="hugo_0.151.0_checksums.txt" repositoryKey="gohugoio/hugo" />
@@ -1067,11 +997,7 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.151.0/hugo_extended_withdeploy_0.151.0_linux-arm64.tar.gz" text="hugo_extended_withdeploy_0.151.0_linux-arm64.tar.gz" repositoryKey="gohugoio/hugo" />
 - <GithubMirrorLink link="https://github.com/gohugoio/hugo/releases/download/v0.151.0/hugo_extended_withdeploy_0.151.0_windows-amd64.zip" text="hugo_extended_withdeploy_0.151.0_windows-amd64.zip" repositoryKey="gohugoio/hugo" />
 
-
-
-
 找不到想要的版本？您可以访问 [官方网站](https://github.com/gohugoio/hugo/) 以下载更多版本。
 
 <!-- md Mirrors.md -->
-
 

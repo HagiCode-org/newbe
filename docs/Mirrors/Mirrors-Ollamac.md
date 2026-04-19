@@ -19,112 +19,69 @@ Ollamac. 国内直接从官网 https://github.com/kevinhermawan/Ollamac/ 下载�
 免费且开源。
 原生支持。
 
-
-import HagicodeRecommendation from '../../src/components/HagicodeRecommendation';
-
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
-
-
-
-<HagicodeRecommendation layout="page" />
-
-
 
 ## v3.0.3
 
 - <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v3.0.3/Ollamac-3.0.3.dmg" text="Ollamac-3.0.3.dmg" repositoryKey="kevinhermawan/Ollamac" />
 
-
-
 ## v3.0.2
 
 - <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v3.0.2/Ollamac-3.0.2.dmg" text="Ollamac-3.0.2.dmg" repositoryKey="kevinhermawan/Ollamac" />
-
-
 
 ## v3.0.1
 
 - <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v3.0.1/Ollamac-3.0.1.dmg" text="Ollamac-3.0.1.dmg" repositoryKey="kevinhermawan/Ollamac" />
 
-
-
 ## v3.0.0
 
 - <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v3.0.0/Ollamac-3.0.0.dmg" text="Ollamac-3.0.0.dmg" repositoryKey="kevinhermawan/Ollamac" />
-
-
 
 ## v2.1.2
 
 - <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v2.1.2/Ollamac-2.1.2.dmg" text="Ollamac-2.1.2.dmg" repositoryKey="kevinhermawan/Ollamac" />
 
-
-
-
-
 ## v2.1.1
 
 - <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v2.1.1/Ollamac-2.1.1.dmg" text="Ollamac-2.1.1.dmg" repositoryKey="kevinhermawan/Ollamac" />
-
-
 
 ## v2.1.0
 
 - <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v2.1.0/Ollamac-2.1.0.dmg" text="Ollamac-2.1.0.dmg" repositoryKey="kevinhermawan/Ollamac" />
 
-
-
 ## v2.0.0
 
 - <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v2.0.0/Ollamac-2.0.0.dmg" text="Ollamac-2.0.0.dmg" repositoryKey="kevinhermawan/Ollamac" />
-
-
 
 ## v1.2.0
 
 - <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v1.2.0/Ollamac-1.2.0.dmg" text="Ollamac-1.2.0.dmg" repositoryKey="kevinhermawan/Ollamac" />
 
-
-
 ## v1.1.1
 
 - <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v1.1.1/Ollamac-1.1.1.dmg" text="Ollamac-1.1.1.dmg" repositoryKey="kevinhermawan/Ollamac" />
-
-
 
 ## v1.1.0
 
 - <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v1.1.0/Ollamac-1.1.0.dmg" text="Ollamac-1.1.0.dmg" repositoryKey="kevinhermawan/Ollamac" />
 
-
-
 ## v1.0.3
 
 - <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v1.0.3/Ollamac.dmg" text="Ollamac.dmg" repositoryKey="kevinhermawan/Ollamac" />
-
-
 
 ## v1.0.2
 
 - <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v1.0.2/Ollamac.dmg" text="Ollamac.dmg" repositoryKey="kevinhermawan/Ollamac" />
 
-
-
 ## v1.0.1
 
 - <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v1.0.1/Ollamac.dmg" text="Ollamac.dmg" repositoryKey="kevinhermawan/Ollamac" />
-
-
 
 ## v1.0.0
 
 - <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v1.0.0/Ollamac.dmg" text="Ollamac.dmg" repositoryKey="kevinhermawan/Ollamac" />
 
-
-
-
 找不到想要的版本？您可以访问 [官方网站](https://github.com/kevinhermawan/Ollamac/) 以下载更多版本。
 
 <!-- md Mirrors.md -->
-
 

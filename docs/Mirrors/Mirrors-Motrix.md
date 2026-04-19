@@ -16,17 +16,7 @@ Motrix 是一个全功能下载管理器，支持 HTTP、FTP、BT、磁力链接
 项目提供跨平台桌面发行包，适合需要集中管理大文件下载任务的用户。
 为 Motrix 建立镜像页面后，可以更稳定地分发其桌面安装包和后续版本更新。
 
-
-
-import HagicodeRecommendation from '../../src/components/HagicodeRecommendation';
-
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
-
-
-
-<HagicodeRecommendation layout="page" />
-
-
 
 ## v1.8.19
 
@@ -64,8 +54,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix_1.8.19_arm64.deb" text="Motrix_1.8.19_arm64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-Y1puA", "status": "synced", "syncedAt": "2026-04-11T07:41:21.000Z", "source": "azure"}]} />
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix_1.8.19_armv7l.deb" text="Motrix_1.8.19_armv7l.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-G1puA", "status": "synced", "syncedAt": "2026-04-11T07:41:35.201Z", "source": "azure"}]} />
 
-
-
 ## v1.8.17
 
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.8.17/latest-linux-arm.yml" text="latest-linux-arm.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
@@ -101,8 +89,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.8.17/Motrix_1.8.17_amd64.deb" text="Motrix_1.8.17_amd64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.8.17/Motrix_1.8.17_arm64.deb" text="Motrix_1.8.17_arm64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.8.17/Motrix_1.8.17_armv7l.deb" text="Motrix_1.8.17_armv7l.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
-
-
 
 ## v1.8.16
 
@@ -140,8 +126,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.8.16/Motrix_1.8.16_arm64.deb" text="Motrix_1.8.16_arm64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.8.16/Motrix_1.8.16_armv7l.deb" text="Motrix_1.8.16_armv7l.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 
-
-
 ## v1.8.15
 
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.8.15/latest-linux-arm.yml" text="latest-linux-arm.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
@@ -177,8 +161,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.8.15/Motrix_1.8.15_amd64.deb" text="Motrix_1.8.15_amd64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.8.15/Motrix_1.8.15_arm64.deb" text="Motrix_1.8.15_arm64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.8.15/Motrix_1.8.15_armv7l.deb" text="Motrix_1.8.15_armv7l.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
-
-
 
 ## v1.8.14
 
@@ -216,8 +198,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.8.14/Motrix_1.8.14_arm64.deb" text="Motrix_1.8.14_arm64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.8.14/Motrix_1.8.14_armv7l.deb" text="Motrix_1.8.14_armv7l.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 
-
-
 ## v1.8.12
 
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.8.12/latest-linux-arm.yml" text="latest-linux-arm.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
@@ -254,8 +234,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.8.12/Motrix_1.8.12_arm64.deb" text="Motrix_1.8.12_arm64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.8.12/Motrix_1.8.12_armv7l.deb" text="Motrix_1.8.12_armv7l.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 
-
-
 ## v1.8.11
 
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.8.11/latest-linux-arm.yml" text="latest-linux-arm.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
@@ -288,8 +266,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.8.11/Motrix_1.8.11_arm64.deb" text="Motrix_1.8.11_arm64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.8.11/Motrix_1.8.11_armv7l.deb" text="Motrix_1.8.11_armv7l.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 
-
-
 ## v1.6.11
 
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.6.11/latest-linux.yml" text="latest-linux.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
@@ -310,8 +286,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.6.11/Motrix-Setup-1.6.11.exe.blockmap" text="Motrix-Setup-1.6.11.exe.blockmap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.6.11/Motrix_1.6.11_amd64.deb" text="Motrix_1.6.11_amd64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.6.11/Motrix_1.6.11_amd64.snap" text="Motrix_1.6.11_amd64.snap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
-
-
 
 ## v1.6.10
 
@@ -334,8 +308,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.6.10/Motrix_1.6.10_amd64.deb" text="Motrix_1.6.10_amd64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.6.10/Motrix_1.6.10_amd64.snap" text="Motrix_1.6.10_amd64.snap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 
-
-
 ## v1.6.9
 
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.6.9/latest-linux.yml" text="latest-linux.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
@@ -356,8 +328,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.6.9/Motrix-Setup-1.6.9.exe.blockmap" text="Motrix-Setup-1.6.9.exe.blockmap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.6.9/Motrix_1.6.9_amd64.deb" text="Motrix_1.6.9_amd64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.6.9/Motrix_1.6.9_amd64.snap" text="Motrix_1.6.9_amd64.snap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
-
-
 
 ## v1.6.8
 
@@ -380,10 +350,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.6.8/Motrix_1.6.8_amd64.deb" text="Motrix_1.6.8_amd64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.6.8/Motrix_1.6.8_amd64.snap" text="Motrix_1.6.8_amd64.snap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 
-
-
-
-
 ## v1.5.15
 
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.15/latest-linux.yml" text="latest-linux.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
@@ -401,8 +367,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.15/Motrix-Setup-1.5.15.exe.blockmap" text="Motrix-Setup-1.5.15.exe.blockmap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.15/Motrix_1.5.15_amd64.deb" text="Motrix_1.5.15_amd64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.15/Motrix_1.5.15_amd64.snap" text="Motrix_1.5.15_amd64.snap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
-
-
 
 ## v1.5.13
 
@@ -422,8 +386,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.13/Motrix_1.5.13_amd64.deb" text="Motrix_1.5.13_amd64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.13/Motrix_1.5.13_amd64.snap" text="Motrix_1.5.13_amd64.snap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 
-
-
 ## v1.5.12
 
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.12/latest-linux.yml" text="latest-linux.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
@@ -441,8 +403,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.12/Motrix-Setup-1.5.12.exe.blockmap" text="Motrix-Setup-1.5.12.exe.blockmap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.12/Motrix_1.5.12_amd64.deb" text="Motrix_1.5.12_amd64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.12/Motrix_1.5.12_amd64.snap" text="Motrix_1.5.12_amd64.snap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
-
-
 
 ## v1.5.10
 
@@ -462,8 +422,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.10/Motrix_1.5.10_amd64.deb" text="Motrix_1.5.10_amd64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.10/Motrix_1.5.10_amd64.snap" text="Motrix_1.5.10_amd64.snap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 
-
-
 ## v1.4.1
 
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.4.1/latest-linux.yml" text="latest-linux.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
@@ -480,8 +438,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.4.1/Motrix-Setup-1.4.1.exe.blockmap" text="Motrix-Setup-1.4.1.exe.blockmap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.4.1/Motrix_1.4.1_amd64.deb" text="Motrix_1.4.1_amd64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.4.1/Motrix_1.4.1_amd64.snap" text="Motrix_1.4.1_amd64.snap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
-
-
 
 ## v1.3.8
 
@@ -500,8 +456,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.3.8/Motrix_1.3.8_amd64.deb" text="Motrix_1.3.8_amd64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.3.8/Motrix_1.3.8_amd64.snap" text="Motrix_1.3.8_amd64.snap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 
-
-
 ## v1.2.2
 
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.2.2/latest-linux.yml" text="latest-linux.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
@@ -519,8 +473,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.2.2/Motrix_1.2.2_amd64.deb" text="Motrix_1.2.2_amd64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.2.2/Motrix_1.2.2_amd64.snap" text="Motrix_1.2.2_amd64.snap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 
-
-
 ## v1.1.3
 
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.1.3/latest-linux.yml" text="latest-linux.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
@@ -537,8 +489,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.1.3/Motrix_1.1.3_amd64.deb" text="Motrix_1.1.3_amd64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.1.3/Motrix_1.1.3_amd64.snap" text="Motrix_1.1.3_amd64.snap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 
-
-
 ## v1.0.10
 
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.0.10/latest-linux.yml" text="latest-linux.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
@@ -551,8 +501,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.0.10/Motrix-Setup-1.0.10.exe" text="Motrix-Setup-1.0.10.exe" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.0.10/Motrix-Setup-1.0.10.exe.blockmap" text="Motrix-Setup-1.0.10.exe.blockmap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.0.10/Motrix_1.0.10_amd64.deb" text="Motrix_1.0.10_amd64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
-
-
 
 ## v1.0.9
 
@@ -568,11 +516,7 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.0.9/Motrix-Setup-1.0.9.exe.blockmap" text="Motrix-Setup-1.0.9.exe.blockmap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.0.9/Motrix_1.0.9_amd64.deb" text="Motrix_1.0.9_amd64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
 
-
-
-
 找不到想要的版本？您可以访问 [官方网站](https://github.com/agalwood/Motrix/) 以下载更多版本。
 
 <!-- md Mirrors.md -->
-
 

@@ -14,46 +14,29 @@ Grafana. 国内直接从官网 https://grafana.com 下载比较困难，需要�
 
  
 
-
-import HagicodeRecommendation from '../../src/components/HagicodeRecommendation';
-
-
-<HagicodeRecommendation layout="page" />
-
-
-
 ### [点击此处，您也可以部署自己专属的免费 Github 资源加速站点](https://rg.newbe.pro/docs/turbohub/quick-start)
 
 <img src='/images/weixin_public.png' alt='微信' />
 
 <!-- more -->
 
-
 ## 2.6
 
 - [2.6.0](https://mirrors.huaweicloud.com/grafana/2.6.0/)
 
-
-
 ## 3.0
 
 - [3.0.4](https://mirrors.huaweicloud.com/grafana/3.0.4/)
-
-
 
 ## 3.1
 
 - [3.1.0](https://mirrors.huaweicloud.com/grafana/3.1.0/)
 - [3.1.1](https://mirrors.huaweicloud.com/grafana/3.1.1/)
 
-
-
 ## 4.0
 
 - [4.0.1](https://mirrors.huaweicloud.com/grafana/4.0.1/)
 - [4.0.2](https://mirrors.huaweicloud.com/grafana/4.0.2/)
-
-
 
 ## 4.1
 
@@ -61,21 +44,15 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [4.1.1](https://mirrors.huaweicloud.com/grafana/4.1.1/)
 - [4.1.2](https://mirrors.huaweicloud.com/grafana/4.1.2/)
 
-
-
 ## 4.2
 
 - [4.2.0](https://mirrors.huaweicloud.com/grafana/4.2.0/)
-
-
 
 ## 4.3
 
 - [4.3.0](https://mirrors.huaweicloud.com/grafana/4.3.0/)
 - [4.3.1](https://mirrors.huaweicloud.com/grafana/4.3.1/)
 - [4.3.2](https://mirrors.huaweicloud.com/grafana/4.3.2/)
-
-
 
 ## 4.4
 
@@ -84,15 +61,11 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [4.4.2](https://mirrors.huaweicloud.com/grafana/4.4.2/)
 - [4.4.3](https://mirrors.huaweicloud.com/grafana/4.4.3/)
 
-
-
 ## 4.5
 
 - [4.5.0](https://mirrors.huaweicloud.com/grafana/4.5.0/)
 - [4.5.1](https://mirrors.huaweicloud.com/grafana/4.5.1/)
 - [4.5.2](https://mirrors.huaweicloud.com/grafana/4.5.2/)
-
-
 
 ## 4.6
 
@@ -103,8 +76,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [4.6.4](https://mirrors.huaweicloud.com/grafana/4.6.4/)
 - [4.6.5](https://mirrors.huaweicloud.com/grafana/4.6.5/)
 
-
-
 ## 5.0
 
 - [5.0.0](https://mirrors.huaweicloud.com/grafana/5.0.0/)
@@ -112,8 +83,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [5.0.2](https://mirrors.huaweicloud.com/grafana/5.0.2/)
 - [5.0.3](https://mirrors.huaweicloud.com/grafana/5.0.3/)
 - [5.0.4](https://mirrors.huaweicloud.com/grafana/5.0.4/)
-
-
 
 ## 5.1
 
@@ -124,8 +93,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [5.1.4](https://mirrors.huaweicloud.com/grafana/5.1.4/)
 - [5.1.5](https://mirrors.huaweicloud.com/grafana/5.1.5/)
 
-
-
 ## 5.2
 
 - [5.2.0](https://mirrors.huaweicloud.com/grafana/5.2.0/)
@@ -134,8 +101,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [5.2.3](https://mirrors.huaweicloud.com/grafana/5.2.3/)
 - [5.2.4](https://mirrors.huaweicloud.com/grafana/5.2.4/)
 
-
-
 ## 5.3
 
 - [5.3.0](https://mirrors.huaweicloud.com/grafana/5.3.0/)
@@ -143,8 +108,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [5.3.2](https://mirrors.huaweicloud.com/grafana/5.3.2/)
 - [5.3.3](https://mirrors.huaweicloud.com/grafana/5.3.3/)
 - [5.3.4](https://mirrors.huaweicloud.com/grafana/5.3.4/)
-
-
 
 ## 5.4
 
@@ -156,8 +119,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [5.4.4](https://mirrors.huaweicloud.com/grafana/5.4.4/)
 - [5.4.5](https://mirrors.huaweicloud.com/grafana/5.4.5/)
 
-
-
 ## 6.0
 
 - [6.0.0](https://mirrors.huaweicloud.com/grafana/6.0.0/)
@@ -166,8 +127,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [6.0.0-beta3](https://mirrors.huaweicloud.com/grafana/6.0.0-beta3/)
 - [6.0.1](https://mirrors.huaweicloud.com/grafana/6.0.1/)
 - [6.0.2](https://mirrors.huaweicloud.com/grafana/6.0.2/)
-
-
 
 ## 6.1
 
@@ -180,8 +139,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [6.1.5](https://mirrors.huaweicloud.com/grafana/6.1.5/)
 - [6.1.6](https://mirrors.huaweicloud.com/grafana/6.1.6/)
 
-
-
 ## 6.2
 
 - [6.2.0](https://mirrors.huaweicloud.com/grafana/6.2.0/)
@@ -192,8 +149,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [6.2.3](https://mirrors.huaweicloud.com/grafana/6.2.3/)
 - [6.2.4](https://mirrors.huaweicloud.com/grafana/6.2.4/)
 - [6.2.5](https://mirrors.huaweicloud.com/grafana/6.2.5/)
-
-
 
 ## 6.3
 
@@ -210,8 +165,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [6.3.6](https://mirrors.huaweicloud.com/grafana/6.3.6/)
 - [6.3.7](https://mirrors.huaweicloud.com/grafana/6.3.7/)
 
-
-
 ## 6.4
 
 - [6.4.0](https://mirrors.huaweicloud.com/grafana/6.4.0/)
@@ -223,8 +176,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [6.4.4](https://mirrors.huaweicloud.com/grafana/6.4.4/)
 - [6.4.5](https://mirrors.huaweicloud.com/grafana/6.4.5/)
 
-
-
 ## 6.5
 
 - [6.5.0](https://mirrors.huaweicloud.com/grafana/6.5.0/)
@@ -233,16 +184,12 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [6.5.2](https://mirrors.huaweicloud.com/grafana/6.5.2/)
 - [6.5.3](https://mirrors.huaweicloud.com/grafana/6.5.3/)
 
-
-
 ## 6.6
 
 - [6.6.0](https://mirrors.huaweicloud.com/grafana/6.6.0/)
 - [6.6.0-beta1](https://mirrors.huaweicloud.com/grafana/6.6.0-beta1/)
 - [6.6.1](https://mirrors.huaweicloud.com/grafana/6.6.1/)
 - [6.6.2](https://mirrors.huaweicloud.com/grafana/6.6.2/)
-
-
 
 ## 6.7
 
@@ -254,8 +201,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [6.7.4](https://mirrors.huaweicloud.com/grafana/6.7.4/)
 - [6.7.5](https://mirrors.huaweicloud.com/grafana/6.7.5/)
 - [6.7.6](https://mirrors.huaweicloud.com/grafana/6.7.6/)
-
-
 
 ## 7.0
 
@@ -270,8 +215,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [7.0.5](https://mirrors.huaweicloud.com/grafana/7.0.5/)
 - [7.0.6](https://mirrors.huaweicloud.com/grafana/7.0.6/)
 
-
-
 ## 7.1
 
 - [7.1.0](https://mirrors.huaweicloud.com/grafana/7.1.0/)
@@ -284,8 +227,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [7.1.4](https://mirrors.huaweicloud.com/grafana/7.1.4/)
 - [7.1.5](https://mirrors.huaweicloud.com/grafana/7.1.5/)
 
-
-
 ## 7.2
 
 - [7.2.0](https://mirrors.huaweicloud.com/grafana/7.2.0/)
@@ -293,8 +234,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [7.2.0-beta2](https://mirrors.huaweicloud.com/grafana/7.2.0-beta2/)
 - [7.2.1](https://mirrors.huaweicloud.com/grafana/7.2.1/)
 - [7.2.2](https://mirrors.huaweicloud.com/grafana/7.2.2/)
-
-
 
 ## 7.3
 
@@ -310,8 +249,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [7.3.7](https://mirrors.huaweicloud.com/grafana/7.3.7/)
 - [7.3.10](https://mirrors.huaweicloud.com/grafana/7.3.10/)
 
-
-
 ## 7.4
 
 - [7.4.0](https://mirrors.huaweicloud.com/grafana/7.4.0/)
@@ -320,8 +257,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [7.4.2](https://mirrors.huaweicloud.com/grafana/7.4.2/)
 - [7.4.3](https://mirrors.huaweicloud.com/grafana/7.4.3/)
 - [7.4.5](https://mirrors.huaweicloud.com/grafana/7.4.5/)
-
-
 
 ## 7.5
 
@@ -345,8 +280,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [7.5.16](https://mirrors.huaweicloud.com/grafana/7.5.16/)
 - [7.5.17](https://mirrors.huaweicloud.com/grafana/7.5.17/)
 
-
-
 ## 8.0
 
 - [8.0.0](https://mirrors.huaweicloud.com/grafana/8.0.0/)
@@ -360,8 +293,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [8.0.5](https://mirrors.huaweicloud.com/grafana/8.0.5/)
 - [8.0.6](https://mirrors.huaweicloud.com/grafana/8.0.6/)
 - [8.0.7](https://mirrors.huaweicloud.com/grafana/8.0.7/)
-
-
 
 ## 8.1
 
@@ -378,8 +309,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [8.1.7](https://mirrors.huaweicloud.com/grafana/8.1.7/)
 - [8.1.8](https://mirrors.huaweicloud.com/grafana/8.1.8/)
 
-
-
 ## 8.2
 
 - [8.2.0](https://mirrors.huaweicloud.com/grafana/8.2.0/)
@@ -392,8 +321,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [8.2.5](https://mirrors.huaweicloud.com/grafana/8.2.5/)
 - [8.2.6](https://mirrors.huaweicloud.com/grafana/8.2.6/)
 - [8.2.7](https://mirrors.huaweicloud.com/grafana/8.2.7/)
-
-
 
 ## 8.3
 
@@ -410,8 +337,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [8.3.10](https://mirrors.huaweicloud.com/grafana/8.3.10/)
 - [8.3.11](https://mirrors.huaweicloud.com/grafana/8.3.11/)
 
-
-
 ## 8.4
 
 - [8.4.0](https://mirrors.huaweicloud.com/grafana/8.4.0/)
@@ -425,8 +350,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [8.4.7](https://mirrors.huaweicloud.com/grafana/8.4.7/)
 - [8.4.10](https://mirrors.huaweicloud.com/grafana/8.4.10/)
 - [8.4.11](https://mirrors.huaweicloud.com/grafana/8.4.11/)
-
-
 
 ## 8.5
 
@@ -453,8 +376,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [8.5.26](https://mirrors.huaweicloud.com/grafana/8.5.26/)
 - [8.5.27](https://mirrors.huaweicloud.com/grafana/8.5.27/)
 
-
-
 ## 9.0
 
 - [9.0.0](https://mirrors.huaweicloud.com/grafana/9.0.0/)
@@ -471,8 +392,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [9.0.8](https://mirrors.huaweicloud.com/grafana/9.0.8/)
 - [9.0.9](https://mirrors.huaweicloud.com/grafana/9.0.9/)
 
-
-
 ## 9.1
 
 - [9.1.0](https://mirrors.huaweicloud.com/grafana/9.1.0/)
@@ -485,8 +404,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [9.1.6](https://mirrors.huaweicloud.com/grafana/9.1.6/)
 - [9.1.7](https://mirrors.huaweicloud.com/grafana/9.1.7/)
 - [9.1.8](https://mirrors.huaweicloud.com/grafana/9.1.8/)
-
-
 
 ## 9.2
 
@@ -525,8 +442,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [9.2.19](https://mirrors.huaweicloud.com/grafana/9.2.19/)
 - [9.2.20](https://mirrors.huaweicloud.com/grafana/9.2.20/)
 
-
-
 ## 9.3
 
 - [9.3.0](https://mirrors.huaweicloud.com/grafana/9.3.0/)
@@ -541,8 +456,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [9.3.14](https://mirrors.huaweicloud.com/grafana/9.3.14/)
 - [9.3.15](https://mirrors.huaweicloud.com/grafana/9.3.15/)
 - [9.3.16](https://mirrors.huaweicloud.com/grafana/9.3.16/)
-
-
 
 ## 9.4
 
@@ -559,8 +472,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [9.4.14](https://mirrors.huaweicloud.com/grafana/9.4.14/)
 - [9.4.15](https://mirrors.huaweicloud.com/grafana/9.4.15/)
 - [9.4.17](https://mirrors.huaweicloud.com/grafana/9.4.17/)
-
-
 
 ## 9.5
 
@@ -585,8 +496,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [9.5.20](https://mirrors.huaweicloud.com/grafana/9.5.20/)
 - [9.5.21](https://mirrors.huaweicloud.com/grafana/9.5.21/)
 
-
-
 ## 10.0
 
 - [10.0.0](https://mirrors.huaweicloud.com/grafana/10.0.0/)
@@ -604,8 +513,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [10.0.12](https://mirrors.huaweicloud.com/grafana/10.0.12/)
 - [10.0.13](https://mirrors.huaweicloud.com/grafana/10.0.13/)
 
-
-
 ## 10.1
 
 - [10.1.0](https://mirrors.huaweicloud.com/grafana/10.1.0/)
@@ -618,8 +525,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [10.1.8](https://mirrors.huaweicloud.com/grafana/10.1.8/)
 - [10.1.9](https://mirrors.huaweicloud.com/grafana/10.1.9/)
 - [10.1.10](https://mirrors.huaweicloud.com/grafana/10.1.10/)
-
-
 
 ## 10.2
 
@@ -634,8 +539,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [10.2.8](https://mirrors.huaweicloud.com/grafana/10.2.8/)
 - [10.2.9](https://mirrors.huaweicloud.com/grafana/10.2.9/)
 
-
-
 ## 10.3
 
 - [10.3.0](https://mirrors.huaweicloud.com/grafana/10.3.0/)
@@ -649,8 +552,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [10.3.10](https://mirrors.huaweicloud.com/grafana/10.3.10/)
 - [10.3.11](https://mirrors.huaweicloud.com/grafana/10.3.11/)
 - [10.3.12](https://mirrors.huaweicloud.com/grafana/10.3.12/)
-
-
 
 ## 10.4
 
@@ -678,8 +579,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [10.4.19](https://mirrors.huaweicloud.com/grafana/10.4.19/)
 - [10.4.19+security-01](https://mirrors.huaweicloud.com/grafana/10.4.19+security-01/)
 
-
-
 ## 11.0
 
 - [11.0.0](https://mirrors.huaweicloud.com/grafana/11.0.0/)
@@ -697,8 +596,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [11.0.9](https://mirrors.huaweicloud.com/grafana/11.0.9/)
 - [11.0.10](https://mirrors.huaweicloud.com/grafana/11.0.10/)
 - [11.0.11](https://mirrors.huaweicloud.com/grafana/11.0.11/)
-
-
 
 ## 11.1
 
@@ -718,8 +615,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [11.1.11](https://mirrors.huaweicloud.com/grafana/11.1.11/)
 - [11.1.12](https://mirrors.huaweicloud.com/grafana/11.1.12/)
 - [11.1.13](https://mirrors.huaweicloud.com/grafana/11.1.13/)
-
-
 
 ## 11.2
 
@@ -741,12 +636,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [11.2.10](https://mirrors.huaweicloud.com/grafana/11.2.10/)
 - [11.2.10+security-01](https://mirrors.huaweicloud.com/grafana/11.2.10+security-01/)
 
-
-
-
-
-
-
 ## 11.3
 
 - [11.3.0](https://mirrors.huaweicloud.com/grafana/11.3.0/)
@@ -765,8 +654,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [11.3.8+security-01](https://mirrors.huaweicloud.com/grafana/11.3.8+security-01/)
 - [11.3.9](https://mirrors.huaweicloud.com/grafana/11.3.9/)
 
-
-
 ## 11.4
 
 - [11.4.0](https://mirrors.huaweicloud.com/grafana/11.4.0/)
@@ -782,8 +669,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [11.4.6+security-01](https://mirrors.huaweicloud.com/grafana/11.4.6+security-01/)
 - [11.4.7](https://mirrors.huaweicloud.com/grafana/11.4.7/)
 - [11.4.8](https://mirrors.huaweicloud.com/grafana/11.4.8/)
-
-
 
 ## 11.5
 
@@ -802,8 +687,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [11.5.8](https://mirrors.huaweicloud.com/grafana/11.5.8/)
 - [11.5.9](https://mirrors.huaweicloud.com/grafana/11.5.9/)
 - [11.5.10](https://mirrors.huaweicloud.com/grafana/11.5.10/)
-
-
 
 ## 11.6
 
@@ -830,8 +713,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [11.6.14](https://mirrors.huaweicloud.com/grafana/11.6.14/)
 - [11.6.14+security-01](https://mirrors.huaweicloud.com/grafana/11.6.14+security-01/)
 
-
-
 ## 12.0
 
 - [12.0.0](https://mirrors.huaweicloud.com/grafana/12.0.0/)
@@ -849,8 +730,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [12.0.8+security-01](https://mirrors.huaweicloud.com/grafana/12.0.8+security-01/)
 - [12.0.9](https://mirrors.huaweicloud.com/grafana/12.0.9/)
 - [12.0.10](https://mirrors.huaweicloud.com/grafana/12.0.10/)
-
-
 
 ## 12.1
 
@@ -870,8 +749,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [12.1.10](https://mirrors.huaweicloud.com/grafana/12.1.10/)
 - [12.1.10+security-01](https://mirrors.huaweicloud.com/grafana/12.1.10+security-01/)
 
-
-
 ## 12.2
 
 - [12.2.0](https://mirrors.huaweicloud.com/grafana/12.2.0/)
@@ -888,8 +765,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [12.2.8](https://mirrors.huaweicloud.com/grafana/12.2.8/)
 - [12.2.8+security-01](https://mirrors.huaweicloud.com/grafana/12.2.8+security-01/)
 
-
-
 ## 12.3
 
 - [12.3.0](https://mirrors.huaweicloud.com/grafana/12.3.0/)
@@ -903,20 +778,13 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [12.3.6](https://mirrors.huaweicloud.com/grafana/12.3.6/)
 - [12.3.6+security-01](https://mirrors.huaweicloud.com/grafana/12.3.6+security-01/)
 
-
-
 ## 12.4
 
 - [12.4.0](https://mirrors.huaweicloud.com/grafana/12.4.0/)
 - [12.4.1](https://mirrors.huaweicloud.com/grafana/12.4.1/)
 - [12.4.2](https://mirrors.huaweicloud.com/grafana/12.4.2/)
 
-
-
-
 找不到想要的版本？您可以访问 [索引页](https://mirrors.huaweicloud.com/grafana/) 以下载更多版本。
 
-
 <!-- md Mirrors.md -->
-
 

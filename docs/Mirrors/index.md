@@ -3,13 +3,9 @@ sidebar_position: 1
 title: 开源镜像
 ---
 
-import HagicodeRecommendation from '../../src/components/HagicodeRecommendation';
-
 # 开源镜像 (Mirrors)
 
 本站收录的开源项目文档中文镜像，帮助开发者快速查阅热门技术文档。
-
-<HagicodeRecommendation layout="page" />
 
 ## 精选镜像
 

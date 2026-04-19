@@ -16,17 +16,7 @@ Tabby 是一个现代化的跨平台终端工具，适合需要标签页、分�
 它同时覆盖 Windows、macOS 和 Linux，并经常发布桌面安装包与更新资源。
 将它纳入镜像目录后，国内用户获取这些大体积客户端安装文件会更方便。
 
-
-
-import HagicodeRecommendation from '../../src/components/HagicodeRecommendation';
-
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
-
-
-
-<HagicodeRecommendation layout="page" />
-
-
 
 ## v1.0.230
 
@@ -65,8 +55,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-setup-x64.exe" text="tabby-1.0.230-setup-x64.exe" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-CIpuA", "status": "synced", "syncedAt": "2026-04-11T15:25:27.787Z", "source": "azure"}]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.230/tabby-1.0.230-setup-x64.exe.blockmap" text="tabby-1.0.230-setup-x64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-WIpuA", "status": "synced", "syncedAt": "2026-04-11T15:25:32.188Z", "source": "azure"}]} />
 
-
-
 ## v1.0.229
 
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.229/latest-arm64-linux-arm64.yml" text="latest-arm64-linux-arm64.yml" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
@@ -103,8 +91,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.229/tabby-1.0.229-setup-arm64.exe.blockmap" text="tabby-1.0.229-setup-arm64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.229/tabby-1.0.229-setup-x64.exe" text="tabby-1.0.229-setup-x64.exe" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.229/tabby-1.0.229-setup-x64.exe.blockmap" text="tabby-1.0.229-setup-x64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
-
-
 
 ## v1.0.228
 
@@ -143,8 +129,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.228/tabby-1.0.228-setup-x64.exe" text="tabby-1.0.228-setup-x64.exe" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.228/tabby-1.0.228-setup-x64.exe.blockmap" text="tabby-1.0.228-setup-x64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 
-
-
 ## v1.0.227
 
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.227/latest-arm64-linux-arm64.yml" text="latest-arm64-linux-arm64.yml" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
@@ -181,8 +165,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.227/tabby-1.0.227-setup-arm64.exe.blockmap" text="tabby-1.0.227-setup-arm64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.227/tabby-1.0.227-setup-x64.exe" text="tabby-1.0.227-setup-x64.exe" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.227/tabby-1.0.227-setup-x64.exe.blockmap" text="tabby-1.0.227-setup-x64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
-
-
 
 ## v1.0.226
 
@@ -221,8 +203,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.226/tabby-1.0.226-setup-x64.exe" text="tabby-1.0.226-setup-x64.exe" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.226/tabby-1.0.226-setup-x64.exe.blockmap" text="tabby-1.0.226-setup-x64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 
-
-
 ## v1.0.225
 
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.225/latest-arm64-linux-arm64.yml" text="latest-arm64-linux-arm64.yml" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
@@ -255,8 +235,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.225/tabby-1.0.225-portable-x64.zip" text="tabby-1.0.225-portable-x64.zip" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.225/tabby-1.0.225-setup-x64.exe" text="tabby-1.0.225-setup-x64.exe" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.225/tabby-1.0.225-setup-x64.exe.blockmap" text="tabby-1.0.225-setup-x64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
-
-
 
 ## v1.0.224
 
@@ -295,8 +273,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.224/tabby-1.0.224-setup-x64.exe" text="tabby-1.0.224-setup-x64.exe" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.224/tabby-1.0.224-setup-x64.exe.blockmap" text="tabby-1.0.224-setup-x64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 
-
-
 ## v1.0.223
 
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.223/latest-arm64-linux-arm64.yml" text="latest-arm64-linux-arm64.yml" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
@@ -329,8 +305,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.223/tabby-1.0.223-setup-arm64.exe.blockmap" text="tabby-1.0.223-setup-arm64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.223/tabby-1.0.223-setup-x64.exe" text="tabby-1.0.223-setup-x64.exe" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.223/tabby-1.0.223-setup-x64.exe.blockmap" text="tabby-1.0.223-setup-x64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
-
-
 
 ## v1.0.222
 
@@ -369,8 +343,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.222/tabby-1.0.222-setup-x64.exe" text="tabby-1.0.222-setup-x64.exe" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.222/tabby-1.0.222-setup-x64.exe.blockmap" text="tabby-1.0.222-setup-x64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 
-
-
 ## v1.0.221
 
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.221/latest-arm64-linux-arm64.yml" text="latest-arm64-linux-arm64.yml" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
@@ -407,8 +379,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.221/tabby-1.0.221-setup-arm64.exe.blockmap" text="tabby-1.0.221-setup-arm64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.221/tabby-1.0.221-setup-x64.exe" text="tabby-1.0.221-setup-x64.exe" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.221/tabby-1.0.221-setup-x64.exe.blockmap" text="tabby-1.0.221-setup-x64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
-
-
 
 ## v1.0.220
 
@@ -447,8 +417,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.220/tabby-1.0.220-setup-x64.exe" text="tabby-1.0.220-setup-x64.exe" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.220/tabby-1.0.220-setup-x64.exe.blockmap" text="tabby-1.0.220-setup-x64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 
-
-
 ## v1.0.219
 
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.219/latest-arm64-linux-arm64.yml" text="latest-arm64-linux-arm64.yml" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
@@ -485,8 +453,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.219/tabby-1.0.219-setup-arm64.exe.blockmap" text="tabby-1.0.219-setup-arm64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.219/tabby-1.0.219-setup-x64.exe" text="tabby-1.0.219-setup-x64.exe" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.219/tabby-1.0.219-setup-x64.exe.blockmap" text="tabby-1.0.219-setup-x64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
-
-
 
 ## v1.0.218
 
@@ -525,8 +491,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.218/tabby-1.0.218-setup-x64.exe" text="tabby-1.0.218-setup-x64.exe" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.218/tabby-1.0.218-setup-x64.exe.blockmap" text="tabby-1.0.218-setup-x64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 
-
-
 ## v1.0.216
 
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.216/latest-arm64-linux-arm64.yml" text="latest-arm64-linux-arm64.yml" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
@@ -561,8 +525,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.216/tabby-1.0.216-setup-arm64.exe.blockmap" text="tabby-1.0.216-setup-arm64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.216/tabby-1.0.216-setup-x64.exe" text="tabby-1.0.216-setup-x64.exe" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.216/tabby-1.0.216-setup-x64.exe.blockmap" text="tabby-1.0.216-setup-x64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
-
-
 
 ## v1.0.215
 
@@ -601,8 +563,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.215/tabby-1.0.215-setup-x64.exe" text="tabby-1.0.215-setup-x64.exe" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.215/tabby-1.0.215-setup-x64.exe.blockmap" text="tabby-1.0.215-setup-x64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 
-
-
 ## v1.0.214
 
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.214/latest-arm64-linux-arm64.yml" text="latest-arm64-linux-arm64.yml" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
@@ -639,8 +599,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.214/tabby-1.0.214-setup-arm64.exe.blockmap" text="tabby-1.0.214-setup-arm64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.214/tabby-1.0.214-setup-x64.exe" text="tabby-1.0.214-setup-x64.exe" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.214/tabby-1.0.214-setup-x64.exe.blockmap" text="tabby-1.0.214-setup-x64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
-
-
 
 ## v1.0.213
 
@@ -679,8 +637,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.213/tabby-1.0.213-setup-x64.exe" text="tabby-1.0.213-setup-x64.exe" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.213/tabby-1.0.213-setup-x64.exe.blockmap" text="tabby-1.0.213-setup-x64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 
-
-
 ## v1.0.211
 
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.211/latest-arm64-linux-arm64.yml" text="latest-arm64-linux-arm64.yml" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
@@ -717,8 +673,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.211/tabby-1.0.211-setup-arm64.exe.blockmap" text="tabby-1.0.211-setup-arm64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.211/tabby-1.0.211-setup-x64.exe" text="tabby-1.0.211-setup-x64.exe" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.211/tabby-1.0.211-setup-x64.exe.blockmap" text="tabby-1.0.211-setup-x64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
-
-
 
 ## v1.0.210
 
@@ -757,8 +711,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.210/tabby-1.0.210-setup-x64.exe" text="tabby-1.0.210-setup-x64.exe" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.210/tabby-1.0.210-setup-x64.exe.blockmap" text="tabby-1.0.210-setup-x64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 
-
-
 ## v1.0.209
 
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.209/latest-arm64-linux-arm64.yml" text="latest-arm64-linux-arm64.yml" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
@@ -795,10 +747,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.209/tabby-1.0.209-setup-arm64.exe.blockmap" text="tabby-1.0.209-setup-arm64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.209/tabby-1.0.209-setup-x64.exe" text="tabby-1.0.209-setup-x64.exe" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.209/tabby-1.0.209-setup-x64.exe.blockmap" text="tabby-1.0.209-setup-x64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
-
-
-
-
 
 ## v1.0.208
 
@@ -837,8 +785,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.208/tabby-1.0.208-setup-x64.exe" text="tabby-1.0.208-setup-x64.exe" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.208/tabby-1.0.208-setup-x64.exe.blockmap" text="tabby-1.0.208-setup-x64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 
-
-
 ## v1.0.207
 
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.207/latest-arm64-linux-arm64.yml" text="latest-arm64-linux-arm64.yml" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
@@ -875,8 +821,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.207/tabby-1.0.207-setup-arm64.exe.blockmap" text="tabby-1.0.207-setup-arm64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.207/tabby-1.0.207-setup-x64.exe" text="tabby-1.0.207-setup-x64.exe" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.207/tabby-1.0.207-setup-x64.exe.blockmap" text="tabby-1.0.207-setup-x64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
-
-
 
 ## v1.0.206
 
@@ -915,8 +859,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.206/tabby-1.0.206-setup-x64.exe" text="tabby-1.0.206-setup-x64.exe" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.206/tabby-1.0.206-setup-x64.exe.blockmap" text="tabby-1.0.206-setup-x64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 
-
-
 ## v1.0.205
 
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.205/latest-arm64-linux-arm64.yml" text="latest-arm64-linux-arm64.yml" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
@@ -953,8 +895,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.205/tabby-1.0.205-setup-arm64.exe.blockmap" text="tabby-1.0.205-setup-arm64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.205/tabby-1.0.205-setup-x64.exe" text="tabby-1.0.205-setup-x64.exe" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.205/tabby-1.0.205-setup-x64.exe.blockmap" text="tabby-1.0.205-setup-x64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
-
-
 
 ## v1.0.204
 
@@ -993,8 +933,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.204/tabby-1.0.204-setup-x64.exe" text="tabby-1.0.204-setup-x64.exe" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.204/tabby-1.0.204-setup-x64.exe.blockmap" text="tabby-1.0.204-setup-x64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 
-
-
 ## v1.0.201
 
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.201/latest-arm64-mac.yml" text="latest-arm64-mac.yml" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
@@ -1028,8 +966,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.201/tabby-1.0.201-setup-arm64.exe.blockmap" text="tabby-1.0.201-setup-arm64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.201/tabby-1.0.201-setup-x64.exe" text="tabby-1.0.201-setup-x64.exe" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.201/tabby-1.0.201-setup-x64.exe.blockmap" text="tabby-1.0.201-setup-x64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
-
-
 
 ## v1.0.200
 
@@ -1066,8 +1002,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.200/tabby-1.0.200-setup-x64.exe" text="tabby-1.0.200-setup-x64.exe" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.200/tabby-1.0.200-setup-x64.exe.blockmap" text="tabby-1.0.200-setup-x64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 
-
-
 ## v1.0.199
 
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.199/latest-arm64-linux-arm64.yml" text="latest-arm64-linux-arm64.yml" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
@@ -1102,8 +1036,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.199/tabby-1.0.199-setup-arm64.exe.blockmap" text="tabby-1.0.199-setup-arm64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.199/tabby-1.0.199-setup-x64.exe" text="tabby-1.0.199-setup-x64.exe" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.199/tabby-1.0.199-setup-x64.exe.blockmap" text="tabby-1.0.199-setup-x64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
-
-
 
 ## v1.0.198
 
@@ -1140,8 +1072,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.198/tabby-1.0.198-setup-x64.exe" text="tabby-1.0.198-setup-x64.exe" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.198/tabby-1.0.198-setup-x64.exe.blockmap" text="tabby-1.0.198-setup-x64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 
-
-
 ## v1.0.197
 
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.197/latest-arm64-mac.yml" text="latest-arm64-mac.yml" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
@@ -1166,11 +1096,7 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.197/tabby-1.0.197-setup-x64.exe" text="tabby-1.0.197-setup-x64.exe" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/Eugeny/tabby/releases/download/v1.0.197/tabby-1.0.197-setup-x64.exe.blockmap" text="tabby-1.0.197-setup-x64.exe.blockmap" repositoryKey="Eugeny/tabby" preferredProviders={["123pan"]} />
 
-
-
-
 找不到想要的版本？您可以访问 [官方网站](https://github.com/Eugeny/tabby/) 以下载更多版本。
 
 <!-- md Mirrors.md -->
-
 

@@ -14,20 +14,11 @@ Keepalived. 国内直接从官网 https://keepalived.org 下载比较困难，�
 
  
 
-
-import HagicodeRecommendation from '../../src/components/HagicodeRecommendation';
-
-
-<HagicodeRecommendation layout="page" />
-
-
-
 ### [点击此处，您也可以部署自己专属的免费 Github 资源加速站点](https://rg.newbe.pro/docs/turbohub/quick-start)
 
 <img src='/images/weixin_public.png' alt='微信' />
 
 <!-- more -->
-
 
 ## 0.2
 
@@ -36,16 +27,12 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [keepalived-0.2.6.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-0.2.6.tar.gz)
 - [keepalived-0.2.7.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-0.2.7.tar.gz)
 
-
-
 ## 0.3
 
 - [keepalived-0.3.5.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-0.3.5.tar.gz)
 - [keepalived-0.3.6.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-0.3.6.tar.gz)
 - [keepalived-0.3.7.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-0.3.7.tar.gz)
 - [keepalived-0.3.8.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-0.3.8.tar.gz)
-
-
 
 ## 0.4
 
@@ -55,8 +42,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [keepalived-0.4.9.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-0.4.9.tar.gz)
 - [keepalived-0.4.9a.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-0.4.9a.tar.gz)
 
-
-
 ## 0.5
 
 - [keepalived-0.5.3.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-0.5.3.tar.gz)
@@ -65,8 +50,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [keepalived-0.5.7.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-0.5.7.tar.gz)
 - [keepalived-0.5.8.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-0.5.8.tar.gz)
 - [keepalived-0.5.9.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-0.5.9.tar.gz)
-
-
 
 ## 0.6
 
@@ -79,18 +62,10 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [keepalived-0.6.9.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-0.6.9.tar.gz)
 - [keepalived-0.6.10.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-0.6.10.tar.gz)
 
-
-
 ## 0.7
 
 - [keepalived-0.7.1.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-0.7.1.tar.gz)
 - [keepalived-0.7.6.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-0.7.6.tar.gz)
-
-
-
-
-
-
 
 ## 1.0
 
@@ -98,8 +73,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [keepalived-1.0.1.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-1.0.1.tar.gz)
 - [keepalived-1.0.2.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-1.0.2.tar.gz)
 - [keepalived-1.0.3.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-1.0.3.tar.gz)
-
-
 
 ## 1.1
 
@@ -124,8 +97,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [keepalived-1.1.18.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-1.1.18.tar.gz)
 - [keepalived-1.1.19.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-1.1.19.tar.gz)
 - [keepalived-1.1.20.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-1.1.20.tar.gz)
-
-
 
 ## 1.2
 
@@ -155,8 +126,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [keepalived-1.2.23.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-1.2.23.tar.gz)
 - [keepalived-1.2.24.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-1.2.24.tar.gz)
 
-
-
 ## 1.3
 
 - [keepalived-1.3.0.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-1.3.0.tar.gz)
@@ -170,8 +139,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [keepalived-1.3.8.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-1.3.8.tar.gz)
 - [keepalived-1.3.9.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-1.3.9.tar.gz)
 
-
-
 ## 1.4
 
 - [keepalived-1.4.0.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-1.4.0.tar.gz)
@@ -180,8 +147,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [keepalived-1.4.3.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-1.4.3.tar.gz)
 - [keepalived-1.4.4.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-1.4.4.tar.gz)
 - [keepalived-1.4.5.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-1.4.5.tar.gz)
-
-
 
 ## 2.0
 
@@ -207,8 +172,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [keepalived-2.0.19.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-2.0.19.tar.gz)
 - [keepalived-2.0.20.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-2.0.20.tar.gz)
 
-
-
 ## 2.1
 
 - [keepalived-2.1.0.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-2.1.0.tar.gz)
@@ -216,8 +179,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [keepalived-2.1.3.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-2.1.3.tar.gz)
 - [keepalived-2.1.4.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-2.1.4.tar.gz)
 - [keepalived-2.1.5.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-2.1.5.tar.gz)
-
-
 
 ## 2.2
 
@@ -229,8 +190,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [keepalived-2.2.7.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-2.2.7.tar.gz)
 - [keepalived-2.2.8.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-2.2.8.tar.gz)
 
-
-
 ## 2.3
 
 - [keepalived-2.3.0.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-2.3.0.tar.gz)
@@ -239,12 +198,7 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [keepalived-2.3.3.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-2.3.3.tar.gz)
 - [keepalived-2.3.4.tar.gz](https://mirrors.huaweicloud.com/keepalived/keepalived-2.3.4.tar.gz)
 
-
-
-
 找不到想要的版本？您可以访问 [索引页](https://mirrors.huaweicloud.com/keepalived/) 以下载更多版本。
 
-
 <!-- md Mirrors.md -->
-
 

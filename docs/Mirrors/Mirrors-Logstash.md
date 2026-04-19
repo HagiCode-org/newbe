@@ -14,26 +14,15 @@ Logstash. 国内直接从官网 https://www.elastic.co 下载比较困难，需�
 
  
 
-
-import HagicodeRecommendation from '../../src/components/HagicodeRecommendation';
-
-
-<HagicodeRecommendation layout="page" />
-
-
-
 ### [点击此处，您也可以部署自己专属的免费 Github 资源加速站点](https://rg.newbe.pro/docs/turbohub/quick-start)
 
 <img src='/images/weixin_public.png' alt='微信' />
 
 <!-- more -->
 
-
 ## 1.3
 
 - [1.3.3](https://mirrors.huaweicloud.com/logstash/1.3.3/)
-
-
 
 ## 1.4
 
@@ -42,8 +31,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [1.4.2](https://mirrors.huaweicloud.com/logstash/1.4.2/)
 - [1.4.3](https://mirrors.huaweicloud.com/logstash/1.4.3/)
 - [1.4.4](https://mirrors.huaweicloud.com/logstash/1.4.4/)
-
-
 
 ## 1.5
 
@@ -59,16 +46,12 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [1.5.5](https://mirrors.huaweicloud.com/logstash/1.5.5/)
 - [1.5.6](https://mirrors.huaweicloud.com/logstash/1.5.6/)
 
-
-
 ## 2.0
 
 - [2.0.0](https://mirrors.huaweicloud.com/logstash/2.0.0/)
 - [2.0.0-beta2](https://mirrors.huaweicloud.com/logstash/2.0.0-beta2/)
 - [2.0.0-beta3](https://mirrors.huaweicloud.com/logstash/2.0.0-beta3/)
 - [2.0.0-rc1](https://mirrors.huaweicloud.com/logstash/2.0.0-rc1/)
-
-
 
 ## 2.1
 
@@ -77,16 +60,12 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [2.1.2](https://mirrors.huaweicloud.com/logstash/2.1.2/)
 - [2.1.3](https://mirrors.huaweicloud.com/logstash/2.1.3/)
 
-
-
 ## 2.2
 
 - [2.2.0](https://mirrors.huaweicloud.com/logstash/2.2.0/)
 - [2.2.1](https://mirrors.huaweicloud.com/logstash/2.2.1/)
 - [2.2.2](https://mirrors.huaweicloud.com/logstash/2.2.2/)
 - [2.2.3](https://mirrors.huaweicloud.com/logstash/2.2.3/)
-
-
 
 ## 2.3
 
@@ -96,14 +75,10 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [2.3.3](https://mirrors.huaweicloud.com/logstash/2.3.3/)
 - [2.3.4](https://mirrors.huaweicloud.com/logstash/2.3.4/)
 
-
-
 ## 2.4
 
 - [2.4.0](https://mirrors.huaweicloud.com/logstash/2.4.0/)
 - [2.4.1](https://mirrors.huaweicloud.com/logstash/2.4.1/)
-
-
 
 ## 5.0
 
@@ -117,22 +92,16 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [5.0.0.alpha1](https://mirrors.huaweicloud.com/logstash/5.0.0.alpha1/)
 - [5.0.2](https://mirrors.huaweicloud.com/logstash/5.0.2/)
 
-
-
 ## 5.1
 
 - [5.1.1](https://mirrors.huaweicloud.com/logstash/5.1.1/)
 - [5.1.2](https://mirrors.huaweicloud.com/logstash/5.1.2/)
-
-
 
 ## 5.2
 
 - [5.2.0](https://mirrors.huaweicloud.com/logstash/5.2.0/)
 - [5.2.1](https://mirrors.huaweicloud.com/logstash/5.2.1/)
 - [5.2.2](https://mirrors.huaweicloud.com/logstash/5.2.2/)
-
-
 
 ## 5.3
 
@@ -141,8 +110,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [5.3.2](https://mirrors.huaweicloud.com/logstash/5.3.2/)
 - [5.3.3](https://mirrors.huaweicloud.com/logstash/5.3.3/)
 
-
-
 ## 5.4
 
 - [5.4.0](https://mirrors.huaweicloud.com/logstash/5.4.0/)
@@ -150,16 +117,12 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [5.4.2](https://mirrors.huaweicloud.com/logstash/5.4.2/)
 - [5.4.3](https://mirrors.huaweicloud.com/logstash/5.4.3/)
 
-
-
 ## 5.5
 
 - [5.5.0](https://mirrors.huaweicloud.com/logstash/5.5.0/)
 - [5.5.1](https://mirrors.huaweicloud.com/logstash/5.5.1/)
 - [5.5.2](https://mirrors.huaweicloud.com/logstash/5.5.2/)
 - [5.5.3](https://mirrors.huaweicloud.com/logstash/5.5.3/)
-
-
 
 ## 5.6
 
@@ -181,8 +144,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [5.6.15](https://mirrors.huaweicloud.com/logstash/5.6.15/)
 - [5.6.16](https://mirrors.huaweicloud.com/logstash/5.6.16/)
 
-
-
 ## 6.0
 
 - [6.0.0](https://mirrors.huaweicloud.com/logstash/6.0.0/)
@@ -194,8 +155,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [6.0.0-rc2](https://mirrors.huaweicloud.com/logstash/6.0.0-rc2/)
 - [6.0.1](https://mirrors.huaweicloud.com/logstash/6.0.1/)
 
-
-
 ## 6.1
 
 - [6.1.0](https://mirrors.huaweicloud.com/logstash/6.1.0/)
@@ -203,8 +162,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [6.1.2](https://mirrors.huaweicloud.com/logstash/6.1.2/)
 - [6.1.3](https://mirrors.huaweicloud.com/logstash/6.1.3/)
 - [6.1.4](https://mirrors.huaweicloud.com/logstash/6.1.4/)
-
-
 
 ## 6.2
 
@@ -214,15 +171,11 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [6.2.3](https://mirrors.huaweicloud.com/logstash/6.2.3/)
 - [6.2.4](https://mirrors.huaweicloud.com/logstash/6.2.4/)
 
-
-
 ## 6.3
 
 - [6.3.0](https://mirrors.huaweicloud.com/logstash/6.3.0/)
 - [6.3.1](https://mirrors.huaweicloud.com/logstash/6.3.1/)
 - [6.3.2](https://mirrors.huaweicloud.com/logstash/6.3.2/)
-
-
 
 ## 6.4
 
@@ -230,8 +183,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [6.4.1](https://mirrors.huaweicloud.com/logstash/6.4.1/)
 - [6.4.2](https://mirrors.huaweicloud.com/logstash/6.4.2/)
 - [6.4.3](https://mirrors.huaweicloud.com/logstash/6.4.3/)
-
-
 
 ## 6.5
 
@@ -241,23 +192,17 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [6.5.3](https://mirrors.huaweicloud.com/logstash/6.5.3/)
 - [6.5.4](https://mirrors.huaweicloud.com/logstash/6.5.4/)
 
-
-
 ## 6.6
 
 - [6.6.0](https://mirrors.huaweicloud.com/logstash/6.6.0/)
 - [6.6.1](https://mirrors.huaweicloud.com/logstash/6.6.1/)
 - [6.6.2](https://mirrors.huaweicloud.com/logstash/6.6.2/)
 
-
-
 ## 6.7
 
 - [6.7.0](https://mirrors.huaweicloud.com/logstash/6.7.0/)
 - [6.7.1](https://mirrors.huaweicloud.com/logstash/6.7.1/)
 - [6.7.2](https://mirrors.huaweicloud.com/logstash/6.7.2/)
-
-
 
 ## 6.8
 
@@ -286,8 +231,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [6.8.22](https://mirrors.huaweicloud.com/logstash/6.8.22/)
 - [6.8.23](https://mirrors.huaweicloud.com/logstash/6.8.23/)
 
-
-
 ## 7.0
 
 - [7.0.0](https://mirrors.huaweicloud.com/logstash/7.0.0/)
@@ -298,21 +241,15 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [7.0.0-rc2](https://mirrors.huaweicloud.com/logstash/7.0.0-rc2/)
 - [7.0.1](https://mirrors.huaweicloud.com/logstash/7.0.1/)
 
-
-
 ## 7.1
 
 - [7.1.0](https://mirrors.huaweicloud.com/logstash/7.1.0/)
 - [7.1.1](https://mirrors.huaweicloud.com/logstash/7.1.1/)
 
-
-
 ## 7.2
 
 - [7.2.0](https://mirrors.huaweicloud.com/logstash/7.2.0/)
 - [7.2.1](https://mirrors.huaweicloud.com/logstash/7.2.1/)
-
-
 
 ## 7.3
 
@@ -320,15 +257,11 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [7.3.1](https://mirrors.huaweicloud.com/logstash/7.3.1/)
 - [7.3.2](https://mirrors.huaweicloud.com/logstash/7.3.2/)
 
-
-
 ## 7.4
 
 - [7.4.0](https://mirrors.huaweicloud.com/logstash/7.4.0/)
 - [7.4.1](https://mirrors.huaweicloud.com/logstash/7.4.1/)
 - [7.4.2](https://mirrors.huaweicloud.com/logstash/7.4.2/)
-
-
 
 ## 7.5
 
@@ -336,29 +269,21 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [7.5.1](https://mirrors.huaweicloud.com/logstash/7.5.1/)
 - [7.5.2](https://mirrors.huaweicloud.com/logstash/7.5.2/)
 
-
-
 ## 7.6
 
 - [7.6.0](https://mirrors.huaweicloud.com/logstash/7.6.0/)
 - [7.6.1](https://mirrors.huaweicloud.com/logstash/7.6.1/)
 - [7.6.2](https://mirrors.huaweicloud.com/logstash/7.6.2/)
 
-
-
 ## 7.7
 
 - [7.7.0](https://mirrors.huaweicloud.com/logstash/7.7.0/)
 - [7.7.1](https://mirrors.huaweicloud.com/logstash/7.7.1/)
 
-
-
 ## 7.8
 
 - [7.8.0](https://mirrors.huaweicloud.com/logstash/7.8.0/)
 - [7.8.1](https://mirrors.huaweicloud.com/logstash/7.8.1/)
-
-
 
 ## 7.9
 
@@ -367,15 +292,11 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [7.9.2](https://mirrors.huaweicloud.com/logstash/7.9.2/)
 - [7.9.3](https://mirrors.huaweicloud.com/logstash/7.9.3/)
 
-
-
 ## 7.10
 
 - [7.10.0](https://mirrors.huaweicloud.com/logstash/7.10.0/)
 - [7.10.1](https://mirrors.huaweicloud.com/logstash/7.10.1/)
 - [7.10.2](https://mirrors.huaweicloud.com/logstash/7.10.2/)
-
-
 
 ## 7.11
 
@@ -383,14 +304,10 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [7.11.1](https://mirrors.huaweicloud.com/logstash/7.11.1/)
 - [7.11.2](https://mirrors.huaweicloud.com/logstash/7.11.2/)
 
-
-
 ## 7.12
 
 - [7.12.0](https://mirrors.huaweicloud.com/logstash/7.12.0/)
 - [7.12.1](https://mirrors.huaweicloud.com/logstash/7.12.1/)
-
-
 
 ## 7.13
 
@@ -399,23 +316,17 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [7.13.3](https://mirrors.huaweicloud.com/logstash/7.13.3/)
 - [7.13.4](https://mirrors.huaweicloud.com/logstash/7.13.4/)
 
-
-
 ## 7.14
 
 - [7.14.0](https://mirrors.huaweicloud.com/logstash/7.14.0/)
 - [7.14.1](https://mirrors.huaweicloud.com/logstash/7.14.1/)
 - [7.14.2](https://mirrors.huaweicloud.com/logstash/7.14.2/)
 
-
-
 ## 7.15
 
 - [7.15.0](https://mirrors.huaweicloud.com/logstash/7.15.0/)
 - [7.15.1](https://mirrors.huaweicloud.com/logstash/7.15.1/)
 - [7.15.2](https://mirrors.huaweicloud.com/logstash/7.15.2/)
-
-
 
 ## 7.16
 
@@ -424,15 +335,11 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [7.16.2](https://mirrors.huaweicloud.com/logstash/7.16.2/)
 - [7.16.3](https://mirrors.huaweicloud.com/logstash/7.16.3/)
 
-
-
 ## 7.17
 
 - [7.17.0](https://mirrors.huaweicloud.com/logstash/7.17.0/)
 - [7.17.1](https://mirrors.huaweicloud.com/logstash/7.17.1/)
 - [7.17.2](https://mirrors.huaweicloud.com/logstash/7.17.2/)
-
-
 
 ## 8.0
 
@@ -444,21 +351,15 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [8.0.0-rc2](https://mirrors.huaweicloud.com/logstash/8.0.0-rc2/)
 - [8.0.1](https://mirrors.huaweicloud.com/logstash/8.0.1/)
 
-
-
 ## 8.1
 
 - [8.1.0](https://mirrors.huaweicloud.com/logstash/8.1.0/)
 - [8.1.1](https://mirrors.huaweicloud.com/logstash/8.1.1/)
 - [8.1.2](https://mirrors.huaweicloud.com/logstash/8.1.2/)
 
-
-
 ## 8.5
 
 - [8.5.3](https://mirrors.huaweicloud.com/logstash/8.5.3/)
-
-
 
 ## 8.6
 
@@ -466,37 +367,23 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [8.6.1](https://mirrors.huaweicloud.com/logstash/8.6.1/)
 - [8.6.2](https://mirrors.huaweicloud.com/logstash/8.6.2/)
 
-
-
 ## 8.7
 
 - [8.7.0](https://mirrors.huaweicloud.com/logstash/8.7.0/)
 - [8.7.1](https://mirrors.huaweicloud.com/logstash/8.7.1/)
-
-
-
-
-
-
 
 ## 8.8
 
 - [8.8.0](https://mirrors.huaweicloud.com/logstash/8.8.0/)
 - [8.8.1](https://mirrors.huaweicloud.com/logstash/8.8.1/)
 
-
-
 ## 8.9
 
 - [8.9.2](https://mirrors.huaweicloud.com/logstash/8.9.2/)
 
-
-
 ## 8.14
 
 - [8.14.3](https://mirrors.huaweicloud.com/logstash/8.14.3/)
-
-
 
 ## 8.15
 
@@ -506,8 +393,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [8.15.3](https://mirrors.huaweicloud.com/logstash/8.15.3/)
 - [8.15.4](https://mirrors.huaweicloud.com/logstash/8.15.4/)
 - [8.15.5](https://mirrors.huaweicloud.com/logstash/8.15.5/)
-
-
 
 ## 8.16
 
@@ -519,8 +404,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [8.16.5](https://mirrors.huaweicloud.com/logstash/8.16.5/)
 - [8.16.6](https://mirrors.huaweicloud.com/logstash/8.16.6/)
 
-
-
 ## 8.17
 
 - [8.17.0](https://mirrors.huaweicloud.com/logstash/8.17.0/)
@@ -528,8 +411,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [8.17.2](https://mirrors.huaweicloud.com/logstash/8.17.2/)
 - [8.17.3](https://mirrors.huaweicloud.com/logstash/8.17.3/)
 - [8.17.4](https://mirrors.huaweicloud.com/logstash/8.17.4/)
-
-
 
 ## 9.0
 
@@ -545,8 +426,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [9.0.7](https://mirrors.huaweicloud.com/logstash/9.0.7/)
 - [9.0.8](https://mirrors.huaweicloud.com/logstash/9.0.8/)
 
-
-
 ## 9.1
 
 - [9.1.0](https://mirrors.huaweicloud.com/logstash/9.1.0/)
@@ -561,8 +440,6 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [9.1.9](https://mirrors.huaweicloud.com/logstash/9.1.9/)
 - [9.1.10](https://mirrors.huaweicloud.com/logstash/9.1.10/)
 
-
-
 ## 9.2
 
 - [9.2.0](https://mirrors.huaweicloud.com/logstash/9.2.0/)
@@ -571,12 +448,7 @@ import HagicodeRecommendation from '../../src/components/HagicodeRecommendation'
 - [9.2.3](https://mirrors.huaweicloud.com/logstash/9.2.3/)
 - [9.2.4](https://mirrors.huaweicloud.com/logstash/9.2.4/)
 
-
-
-
 找不到想要的版本？您可以访问 [索引页](https://mirrors.huaweicloud.com/logstash/) 以下载更多版本。
 
-
 <!-- md Mirrors.md -->
-
 
