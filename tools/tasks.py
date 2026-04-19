@@ -63,48 +63,18 @@ HAGICODE_PROMO_IMPORT = "import HagicodeRecommendation from '../../src/component
 HAGICODE_PROMO_BLOCK = "<HagicodeRecommendation layout=\"page\" />"
 
 
-def get_hagicode_promo_mdx():
-    return f"""
-{HAGICODE_PROMO_IMPORT}
-"""
-
-
-def get_hagicode_promo_block():
-    return f"""
-{HAGICODE_PROMO_BLOCK}
-
-"""
-
-
-def ensure_hagicode_promo_in_existing_doc(markdown_path):
+def remove_hagicode_promo_from_existing_doc(markdown_path):
     with open(markdown_path, 'r', encoding='utf8') as f:
         post = f.read()
 
-    if HAGICODE_PROMO_IMPORT not in post:
-        if "import GithubMirrorLink" in post:
-            post = post.replace(
-                "import GithubMirrorLink",
-                f"{HAGICODE_PROMO_IMPORT}\nimport GithubMirrorLink",
-                1,
-            )
-        else:
-            frontmatter_end = post.find('\n---\n', 4)
-            if frontmatter_end != -1:
-                post = f"{post[:frontmatter_end + 5]}\n{HAGICODE_PROMO_IMPORT}\n{post[frontmatter_end + 5:]}"
+    post = post.replace(f"\n{HAGICODE_PROMO_IMPORT}\n", "\n")
+    post = post.replace(HAGICODE_PROMO_IMPORT + "\n", "")
+    post = post.replace(HAGICODE_PROMO_IMPORT, "")
 
-    if HAGICODE_PROMO_BLOCK not in post:
-        insert_markers = ["## "]
-        insert_index = -1
-        for marker in insert_markers:
-            marker_index = post.find(marker)
-            if marker_index != -1:
-                insert_index = marker_index
-                break
-
-        if insert_index == -1:
-            post = f"{post.rstrip()}\n\n{HAGICODE_PROMO_BLOCK}\n"
-        else:
-            post = f"{post[:insert_index]}{HAGICODE_PROMO_BLOCK}\n\n{post[insert_index:]}"
+    post = post.replace(f"\n{HAGICODE_PROMO_BLOCK}\n", "\n")
+    post = post.replace(HAGICODE_PROMO_BLOCK + "\n", "")
+    post = post.replace(HAGICODE_PROMO_BLOCK, "")
+    post = re.sub(r'\n{3,}', '\n\n', post)
 
     with open(markdown_path, 'w', encoding='utf8') as f:
         f.write(post)
@@ -864,9 +834,6 @@ top: -99
 
 {desc_section}
 
-{get_hagicode_promo_mdx()}
-{get_hagicode_promo_block()}
-
 ### [点击此处，您也可以部署自己专属的免费 Github 资源加速站点](https://rg.newbe.pro/docs/turbohub/quick-start)
 
 <!-- more -->
@@ -940,9 +907,6 @@ top: -99
 {software_name}. 国内直接从官网 {official_site} 下载比较困难，需要一些技术手段。这里提供一个国内的镜像下载地址列表，方便网友下载。
 
 {desc_section}
-
-{get_hagicode_promo_mdx()}
-{get_hagicode_promo_block()}
 
 ### [点击此处，您也可以部署自己专属的免费 Github 资源加速站点](https://rg.newbe.pro/docs/turbohub/quick-start)
 
@@ -1072,12 +1036,8 @@ top: -99
 
 {desc_section}
 
-{get_hagicode_promo_mdx()}
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
-"""
-    post += f"""
-{get_hagicode_promo_block()}
 """
     github_api_url = f"https://api.github.com/repos/{owner}/{repo}/releases"
     resp = requests.get(
@@ -1097,7 +1057,7 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
         releases = load_github_releases_from_html(owner, repo)
         if not releases:
             if os.path.exists(markdown_path):
-                ensure_hagicode_promo_in_existing_doc(markdown_path)
+                remove_hagicode_promo_from_existing_doc(markdown_path)
                 return
             raise RuntimeError(f"Unable to fetch releases for {owner}/{repo} from API or HTML fallback")
     elif releases and 'published_at' in releases[0]:
@@ -1225,9 +1185,6 @@ top: -99
 {software_name}. 国内直接从官网 {official_site} 下载比较困难，需要一些技术手段。这里提供一个国内的镜像下载地址列表，方便网友下载。
 
 {desc_section}
-
-{get_hagicode_promo_mdx()}
-{get_hagicode_promo_block()}
 
 <!-- more -->
 
