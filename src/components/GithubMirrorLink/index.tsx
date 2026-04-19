@@ -32,6 +32,7 @@ import HagicodeRecommendation from '../HagicodeRecommendation';
 // Configuration
 import {
   buildMirrorSections,
+  PRIMARY_RECOMMENDED_PROVIDER_KEY,
 } from './config';
 
 const GithubMirrorLink: React.FC<GithubMirrorLinkProps> = ({
@@ -155,21 +156,43 @@ const GithubMirrorLink: React.FC<GithubMirrorLinkProps> = ({
     preferredProviders,
     resolvedMirrors,
   });
+  const domesticPanMirror =
+    mirrorSections.recommended.find((mirror) => mirror.providerKey === PRIMARY_RECOMMENDED_PROVIDER_KEY) ??
+    mirrorSections.backup.find((mirror) => mirror.providerKey === PRIMARY_RECOMMENDED_PROVIDER_KEY);
+  const supportsDomesticPanAcceleration = Boolean(domesticPanMirror);
 
   return (
     <div>
       {/* Trigger Link */}
-      <a
-        ref={triggerRef}
-        href="#"
-        className={styles.triggerLink}
-        onClick={handleClick}
-        aria-label={`选择下载方式: ${text}`}
-        role="button"
-        tabIndex={0}
-      >
-        {text}
-      </a>
+      <span className={styles.triggerAction}>
+        <a
+          ref={triggerRef}
+          href="#"
+          className={styles.triggerLink}
+          onClick={handleClick}
+          aria-label={
+            supportsDomesticPanAcceleration
+              ? `选择下载方式: ${text}，支持国内网盘加速下载`
+              : `选择下载方式: ${text}`
+          }
+          role="button"
+          tabIndex={0}
+        >
+          {text}
+        </a>
+        {supportsDomesticPanAcceleration && (
+          <a
+            className={styles.triggerDomesticBadge}
+            href={domesticPanMirror?.fullUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            title="打开网盘下载链接"
+            aria-label={`打开 ${text} 的网盘下载链接`}
+          >
+            <span className={styles.triggerDomesticBadgeLabel}>高速网盘下载</span>
+          </a>
+        )}
+      </span>
 
       {/* Main Popup Modal */}
       {showPopup && typeof document !== 'undefined' && createPortal(
