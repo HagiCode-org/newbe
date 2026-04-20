@@ -20,14 +20,19 @@ Bazel. 国内直接从官网 https://bazel.build 下载比较困难，需要一�
 
 <!-- more -->
 
+
 ## 0.13
 
 - [0.13.1](https://mirrors.huaweicloud.com/bazel/0.13.1/)
+
+
 
 ## 0.14
 
 - [0.14.0](https://mirrors.huaweicloud.com/bazel/0.14.0/)
 - [0.14.1](https://mirrors.huaweicloud.com/bazel/0.14.1/)
+
+
 
 ## 0.15
 
@@ -35,20 +40,28 @@ Bazel. 国内直接从官网 https://bazel.build 下载比较困难，需要一�
 - [0.15.1](https://mirrors.huaweicloud.com/bazel/0.15.1/)
 - [0.15.2](https://mirrors.huaweicloud.com/bazel/0.15.2/)
 
+
+
 ## 0.16
 
 - [0.16.0](https://mirrors.huaweicloud.com/bazel/0.16.0/)
 - [0.16.1](https://mirrors.huaweicloud.com/bazel/0.16.1/)
+
+
 
 ## 0.17
 
 - [0.17.1](https://mirrors.huaweicloud.com/bazel/0.17.1/)
 - [0.17.2](https://mirrors.huaweicloud.com/bazel/0.17.2/)
 
+
+
 ## 0.18
 
 - [0.18.0](https://mirrors.huaweicloud.com/bazel/0.18.0/)
 - [0.18.1](https://mirrors.huaweicloud.com/bazel/0.18.1/)
+
+
 
 ## 0.19
 
@@ -56,17 +69,25 @@ Bazel. 国内直接从官网 https://bazel.build 下载比较困难，需要一�
 - [0.19.1](https://mirrors.huaweicloud.com/bazel/0.19.1/)
 - [0.19.2](https://mirrors.huaweicloud.com/bazel/0.19.2/)
 
+
+
 ## 0.20
 
 - [0.20.0](https://mirrors.huaweicloud.com/bazel/0.20.0/)
+
+
 
 ## 0.21
 
 - [0.21.0](https://mirrors.huaweicloud.com/bazel/0.21.0/)
 
+
+
 ## 0.22
 
 - [0.22.0](https://mirrors.huaweicloud.com/bazel/0.22.0/)
+
+
 
 ## 0.23
 
@@ -74,10 +95,14 @@ Bazel. 国内直接从官网 https://bazel.build 下载比较困难，需要一�
 - [0.23.1](https://mirrors.huaweicloud.com/bazel/0.23.1/)
 - [0.23.2](https://mirrors.huaweicloud.com/bazel/0.23.2/)
 
+
+
 ## 0.24
 
 - [0.24.0](https://mirrors.huaweicloud.com/bazel/0.24.0/)
 - [0.24.1](https://mirrors.huaweicloud.com/bazel/0.24.1/)
+
+
 
 ## 0.25
 
@@ -86,10 +111,14 @@ Bazel. 国内直接从官网 https://bazel.build 下载比较困难，需要一�
 - [0.25.2](https://mirrors.huaweicloud.com/bazel/0.25.2/)
 - [0.25.3](https://mirrors.huaweicloud.com/bazel/0.25.3/)
 
+
+
 ## 0.26
 
 - [0.26.0](https://mirrors.huaweicloud.com/bazel/0.26.0/)
 - [0.26.1](https://mirrors.huaweicloud.com/bazel/0.26.1/)
+
+
 
 ## 0.27
 
@@ -97,74 +126,106 @@ Bazel. 国内直接从官网 https://bazel.build 下载比较困难，需要一�
 - [0.27.1](https://mirrors.huaweicloud.com/bazel/0.27.1/)
 - [0.27.2](https://mirrors.huaweicloud.com/bazel/0.27.2/)
 
+
+
 ## 0.28
 
 - [0.28.0](https://mirrors.huaweicloud.com/bazel/0.28.0/)
 - [0.28.1](https://mirrors.huaweicloud.com/bazel/0.28.1/)
+
+
 
 ## 0.29
 
 - [0.29.0](https://mirrors.huaweicloud.com/bazel/0.29.0/)
 - [0.29.1](https://mirrors.huaweicloud.com/bazel/0.29.1/)
 
+
+
 ## 1.0
 
 - [1.0.0](https://mirrors.huaweicloud.com/bazel/1.0.0/)
 - [1.0.1](https://mirrors.huaweicloud.com/bazel/1.0.1/)
 
+
+
 ## 1.1
 
 - [1.1.0](https://mirrors.huaweicloud.com/bazel/1.1.0/)
+
+
 
 ## 1.2
 
 - [1.2.0](https://mirrors.huaweicloud.com/bazel/1.2.0/)
 - [1.2.1](https://mirrors.huaweicloud.com/bazel/1.2.1/)
 
+
+
 ## 2.0
 
 - [2.0.0](https://mirrors.huaweicloud.com/bazel/2.0.0/)
 - [2.0.1](https://mirrors.huaweicloud.com/bazel/2.0.1/)
+
+
 
 ## 2.1
 
 - [2.1.0](https://mirrors.huaweicloud.com/bazel/2.1.0/)
 - [2.1.1](https://mirrors.huaweicloud.com/bazel/2.1.1/)
 
+
+
 ## 2.2
 
 - [2.2.0](https://mirrors.huaweicloud.com/bazel/2.2.0/)
+
+
 
 ## 3.0
 
 - [3.0.0](https://mirrors.huaweicloud.com/bazel/3.0.0/)
 
+
+
 ## 3.1
 
 - [3.1.0](https://mirrors.huaweicloud.com/bazel/3.1.0/)
 
+
+
 ## 3.2
 
 - [3.2.0](https://mirrors.huaweicloud.com/bazel/3.2.0/)
+
+
 
 ## 3.3
 
 - [3.3.0](https://mirrors.huaweicloud.com/bazel/3.3.0/)
 - [3.3.1](https://mirrors.huaweicloud.com/bazel/3.3.1/)
 
+
+
 ## 3.4
 
 - [3.4.0](https://mirrors.huaweicloud.com/bazel/3.4.0/)
 - [3.4.1](https://mirrors.huaweicloud.com/bazel/3.4.1/)
+
+
 
 ## 3.5
 
 - [3.5.0](https://mirrors.huaweicloud.com/bazel/3.5.0/)
 - [3.5.1](https://mirrors.huaweicloud.com/bazel/3.5.1/)
 
+
+
 ## 3.6
 
 - [3.6.0](https://mirrors.huaweicloud.com/bazel/3.6.0/)
+
+
 
 ## 3.7
 
@@ -172,13 +233,19 @@ Bazel. 国内直接从官网 https://bazel.build 下载比较困难，需要一�
 - [3.7.1](https://mirrors.huaweicloud.com/bazel/3.7.1/)
 - [3.7.2](https://mirrors.huaweicloud.com/bazel/3.7.2/)
 
+
+
 ## 4.0
 
 - [4.0.0](https://mirrors.huaweicloud.com/bazel/4.0.0/)
 
+
+
 ## 4.1
 
 - [4.1.0](https://mirrors.huaweicloud.com/bazel/4.1.0/)
+
+
 
 ## 4.2
 
@@ -187,6 +254,8 @@ Bazel. 国内直接从官网 https://bazel.build 下载比较困难，需要一�
 - [4.2.2](https://mirrors.huaweicloud.com/bazel/4.2.2/)
 - [4.2.3](https://mirrors.huaweicloud.com/bazel/4.2.3/)
 - [4.2.4](https://mirrors.huaweicloud.com/bazel/4.2.4/)
+
+
 
 ## 5.0
 
@@ -216,14 +285,20 @@ Bazel. 国内直接从官网 https://bazel.build 下载比较困难，需要一�
 - [5.0.0-pre.20211006.1](https://mirrors.huaweicloud.com/bazel/5.0.0-pre.20211006.1/)
 - [5.0.0-pre.20211011.2](https://mirrors.huaweicloud.com/bazel/5.0.0-pre.20211011.2/)
 
+
+
 ## 5.1
 
 - [5.1.0](https://mirrors.huaweicloud.com/bazel/5.1.0/)
 - [5.1.1](https://mirrors.huaweicloud.com/bazel/5.1.1/)
 
+
+
 ## 5.2
 
 - [5.2.0](https://mirrors.huaweicloud.com/bazel/5.2.0/)
+
+
 
 ## 5.3
 
@@ -231,10 +306,14 @@ Bazel. 国内直接从官网 https://bazel.build 下载比较困难，需要一�
 - [5.3.1](https://mirrors.huaweicloud.com/bazel/5.3.1/)
 - [5.3.2](https://mirrors.huaweicloud.com/bazel/5.3.2/)
 
+
+
 ## 5.4
 
 - [5.4.0](https://mirrors.huaweicloud.com/bazel/5.4.0/)
 - [5.4.1](https://mirrors.huaweicloud.com/bazel/5.4.1/)
+
+
 
 ## 6.0
 
@@ -286,16 +365,22 @@ Bazel. 国内直接从官网 https://bazel.build 下载比较困难，需要一�
 - [6.0.0-pre.20221012.2](https://mirrors.huaweicloud.com/bazel/6.0.0-pre.20221012.2/)
 - [6.0.0-pre.20221020.1](https://mirrors.huaweicloud.com/bazel/6.0.0-pre.20221020.1/)
 
+
+
 ## 6.1
 
 - [6.1.0](https://mirrors.huaweicloud.com/bazel/6.1.0/)
 - [6.1.1](https://mirrors.huaweicloud.com/bazel/6.1.1/)
 - [6.1.2](https://mirrors.huaweicloud.com/bazel/6.1.2/)
 
+
+
 ## 6.2
 
 - [6.2.0](https://mirrors.huaweicloud.com/bazel/6.2.0/)
 - [6.2.1](https://mirrors.huaweicloud.com/bazel/6.2.1/)
+
+
 
 ## 6.3
 
@@ -303,9 +388,13 @@ Bazel. 国内直接从官网 https://bazel.build 下载比较困难，需要一�
 - [6.3.1](https://mirrors.huaweicloud.com/bazel/6.3.1/)
 - [6.3.2](https://mirrors.huaweicloud.com/bazel/6.3.2/)
 
+
+
 ## 6.4
 
 - [6.4.0](https://mirrors.huaweicloud.com/bazel/6.4.0/)
+
+
 
 ## 6.5
 
@@ -313,9 +402,13 @@ Bazel. 国内直接从官网 https://bazel.build 下载比较困难，需要一�
 - [6.5.0rc1](https://mirrors.huaweicloud.com/bazel/6.5.0rc1/)
 - [6.5.0rc2](https://mirrors.huaweicloud.com/bazel/6.5.0rc2/)
 
+
+
 ## 6.6
 
 - [6.6.0](https://mirrors.huaweicloud.com/bazel/6.6.0/)
+
+
 
 ## 7.0
 
@@ -365,6 +458,8 @@ Bazel. 国内直接从官网 https://bazel.build 下载比较困难，需要一�
 - [7.0.2](https://mirrors.huaweicloud.com/bazel/7.0.2/)
 - [7.0.2rc1](https://mirrors.huaweicloud.com/bazel/7.0.2rc1/)
 
+
+
 ## 7.1
 
 - [7.1.0](https://mirrors.huaweicloud.com/bazel/7.1.0/)
@@ -377,6 +472,8 @@ Bazel. 国内直接从官网 https://bazel.build 下载比较困难，需要一�
 - [7.1.2rc1](https://mirrors.huaweicloud.com/bazel/7.1.2rc1/)
 - [7.1.2rc2](https://mirrors.huaweicloud.com/bazel/7.1.2rc2/)
 
+
+
 ## 7.2
 
 - [7.2.0](https://mirrors.huaweicloud.com/bazel/7.2.0/)
@@ -386,6 +483,8 @@ Bazel. 国内直接从官网 https://bazel.build 下载比较困难，需要一�
 - [7.2.1](https://mirrors.huaweicloud.com/bazel/7.2.1/)
 - [7.2.1rc1](https://mirrors.huaweicloud.com/bazel/7.2.1rc1/)
 - [7.2.1rc2](https://mirrors.huaweicloud.com/bazel/7.2.1rc2/)
+
+
 
 ## 7.3
 
@@ -398,6 +497,8 @@ Bazel. 国内直接从官网 https://bazel.build 下载比较困难，需要一�
 - [7.3.2](https://mirrors.huaweicloud.com/bazel/7.3.2/)
 - [7.3.2rc1](https://mirrors.huaweicloud.com/bazel/7.3.2rc1/)
 
+
+
 ## 7.4
 
 - [7.4.0](https://mirrors.huaweicloud.com/bazel/7.4.0/)
@@ -408,6 +509,8 @@ Bazel. 国内直接从官网 https://bazel.build 下载比较困难，需要一�
 - [7.4.1](https://mirrors.huaweicloud.com/bazel/7.4.1/)
 - [7.4.1rc1](https://mirrors.huaweicloud.com/bazel/7.4.1rc1/)
 - [7.4.1rc2](https://mirrors.huaweicloud.com/bazel/7.4.1rc2/)
+
+
 
 ## 7.6
 
@@ -422,6 +525,8 @@ Bazel. 国内直接从官网 https://bazel.build 下载比较困难，需要一�
 - [7.6.2](https://mirrors.huaweicloud.com/bazel/7.6.2/)
 - [7.6.2rc1](https://mirrors.huaweicloud.com/bazel/7.6.2rc1/)
 
+
+
 ## 7.7
 
 - [7.7.0](https://mirrors.huaweicloud.com/bazel/7.7.0/)
@@ -432,6 +537,12 @@ Bazel. 国内直接从官网 https://bazel.build 下载比较困难，需要一�
 - [7.7.1rc1](https://mirrors.huaweicloud.com/bazel/7.7.1rc1/)
 - [7.7.1rc2](https://mirrors.huaweicloud.com/bazel/7.7.1rc2/)
 
+
+
+
+
+
+
 ## 8.0
 
 - [8.0.0-pre.20231030.2](https://mirrors.huaweicloud.com/bazel/8.0.0-pre.20231030.2/)
@@ -439,11 +550,15 @@ Bazel. 国内直接从官网 https://bazel.build 下载比较困难，需要一�
 - [8.0.0rc2](https://mirrors.huaweicloud.com/bazel/8.0.0rc2/)
 - [8.0.0rc3](https://mirrors.huaweicloud.com/bazel/8.0.0rc3/)
 
+
+
 ## 8.1
 
 - [8.1.0](https://mirrors.huaweicloud.com/bazel/8.1.0/)
 - [8.1.1](https://mirrors.huaweicloud.com/bazel/8.1.1/)
 - [8.1.1rc1](https://mirrors.huaweicloud.com/bazel/8.1.1rc1/)
+
+
 
 ## 8.2
 
@@ -454,6 +569,8 @@ Bazel. 国内直接从官网 https://bazel.build 下载比较困难，需要一�
 - [8.2.1](https://mirrors.huaweicloud.com/bazel/8.2.1/)
 - [8.2.1rc1](https://mirrors.huaweicloud.com/bazel/8.2.1rc1/)
 
+
+
 ## 8.3
 
 - [8.3.0](https://mirrors.huaweicloud.com/bazel/8.3.0/)
@@ -463,6 +580,8 @@ Bazel. 国内直接从官网 https://bazel.build 下载比较困难，需要一�
 - [8.3.1](https://mirrors.huaweicloud.com/bazel/8.3.1/)
 - [8.3.1rc1](https://mirrors.huaweicloud.com/bazel/8.3.1rc1/)
 - [8.3.1rc2](https://mirrors.huaweicloud.com/bazel/8.3.1rc2/)
+
+
 
 ## 8.4
 
@@ -476,6 +595,8 @@ Bazel. 国内直接从官网 https://bazel.build 下载比较困难，需要一�
 - [8.4.2rc1](https://mirrors.huaweicloud.com/bazel/8.4.2rc1/)
 - [8.4.2rc2](https://mirrors.huaweicloud.com/bazel/8.4.2rc2/)
 
+
+
 ## 8.5
 
 - [8.5.0](https://mirrors.huaweicloud.com/bazel/8.5.0/)
@@ -487,12 +608,16 @@ Bazel. 国内直接从官网 https://bazel.build 下载比较困难，需要一�
 - [8.5.1rc1](https://mirrors.huaweicloud.com/bazel/8.5.1rc1/)
 - [8.5.1rc2](https://mirrors.huaweicloud.com/bazel/8.5.1rc2/)
 
+
+
 ## 8.6
 
 - [8.6.0](https://mirrors.huaweicloud.com/bazel/8.6.0/)
 - [8.6.0rc1](https://mirrors.huaweicloud.com/bazel/8.6.0rc1/)
 - [8.6.0rc2](https://mirrors.huaweicloud.com/bazel/8.6.0rc2/)
 - [8.6.0rc3](https://mirrors.huaweicloud.com/bazel/8.6.0rc3/)
+
+
 
 ## 9.0
 
@@ -510,13 +635,20 @@ Bazel. 国内直接从官网 https://bazel.build 下载比较困难，需要一�
 - [9.0.2rc2](https://mirrors.huaweicloud.com/bazel/9.0.2rc2/)
 - [9.0.2rc3](https://mirrors.huaweicloud.com/bazel/9.0.2rc3/)
 
+
+
 ## 9.1
 
 - [9.1.0rc1](https://mirrors.huaweicloud.com/bazel/9.1.0rc1/)
 - [9.1.0rc2](https://mirrors.huaweicloud.com/bazel/9.1.0rc2/)
 - [9.1.0rc3](https://mirrors.huaweicloud.com/bazel/9.1.0rc3/)
 
+
+
+
 找不到想要的版本？您可以访问 [索引页](https://mirrors.huaweicloud.com/bazel/) 以下载更多版本。
 
+
 <!-- md Mirrors.md -->
+
 

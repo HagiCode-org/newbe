@@ -14,7 +14,9 @@ dapr. 国内直接从官网 https://github.com/dapr/dapr/ 下载比较困难，�
 
 Dapr是一个可移植的、无服务器的、事件驱动的运行时，它使开发者能够轻松地构建在云和边缘运行的有弹性的、无状态的和有状态的微服务，并拥抱语言和开发者框架的多样性。
 
+
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
+
 
 ## v1.15.14
 
@@ -103,6 +105,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.15.14/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.15.14/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
 
+
+
 ## v1.17.5
 
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.5/daprd_darwin_amd64.tar.gz" text="daprd_darwin_amd64.tar.gz" repositoryKey="dapr/dapr" />
@@ -189,6 +193,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.5/sentry_linux_arm64.tar.gz.sha256" text="sentry_linux_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.5/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.5/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
+
+
 
 ## v1.16.14
 
@@ -277,6 +283,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.14/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.14/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
 
+
+
 ## v1.16.13
 
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.13/daprd_darwin_amd64.tar.gz" text="daprd_darwin_amd64.tar.gz" repositoryKey="dapr/dapr" />
@@ -363,6 +371,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.13/sentry_linux_arm64.tar.gz.sha256" text="sentry_linux_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.13/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.13/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
+
+
 
 ## v1.16.13-rc.1
 
@@ -451,6 +461,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.13-rc.1/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.13-rc.1/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
 
+
+
 ## v1.17.4
 
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.4/daprd_darwin_amd64.tar.gz" text="daprd_darwin_amd64.tar.gz" repositoryKey="dapr/dapr" />
@@ -537,6 +549,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.4/sentry_linux_arm64.tar.gz.sha256" text="sentry_linux_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.4/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.4/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
+
+
 
 ## v1.17.4-rc.4
 
@@ -625,6 +639,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.4-rc.4/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.4-rc.4/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
 
+
+
 ## v1.17.4-rc.3
 
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.4-rc.3/daprd_darwin_amd64.tar.gz" text="daprd_darwin_amd64.tar.gz" repositoryKey="dapr/dapr" />
@@ -711,6 +727,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.4-rc.3/sentry_linux_arm64.tar.gz.sha256" text="sentry_linux_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.4-rc.3/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.4-rc.3/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
+
+
 
 ## v1.17.4-rc.2
 
@@ -799,6 +817,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.4-rc.2/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.4-rc.2/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
 
+
+
 ## v1.17.4-rc.1
 
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.4-rc.1/daprd_darwin_amd64.tar.gz" text="daprd_darwin_amd64.tar.gz" repositoryKey="dapr/dapr" />
@@ -885,6 +905,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.4-rc.1/sentry_linux_arm64.tar.gz.sha256" text="sentry_linux_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.4-rc.1/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.4-rc.1/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
+
+
 
 ## v1.16.12
 
@@ -973,6 +995,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.12/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.12/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
 
+
+
 ## v1.16.12-rc.1
 
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.12-rc.1/daprd_darwin_amd64.tar.gz" text="daprd_darwin_amd64.tar.gz" repositoryKey="dapr/dapr" />
@@ -1059,6 +1083,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.12-rc.1/sentry_linux_arm64.tar.gz.sha256" text="sentry_linux_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.12-rc.1/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.12-rc.1/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
+
+
 
 ## v1.17.3
 
@@ -1147,6 +1173,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.3/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.3/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
 
+
+
 ## v1.17.3-rc.2
 
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.3-rc.2/daprd_darwin_amd64.tar.gz" text="daprd_darwin_amd64.tar.gz" repositoryKey="dapr/dapr" />
@@ -1233,6 +1261,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.3-rc.2/sentry_linux_arm64.tar.gz.sha256" text="sentry_linux_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.3-rc.2/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.3-rc.2/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
+
+
 
 ## v1.16.11
 
@@ -1321,6 +1351,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.11/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.11/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
 
+
+
 ## v1.16.11-rc.3
 
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.11-rc.3/daprd_darwin_amd64.tar.gz" text="daprd_darwin_amd64.tar.gz" repositoryKey="dapr/dapr" />
@@ -1407,6 +1439,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.11-rc.3/sentry_linux_arm64.tar.gz.sha256" text="sentry_linux_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.11-rc.3/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.11-rc.3/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
+
+
 
 ## v1.17.3-rc.1
 
@@ -1495,6 +1529,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.3-rc.1/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.3-rc.1/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
 
+
+
 ## v1.16.11-rc.2
 
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.11-rc.2/daprd_darwin_amd64.tar.gz" text="daprd_darwin_amd64.tar.gz" repositoryKey="dapr/dapr" />
@@ -1581,6 +1617,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.11-rc.2/sentry_linux_arm64.tar.gz.sha256" text="sentry_linux_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.11-rc.2/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.11-rc.2/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
+
+
 
 ## v1.16.11-rc.1
 
@@ -1669,6 +1707,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.11-rc.1/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.11-rc.1/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
 
+
+
 ## v1.17.2
 
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.2/daprd_darwin_amd64.tar.gz" text="daprd_darwin_amd64.tar.gz" repositoryKey="dapr/dapr" />
@@ -1755,6 +1795,10 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.2/sentry_linux_arm64.tar.gz.sha256" text="sentry_linux_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.2/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.2/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
+
+
+
+
 
 ## v1.17.2-rc.3
 
@@ -1843,6 +1887,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.2-rc.3/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.2-rc.3/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
 
+
+
 ## v1.17.2-rc.2
 
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.2-rc.2/daprd_darwin_amd64.tar.gz" text="daprd_darwin_amd64.tar.gz" repositoryKey="dapr/dapr" />
@@ -1929,6 +1975,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.2-rc.2/sentry_linux_arm64.tar.gz.sha256" text="sentry_linux_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.2-rc.2/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.2-rc.2/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
+
+
 
 ## v1.17.2-rc.1
 
@@ -2017,6 +2065,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.2-rc.1/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.2-rc.1/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
 
+
+
 ## v1.17.1
 
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.1/daprd_darwin_amd64.tar.gz" text="daprd_darwin_amd64.tar.gz" repositoryKey="dapr/dapr" />
@@ -2103,6 +2153,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.1/sentry_linux_arm64.tar.gz.sha256" text="sentry_linux_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.1/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.1/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
+
+
 
 ## v1.17.1-rc.1
 
@@ -2191,6 +2243,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.1-rc.1/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.1-rc.1/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
 
+
+
 ## v1.16.10
 
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.10/daprd_darwin_amd64.tar.gz" text="daprd_darwin_amd64.tar.gz" repositoryKey="dapr/dapr" />
@@ -2277,6 +2331,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.10/sentry_linux_arm64.tar.gz.sha256" text="sentry_linux_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.10/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.10/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
+
+
 
 ## v1.17.0
 
@@ -2365,6 +2421,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
 
+
+
 ## v1.17.0-rc.11
 
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/daprd_darwin_amd64.tar.gz" text="daprd_darwin_amd64.tar.gz" repositoryKey="dapr/dapr" />
@@ -2451,6 +2509,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/sentry_linux_arm64.tar.gz.sha256" text="sentry_linux_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
+
+
 
 ## v1.17.0-rc.10
 
@@ -2539,6 +2599,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.10/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.10/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
 
+
+
 ## v1.17.0-rc.9
 
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.9/daprd_darwin_amd64.tar.gz" text="daprd_darwin_amd64.tar.gz" repositoryKey="dapr/dapr" />
@@ -2626,7 +2688,11 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.9/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.9/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
 
+
+
+
 找不到想要的版本？您可以访问 [官方网站](https://github.com/dapr/dapr/) 以下载更多版本。
 
 <!-- md Mirrors.md -->
+
 

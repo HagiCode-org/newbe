@@ -16,6 +16,7 @@ ollama. 国内直接从官网 https://github.com/ollama/ollama/ 下载比较困�
 
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
+
 ## v0.21.0
 
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.21.0/install.ps1" text="install.ps1" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
@@ -34,6 +35,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.21.0/Ollama.dmg" text="Ollama.dmg" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-PGpuA", "status": "synced", "syncedAt": "2026-04-17T19:28:40.918Z", "source": "azure"}]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.21.0/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-5YpuA", "status": "synced", "syncedAt": "2026-04-17T08:17:35.255Z", "source": "azure"}]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.21.0/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-eYpuA", "status": "synced", "syncedAt": "2026-04-17T05:57:56.538Z", "source": "azure"}]} />
+
+
 
 ## v0.20.8-rc0
 
@@ -54,6 +57,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.20.8-rc0/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-NFpuA", "status": "synced", "syncedAt": "2026-04-14T19:22:05.443Z", "source": "azure"}]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.20.8-rc0/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-xFpuA", "status": "synced", "syncedAt": "2026-04-14T03:46:18.419Z", "source": "azure"}]} />
 
+
+
 ## v0.20.7
 
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.20.7/install.ps1" text="install.ps1" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
@@ -72,6 +77,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.20.7/Ollama.dmg" text="Ollama.dmg" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.20.7/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.20.7/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
+
+
 
 ## v0.20.6
 
@@ -92,6 +99,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.20.6/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-OgpuA", "status": "synced", "syncedAt": "2026-04-13T04:16:02.600Z", "source": "azure"}]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.20.6/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-RgpuA", "status": "synced", "syncedAt": "2026-04-13T04:16:09.750Z", "source": "azure"}]} />
 
+
+
 ## v0.20.5
 
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.20.5/install.ps1" text="install.ps1" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
@@ -110,6 +119,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.20.5/Ollama.dmg" text="Ollama.dmg" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.20.5/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.20.5/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
+
+
 
 ## v0.20.4
 
@@ -130,6 +141,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.20.4/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.20.4/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 
+
+
 ## v0.20.3
 
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.20.3/install.ps1" text="install.ps1" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
@@ -148,6 +161,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.20.3/Ollama.dmg" text="Ollama.dmg" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.20.3/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.20.3/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
+
+
 
 ## v0.20.2
 
@@ -168,6 +183,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.20.2/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.20.2/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 
+
+
 ## v0.20.1
 
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.20.1/install.ps1" text="install.ps1" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
@@ -186,6 +203,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.20.1/Ollama.dmg" text="Ollama.dmg" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.20.1/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.20.1/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
+
+
 
 ## v0.20.0
 
@@ -206,6 +225,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.20.0/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.20.0/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 
+
+
 ## v0.19.0
 
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.19.0/install.ps1" text="install.ps1" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
@@ -224,6 +245,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.19.0/Ollama.dmg" text="Ollama.dmg" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.19.0/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.19.0/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
+
+
 
 ## v0.18.4-rc0
 
@@ -244,6 +267,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.18.4-rc0/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.18.4-rc0/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 
+
+
 ## v0.18.3
 
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.18.3/install.ps1" text="install.ps1" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
@@ -262,6 +287,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.18.3/Ollama.dmg" text="Ollama.dmg" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.18.3/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.18.3/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
+
+
 
 ## v0.18.2
 
@@ -282,6 +309,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.18.2/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.18.2/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 
+
+
 ## v0.18.1
 
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.18.1/install.ps1" text="install.ps1" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
@@ -300,6 +329,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.18.1/Ollama.dmg" text="Ollama.dmg" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.18.1/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.18.1/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
+
+
 
 ## v0.18.0
 
@@ -320,6 +351,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.18.0/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.18.0/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 
+
+
 ## v0.17.8-rc4
 
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.17.8-rc4/install.ps1" text="install.ps1" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
@@ -339,6 +372,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.17.8-rc4/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.17.8-rc4/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 
+
+
 ## v0.17.7
 
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.17.7/install.ps1" text="install.ps1" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
@@ -356,6 +391,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.17.7/Ollama.dmg" text="Ollama.dmg" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.17.7/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.17.7/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
+
+
 
 ## v0.17.6
 
@@ -375,6 +412,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.17.6/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.17.6/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 
+
+
 ## v0.17.5
 
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.17.5/install.ps1" text="install.ps1" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
@@ -392,6 +431,10 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.17.5/Ollama.dmg" text="Ollama.dmg" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.17.5/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.17.5/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
+
+
+
+
 
 ## v0.17.4
 
@@ -411,6 +454,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.17.4/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.17.4/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 
+
+
 ## v0.17.3
 
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.17.3/install.ps1" text="install.ps1" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
@@ -428,6 +473,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.17.3/Ollama.dmg" text="Ollama.dmg" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.17.3/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.17.3/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
+
+
 
 ## v0.17.2
 
@@ -447,6 +494,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.17.2/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.17.2/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 
+
+
 ## v0.17.1
 
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.17.1/install.ps1" text="install.ps1" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
@@ -464,6 +513,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.17.1/Ollama.dmg" text="Ollama.dmg" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.17.1/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.17.1/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
+
+
 
 ## v0.17.0
 
@@ -483,6 +534,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.17.0/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.17.0/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 
+
+
 ## v0.16.3
 
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.16.3/install.ps1" text="install.ps1" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
@@ -500,6 +553,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.16.3/Ollama.dmg" text="Ollama.dmg" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.16.3/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.16.3/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
+
+
 
 ## v0.16.2
 
@@ -519,6 +574,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.16.2/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.16.2/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 
+
+
 ## v0.16.1
 
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.16.1/install.ps1" text="install.ps1" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
@@ -536,6 +593,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.16.1/Ollama.dmg" text="Ollama.dmg" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.16.1/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.16.1/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
+
+
 
 ## v0.16.0
 
@@ -555,6 +614,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.16.0/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.16.0/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 
+
+
 ## v0.15.6
 
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.15.6/ollama-darwin.tgz" text="ollama-darwin.tgz" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
@@ -571,7 +632,11 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.15.6/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.15.6/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} />
 
+
+
+
 找不到想要的版本？您可以访问 [官方网站](https://github.com/ollama/ollama/) 以下载更多版本。
 
 <!-- md Mirrors.md -->
+
 

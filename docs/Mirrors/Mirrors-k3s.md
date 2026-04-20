@@ -24,6 +24,7 @@ K3s 是一个完全符合标准的、可投入生产的 Kubernetes 发行版，�
 
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
+
 ## v1.35.4-rc2+k3s1
 
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.4-rc2%2Bk3s1/k3s" text="k3s" repositoryKey="k3s-io/k3s" />
@@ -42,6 +43,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.4-rc2%2Bk3s1/sha256sum-amd64.txt" text="sha256sum-amd64.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.4-rc2%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.4-rc2%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
+
+
 
 ## v1.34.7-rc2+k3s1
 
@@ -62,6 +65,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.7-rc2%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.7-rc2%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
 
+
+
 ## v1.33.11-rc2+k3s1
 
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.11-rc2%2Bk3s1/k3s" text="k3s" repositoryKey="k3s-io/k3s" />
@@ -80,6 +85,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.11-rc2%2Bk3s1/sha256sum-amd64.txt" text="sha256sum-amd64.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.11-rc2%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.11-rc2%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
+
+
 
 ## v1.35.4-rc1+k3s1
 
@@ -100,6 +107,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.4-rc1%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.4-rc1%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
 
+
+
 ## v1.34.7-rc1+k3s1
 
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.7-rc1%2Bk3s1/k3s" text="k3s" repositoryKey="k3s-io/k3s" />
@@ -118,6 +127,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.7-rc1%2Bk3s1/sha256sum-amd64.txt" text="sha256sum-amd64.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.7-rc1%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.7-rc1%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
+
+
 
 ## v1.33.11-rc1+k3s1
 
@@ -138,6 +149,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.11-rc1%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.11-rc1%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
 
+
+
 ## v1.35.3+k3s1
 
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.3%2Bk3s1/k3s" text="k3s" repositoryKey="k3s-io/k3s" />
@@ -156,6 +169,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.3%2Bk3s1/sha256sum-amd64.txt" text="sha256sum-amd64.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.3%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.3%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
+
+
 
 ## v1.34.6+k3s1
 
@@ -176,6 +191,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.6%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.6%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
 
+
+
 ## v1.33.10+k3s1
 
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.10%2Bk3s1/k3s" text="k3s" repositoryKey="k3s-io/k3s" />
@@ -194,6 +211,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.10%2Bk3s1/sha256sum-amd64.txt" text="sha256sum-amd64.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.10%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.10%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
+
+
 
 ## v1.35.3-rc2+k3s1
 
@@ -214,6 +233,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.3-rc2%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.3-rc2%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
 
+
+
 ## v1.34.6-rc2+k3s1
 
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.6-rc2%2Bk3s1/k3s" text="k3s" repositoryKey="k3s-io/k3s" />
@@ -232,6 +253,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.6-rc2%2Bk3s1/sha256sum-amd64.txt" text="sha256sum-amd64.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.6-rc2%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.6-rc2%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
+
+
 
 ## v1.33.10-rc2+k3s1
 
@@ -252,6 +275,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.10-rc2%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.10-rc2%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
 
+
+
 ## v1.35.3-rc1+k3s1
 
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.3-rc1%2Bk3s1/k3s" text="k3s" repositoryKey="k3s-io/k3s" />
@@ -270,6 +295,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.3-rc1%2Bk3s1/sha256sum-amd64.txt" text="sha256sum-amd64.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.3-rc1%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.3-rc1%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
+
+
 
 ## v1.34.6-rc1+k3s1
 
@@ -290,6 +317,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.6-rc1%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.6-rc1%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
 
+
+
 ## v1.33.10-rc1+k3s1
 
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.10-rc1%2Bk3s1/k3s" text="k3s" repositoryKey="k3s-io/k3s" />
@@ -308,6 +337,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.10-rc1%2Bk3s1/sha256sum-amd64.txt" text="sha256sum-amd64.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.10-rc1%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.10-rc1%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
+
+
 
 ## v1.32.13+k3s1
 
@@ -328,6 +359,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.32.13%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.32.13%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
 
+
+
 ## v1.33.9+k3s1
 
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.9%2Bk3s1/k3s" text="k3s" repositoryKey="k3s-io/k3s" />
@@ -346,6 +379,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.9%2Bk3s1/sha256sum-amd64.txt" text="sha256sum-amd64.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.9%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.9%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
+
+
 
 ## v1.34.5+k3s1
 
@@ -366,6 +401,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.5%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.5%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
 
+
+
 ## v1.35.2+k3s1
 
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.2%2Bk3s1/k3s" text="k3s" repositoryKey="k3s-io/k3s" />
@@ -384,6 +421,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.2%2Bk3s1/sha256sum-amd64.txt" text="sha256sum-amd64.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.2%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.2%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
+
+
 
 ## v1.32.13-rc1+k3s1
 
@@ -404,6 +443,10 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.32.13-rc1%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.32.13-rc1%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
 
+
+
+
+
 ## v1.33.9-rc1+k3s1
 
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.9-rc1%2Bk3s1/k3s" text="k3s" repositoryKey="k3s-io/k3s" />
@@ -422,6 +465,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.9-rc1%2Bk3s1/sha256sum-amd64.txt" text="sha256sum-amd64.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.9-rc1%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.9-rc1%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
+
+
 
 ## v1.34.5-rc1+k3s1
 
@@ -442,6 +487,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.5-rc1%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.5-rc1%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
 
+
+
 ## v1.35.2-rc1+k3s1
 
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.2-rc1%2Bk3s1/k3s" text="k3s" repositoryKey="k3s-io/k3s" />
@@ -460,6 +507,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.2-rc1%2Bk3s1/sha256sum-amd64.txt" text="sha256sum-amd64.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.2-rc1%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.2-rc1%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
+
+
 
 ## v1.35.1+k3s1
 
@@ -480,6 +529,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.1%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.1%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
 
+
+
 ## v1.34.4+k3s1
 
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.4%2Bk3s1/k3s" text="k3s" repositoryKey="k3s-io/k3s" />
@@ -498,6 +549,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.4%2Bk3s1/sha256sum-amd64.txt" text="sha256sum-amd64.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.4%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.4%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
+
+
 
 ## v1.33.8+k3s1
 
@@ -518,6 +571,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.8%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.8%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
 
+
+
 ## v1.32.12+k3s1
 
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.32.12%2Bk3s1/k3s" text="k3s" repositoryKey="k3s-io/k3s" />
@@ -536,6 +591,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.32.12%2Bk3s1/sha256sum-amd64.txt" text="sha256sum-amd64.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.32.12%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.32.12%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
+
+
 
 ## v1.35.1-rc1+k3s1
 
@@ -556,6 +613,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.1-rc1%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.1-rc1%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
 
+
+
 ## v1.34.4-rc1+k3s1
 
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.4-rc1%2Bk3s1/k3s" text="k3s" repositoryKey="k3s-io/k3s" />
@@ -574,6 +633,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.4-rc1%2Bk3s1/sha256sum-amd64.txt" text="sha256sum-amd64.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.4-rc1%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.4-rc1%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
+
+
 
 ## v1.33.8-rc1+k3s1
 
@@ -594,7 +655,11 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.8-rc1%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.8-rc1%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
 
+
+
+
 找不到想要的版本？您可以访问 [官方网站](https://github.com/k3s-io/k3s/) 以下载更多版本。
 
 <!-- md Mirrors.md -->
+
 

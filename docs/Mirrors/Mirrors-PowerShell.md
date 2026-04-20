@@ -14,7 +14,9 @@ PowerShell. 国内直接从官网 https://github.com/PowerShell/PowerShell/ 下�
 
 PowerShell Core 是一个跨平台（Windows、Linux 和 macOS）的自动化和配置工具/框架，可以很好地与你现有的工具配合，并为处理结构化数据（如 JSON、CSV、XML 等）、REST API 和对象模型而优化。它包括一个命令行外壳、一种相关的脚本语言和一个处理 cmdlets 的框架。
 
+
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
+
 
 ## v7.6.0
 
@@ -48,6 +50,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0/powershell-lts_7.6.0-1.deb_amd64.deb" text="powershell-lts_7.6.0-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-MmpuA", "status": "synced", "syncedAt": "2026-04-11T06:34:31.989Z", "source": "azure"}]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0/powershell_7.6.0-1.deb_amd64.deb" text="powershell_7.6.0-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-fmpuA", "status": "synced", "syncedAt": "2026-04-11T06:24:12.685Z", "source": "azure"}]} />
 
+
+
 ## v7.5.5
 
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.5/hashes.sha256" text="hashes.sha256" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
@@ -74,6 +78,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.5/PowerShell-7.5.5-win-x86.zip" text="PowerShell-7.5.5-win-x86.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.5/PowerShell-7.5.5.msixbundle" text="PowerShell-7.5.5.msixbundle" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.5/powershell_7.5.5-1.deb_amd64.deb" text="powershell_7.5.5-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+
+
 
 ## v7.4.14
 
@@ -108,6 +114,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.14/powershell-lts_7.4.14-1.deb_amd64.deb" text="powershell-lts_7.4.14-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.14/powershell_7.4.14-1.deb_amd64.deb" text="powershell_7.4.14-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 
+
+
 ## v7.6.0-rc.1
 
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-rc.1/hashes.sha256" text="hashes.sha256" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
@@ -134,6 +142,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-rc.1/powershell-preview-7.6.0_rc.1-1.cm.x86_64.rpm" text="powershell-preview-7.6.0_rc.1-1.cm.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-rc.1/powershell-preview-7.6.0_rc.1-1.rh.x86_64.rpm" text="powershell-preview-7.6.0_rc.1-1.rh.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-rc.1/powershell-preview_7.6.0-rc.1-1.deb_amd64.deb" text="powershell-preview_7.6.0-rc.1-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+
+
 
 ## v7.6.0-preview.6
 
@@ -162,6 +172,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.6/powershell-7.6.0_preview.6-1.rh.x86_64.rpm" text="powershell-7.6.0_preview.6-1.rh.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.6/powershell_7.6.0-preview.6-1.deb_amd64.deb" text="powershell_7.6.0-preview.6-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 
+
+
 ## v7.5.4
 
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.4/hashes.sha256" text="hashes.sha256" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
@@ -188,6 +200,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.4/PowerShell-7.5.4-win-x86.zip" text="PowerShell-7.5.4-win-x86.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.4/PowerShell-7.5.4.msixbundle" text="PowerShell-7.5.4.msixbundle" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.4/powershell_7.5.4-1.deb_amd64.deb" text="powershell_7.5.4-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+
+
 
 ## v7.4.13
 
@@ -222,6 +236,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.13/powershell-lts_7.4.13-1.deb_amd64.deb" text="powershell-lts_7.4.13-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.13/powershell_7.4.13-1.deb_amd64.deb" text="powershell_7.4.13-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 
+
+
 ## v7.6.0-preview.5
 
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.5/hashes.sha256" text="hashes.sha256" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
@@ -249,6 +265,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.5/powershell-preview-7.6.0_preview.5-1.rh.x86_64.rpm" text="powershell-preview-7.6.0_preview.5-1.rh.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.5/powershell-preview_7.6.0-preview.5-1.deb_amd64.deb" text="powershell-preview_7.6.0-preview.5-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 
+
+
 ## v7.5.3
 
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.3/hashes.sha256" text="hashes.sha256" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
@@ -275,6 +293,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.3/PowerShell-7.5.3-win-x86.zip" text="PowerShell-7.5.3-win-x86.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.3/PowerShell-7.5.3.msixbundle" text="PowerShell-7.5.3.msixbundle" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.3/powershell_7.5.3-1.deb_amd64.deb" text="powershell_7.5.3-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+
+
 
 ## v7.4.12
 
@@ -309,6 +329,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.12/powershell-lts_7.4.12-1.deb_amd64.deb" text="powershell-lts_7.4.12-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.12/powershell_7.4.12-1.deb_amd64.deb" text="powershell_7.4.12-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 
+
+
 ## v7.5.2
 
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.2/hashes.sha256" text="hashes.sha256" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
@@ -335,6 +357,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.2/PowerShell-7.5.2-win-x86.zip" text="PowerShell-7.5.2-win-x86.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.2/PowerShell-7.5.2.msixbundle" text="PowerShell-7.5.2.msixbundle" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.2/powershell_7.5.2-1.deb_amd64.deb" text="powershell_7.5.2-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+
+
 
 ## v7.4.11
 
@@ -369,6 +393,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.11/powershell-lts_7.4.11-1.deb_amd64.deb" text="powershell-lts_7.4.11-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.11/powershell_7.4.11-1.deb_amd64.deb" text="powershell_7.4.11-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 
+
+
 ## v7.4.10
 
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.10/hashes.sha256" text="hashes.sha256" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
@@ -402,6 +428,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.10/powershell-lts_7.4.10-1.deb_amd64.deb" text="powershell-lts_7.4.10-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.10/powershell_7.4.10-1.deb_amd64.deb" text="powershell_7.4.10-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 
+
+
 ## v7.5.1
 
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.1/hashes.sha256" text="hashes.sha256" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
@@ -427,6 +455,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.1/PowerShell-7.5.1-win-x86.msi" text="PowerShell-7.5.1-win-x86.msi" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.1/PowerShell-7.5.1-win-x86.zip" text="PowerShell-7.5.1-win-x86.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.1/powershell_7.5.1-1.deb_amd64.deb" text="powershell_7.5.1-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+
+
 
 ## v7.6.0-preview.4
 
@@ -454,6 +484,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.4/powershell-preview-7.6.0_preview.4-1.rh.x86_64.rpm" text="powershell-preview-7.6.0_preview.4-1.rh.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.4/powershell-preview_7.6.0-preview.4-1.deb_amd64.deb" text="powershell-preview_7.6.0-preview.4-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 
+
+
 ## v7.6.0-preview.3
 
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.3/hashes.sha256" text="hashes.sha256" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
@@ -479,6 +511,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.3/powershell-preview-7.6.0_preview.3-1.cm.x86_64.rpm" text="powershell-preview-7.6.0_preview.3-1.cm.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.3/powershell-preview-7.6.0_preview.3-1.rh.x86_64.rpm" text="powershell-preview-7.6.0_preview.3-1.rh.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.3/powershell-preview_7.6.0-preview.3-1.deb_amd64.deb" text="powershell-preview_7.6.0-preview.3-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+
+
 
 ## v7.5.0
 
@@ -506,6 +540,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/PowerShell-7.5.0-win-x86.zip" text="PowerShell-7.5.0-win-x86.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/PowerShell-7.5.0-win.msixbundle" text="PowerShell-7.5.0-win.msixbundle" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/powershell_7.5.0-1.deb_amd64.deb" text="powershell_7.5.0-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+
+
 
 ## v7.4.7
 
@@ -539,6 +575,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/powershell-lts_7.4.7-1.deb_amd64.deb" text="powershell-lts_7.4.7-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/powershell_7.4.7-1.deb_amd64.deb" text="powershell_7.4.7-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 
+
+
 ## v7.6.0-preview.2
 
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.2/hashes.sha256" text="hashes.sha256" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
@@ -568,6 +606,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.2/powershell-preview-7.6.0_preview.2-1.rh.x86_64.rpm" text="powershell-preview-7.6.0_preview.2-1.rh.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.2/powershell-preview_7.6.0-preview.2-1.deb_amd64.deb" text="powershell-preview_7.6.0-preview.2-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 
+
+
 ## v7.5.0-rc.1
 
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0-rc.1/hashes.sha256" text="hashes.sha256" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
@@ -593,6 +633,10 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0-rc.1/powershell-preview-7.5.0_rc.1-1.cm.x86_64.rpm" text="powershell-preview-7.5.0_rc.1-1.cm.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0-rc.1/powershell-preview-7.5.0_rc.1-1.rh.x86_64.rpm" text="powershell-preview-7.5.0_rc.1-1.rh.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0-rc.1/powershell-preview_7.5.0-rc.1-1.deb_amd64.deb" text="powershell-preview_7.5.0-rc.1-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+
+
+
+
 
 ## v7.4.6
 
@@ -627,6 +671,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.6/powershell-lts_7.4.6-1.deb_amd64.deb" text="powershell-lts_7.4.6-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.6/powershell_7.4.6-1.deb_amd64.deb" text="powershell_7.4.6-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 
+
+
 ## v7.2.24
 
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.2.24/hashes.sha256" text="hashes.sha256" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
@@ -657,6 +703,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.2.24/powershell-lts_7.2.24-1.deb_amd64.deb" text="powershell-lts_7.2.24-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.2.24/powershell_7.2.24-1.deb_amd64.deb" text="powershell_7.2.24-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 
+
+
 ## v7.5.0-preview.5
 
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0-preview.5/hashes.sha256" text="hashes.sha256" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
@@ -684,6 +732,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0-preview.5/powershell-preview-7.5.0_preview.5-1.rh.x86_64.rpm" text="powershell-preview-7.5.0_preview.5-1.rh.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0-preview.5/powershell-preview_7.5.0-preview.5-1.deb_amd64.deb" text="powershell-preview_7.5.0-preview.5-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 
+
+
 ## v7.5.0-preview.4
 
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0-preview.4/hashes.sha256" text="hashes.sha256" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
@@ -707,6 +757,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0-preview.4/powershell-preview-7.5.0_preview.4-1.cm.x86_64.rpm" text="powershell-preview-7.5.0_preview.4-1.cm.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0-preview.4/powershell-preview-7.5.0_preview.4-1.rh.x86_64.rpm" text="powershell-preview-7.5.0_preview.4-1.rh.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0-preview.4/powershell-preview_7.5.0-preview.4-1.deb_amd64.deb" text="powershell-preview_7.5.0-preview.4-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+
+
 
 ## v7.4.5
 
@@ -741,6 +793,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.5/powershell-lts_7.4.5-1.deb_amd64.deb" text="powershell-lts_7.4.5-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.5/powershell_7.4.5-1.deb_amd64.deb" text="powershell_7.4.5-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 
+
+
 ## v7.2.23
 
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.2.23/hashes.sha256" text="hashes.sha256" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
@@ -770,6 +824,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.2.23/powershell-lts-7.2.23-osx-x64.pkg" text="powershell-lts-7.2.23-osx-x64.pkg" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.2.23/powershell-lts_7.2.23-1.deb_amd64.deb" text="powershell-lts_7.2.23-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.2.23/powershell_7.2.23-1.deb_amd64.deb" text="powershell_7.2.23-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+
+
 
 ## v7.4.4
 
@@ -804,6 +860,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.4/powershell-lts_7.4.4-1.deb_amd64.deb" text="powershell-lts_7.4.4-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.4/powershell_7.4.4-1.deb_amd64.deb" text="powershell_7.4.4-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 
+
+
 ## v7.2.22
 
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.2.22/hashes.sha256" text="hashes.sha256" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
@@ -833,6 +891,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.2.22/powershell-lts-7.2.22-osx-x64.pkg" text="powershell-lts-7.2.22-osx-x64.pkg" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.2.22/powershell-lts_7.2.22-1.deb_amd64.deb" text="powershell-lts_7.2.22-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.2.22/powershell_7.2.22-1.deb_amd64.deb" text="powershell_7.2.22-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+
+
 
 ## v7.4.3
 
@@ -867,6 +927,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.3/powershell-lts_7.4.3-1.deb_amd64.deb" text="powershell-lts_7.4.3-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.3/powershell_7.4.3-1.deb_amd64.deb" text="powershell_7.4.3-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 
+
+
 ## v7.2.21
 
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.2.21/hashes.sha256" text="hashes.sha256" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
@@ -897,7 +959,11 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.2.21/powershell-lts_7.2.21-1.deb_amd64.deb" text="powershell-lts_7.2.21-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.2.21/powershell_7.2.21-1.deb_amd64.deb" text="powershell_7.2.21-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 
+
+
+
 找不到想要的版本？您可以访问 [官方网站](https://github.com/PowerShell/PowerShell/) 以下载更多版本。
 
 <!-- md Mirrors.md -->
+
 

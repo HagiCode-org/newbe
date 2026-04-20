@@ -20,9 +20,12 @@ Ansible. 国内直接从官网 https://www.ansible.com 下载比较困难，需�
 
 <!-- more -->
 
+
 ## 1.1
 
 - [ansible-1.1.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-1.1.tar.gz)
+
+
 
 ## 1.2
 
@@ -31,6 +34,8 @@ Ansible. 国内直接从官网 https://www.ansible.com 下载比较困难，需�
 - [ansible-1.2.2.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-1.2.2.tar.gz)
 - [ansible-1.2.3.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-1.2.3.tar.gz)
 
+
+
 ## 1.3
 
 - [ansible-1.3.0.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-1.3.0.tar.gz)
@@ -38,6 +43,8 @@ Ansible. 国内直接从官网 https://www.ansible.com 下载比较困难，需�
 - [ansible-1.3.2.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-1.3.2.tar.gz)
 - [ansible-1.3.3.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-1.3.3.tar.gz)
 - [ansible-1.3.4.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-1.3.4.tar.gz)
+
+
 
 ## 1.4
 
@@ -48,6 +55,8 @@ Ansible. 国内直接从官网 https://www.ansible.com 下载比较困难，需�
 - [ansible-1.4.4.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-1.4.4.tar.gz)
 - [ansible-1.4.5.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-1.4.5.tar.gz)
 
+
+
 ## 1.5
 
 - [ansible-1.5.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-1.5.tar.gz)
@@ -56,6 +65,8 @@ Ansible. 国内直接从官网 https://www.ansible.com 下载比较困难，需�
 - [ansible-1.5.3.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-1.5.3.tar.gz)
 - [ansible-1.5.4.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-1.5.4.tar.gz)
 - [ansible-1.5.5.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-1.5.5.tar.gz)
+
+
 
 ## 1.6
 
@@ -71,11 +82,15 @@ Ansible. 国内直接从官网 https://www.ansible.com 下载比较困难，需�
 - [ansible-1.6.9.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-1.6.9.tar.gz)
 - [ansible-1.6.10.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-1.6.10.tar.gz)
 
+
+
 ## 1.7
 
 - [ansible-1.7.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-1.7.tar.gz)
 - [ansible-1.7.1.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-1.7.1.tar.gz)
 - [ansible-1.7.2.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-1.7.2.tar.gz)
+
+
 
 ## 1.8
 
@@ -84,6 +99,8 @@ Ansible. 国内直接从官网 https://www.ansible.com 下载比较困难，需�
 - [ansible-1.8.2.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-1.8.2.tar.gz)
 - [ansible-1.8.3.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-1.8.3.tar.gz)
 - [ansible-1.8.4.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-1.8.4.tar.gz)
+
+
 
 ## 1.9
 
@@ -96,6 +113,8 @@ Ansible. 国内直接从官网 https://www.ansible.com 下载比较困难，需�
 - [ansible-1.9.6-0.1.rc1.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-1.9.6-0.1.rc1.tar.gz)
 - [ansible-1.9.6-0.1.rc1.tar.gz.sha](https://mirrors.huaweicloud.com/ansible/ansible-1.9.6-0.1.rc1.tar.gz.sha)
 - [ansible-1.9.6.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-1.9.6.tar.gz)
+
+
 
 ## 2.0
 
@@ -136,6 +155,12 @@ Ansible. 国内直接从官网 https://www.ansible.com 下载比较困难，需�
 - [ansible-2.0.2.0-0.4.rc4.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-2.0.2.0-0.4.rc4.tar.gz)
 - [ansible-2.0.2.0-0.4.rc4.tar.gz.sha](https://mirrors.huaweicloud.com/ansible/ansible-2.0.2.0-0.4.rc4.tar.gz.sha)
 - [ansible-2.0.2.0.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-2.0.2.0.tar.gz)
+
+
+
+
+
+
 
 ## 2.1
 
@@ -195,6 +220,8 @@ Ansible. 国内直接从官网 https://www.ansible.com 下载比较困难，需�
 - [ansible-2.1.6.0-0.1.rc1.tar.gz.sha](https://mirrors.huaweicloud.com/ansible/ansible-2.1.6.0-0.1.rc1.tar.gz.sha)
 - [ansible-2.1.6.0.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-2.1.6.0.tar.gz)
 
+
+
 ## 2.2
 
 - [ansible-2.2.0.0-0.1.rc1.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-2.2.0.0-0.1.rc1.tar.gz)
@@ -225,6 +252,8 @@ Ansible. 国内直接从官网 https://www.ansible.com 下载比较困难，需�
 - [ansible-2.2.3.0-0.1.rc1.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-2.2.3.0-0.1.rc1.tar.gz)
 - [ansible-2.2.3.0-0.1.rc1.tar.gz.sha](https://mirrors.huaweicloud.com/ansible/ansible-2.2.3.0-0.1.rc1.tar.gz.sha)
 - [ansible-2.2.3.0.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-2.2.3.0.tar.gz)
+
+
 
 ## 2.3
 
@@ -267,6 +296,8 @@ Ansible. 国内直接从官网 https://www.ansible.com 下载比较困难，需�
 - [ansible-2.3.3.0.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-2.3.3.0.tar.gz)
 - [ansible-2.3.4.0-0.1.rc1.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-2.3.4.0-0.1.rc1.tar.gz)
 - [ansible-2.3.4.0-0.1.rc1.tar.gz.sha](https://mirrors.huaweicloud.com/ansible/ansible-2.3.4.0-0.1.rc1.tar.gz.sha)
+
+
 
 ## 2.4
 
@@ -329,6 +360,8 @@ Ansible. 国内直接从官网 https://www.ansible.com 下载比较困难，需�
 - [ansible-2.4.6.0.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-2.4.6.0.tar.gz)
 - [ansible-2.4.6.0.tar.gz.sha](https://mirrors.huaweicloud.com/ansible/ansible-2.4.6.0.tar.gz.sha)
 
+
+
 ## 2.5
 
 - [ansible-2.5.0.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-2.5.0.tar.gz)
@@ -375,6 +408,8 @@ Ansible. 国内直接从官网 https://www.ansible.com 下载比较困难，需�
 - [ansible-2.5.14.tar.gz.sha](https://mirrors.huaweicloud.com/ansible/ansible-2.5.14.tar.gz.sha)
 - [ansible-2.5.15.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-2.5.15.tar.gz)
 - [ansible-2.5.15.tar.gz.sha](https://mirrors.huaweicloud.com/ansible/ansible-2.5.15.tar.gz.sha)
+
+
 
 ## 2.6
 
@@ -435,6 +470,8 @@ Ansible. 国内直接从官网 https://www.ansible.com 下载比较困难，需�
 - [ansible-2.6.20.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-2.6.20.tar.gz)
 - [ansible-2.6.20.tar.gz.sha](https://mirrors.huaweicloud.com/ansible/ansible-2.6.20.tar.gz.sha)
 
+
+
 ## 2.7
 
 - [ansible-2.7.0.dev0.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-2.7.0.dev0.tar.gz)
@@ -489,6 +526,8 @@ Ansible. 国内直接从官网 https://www.ansible.com 下载比较困难，需�
 - [ansible-2.7.17.tar.gz.sha](https://mirrors.huaweicloud.com/ansible/ansible-2.7.17.tar.gz.sha)
 - [ansible-2.7.18.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-2.7.18.tar.gz)
 - [ansible-2.7.18.tar.gz.sha](https://mirrors.huaweicloud.com/ansible/ansible-2.7.18.tar.gz.sha)
+
+
 
 ## 2.8
 
@@ -554,6 +593,8 @@ Ansible. 国内直接从官网 https://www.ansible.com 下载比较困难，需�
 - [ansible-2.8.20.tar.gz.sha](https://mirrors.huaweicloud.com/ansible/ansible-2.8.20.tar.gz.sha)
 - [ansible-2.8.20rc1.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-2.8.20rc1.tar.gz)
 - [ansible-2.8.20rc1.tar.gz.sha](https://mirrors.huaweicloud.com/ansible/ansible-2.8.20rc1.tar.gz.sha)
+
+
 
 ## 2.9
 
@@ -654,7 +695,12 @@ Ansible. 国内直接从官网 https://www.ansible.com 下载比较困难，需�
 - [ansible-2.9.27rc1.tar.gz](https://mirrors.huaweicloud.com/ansible/ansible-2.9.27rc1.tar.gz)
 - [ansible-2.9.27rc1.tar.gz.sha](https://mirrors.huaweicloud.com/ansible/ansible-2.9.27rc1.tar.gz.sha)
 
+
+
+
 找不到想要的版本？您可以访问 [索引页](https://mirrors.huaweicloud.com/ansible/) 以下载更多版本。
 
+
 <!-- md Mirrors.md -->
+
 

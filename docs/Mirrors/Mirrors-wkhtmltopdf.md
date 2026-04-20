@@ -14,9 +14,14 @@ wkhtmltopdf. 国内直接从官网 https://github.com/wkhtmltopdf/wkhtmltopdf/ �
 
 wkhtmltopdf 和 wkhtmltoimage 是开源的（LGPLv3）命令行工具，使用 Qt WebKit 渲染引擎将 HTML 渲染成 PDF 和各种图像格式。这些工具完全 "无头 "运行，不需要显示或显示服务。
 
+
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
+
 ## 0.12.6
+
+
+
 
 ## 0.12.5
 
@@ -52,6 +57,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.5/wkhtmltox_0.12.5-1.xenial_amd64.deb" text="wkhtmltox_0.12.5-1.xenial_amd64.deb" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.5/wkhtmltox_0.12.5-1.xenial_i386.deb" text="wkhtmltox_0.12.5-1.xenial_i386.deb" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
 
+
+
 ## 0.12.4
 
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.4/MD5SUMS" text="MD5SUMS" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
@@ -67,6 +74,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.4/wkhtmltox-0.12.4_osx-carbon-i386.pkg" text="wkhtmltox-0.12.4_osx-carbon-i386.pkg" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.4/wkhtmltox-0.12.4_osx-cocoa-x86-64.pkg" text="wkhtmltox-0.12.4_osx-cocoa-x86-64.pkg" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
 
+
+
 ## 0.12.3.2
 
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.3.2/MD5SUMS" text="MD5SUMS" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
@@ -75,6 +84,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.3.2/wkhtmltox-0.12.3.2_msvc2013-win32.exe" text="wkhtmltox-0.12.3.2_msvc2013-win32.exe" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.3.2/wkhtmltox-0.12.3.2_msvc2013-win64.exe" text="wkhtmltox-0.12.3.2_msvc2013-win64.exe" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
 
+
+
 ## 0.12.3.1
 
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.3.1/MD5SUMS" text="MD5SUMS" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
@@ -82,6 +93,10 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.3.1/SHA256SUMS" text="SHA256SUMS" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.3.1/wkhtmltox-0.12.3.1_msvc2013-win32.exe" text="wkhtmltox-0.12.3.1_msvc2013-win32.exe" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.3.1/wkhtmltox-0.12.3.1_msvc2013-win64.exe" text="wkhtmltox-0.12.3.1_msvc2013-win64.exe" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
+
+
+
+
 
 ## 0.12.3
 
@@ -95,6 +110,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.3/wkhtmltox-0.12.3_osx-carbon-i386.pkg" text="wkhtmltox-0.12.3_osx-carbon-i386.pkg" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.3/wkhtmltox-0.12.3_osx-cocoa-x86-64.pkg" text="wkhtmltox-0.12.3_osx-cocoa-x86-64.pkg" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
 
+
+
 ## 0.12.2.4
 
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2.4/MD5SUMS" text="MD5SUMS" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
@@ -104,6 +121,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2.4/wkhtmltox-0.12.2.4_mingw-w64-cross-win64.exe" text="wkhtmltox-0.12.2.4_mingw-w64-cross-win64.exe" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2.4/wkhtmltox-0.12.2.4_msvc2013-win32.exe" text="wkhtmltox-0.12.2.4_msvc2013-win32.exe" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2.4/wkhtmltox-0.12.2.4_msvc2013-win64.exe" text="wkhtmltox-0.12.2.4_msvc2013-win64.exe" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
+
+
 
 ## 0.12.2.3
 
@@ -115,6 +134,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2.3/wkhtmltox-0.12.2.3_msvc2013-win32.exe" text="wkhtmltox-0.12.2.3_msvc2013-win32.exe" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2.3/wkhtmltox-0.12.2.3_msvc2013-win64.exe" text="wkhtmltox-0.12.2.3_msvc2013-win64.exe" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
 
+
+
 ## 0.12.2.2
 
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2.2/MD5SUMS" text="MD5SUMS" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
@@ -124,6 +145,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2.2/wkhtmltox-0.12.2.2_mingw-w64-cross-win64.exe" text="wkhtmltox-0.12.2.2_mingw-w64-cross-win64.exe" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2.2/wkhtmltox-0.12.2.2_msvc2013-win32.exe" text="wkhtmltox-0.12.2.2_msvc2013-win32.exe" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2.2/wkhtmltox-0.12.2.2_msvc2013-win64.exe" text="wkhtmltox-0.12.2.2_msvc2013-win64.exe" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
+
+
 
 ## 0.12.2.1
 
@@ -151,6 +174,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2.1/wkhtmltox-0.12.2.1_osx-carbon-i386.pkg" text="wkhtmltox-0.12.2.1_osx-carbon-i386.pkg" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2.1/wkhtmltox-0.12.2.1_osx-cocoa-x86-64.pkg" text="wkhtmltox-0.12.2.1_osx-cocoa-x86-64.pkg" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
 
+
+
 ## 0.12.2
 
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2/MD5SUMS" text="MD5SUMS" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
@@ -177,9 +202,17 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2/wkhtmltox-0.12.2_osx-carbon-i386.pkg" text="wkhtmltox-0.12.2_osx-carbon-i386.pkg" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2/wkhtmltox-0.12.2_osx-cocoa-x86-64.pkg" text="wkhtmltox-0.12.2_osx-cocoa-x86-64.pkg" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
 
+
+
 ## 0.12.1.2
 
+
+
+
 ## 0.12.1.1
+
+
+
 
 ## 0.12.1
 
@@ -205,6 +238,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.1/wkhtmltox-0.12.1_osx-carbon-i386.pkg" text="wkhtmltox-0.12.1_osx-carbon-i386.pkg" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.1/wkhtmltox-0.12.1_osx-cocoa-x86-64.pkg" text="wkhtmltox-0.12.1_osx-cocoa-x86-64.pkg" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
 
+
+
 ## 0.12.0
 
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.0/MD5SUMS" text="MD5SUMS" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
@@ -215,7 +250,11 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.0/wkhtmltox-win32_0.12.0-03c001d.exe" text="wkhtmltox-win32_0.12.0-03c001d.exe" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.0/wkhtmltox-win64_0.12.0-03c001d.exe" text="wkhtmltox-win64_0.12.0-03c001d.exe" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
 
+
+
+
 找不到想要的版本？您可以访问 [官方网站](https://github.com/wkhtmltopdf/wkhtmltopdf/) 以下载更多版本。
 
 <!-- md Mirrors.md -->
+
 

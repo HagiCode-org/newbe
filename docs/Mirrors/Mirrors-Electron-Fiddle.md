@@ -16,7 +16,9 @@ Electron Fiddle 是 Electron 官方生态中用来快速试验 API、验证示�
 它适合前端与桌面开发者快速搭建实验环境，并会持续发布桌面安装资源。
 将 Electron Fiddle 纳入镜像目录，可以降低获取实验工具和版本回归包的门槛。
 
+
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
+
 
 ## v0.39.0
 
@@ -36,6 +38,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.39.0/Electron.Fiddle-darwin-x64-0.39.0.zip" text="Electron.Fiddle-darwin-x64-0.39.0.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-PMpuA", "status": "synced", "syncedAt": "2026-04-11T15:38:36.982Z", "source": "azure"}]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.39.0/RELEASES" text="RELEASES" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-tIpuA", "status": "synced", "syncedAt": "2026-04-11T15:38:40.655Z", "source": "azure"}]} />
 
+
+
 ## v0.38.0
 
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.38.0/electron-fiddle-0.38.0-1.arm64.rpm" text="electron-fiddle-0.38.0-1.arm64.rpm" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
@@ -53,6 +57,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.38.0/Electron.Fiddle-darwin-arm64-0.38.0.zip" text="Electron.Fiddle-darwin-arm64-0.38.0.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.38.0/Electron.Fiddle-darwin-x64-0.38.0.zip" text="Electron.Fiddle-darwin-x64-0.38.0.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.38.0/RELEASES" text="RELEASES" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
+
+
 
 ## v0.37.3
 
@@ -72,6 +78,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.37.3/Electron.Fiddle-darwin-x64-0.37.3.zip" text="Electron.Fiddle-darwin-x64-0.37.3.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.37.3/RELEASES" text="RELEASES" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 
+
+
 ## v0.37.2
 
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.37.2/electron-fiddle-0.37.2-1.arm64.rpm" text="electron-fiddle-0.37.2-1.arm64.rpm" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
@@ -89,6 +97,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.37.2/Electron.Fiddle-darwin-arm64-0.37.2.zip" text="Electron.Fiddle-darwin-arm64-0.37.2.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.37.2/Electron.Fiddle-darwin-x64-0.37.2.zip" text="Electron.Fiddle-darwin-x64-0.37.2.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.37.2/RELEASES" text="RELEASES" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
+
+
 
 ## v0.36.6
 
@@ -108,6 +118,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.36.6/Electron.Fiddle-darwin-x64-0.36.6.zip" text="Electron.Fiddle-darwin-x64-0.36.6.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.36.6/RELEASES" text="RELEASES" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 
+
+
 ## v0.36.5
 
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.36.5/electron-fiddle-0.36.5-1.arm64.rpm" text="electron-fiddle-0.36.5-1.arm64.rpm" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
@@ -125,6 +137,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.36.5/Electron.Fiddle-darwin-arm64-0.36.5.zip" text="Electron.Fiddle-darwin-arm64-0.36.5.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.36.5/Electron.Fiddle-darwin-x64-0.36.5.zip" text="Electron.Fiddle-darwin-x64-0.36.5.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.36.5/RELEASES" text="RELEASES" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
+
+
 
 ## v0.36.4
 
@@ -144,6 +158,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.36.4/Electron.Fiddle-darwin-x64-0.36.4.zip" text="Electron.Fiddle-darwin-x64-0.36.4.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.36.4/RELEASES" text="RELEASES" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 
+
+
 ## v0.36.3
 
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.36.3/electron-fiddle-0.36.3-1.arm64.rpm" text="electron-fiddle-0.36.3-1.arm64.rpm" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
@@ -161,6 +177,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.36.3/Electron.Fiddle-darwin-arm64-0.36.3.zip" text="Electron.Fiddle-darwin-arm64-0.36.3.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.36.3/Electron.Fiddle-darwin-x64-0.36.3.zip" text="Electron.Fiddle-darwin-x64-0.36.3.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.36.3/RELEASES" text="RELEASES" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
+
+
 
 ## v0.36.2
 
@@ -180,6 +198,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.36.2/Electron.Fiddle-darwin-x64-0.36.2.zip" text="Electron.Fiddle-darwin-x64-0.36.2.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.36.2/RELEASES" text="RELEASES" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 
+
+
 ## v0.36.0
 
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.36.0/electron-fiddle-0.36.0-1.arm64.rpm" text="electron-fiddle-0.36.0-1.arm64.rpm" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
@@ -197,6 +217,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.36.0/Electron.Fiddle-0.36.0-armv7l.AppImage" text="Electron.Fiddle-0.36.0-armv7l.AppImage" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.36.0/Electron.Fiddle-0.36.0-x64.AppImage" text="Electron.Fiddle-0.36.0-x64.AppImage" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.36.0/RELEASES" text="RELEASES" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
+
+
 
 ## v0.35.1
 
@@ -216,6 +238,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.35.1/Electron.Fiddle-darwin-x64-0.35.1.zip" text="Electron.Fiddle-darwin-x64-0.35.1.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.35.1/RELEASES" text="RELEASES" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 
+
+
 ## v0.34.5
 
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.34.5/electron-fiddle-0.34.5-1.arm64.rpm" text="electron-fiddle-0.34.5-1.arm64.rpm" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
@@ -234,6 +258,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.34.5/Electron.Fiddle-darwin-x64-0.34.5.zip" text="Electron.Fiddle-darwin-x64-0.34.5.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.34.5/RELEASES" text="RELEASES" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 
+
+
 ## v0.34.3
 
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.34.3/electron-fiddle-0.34.3-1.arm64.rpm" text="electron-fiddle-0.34.3-1.arm64.rpm" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
@@ -245,6 +271,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.34.3/Electron.Fiddle-0.34.3-arm64.AppImage" text="Electron.Fiddle-0.34.3-arm64.AppImage" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.34.3/Electron.Fiddle-0.34.3-armv7l.AppImage" text="Electron.Fiddle-0.34.3-armv7l.AppImage" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.34.3/Electron.Fiddle-0.34.3-x64.AppImage" text="Electron.Fiddle-0.34.3-x64.AppImage" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
+
+
 
 ## v0.34.2
 
@@ -264,6 +292,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.34.2/Electron.Fiddle-darwin-x64-0.34.2.zip" text="Electron.Fiddle-darwin-x64-0.34.2.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.34.2/RELEASES" text="RELEASES" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 
+
+
 ## v0.34.0
 
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.34.0/electron-fiddle-0.34.0-1.arm64.rpm" text="electron-fiddle-0.34.0-1.arm64.rpm" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
@@ -281,6 +311,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.34.0/Electron.Fiddle-darwin-arm64-0.34.0.zip" text="Electron.Fiddle-darwin-arm64-0.34.0.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.34.0/Electron.Fiddle-darwin-x64-0.34.0.zip" text="Electron.Fiddle-darwin-x64-0.34.0.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.34.0/RELEASES" text="RELEASES" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
+
+
 
 ## v0.33.0
 
@@ -300,6 +332,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.33.0/Electron.Fiddle-darwin-x64-0.33.0.zip" text="Electron.Fiddle-darwin-x64-0.33.0.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.33.0/RELEASES" text="RELEASES" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 
+
+
 ## v0.32.9
 
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.32.9/electron-fiddle-0.32.9-1.arm64.rpm" text="electron-fiddle-0.32.9-1.arm64.rpm" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
@@ -314,6 +348,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.32.9/Electron.Fiddle-darwin-arm64-0.32.9.zip" text="Electron.Fiddle-darwin-arm64-0.32.9.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.32.9/Electron.Fiddle-darwin-x64-0.32.9.zip" text="Electron.Fiddle-darwin-x64-0.32.9.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.32.9/RELEASES" text="RELEASES" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
+
+
 
 ## v0.32.8
 
@@ -330,6 +366,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.32.8/Electron.Fiddle-darwin-x64-0.32.8.zip" text="Electron.Fiddle-darwin-x64-0.32.8.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.32.8/RELEASES" text="RELEASES" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 
+
+
 ## v0.32.7
 
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.32.7/electron-fiddle-0.32.7-1.arm64.rpm" text="electron-fiddle-0.32.7-1.arm64.rpm" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
@@ -344,6 +382,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.32.7/Electron.Fiddle-darwin-arm64-0.32.7.zip" text="Electron.Fiddle-darwin-arm64-0.32.7.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.32.7/Electron.Fiddle-darwin-x64-0.32.7.zip" text="Electron.Fiddle-darwin-x64-0.32.7.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.32.7/RELEASES" text="RELEASES" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
+
+
 
 ## v0.32.6
 
@@ -360,6 +400,10 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.32.6/Electron.Fiddle-darwin-x64-0.32.6.zip" text="Electron.Fiddle-darwin-x64-0.32.6.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.32.6/RELEASES" text="RELEASES" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 
+
+
+
+
 ## v0.32.5
 
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.32.5/electron-fiddle-0.32.5-1.arm64.rpm" text="electron-fiddle-0.32.5-1.arm64.rpm" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
@@ -374,6 +418,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.32.5/Electron.Fiddle-darwin-arm64-0.32.5.zip" text="Electron.Fiddle-darwin-arm64-0.32.5.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.32.5/Electron.Fiddle-darwin-x64-0.32.5.zip" text="Electron.Fiddle-darwin-x64-0.32.5.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.32.5/RELEASES" text="RELEASES" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
+
+
 
 ## v0.32.4
 
@@ -390,6 +436,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.32.4/Electron.Fiddle-darwin-x64-0.32.4.zip" text="Electron.Fiddle-darwin-x64-0.32.4.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.32.4/RELEASES" text="RELEASES" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 
+
+
 ## v0.32.2
 
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.32.2/electron-fiddle-0.32.2-1.arm64.rpm" text="electron-fiddle-0.32.2-1.arm64.rpm" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
@@ -404,6 +452,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.32.2/Electron.Fiddle-darwin-arm64-0.32.2.zip" text="Electron.Fiddle-darwin-arm64-0.32.2.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.32.2/Electron.Fiddle-darwin-x64-0.32.2.zip" text="Electron.Fiddle-darwin-x64-0.32.2.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.32.2/RELEASES" text="RELEASES" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
+
+
 
 ## v0.32.1
 
@@ -420,6 +470,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.32.1/Electron.Fiddle-darwin-x64-0.32.1.zip" text="Electron.Fiddle-darwin-x64-0.32.1.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.32.1/RELEASES" text="RELEASES" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 
+
+
 ## v0.31.0
 
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.31.0/electron-fiddle-0.31.0-1.arm64.rpm" text="electron-fiddle-0.31.0-1.arm64.rpm" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
@@ -434,6 +486,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.31.0/Electron.Fiddle-darwin-arm64-0.31.0.zip" text="Electron.Fiddle-darwin-arm64-0.31.0.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.31.0/Electron.Fiddle-darwin-x64-0.31.0.zip" text="Electron.Fiddle-darwin-x64-0.31.0.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.31.0/RELEASES" text="RELEASES" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
+
+
 
 ## v0.30.0
 
@@ -450,6 +504,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.30.0/Electron.Fiddle-darwin-x64-0.30.0.zip" text="Electron.Fiddle-darwin-x64-0.30.0.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.30.0/RELEASES" text="RELEASES" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 
+
+
 ## v0.29.2
 
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.29.2/electron-fiddle-0.29.2-1.arm64.rpm" text="electron-fiddle-0.29.2-1.arm64.rpm" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
@@ -464,6 +520,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.29.2/Electron.Fiddle-darwin-arm64-0.29.2.zip" text="Electron.Fiddle-darwin-arm64-0.29.2.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.29.2/Electron.Fiddle-darwin-x64-0.29.2.zip" text="Electron.Fiddle-darwin-x64-0.29.2.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.29.2/RELEASES" text="RELEASES" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
+
+
 
 ## v0.29.1
 
@@ -480,6 +538,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.29.1/Electron.Fiddle-darwin-x64-0.29.1.zip" text="Electron.Fiddle-darwin-x64-0.29.1.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.29.1/RELEASES" text="RELEASES" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 
+
+
 ## v0.29.0
 
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.29.0/electron-fiddle-0.29.0-1.arm64.rpm" text="electron-fiddle-0.29.0-1.arm64.rpm" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
@@ -494,6 +554,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.29.0/Electron.Fiddle-darwin-arm64-0.29.0.zip" text="Electron.Fiddle-darwin-arm64-0.29.0.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.29.0/Electron.Fiddle-darwin-x64-0.29.0.zip" text="Electron.Fiddle-darwin-x64-0.29.0.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.29.0/RELEASES" text="RELEASES" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
+
+
 
 ## v0.28.1
 
@@ -511,7 +573,11 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.28.1/Electron.Fiddle-darwin-x64-0.28.1.zip" text="Electron.Fiddle-darwin-x64-0.28.1.zip" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/electron/fiddle/releases/download/v0.28.1/RELEASES" text="RELEASES" repositoryKey="electron/fiddle" preferredProviders={["123pan"]} />
 
+
+
+
 找不到想要的版本？您可以访问 [官方网站](https://github.com/electron/fiddle/) 以下载更多版本。
 
 <!-- md Mirrors.md -->
+
 

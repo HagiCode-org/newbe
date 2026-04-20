@@ -16,7 +16,9 @@ MarkText 是一个简洁而优雅的 Markdown 编辑器，支持实时预览、�
 它面向写作者、开发者和文档维护者，通常会发布适用于 Windows、macOS 和 Linux 的安装包。
 补齐镜像页后，用户在国内获取这些编辑器发行文件会更直接。
 
+
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
+
 
 ## v0.17.1
 
@@ -40,6 +42,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-x86_64.AppImage" text="marktext-x86_64.AppImage" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-u1puA", "status": "synced", "syncedAt": "2026-04-11T07:45:03.858Z", "source": "azure"}]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.17.1/marktext-x86_64.rpm" text="marktext-x86_64.rpm" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-U1puA", "status": "synced", "syncedAt": "2026-04-11T07:45:14.036Z", "source": "azure"}]} />
 
+
+
 ## v0.17.0
 
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.17.0/latest-linux.yml" text="latest-linux.yml" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
@@ -58,6 +62,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.17.0/marktext-x86_64.AppImage" text="marktext-x86_64.AppImage" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.17.0/marktext-x86_64.rpm" text="marktext-x86_64.rpm" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 
+
+
 ## v0.17.0-rc.2
 
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.17.0-rc.2/latest-mac.yml" text="latest-mac.yml" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
@@ -69,6 +75,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.17.0-rc.2/marktext-x64-mac.zip.blockmap" text="marktext-x64-mac.zip.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.17.0-rc.2/marktext-x64.dmg" text="marktext-x64.dmg" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.17.0-rc.2/marktext-x64.dmg.blockmap" text="marktext-x64.dmg.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
+
+
 
 ## v0.17.0-rc.1
 
@@ -92,6 +100,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.17.0-rc.1/marktext-x86_64.AppImage" text="marktext-x86_64.AppImage" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.17.0-rc.1/marktext-x86_64.rpm" text="marktext-x86_64.rpm" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 
+
+
 ## v0.16.3
 
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.16.3/latest-linux.yml" text="latest-linux.yml" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
@@ -108,6 +118,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.16.3/marktext-x86_64.rpm" text="marktext-x86_64.rpm" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.16.3/marktext.dmg" text="marktext.dmg" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.16.3/marktext.dmg.blockmap" text="marktext.dmg.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
+
+
 
 ## v0.16.2
 
@@ -126,6 +138,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.16.2/marktext.dmg" text="marktext.dmg" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.16.2/marktext.dmg.blockmap" text="marktext.dmg.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 
+
+
 ## v0.16.1
 
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.16.1/latest-linux.yml" text="latest-linux.yml" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
@@ -142,6 +156,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.16.1/marktext-x86_64.rpm" text="marktext-x86_64.rpm" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.16.1/marktext.dmg" text="marktext.dmg" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.16.1/marktext.dmg.blockmap" text="marktext.dmg.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
+
+
 
 ## v0.16.0
 
@@ -160,6 +176,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.16.0/marktext.dmg" text="marktext.dmg" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.16.0/marktext.dmg.blockmap" text="marktext.dmg.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 
+
+
 ## v0.16.0-rc.3
 
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.16.0-rc.3/latest-linux.yml" text="latest-linux.yml" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
@@ -176,6 +194,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.16.0-rc.3/marktext-x86_64.rpm" text="marktext-x86_64.rpm" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.16.0-rc.3/marktext.dmg" text="marktext.dmg" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.16.0-rc.3/marktext.dmg.blockmap" text="marktext.dmg.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
+
+
 
 ## v0.16.0-rc.2
 
@@ -194,6 +214,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.16.0-rc.2/marktext.dmg" text="marktext.dmg" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.16.0-rc.2/marktext.dmg.blockmap" text="marktext.dmg.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 
+
+
 ## v0.16.0-rc.1
 
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.16.0-rc.1/latest-linux.yml" text="latest-linux.yml" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
@@ -208,6 +230,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.16.0-rc.1/marktext-0.16.0-rc.1.dmg.blockmap" text="marktext-0.16.0-rc.1.dmg.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.16.0-rc.1/marktext-setup-0.16.0-rc.1.exe" text="marktext-setup-0.16.0-rc.1.exe" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.16.0-rc.1/marktext-setup-0.16.0-rc.1.exe.blockmap" text="marktext-setup-0.16.0-rc.1.exe.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
+
+
 
 ## v0.15.1
 
@@ -224,6 +248,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.15.1/marktext-setup-0.15.1.exe" text="marktext-setup-0.15.1.exe" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.15.1/marktext-setup-0.15.1.exe.blockmap" text="marktext-setup-0.15.1.exe.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 
+
+
 ## v0.15.0
 
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.15.0/latest-linux.yml" text="latest-linux.yml" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
@@ -238,6 +264,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.15.0/marktext-0.15.0.dmg.blockmap" text="marktext-0.15.0.dmg.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.15.0/marktext-setup-0.15.0.exe" text="marktext-setup-0.15.0.exe" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.15.0/marktext-setup-0.15.0.exe.blockmap" text="marktext-setup-0.15.0.exe.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
+
+
 
 ## v0.15.0-rc.3
 
@@ -254,6 +282,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.15.0-rc.3/marktext-0.15.0-rc.3-x64.tar.gz" text="marktext-0.15.0-rc.3-x64.tar.gz" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.15.0-rc.3/marktext-0.15.0-rc.3-x86_64.AppImage" text="marktext-0.15.0-rc.3-x86_64.AppImage" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 
+
+
 ## v0.15.0-rc.2
 
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.15.0-rc.2/latest-linux.yml" text="latest-linux.yml" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
@@ -268,6 +298,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.15.0-rc.2/Mark-Text-Setup-0.15.0-rc.2.exe.blockmap" text="Mark-Text-Setup-0.15.0-rc.2.exe.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.15.0-rc.2/marktext-0.15.0-rc.2-x64.tar.gz" text="marktext-0.15.0-rc.2-x64.tar.gz" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.15.0-rc.2/marktext-0.15.0-rc.2-x86_64.AppImage" text="marktext-0.15.0-rc.2-x86_64.AppImage" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
+
+
 
 ## v0.15.0-rc.1
 
@@ -284,6 +316,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.15.0-rc.1/marktext-0.15.0-rc.1-x64.tar.gz" text="marktext-0.15.0-rc.1-x64.tar.gz" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.15.0-rc.1/marktext-0.15.0-rc.1-x86_64.AppImage" text="marktext-0.15.0-rc.1-x86_64.AppImage" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 
+
+
 ## v0.14.0
 
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.14.0/latest-linux.yml" text="latest-linux.yml" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
@@ -297,6 +331,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.14.0/marktext-0.14.0.exe" text="marktext-0.14.0.exe" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.14.0/marktext-setup-0.14.0.exe" text="marktext-setup-0.14.0.exe" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.14.0/marktext-setup-0.14.0.exe.blockmap" text="marktext-setup-0.14.0.exe.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
+
+
 
 ## v0.14.0-rc.1
 
@@ -312,6 +348,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.14.0-rc.1/marktext-setup-0.14.0-rc.1.exe" text="marktext-setup-0.14.0-rc.1.exe" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.14.0-rc.1/marktext-setup-0.14.0-rc.1.exe.blockmap" text="marktext-setup-0.14.0-rc.1.exe.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 
+
+
 ## v0.13.65
 
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.13.65/latest-linux.yml" text="latest-linux.yml" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
@@ -325,6 +363,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.13.65/marktext-0.13.65.tar.gz" text="marktext-0.13.65.tar.gz" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.13.65/marktext-setup-0.13.65.exe" text="marktext-setup-0.13.65.exe" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.13.65/marktext-setup-0.13.65.exe.blockmap" text="marktext-setup-0.13.65.exe.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
+
+
 
 ## v0.13.53
 
@@ -340,6 +380,10 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.13.53/marktext-setup-0.13.53.exe" text="marktext-setup-0.13.53.exe" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.13.53/marktext-setup-0.13.53.exe.blockmap" text="marktext-setup-0.13.53.exe.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 
+
+
+
+
 ## v0.13.50
 
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.13.50/latest-linux.yml" text="latest-linux.yml" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
@@ -352,6 +396,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.13.50/marktext-0.13.50.exe" text="marktext-0.13.50.exe" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.13.50/marktext-setup-0.13.50.exe" text="marktext-setup-0.13.50.exe" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.13.50/marktext-setup-0.13.50.exe.blockmap" text="marktext-setup-0.13.50.exe.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
+
+
 
 ## v0.12.25
 
@@ -367,6 +413,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.12.25/marktext-setup-0.12.25.exe.blockmap" text="marktext-setup-0.12.25.exe.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.12.25/marktext_0.12.25_amd64.snap" text="marktext_0.12.25_amd64.snap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 
+
+
 ## v0.12.20
 
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.12.20/latest-linux.yml" text="latest-linux.yml" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
@@ -380,6 +428,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.12.20/marktext-setup-0.12.20.exe" text="marktext-setup-0.12.20.exe" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.12.20/marktext-setup-0.12.20.exe.blockmap" text="marktext-setup-0.12.20.exe.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.12.20/marktext_0.12.20_amd64.snap" text="marktext_0.12.20_amd64.snap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
+
+
 
 ## v0.11.42
 
@@ -395,6 +445,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.11.42/marktext-setup-0.11.42.exe.blockmap" text="marktext-setup-0.11.42.exe.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.11.42/marktext_0.11.42_amd64.snap" text="marktext_0.11.42_amd64.snap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 
+
+
 ## v0.10.21
 
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.10.21/latest-linux.yml" text="latest-linux.yml" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
@@ -408,6 +460,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.10.21/marktext-setup-0.10.21.exe" text="marktext-setup-0.10.21.exe" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.10.21/marktext-setup-0.10.21.exe.blockmap" text="marktext-setup-0.10.21.exe.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.10.21/marktext_0.10.21_amd64.snap" text="marktext_0.10.21_amd64.snap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
+
+
 
 ## v0.9.25
 
@@ -423,6 +477,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.9.25/marktext-setup-0.9.25.exe.blockmap" text="marktext-setup-0.9.25.exe.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.9.25/marktext_0.9.25_amd64.snap" text="marktext_0.9.25_amd64.snap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 
+
+
 ## v0.8.12
 
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.8.12/latest-linux.yml" text="latest-linux.yml" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
@@ -436,6 +492,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.8.12/marktext-setup-0.8.12.exe" text="marktext-setup-0.8.12.exe" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.8.12/marktext-setup-0.8.12.exe.blockmap" text="marktext-setup-0.8.12.exe.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.8.12/marktext_0.8.12_amd64.snap" text="marktext_0.8.12_amd64.snap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
+
+
 
 ## v0.7.17
 
@@ -451,6 +509,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.7.17/marktext-setup-0.7.17.exe.blockmap" text="marktext-setup-0.7.17.exe.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.7.17/marktext_0.7.17_amd64.snap" text="marktext_0.7.17_amd64.snap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 
+
+
 ## v0.6.14
 
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.6.14/latest-linux.yml" text="latest-linux.yml" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
@@ -465,11 +525,17 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.6.14/marktext-setup-0.6.14.exe.blockmap" text="marktext-setup-0.6.14.exe.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.6.14/marktext_0.6.14_amd64.snap" text="marktext_0.6.14_amd64.snap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 
+
+
 ## v0.6.13
 
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.6.13/Mark.Text-0.6.13.dmg" text="Mark.Text-0.6.13.dmg" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 
+
+
+
 找不到想要的版本？您可以访问 [官方网站](https://github.com/marktext/marktext/) 以下载更多版本。
 
 <!-- md Mirrors.md -->
+
 

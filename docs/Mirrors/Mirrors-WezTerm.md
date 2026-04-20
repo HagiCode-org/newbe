@@ -16,7 +16,9 @@ WezTerm 是一个由 GPU 加速的跨平台终端模拟器和多路复用器，�
 项目使用 Rust 实现，并持续发布多个平台的桌面安装包与压缩发行文件。
 将这些 Release 资产接入镜像页后，终端重度用户在国内下载安装会更方便。
 
+
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
+
 
 ## 20240203-110809-5046fc22
 
@@ -65,6 +67,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-windows-20240203-110809-5046fc22.zip" text="WezTerm-windows-20240203-110809-5046fc22.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-QBpuA", "status": "synced", "syncedAt": "2026-04-11T11:07:53.131Z", "source": "azure"}]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20240203-110809-5046fc22/WezTerm-windows-20240203-110809-5046fc22.zip.sha256" text="WezTerm-windows-20240203-110809-5046fc22.zip.sha256" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-aBpuA", "status": "synced", "syncedAt": "2026-04-11T11:20:19.568Z", "source": "azure"}]} />
 
+
+
 ## 20240128-202157-1e552d76
 
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20240128-202157-1e552d76/WezTerm-20240128-202157-1e552d76-setup.exe" text="WezTerm-20240128-202157-1e552d76-setup.exe" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
@@ -109,6 +113,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20240128-202157-1e552d76/WezTerm-macos-20240128-202157-1e552d76.zip.sha256" text="WezTerm-macos-20240128-202157-1e552d76.zip.sha256" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20240128-202157-1e552d76/WezTerm-windows-20240128-202157-1e552d76.zip" text="WezTerm-windows-20240128-202157-1e552d76.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20240128-202157-1e552d76/WezTerm-windows-20240128-202157-1e552d76.zip.sha256" text="WezTerm-windows-20240128-202157-1e552d76.zip.sha256" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
+
+
 
 ## 20240127-113634-bbcac864
 
@@ -157,6 +163,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20240127-113634-bbcac864/WezTerm-windows-20240127-113634-bbcac864.zip" text="WezTerm-windows-20240127-113634-bbcac864.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20240127-113634-bbcac864/WezTerm-windows-20240127-113634-bbcac864.zip.sha256" text="WezTerm-windows-20240127-113634-bbcac864.zip.sha256" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 
+
+
 ## 20230712-072601-f4abf8fd
 
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20230712-072601-f4abf8fd/WezTerm-20230712-072601-f4abf8fd-setup.exe" text="WezTerm-20230712-072601-f4abf8fd-setup.exe" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
@@ -203,6 +211,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20230712-072601-f4abf8fd/WezTerm-macos-20230712-072601-f4abf8fd.zip.sha256" text="WezTerm-macos-20230712-072601-f4abf8fd.zip.sha256" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20230712-072601-f4abf8fd/WezTerm-windows-20230712-072601-f4abf8fd.zip" text="WezTerm-windows-20230712-072601-f4abf8fd.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20230712-072601-f4abf8fd/WezTerm-windows-20230712-072601-f4abf8fd.zip.sha256" text="WezTerm-windows-20230712-072601-f4abf8fd.zip.sha256" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
+
+
 
 ## 20230408-112425-69ae8472
 
@@ -255,6 +265,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20230408-112425-69ae8472/WezTerm-windows-20230408-112425-69ae8472.zip" text="WezTerm-windows-20230408-112425-69ae8472.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20230408-112425-69ae8472/WezTerm-windows-20230408-112425-69ae8472.zip.sha256" text="WezTerm-windows-20230408-112425-69ae8472.zip.sha256" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 
+
+
 ## 20230326-111934-3666303c
 
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20230326-111934-3666303c/WezTerm-20230326-111934-3666303c-setup.exe" text="WezTerm-20230326-111934-3666303c-setup.exe" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
@@ -306,6 +318,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20230326-111934-3666303c/WezTerm-windows-20230326-111934-3666303c.zip" text="WezTerm-windows-20230326-111934-3666303c.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20230326-111934-3666303c/WezTerm-windows-20230326-111934-3666303c.zip.sha256" text="WezTerm-windows-20230326-111934-3666303c.zip.sha256" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 
+
+
 ## 20230320-124340-559cb7b0
 
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20230320-124340-559cb7b0/WezTerm-20230320-124340-559cb7b0-setup.exe" text="WezTerm-20230320-124340-559cb7b0-setup.exe" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
@@ -356,6 +370,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20230320-124340-559cb7b0/WezTerm-macos-20230320-124340-559cb7b0.zip.sha256" text="WezTerm-macos-20230320-124340-559cb7b0.zip.sha256" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20230320-124340-559cb7b0/WezTerm-windows-20230320-124340-559cb7b0.zip" text="WezTerm-windows-20230320-124340-559cb7b0.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20230320-124340-559cb7b0/WezTerm-windows-20230320-124340-559cb7b0.zip.sha256" text="WezTerm-windows-20230320-124340-559cb7b0.zip.sha256" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
+
+
 
 ## 20221119-145034-49b9839f
 
@@ -426,6 +442,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20221119-145034-49b9839f/WezTerm-windows-20221119-145034-49b9839f.zip" text="WezTerm-windows-20221119-145034-49b9839f.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20221119-145034-49b9839f/WezTerm-windows-20221119-145034-49b9839f.zip.sha256" text="WezTerm-windows-20221119-145034-49b9839f.zip.sha256" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 
+
+
 ## 20220905-102802-7d4b8249
 
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220905-102802-7d4b8249/WezTerm-20220905-102802-7d4b8249-setup.exe" text="WezTerm-20220905-102802-7d4b8249-setup.exe" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
@@ -494,6 +512,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220905-102802-7d4b8249/WezTerm-macos-20220905-102802-7d4b8249.zip.sha256" text="WezTerm-macos-20220905-102802-7d4b8249.zip.sha256" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220905-102802-7d4b8249/WezTerm-windows-20220905-102802-7d4b8249.zip" text="WezTerm-windows-20220905-102802-7d4b8249.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220905-102802-7d4b8249/WezTerm-windows-20220905-102802-7d4b8249.zip.sha256" text="WezTerm-windows-20220905-102802-7d4b8249.zip.sha256" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
+
+
 
 ## 20220904-064125-9a6cee2b
 
@@ -564,6 +584,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220904-064125-9a6cee2b/WezTerm-windows-20220904-064125-9a6cee2b.zip" text="WezTerm-windows-20220904-064125-9a6cee2b.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220904-064125-9a6cee2b/WezTerm-windows-20220904-064125-9a6cee2b.zip.sha256" text="WezTerm-windows-20220904-064125-9a6cee2b.zip.sha256" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 
+
+
 ## 20220903-194523-3bb1ed61
 
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220903-194523-3bb1ed61/WezTerm-20220903-194523-3bb1ed61-setup.exe" text="WezTerm-20220903-194523-3bb1ed61-setup.exe" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
@@ -632,6 +654,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220903-194523-3bb1ed61/WezTerm-macos-20220903-194523-3bb1ed61.zip.sha256" text="WezTerm-macos-20220903-194523-3bb1ed61.zip.sha256" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220903-194523-3bb1ed61/WezTerm-windows-20220903-194523-3bb1ed61.zip" text="WezTerm-windows-20220903-194523-3bb1ed61.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220903-194523-3bb1ed61/WezTerm-windows-20220903-194523-3bb1ed61.zip.sha256" text="WezTerm-windows-20220903-194523-3bb1ed61.zip.sha256" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
+
+
 
 ## 20220807-113146-c2fee766
 
@@ -702,6 +726,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220807-113146-c2fee766/WezTerm-windows-20220807-113146-c2fee766.zip" text="WezTerm-windows-20220807-113146-c2fee766.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220807-113146-c2fee766/WezTerm-windows-20220807-113146-c2fee766.zip.sha256" text="WezTerm-windows-20220807-113146-c2fee766.zip.sha256" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 
+
+
 ## 20220807-105216-608750d5
 
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220807-105216-608750d5/WezTerm-20220807-105216-608750d5-setup.exe" text="WezTerm-20220807-105216-608750d5-setup.exe" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
@@ -771,6 +797,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220807-105216-608750d5/WezTerm-windows-20220807-105216-608750d5.zip" text="WezTerm-windows-20220807-105216-608750d5.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220807-105216-608750d5/WezTerm-windows-20220807-105216-608750d5.zip.sha256" text="WezTerm-windows-20220807-105216-608750d5.zip.sha256" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 
+
+
 ## 20220807-093823-56aa7133
 
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220807-093823-56aa7133/wezterm-20220807-093823-56aa7133-src.tar.gz" text="wezterm-20220807-093823-56aa7133-src.tar.gz" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
@@ -835,6 +863,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220807-093823-56aa7133/wezterm-alpine3.15.pub.sha256" text="wezterm-alpine3.15.pub.sha256" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220807-093823-56aa7133/WezTerm-macos-20220807-093823-56aa7133.zip" text="WezTerm-macos-20220807-093823-56aa7133.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220807-093823-56aa7133/WezTerm-macos-20220807-093823-56aa7133.zip.sha256" text="WezTerm-macos-20220807-093823-56aa7133.zip.sha256" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
+
+
 
 ## 20220807-081338-e2bf4683
 
@@ -901,6 +931,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220807-081338-e2bf4683/WezTerm-macos-20220807-081338-e2bf4683.zip" text="WezTerm-macos-20220807-081338-e2bf4683.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220807-081338-e2bf4683/WezTerm-macos-20220807-081338-e2bf4683.zip.sha256" text="WezTerm-macos-20220807-081338-e2bf4683.zip.sha256" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 
+
+
 ## 20220624-141144-bd1b7c5d
 
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220624-141144-bd1b7c5d/WezTerm-20220624-141144-bd1b7c5d-setup.exe" text="WezTerm-20220624-141144-bd1b7c5d-setup.exe" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
@@ -938,6 +970,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220624-141144-bd1b7c5d/WezTerm-macos-20220624-141144-bd1b7c5d.zip" text="WezTerm-macos-20220624-141144-bd1b7c5d.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220624-141144-bd1b7c5d/WezTerm-windows-20220624-141144-bd1b7c5d.zip" text="WezTerm-windows-20220624-141144-bd1b7c5d.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 
+
+
 ## 20220408-101518-b908e2dd
 
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220408-101518-b908e2dd/WezTerm-20220408-101518-b908e2dd-setup.exe" text="WezTerm-20220408-101518-b908e2dd-setup.exe" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
@@ -961,6 +995,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220408-101518-b908e2dd/wezterm-20220408_101518_b908e2dd-1.fc35.x86_64.rpm" text="wezterm-20220408_101518_b908e2dd-1.fc35.x86_64.rpm" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220408-101518-b908e2dd/WezTerm-macos-20220408-101518-b908e2dd.zip" text="WezTerm-macos-20220408-101518-b908e2dd.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220408-101518-b908e2dd/WezTerm-windows-20220408-101518-b908e2dd.zip" text="WezTerm-windows-20220408-101518-b908e2dd.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
+
+
 
 ## 20220319-142410-0fcdea07
 
@@ -986,6 +1022,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220319-142410-0fcdea07/WezTerm-macos-20220319-142410-0fcdea07.zip" text="WezTerm-macos-20220319-142410-0fcdea07.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220319-142410-0fcdea07/WezTerm-windows-20220319-142410-0fcdea07.zip" text="WezTerm-windows-20220319-142410-0fcdea07.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 
+
+
 ## 20220101-133340-7edc5b5a
 
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220101-133340-7edc5b5a/WezTerm-20220101-133340-7edc5b5a-setup.exe" text="WezTerm-20220101-133340-7edc5b5a-setup.exe" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
@@ -1008,6 +1046,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220101-133340-7edc5b5a/wezterm-20220101_133340_7edc5b5a-1.fc35.x86_64.rpm" text="wezterm-20220101_133340_7edc5b5a-1.fc35.x86_64.rpm" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220101-133340-7edc5b5a/WezTerm-macos-20220101-133340-7edc5b5a.zip" text="WezTerm-macos-20220101-133340-7edc5b5a.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20220101-133340-7edc5b5a/WezTerm-windows-20220101-133340-7edc5b5a.zip" text="WezTerm-windows-20220101-133340-7edc5b5a.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
+
+
 
 ## 20211205-192649-672c1cc1
 
@@ -1033,6 +1073,10 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20211205-192649-672c1cc1/WezTerm-macos-20211205-192649-672c1cc1.zip" text="WezTerm-macos-20211205-192649-672c1cc1.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20211205-192649-672c1cc1/WezTerm-windows-20211205-192649-672c1cc1.zip" text="WezTerm-windows-20211205-192649-672c1cc1.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 
+
+
+
+
 ## 20211204-082213-a66c61ee9
 
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20211204-082213-a66c61ee9/WezTerm-20211204-082213-a66c61ee-setup.exe" text="WezTerm-20211204-082213-a66c61ee-setup.exe" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
@@ -1056,6 +1100,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20211204-082213-a66c61ee9/wezterm-20211204_082213_a66c61ee-1.fc35.x86_64.rpm" text="wezterm-20211204_082213_a66c61ee-1.fc35.x86_64.rpm" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20211204-082213-a66c61ee9/WezTerm-macos-20211204-082213-a66c61ee.zip" text="WezTerm-macos-20211204-082213-a66c61ee.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20211204-082213-a66c61ee9/WezTerm-windows-20211204-082213-a66c61ee.zip" text="WezTerm-windows-20211204-082213-a66c61ee.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
+
+
 
 ## 20210814-124438-54e29167
 
@@ -1082,6 +1128,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20210814-124438-54e29167/WezTerm-macos-20210814-124438-54e29167.zip" text="WezTerm-macos-20210814-124438-54e29167.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20210814-124438-54e29167/WezTerm-windows-20210814-124438-54e29167.zip" text="WezTerm-windows-20210814-124438-54e29167.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 
+
+
 ## 20210502-154244-3f7122cb
 
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20210502-154244-3f7122cb/WezTerm-20210502-154244-3f7122cb-setup.exe" text="WezTerm-20210502-154244-3f7122cb-setup.exe" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
@@ -1107,6 +1155,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20210502-154244-3f7122cb/WezTerm-macos-20210502-154244-3f7122cb.zip" text="WezTerm-macos-20210502-154244-3f7122cb.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20210502-154244-3f7122cb/WezTerm-windows-20210502-154244-3f7122cb.zip" text="WezTerm-windows-20210502-154244-3f7122cb.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 
+
+
 ## 20210502-130208-bff6815d
 
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20210502-130208-bff6815d/WezTerm-20210502-130208-bff6815d-setup.exe" text="WezTerm-20210502-130208-bff6815d-setup.exe" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
@@ -1126,6 +1176,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20210502-130208-bff6815d/wezterm-20210502_130208_bff6815d-1.fc34.x86_64.rpm" text="wezterm-20210502_130208_bff6815d-1.fc34.x86_64.rpm" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20210502-130208-bff6815d/WezTerm-macos-20210502-130208-bff6815d.zip" text="WezTerm-macos-20210502-130208-bff6815d.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20210502-130208-bff6815d/WezTerm-windows-20210502-130208-bff6815d.zip" text="WezTerm-windows-20210502-130208-bff6815d.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
+
+
 
 ## 20210405-110924-a5bb5be8
 
@@ -1151,6 +1203,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20210405-110924-a5bb5be8/WezTerm-macos-20210405-110924-a5bb5be8.zip" text="WezTerm-macos-20210405-110924-a5bb5be8.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20210405-110924-a5bb5be8/WezTerm-windows-20210405-110924-a5bb5be8.zip" text="WezTerm-windows-20210405-110924-a5bb5be8.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 
+
+
 ## 20210404-112810-b63a949d
 
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20210404-112810-b63a949d/WezTerm-20210404-112810-b63a949d-setup.exe" text="WezTerm-20210404-112810-b63a949d-setup.exe" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
@@ -1174,6 +1228,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20210404-112810-b63a949d/wezterm-20210404_112810_b63a949d-1.fc33.x86_64.rpm" text="wezterm-20210404_112810_b63a949d-1.fc33.x86_64.rpm" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20210404-112810-b63a949d/WezTerm-macos-20210404-112810-b63a949d.zip" text="WezTerm-macos-20210404-112810-b63a949d.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20210404-112810-b63a949d/WezTerm-windows-20210404-112810-b63a949d.zip" text="WezTerm-windows-20210404-112810-b63a949d.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
+
+
 
 ## 20210404-111518-fe48951e
 
@@ -1199,6 +1255,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20210404-111518-fe48951e/WezTerm-macos-20210404-111518-fe48951e.zip" text="WezTerm-macos-20210404-111518-fe48951e.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20210404-111518-fe48951e/WezTerm-windows-20210404-111518-fe48951e.zip" text="WezTerm-windows-20210404-111518-fe48951e.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 
+
+
 ## 20210314-114017-04b7cedd
 
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20210314-114017-04b7cedd/WezTerm-20210314-114017-04b7cedd-setup.exe" text="WezTerm-20210314-114017-04b7cedd-setup.exe" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
@@ -1223,6 +1281,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20210314-114017-04b7cedd/WezTerm-macos-20210314-114017-04b7cedd.zip" text="WezTerm-macos-20210314-114017-04b7cedd.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20210314-114017-04b7cedd/WezTerm-windows-20210314-114017-04b7cedd.zip" text="WezTerm-windows-20210314-114017-04b7cedd.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 
+
+
 ## 20210203-095643-70a364eb
 
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20210203-095643-70a364eb/WezTerm-20210203-095643-70a364eb-setup.exe" text="WezTerm-20210203-095643-70a364eb-setup.exe" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
@@ -1246,6 +1306,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20210203-095643-70a364eb/wezterm-20210203_095643_70a364eb-1.fc33.x86_64.rpm" text="wezterm-20210203_095643_70a364eb-1.fc33.x86_64.rpm" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20210203-095643-70a364eb/WezTerm-macos-20210203-095643-70a364eb.zip" text="WezTerm-macos-20210203-095643-70a364eb.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20210203-095643-70a364eb/WezTerm-windows-20210203-095643-70a364eb.zip" text="WezTerm-windows-20210203-095643-70a364eb.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
+
+
 
 ## 20201101-103216-403d002d
 
@@ -1272,7 +1334,11 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20201101-103216-403d002d/WezTerm-macos-20201101-103216-403d002d.zip" text="WezTerm-macos-20201101-103216-403d002d.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/wezterm/wezterm/releases/download/20201101-103216-403d002d/WezTerm-windows-20201101-103216-403d002d.zip" text="WezTerm-windows-20201101-103216-403d002d.zip" repositoryKey="wez/wezterm" preferredProviders={["123pan"]} />
 
+
+
+
 找不到想要的版本？您可以访问 [官方网站](https://github.com/wezterm/wezterm/) 以下载更多版本。
 
 <!-- md Mirrors.md -->
+
 

@@ -16,6 +16,7 @@ AnotherRedisDesktopManager. 国内直接从官网 https://github.com/qishibo/Ano
 
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
+
 ## v1.7.1
 
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.1/Another-Redis-Desktop-Manager-linux-1.7.1-arm64.AppImage" text="Another-Redis-Desktop-Manager-linux-1.7.1-arm64.AppImage" repositoryKey="qishibo/AnotherRedisDesktopManager" />
@@ -29,6 +30,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.1/latest-linux.yml" text="latest-linux.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.1/latest-mac.yml" text="latest-mac.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.1/latest.yml" text="latest.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
+
+
 
 ## v1.7.0
 
@@ -44,6 +47,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.0/latest-mac.yml" text="latest-mac.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.7.0/latest.yml" text="latest.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 
+
+
 ## v1.6.8
 
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.6.8/Another-Redis-Desktop-Manager-M1-arm64-1.6.8.dmg" text="Another-Redis-Desktop-Manager-M1-arm64-1.6.8.dmg" repositoryKey="qishibo/AnotherRedisDesktopManager" />
@@ -53,6 +58,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.6.8/latest-linux.yml" text="latest-linux.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.6.8/latest-mac.yml" text="latest-mac.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.6.8/latest.yml" text="latest.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
+
+
 
 ## v1.6.7
 
@@ -64,6 +71,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.6.7/latest-mac.yml" text="latest-mac.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.6.7/latest.yml" text="latest.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 
+
+
 ## v1.6.6
 
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.6.6/Another-Redis-Desktop-Manager-M1-arm64-1.6.6.dmg" text="Another-Redis-Desktop-Manager-M1-arm64-1.6.6.dmg" repositoryKey="qishibo/AnotherRedisDesktopManager" />
@@ -73,6 +82,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.6.6/latest-linux.yml" text="latest-linux.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.6.6/latest-mac.yml" text="latest-mac.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.6.6/latest.yml" text="latest.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
+
+
 
 ## v1.6.4
 
@@ -84,6 +95,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.6.4/latest-mac.yml" text="latest-mac.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.6.4/latest.yml" text="latest.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 
+
+
 ## v1.6.3
 
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.6.3/Another-Redis-Desktop-Manager-M1-arm64-1.6.3.dmg" text="Another-Redis-Desktop-Manager-M1-arm64-1.6.3.dmg" repositoryKey="qishibo/AnotherRedisDesktopManager" />
@@ -93,6 +106,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.6.3/latest-linux.yml" text="latest-linux.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.6.3/latest-mac.yml" text="latest-mac.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.6.3/latest.yml" text="latest.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
+
+
 
 ## v1.6.2
 
@@ -104,6 +119,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.6.2/latest-mac.yml" text="latest-mac.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.6.2/latest.yml" text="latest.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 
+
+
 ## v1.6.1
 
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.6.1/Another-Redis-Desktop-Manager-M1-arm64-1.6.1.dmg" text="Another-Redis-Desktop-Manager-M1-arm64-1.6.1.dmg" repositoryKey="qishibo/AnotherRedisDesktopManager" />
@@ -113,6 +130,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.6.1/latest-linux.yml" text="latest-linux.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.6.1/latest-mac.yml" text="latest-mac.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.6.1/latest.yml" text="latest.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
+
+
 
 ## v1.6.0
 
@@ -124,6 +143,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.6.0/latest-mac.yml" text="latest-mac.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.6.0/latest.yml" text="latest.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 
+
+
 ## v1.5.9
 
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.9/Another-Redis-Desktop-Manager-M1-arm64-1.5.9.dmg" text="Another-Redis-Desktop-Manager-M1-arm64-1.5.9.dmg" repositoryKey="qishibo/AnotherRedisDesktopManager" />
@@ -133,6 +154,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.9/latest-linux.yml" text="latest-linux.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.9/latest-mac.yml" text="latest-mac.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.9/latest.yml" text="latest.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
+
+
 
 ## v1.5.8
 
@@ -144,6 +167,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.8/latest-mac.yml" text="latest-mac.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.8/latest.yml" text="latest.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 
+
+
 ## v1.5.7
 
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.7/Another-Redis-Desktop-Manager-M1-arm64-1.5.7.dmg" text="Another-Redis-Desktop-Manager-M1-arm64-1.5.7.dmg" repositoryKey="qishibo/AnotherRedisDesktopManager" />
@@ -153,6 +178,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.7/latest-linux.yml" text="latest-linux.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.7/latest-mac.yml" text="latest-mac.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.7/latest.yml" text="latest.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
+
+
 
 ## v1.5.6
 
@@ -164,6 +191,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.6/latest-mac.yml" text="latest-mac.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.6/latest.yml" text="latest.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 
+
+
 ## v1.5.5
 
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.5/Another-Redis-Desktop-Manager-M1-arm64-1.5.5.dmg" text="Another-Redis-Desktop-Manager-M1-arm64-1.5.5.dmg" repositoryKey="qishibo/AnotherRedisDesktopManager" />
@@ -173,6 +202,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.5/latest-linux.yml" text="latest-linux.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.5/latest-mac.yml" text="latest-mac.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.5/latest.yml" text="latest.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
+
+
 
 ## v1.5.2
 
@@ -184,6 +215,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.2/latest-mac.yml" text="latest-mac.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.2/latest.yml" text="latest.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 
+
+
 ## v1.5.1
 
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.1/Another-Redis-Desktop-Manager-M1-arm64-1.5.1.dmg" text="Another-Redis-Desktop-Manager-M1-arm64-1.5.1.dmg" repositoryKey="qishibo/AnotherRedisDesktopManager" />
@@ -193,6 +226,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.1/latest-linux.yml" text="latest-linux.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.1/latest-mac.yml" text="latest-mac.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.1/latest.yml" text="latest.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
+
+
 
 ## v1.5.0
 
@@ -204,6 +239,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.0/latest-mac.yml" text="latest-mac.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.0/latest.yml" text="latest.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 
+
+
 ## v1.4.9
 
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.9/Another-Redis-Desktop-Manager-M1-arm64-1.4.9.dmg" text="Another-Redis-Desktop-Manager-M1-arm64-1.4.9.dmg" repositoryKey="qishibo/AnotherRedisDesktopManager" />
@@ -213,6 +250,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.9/latest-linux.yml" text="latest-linux.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.9/latest-mac.yml" text="latest-mac.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.9/latest.yml" text="latest.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
+
+
 
 ## v1.4.8
 
@@ -224,6 +263,10 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.8/latest-mac.yml" text="latest-mac.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.8/latest.yml" text="latest.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 
+
+
+
+
 ## v1.4.7
 
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.7/Another-Redis-Desktop-Manager-M1-arm64-1.4.7.dmg" text="Another-Redis-Desktop-Manager-M1-arm64-1.4.7.dmg" repositoryKey="qishibo/AnotherRedisDesktopManager" />
@@ -234,6 +277,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.7/latest-mac.yml" text="latest-mac.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.7/latest.yml" text="latest.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 
+
+
 ## v1.4.5
 
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.5/Another-Redis-Desktop-Manager.1.4.5.AppImage" text="Another-Redis-Desktop-Manager.1.4.5.AppImage" repositoryKey="qishibo/AnotherRedisDesktopManager" />
@@ -242,6 +287,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.5/latest-linux.yml" text="latest-linux.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.5/latest-mac.yml" text="latest-mac.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.5/latest.yml" text="latest.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
+
+
 
 ## v1.4.4
 
@@ -252,6 +299,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.4/latest-mac.yml" text="latest-mac.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.4/latest.yml" text="latest.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 
+
+
 ## v1.4.3
 
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.3/Another-Redis-Desktop-Manager.1.4.3.AppImage" text="Another-Redis-Desktop-Manager.1.4.3.AppImage" repositoryKey="qishibo/AnotherRedisDesktopManager" />
@@ -260,6 +309,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.3/latest-linux.yml" text="latest-linux.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.3/latest-mac.yml" text="latest-mac.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.3/latest.yml" text="latest.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
+
+
 
 ## v1.4.2
 
@@ -270,6 +321,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.2/latest-mac.yml" text="latest-mac.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.2/latest.yml" text="latest.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 
+
+
 ## v1.4.1
 
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.1/Another-Redis-Desktop-Manager.1.4.1.AppImage" text="Another-Redis-Desktop-Manager.1.4.1.AppImage" repositoryKey="qishibo/AnotherRedisDesktopManager" />
@@ -278,6 +331,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.1/latest-linux.yml" text="latest-linux.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.1/latest-mac.yml" text="latest-mac.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.1/latest.yml" text="latest.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
+
+
 
 ## v1.4.0
 
@@ -288,6 +343,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.0/latest-mac.yml" text="latest-mac.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.4.0/latest.yml" text="latest.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 
+
+
 ## v1.3.9
 
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.3.9/Another-Redis-Desktop-Manager.1.3.9.AppImage" text="Another-Redis-Desktop-Manager.1.3.9.AppImage" repositoryKey="qishibo/AnotherRedisDesktopManager" />
@@ -296,6 +353,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.3.9/latest-linux.yml" text="latest-linux.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.3.9/latest-mac.yml" text="latest-mac.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.3.9/latest.yml" text="latest.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
+
+
 
 ## v1.3.8
 
@@ -306,6 +365,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.3.8/latest-mac.yml" text="latest-mac.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.3.8/latest.yml" text="latest.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 
+
+
 ## v1.3.7
 
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.3.7/Another-Redis-Desktop-Manager.1.3.7.AppImage" text="Another-Redis-Desktop-Manager.1.3.7.AppImage" repositoryKey="qishibo/AnotherRedisDesktopManager" />
@@ -315,7 +376,11 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.3.7/latest-mac.yml" text="latest-mac.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 - <GithubMirrorLink link="https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.3.7/latest.yml" text="latest.yml" repositoryKey="qishibo/AnotherRedisDesktopManager" />
 
+
+
+
 找不到想要的版本？您可以访问 [官方网站](https://github.com/qishibo/AnotherRedisDesktopManager/) 以下载更多版本。
 
 <!-- md Mirrors.md -->
+
 
