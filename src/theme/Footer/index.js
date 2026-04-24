@@ -1,11 +1,13 @@
 import React from 'react';
 import Footer from '@theme-original/Footer';
 import {Helmet} from "react-helmet";
+import PromoteCard from '@site/src/components/PromoteCard';
 
 export default function FooterWrapper(props) {
   return (
     <>
       <Footer {...props} />
+      <PromoteCard />
       <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charSet="utf-8"></script>
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4138796439241260"
               crossOrigin="anonymous"></script>
