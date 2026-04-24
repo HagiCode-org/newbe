@@ -20,3 +20,16 @@ declare module '@docusaurus/Link' {
 
   export default function Link(props: LinkProps): JSX.Element;
 }
+
+declare module '@docusaurus/useDocusaurusContext' {
+  export default function useDocusaurusContext(): {
+    i18n: {
+      currentLocale?: string;
+    };
+  };
+}
+
+declare module '*.module.css' {
+  const classes: Record<string, string>;
+  export default classes;
+}
