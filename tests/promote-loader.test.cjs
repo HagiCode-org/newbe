@@ -41,6 +41,7 @@ function createCatalogFetch(payload) {
     description: { en: `Description ${promotion.id}`, zh: `描述 ${promotion.id}` },
     link: `https://example.invalid/${promotion.id}`,
     targetPlatform: 'steam',
+    cta: { en: `Open ${promotion.id}`, zh: `打开 ${promotion.id}` },
   }));
 
   return async (input) => {
@@ -92,4 +93,31 @@ test('newbe promote loader applies the shared schedule semantics', async () => {
     ['main-game-2026-04-29', 'no-end'],
   );
   assert.equal(atBoundary?.id, 'main-game-steam-ea-2026-04-29');
+  assert.equal(before[0].ctaLabel, 'Open main-game-2026-04-29');
+  assert.equal(atBoundary?.ctaLabel, 'Open main-game-steam-ea-2026-04-29');
+});
+
+test('newbe promote loader resolves CTA labels with shared fallbacks', async () => {
+  const { loadActivePromotions } = await loadPromoteLoader();
+
+  const fetchImpl = createCatalogFetch({
+    promotes: [
+      { id: 'localized', on: true },
+      { id: 'missing-locale', on: true },
+      { id: 'malformed-cta', on: true },
+      { id: 'legacy', on: true },
+    ],
+    contents: [
+      { id: 'localized', title: { en: 'Localized' }, description: { en: 'English copy' }, cta: { en: 'View Offer', zh: '查看优惠' }, link: 'https://example.invalid/localized' },
+      { id: 'missing-locale', title: { en: 'Missing locale' }, description: { en: 'Fallback copy' }, cta: { zh: '中文按钮' }, link: 'https://example.invalid/missing-locale' },
+      { id: 'malformed-cta', title: { en: 'Malformed' }, description: { en: 'Malformed copy' }, cta: { en: '   ', zh: '' }, link: 'https://example.invalid/malformed-cta' },
+      { id: 'legacy', title: { en: 'Legacy' }, description: { en: 'Legacy copy' }, link: 'https://example.invalid/legacy' },
+    ],
+  });
+
+  const englishPromotions = await loadActivePromotions({ locale: 'en-US', fetchImpl });
+  const chinesePromotions = await loadActivePromotions({ locale: 'zh-CN', fetchImpl });
+
+  assert.deepEqual(englishPromotions.map((promotion) => promotion.ctaLabel), ['View Offer', '中文按钮', 'GO', 'GO']);
+  assert.deepEqual(chinesePromotions.map((promotion) => promotion.ctaLabel), ['查看优惠', '中文按钮', '立即前往', '立即前往']);
 });

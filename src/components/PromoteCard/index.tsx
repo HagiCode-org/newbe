@@ -12,10 +12,6 @@ type PromoteCardProps = {
 const DEFAULT_FOOTER_SELECTOR = 'footer, [data-footer-root], .footer';
 const DISMISSED_PROMOTIONS_STORAGE_KEY = 'hagicode:promote-card:dismissed-signature';
 
-function ctaLabel(locale: string) {
-  return locale.toLowerCase().startsWith('zh') ? '立刻前往' : 'GO';
-}
-
 function closeLabel(locale: string) {
   return locale.toLowerCase().startsWith('zh') ? '关闭推广信息' : 'Dismiss promotion';
 }
@@ -97,13 +93,13 @@ export default function PromoteCard({ fetchImpl, footerSelector = DEFAULT_FOOTER
         <button type="button" className={styles.close} onClick={dismissPromotion} aria-label={closeLabel(locale)}>
           <span aria-hidden="true">×</span>
         </button>
-        <button type="button" className={styles.surface} onClick={openPromotion} aria-label={`${ctaLabel(locale)}: ${promotion.title}`}>
+        <button type="button" className={styles.surface} onClick={openPromotion} aria-label={`${promotion.ctaLabel}: ${promotion.title}`}>
           <span className={styles.body}>
             <span className={styles.badge}>{platformLabel(promotion.platform, locale)}</span>
             <span className={styles.title}>{promotion.title}</span>
             <span className={styles.description}>{promotion.description}</span>
           </span>
-          <span className={styles.cta} aria-hidden="true">{ctaLabel(locale)}</span>
+          <span className={styles.cta} aria-hidden="true">{promotion.ctaLabel}</span>
         </button>
       </div>
     </section>
