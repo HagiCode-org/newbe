@@ -18,6 +18,18 @@ OBS的网络A/V与NewTek的NDI技术。
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## 6.2.1
+
+- <GithubMirrorLink link="https://github.com/DistroAV/DistroAV/releases/download/6.2.1/distroav-6.2.1-macos-universal.pkg" text="distroav-6.2.1-macos-universal.pkg" repositoryKey="Palakis/obs-ndi" />
+- <GithubMirrorLink link="https://github.com/DistroAV/DistroAV/releases/download/6.2.1/distroav-6.2.1-source.tar.xz" text="distroav-6.2.1-source.tar.xz" repositoryKey="Palakis/obs-ndi" />
+- <GithubMirrorLink link="https://github.com/DistroAV/DistroAV/releases/download/6.2.1/distroav-6.2.1-windows-x64-Installer.exe" text="distroav-6.2.1-windows-x64-Installer.exe" repositoryKey="Palakis/obs-ndi" />
+- <GithubMirrorLink link="https://github.com/DistroAV/DistroAV/releases/download/6.2.1/distroav-6.2.1-windows-x64-portable.zip" text="distroav-6.2.1-windows-x64-portable.zip" repositoryKey="Palakis/obs-ndi" />
+- <GithubMirrorLink link="https://github.com/DistroAV/DistroAV/releases/download/6.2.1/distroav-6.2.1-windows-x64.zip" text="distroav-6.2.1-windows-x64.zip" repositoryKey="Palakis/obs-ndi" />
+- <GithubMirrorLink link="https://github.com/DistroAV/DistroAV/releases/download/6.2.1/distroav-6.2.1-x86_64-linux-gnu-dbgsym.ddeb" text="distroav-6.2.1-x86_64-linux-gnu-dbgsym.ddeb" repositoryKey="Palakis/obs-ndi" />
+- <GithubMirrorLink link="https://github.com/DistroAV/DistroAV/releases/download/6.2.1/distroav-6.2.1-x86_64-linux-gnu.deb" text="distroav-6.2.1-x86_64-linux-gnu.deb" repositoryKey="Palakis/obs-ndi" />
+
+
+
 ## 6.2.0
 
 - <GithubMirrorLink link="https://github.com/DistroAV/DistroAV/releases/download/6.2.0/distroav-6.2.0-macos-universal.pkg" text="distroav-6.2.0-macos-universal.pkg" repositoryKey="Palakis/obs-ndi" />
@@ -223,6 +235,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## 4.7.0
 
 - <GithubMirrorLink link="https://github.com/DistroAV/DistroAV/releases/download/4.7.0/libndi3_4.0.0-1_amd64.deb" text="libndi3_4.0.0-1_amd64.deb" repositoryKey="Palakis/obs-ndi" />
@@ -230,8 +244,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/DistroAV/DistroAV/releases/download/4.7.0/obs-ndi-4.7.0-Windows-Installer.exe" text="obs-ndi-4.7.0-Windows-Installer.exe" repositoryKey="Palakis/obs-ndi" />
 - <GithubMirrorLink link="https://github.com/DistroAV/DistroAV/releases/download/4.7.0/obs-ndi-4.7.0-Windows.zip" text="obs-ndi-4.7.0-Windows.zip" repositoryKey="Palakis/obs-ndi" />
 - <GithubMirrorLink link="https://github.com/DistroAV/DistroAV/releases/download/4.7.0/obs-ndi_4.7.0-1_amd64.deb" text="obs-ndi_4.7.0-1_amd64.deb" repositoryKey="Palakis/obs-ndi" />
-
-
 
 
 
@@ -315,16 +327,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/DistroAV/DistroAV/releases/download/4.3.0/obs-ndi-4.3.0-Windows.zip" text="obs-ndi-4.3.0-Windows.zip" repositoryKey="Palakis/obs-ndi" />
 - <GithubMirrorLink link="https://github.com/DistroAV/DistroAV/releases/download/4.3.0/obs-ndi-4.3.0.pkg" text="obs-ndi-4.3.0.pkg" repositoryKey="Palakis/obs-ndi" />
 - <GithubMirrorLink link="https://github.com/DistroAV/DistroAV/releases/download/4.3.0/obs-ndi_4.3.0-1_amd64.deb" text="obs-ndi_4.3.0-1_amd64.deb" repositoryKey="Palakis/obs-ndi" />
-
-
-
-## 4.2.3
-
-- <GithubMirrorLink link="https://github.com/DistroAV/DistroAV/releases/download/4.2.3/libndi3_3.0.1-1_amd64.2.deb" text="libndi3_3.0.1-1_amd64.2.deb" repositoryKey="Palakis/obs-ndi" />
-- <GithubMirrorLink link="https://github.com/DistroAV/DistroAV/releases/download/4.2.3/obs-ndi-4.2.3-Windows-Installer.exe" text="obs-ndi-4.2.3-Windows-Installer.exe" repositoryKey="Palakis/obs-ndi" />
-- <GithubMirrorLink link="https://github.com/DistroAV/DistroAV/releases/download/4.2.3/obs-ndi-4.2.3-Windows.zip" text="obs-ndi-4.2.3-Windows.zip" repositoryKey="Palakis/obs-ndi" />
-- <GithubMirrorLink link="https://github.com/DistroAV/DistroAV/releases/download/4.2.3/obs-ndi-4.2.3.pkg" text="obs-ndi-4.2.3.pkg" repositoryKey="Palakis/obs-ndi" />
-- <GithubMirrorLink link="https://github.com/DistroAV/DistroAV/releases/download/4.2.3/obs-ndi_4.2.3-1_amd64.deb" text="obs-ndi_4.2.3-1_amd64.deb" repositoryKey="Palakis/obs-ndi" />
 
 
 

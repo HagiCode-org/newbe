@@ -18,6 +18,17 @@ subtitleedit. 国内直接从官网 https://github.com/SubtitleEdit/subtitleedit
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v5.0.0-beta18
+
+- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0-beta18/SubtitleEdit-Linux-x64.tar.gz" text="SubtitleEdit-Linux-x64.tar.gz" repositoryKey="SubtitleEdit/subtitleedit" />
+- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0-beta18/SubtitleEdit-macOS-ARM64.dmg" text="SubtitleEdit-macOS-ARM64.dmg" repositoryKey="SubtitleEdit/subtitleedit" />
+- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0-beta18/SubtitleEdit-macOS-x64.dmg" text="SubtitleEdit-macOS-x64.dmg" repositoryKey="SubtitleEdit/subtitleedit" />
+- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0-beta18/SubtitleEdit-Windows-ARM64.zip" text="SubtitleEdit-Windows-ARM64.zip" repositoryKey="SubtitleEdit/subtitleedit" />
+- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0-beta18/SubtitleEdit-Windows-x64-Setup.exe" text="SubtitleEdit-Windows-x64-Setup.exe" repositoryKey="SubtitleEdit/subtitleedit" />
+- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0-beta18/SubtitleEdit-Windows-x64.zip" text="SubtitleEdit-Windows-x64.zip" repositoryKey="SubtitleEdit/subtitleedit" />
+
+
+
 ## v5.0.0-beta17
 
 - <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0-beta17/SubtitleEdit-Linux-x64.tar.gz" text="SubtitleEdit-Linux-x64.tar.gz" repositoryKey="SubtitleEdit/subtitleedit" />
@@ -226,14 +237,14 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## 4.0.13
 
 - <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/4.0.13/SE4013.zip" text="SE4013.zip" repositoryKey="SubtitleEdit/subtitleedit" />
 - <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/4.0.13/SE4013FI.zip" text="SE4013FI.zip" repositoryKey="SubtitleEdit/subtitleedit" />
 - <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/4.0.13/SubtitleEdit-4.0.13-Setup.exe" text="SubtitleEdit-4.0.13-Setup.exe" repositoryKey="SubtitleEdit/subtitleedit" />
 - <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/4.0.13/SubtitleEdit-4.0.13-Setup.zip" text="SubtitleEdit-4.0.13-Setup.zip" repositoryKey="SubtitleEdit/subtitleedit" />
-
-
 
 
 
@@ -318,15 +329,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/4.0.4/SubtitleEdit-4.0.4-Setup.exe" text="SubtitleEdit-4.0.4-Setup.exe" repositoryKey="SubtitleEdit/subtitleedit" />
 - <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/4.0.4/SubtitleEdit-4.0.4-Setup.zip" text="SubtitleEdit-4.0.4-Setup.zip" repositoryKey="SubtitleEdit/subtitleedit" />
 - <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/4.0.4/SubtitleEditBeta.zip" text="SubtitleEditBeta.zip" repositoryKey="SubtitleEdit/subtitleedit" />
-
-
-
-## 4.0.3
-
-- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/4.0.3/SE403.zip" text="SE403.zip" repositoryKey="SubtitleEdit/subtitleedit" />
-- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/4.0.3/SE403FI.zip" text="SE403FI.zip" repositoryKey="SubtitleEdit/subtitleedit" />
-- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/4.0.3/SubtitleEdit-4.0.3-Setup.exe" text="SubtitleEdit-4.0.3-Setup.exe" repositoryKey="SubtitleEdit/subtitleedit" />
-- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/4.0.3/SubtitleEdit-4.0.3-Setup.zip" text="SubtitleEdit-4.0.3-Setup.zip" repositoryKey="SubtitleEdit/subtitleedit" />
 
 
 

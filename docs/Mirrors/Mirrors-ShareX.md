@@ -18,6 +18,13 @@ ShareX. 国内直接从官网 https://github.com/ShareX/ShareX/ 下载比较困�
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v20.0.2
+
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v20.0.2/ShareX-20.0.2-portable-x64.zip" text="ShareX-20.0.2-portable-x64.zip" repositoryKey="ShareX/ShareX" />
+- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v20.0.2/ShareX-20.0.2-setup-x64.exe" text="ShareX-20.0.2-setup-x64.exe" repositoryKey="ShareX/ShareX" />
+
+
+
 ## v19.0.2
 
 - <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v19.0.2/ShareX-19.0.2-portable.zip" text="ShareX-19.0.2-portable.zip" repositoryKey="ShareX/ShareX" />
@@ -151,12 +158,12 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v13.2.1
 
 - <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v13.2.1/ShareX-13.2.1-setup.exe" text="ShareX-13.2.1-setup.exe" repositoryKey="ShareX/ShareX" />
 - <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v13.2.1/ShareX-portable.zip" text="ShareX-portable.zip" repositoryKey="ShareX/ShareX" />
-
-
 
 
 
@@ -220,13 +227,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 - <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v12.2.0/ShareX-12.2.0-setup.exe" text="ShareX-12.2.0-setup.exe" repositoryKey="ShareX/ShareX" />
 - <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v12.2.0/ShareX-portable.zip" text="ShareX-portable.zip" repositoryKey="ShareX/ShareX" />
-
-
-
-## v12.1.1
-
-- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v12.1.1/ShareX-12.1.1-setup.exe" text="ShareX-12.1.1-setup.exe" repositoryKey="ShareX/ShareX" />
-- <GithubMirrorLink link="https://github.com/ShareX/ShareX/releases/download/v12.1.1/ShareX-portable.zip" text="ShareX-portable.zip" repositoryKey="ShareX/ShareX" />
 
 
 
