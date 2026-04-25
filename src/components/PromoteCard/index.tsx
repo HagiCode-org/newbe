@@ -20,6 +20,11 @@ function closeLabel(locale: string) {
   return locale.toLowerCase().startsWith('zh') ? '关闭推广信息' : 'Dismiss promotion';
 }
 
+function platformLabel(platform: string | null, locale: string) {
+  if (platform) return platform;
+  return locale.toLowerCase().startsWith('zh') ? '推荐' : 'Promoted';
+}
+
 function readDismissedSignature(): string | null {
   if (typeof window === 'undefined') return null;
   try {
@@ -88,17 +93,19 @@ export default function PromoteCard({ fetchImpl, footerSelector = DEFAULT_FOOTER
 
   return (
     <section className={styles.promoteCard} data-promote-card aria-label={locale.toLowerCase().startsWith('zh') ? '推广信息' : 'Promotion'}>
-      <button type="button" className={styles.close} onClick={dismissPromotion} aria-label={closeLabel(locale)}>
-        <span aria-hidden="true">×</span>
-      </button>
-      <button type="button" className={styles.surface} onClick={openPromotion} aria-label={`${ctaLabel(locale)}: ${promotion.title}`}>
-        <span className={styles.body}>
-          <span className={styles.badge}>{promotion.platform ?? 'Promoted'}</span>
-          <span className={styles.title}>{promotion.title}</span>
-          <span className={styles.description}>{promotion.description}</span>
-        </span>
-        <span className={styles.cta} aria-hidden="true">{ctaLabel(locale)}</span>
-      </button>
+      <div className={styles.inner}>
+        <button type="button" className={styles.close} onClick={dismissPromotion} aria-label={closeLabel(locale)}>
+          <span aria-hidden="true">×</span>
+        </button>
+        <button type="button" className={styles.surface} onClick={openPromotion} aria-label={`${ctaLabel(locale)}: ${promotion.title}`}>
+          <span className={styles.body}>
+            <span className={styles.badge}>{platformLabel(promotion.platform, locale)}</span>
+            <span className={styles.title}>{promotion.title}</span>
+            <span className={styles.description}>{promotion.description}</span>
+          </span>
+          <span className={styles.cta} aria-hidden="true">{ctaLabel(locale)}</span>
+        </button>
+      </div>
     </section>
   );
 }
