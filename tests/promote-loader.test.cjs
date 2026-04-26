@@ -121,3 +121,37 @@ test('newbe promote loader resolves CTA labels with shared fallbacks', async () 
   assert.deepEqual(englishPromotions.map((promotion) => promotion.ctaLabel), ['View Offer', '中文按钮', 'GO', 'GO']);
   assert.deepEqual(chinesePromotions.map((promotion) => promotion.ctaLabel), ['查看优惠', '中文按钮', '立即前往', '立即前往']);
 });
+
+test('newbe promote loader keeps remote image metadata for the floating card', async () => {
+  const { loadActivePromotions } = await loadPromoteLoader();
+
+  const promotions = await loadActivePromotions({
+    locale: 'en',
+    fetchImpl: createCatalogFetch({
+      promotes: [{ id: 'main-game', on: true }],
+      contents: [
+        {
+          id: 'main-game',
+          title: { en: 'Wishlist Now', zh: '立即添加到愿望单' },
+          description: { en: 'Coming soon', zh: '即将上线' },
+          cta: { en: 'Wishlist on Steam', zh: '加入愿望单' },
+          link: 'https://example.invalid/main-game',
+          targetPlatform: 'steam',
+          image: {
+            src: '/images/promotions/main-game.webp',
+            width: 640,
+            height: 360,
+          },
+        },
+      ],
+    }),
+  });
+
+  assert.deepEqual(promotions[0].image, {
+    src: 'https://index.hagicode.com/images/promotions/main-game.webp',
+    alt: 'Wishlist Now',
+    width: 640,
+    height: 360,
+    variant: undefined,
+  });
+});

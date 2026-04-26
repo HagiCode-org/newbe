@@ -93,12 +93,31 @@ export default function PromoteCard({ fetchImpl, footerSelector = DEFAULT_FOOTER
         <button type="button" className={styles.close} onClick={dismissPromotion} aria-label={closeLabel(locale)}>
           <span aria-hidden="true">×</span>
         </button>
-        <button type="button" className={styles.surface} onClick={openPromotion} aria-label={`${promotion.ctaLabel}: ${promotion.title}`}>
+        <button
+          type="button"
+          className={styles.surface}
+          data-has-image={promotion.image ? 'true' : 'false'}
+          onClick={openPromotion}
+          aria-label={`${promotion.ctaLabel}: ${promotion.title}`}
+        >
           <span className={styles.body}>
             <span className={styles.badge}>{platformLabel(promotion.platform, locale)}</span>
             <span className={styles.title}>{promotion.title}</span>
             <span className={styles.description}>{promotion.description}</span>
           </span>
+          {promotion.image?.src ? (
+            <span className={styles.media}>
+              <img
+                className={styles.image}
+                src={promotion.image.src}
+                alt={promotion.image.alt || promotion.title}
+                loading="eager"
+                decoding="async"
+                width={promotion.image.width}
+                height={promotion.image.height}
+              />
+            </span>
+          ) : null}
           <span className={styles.cta} aria-hidden="true">{promotion.ctaLabel}</span>
         </button>
       </div>
