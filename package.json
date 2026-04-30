@@ -5,9 +5,8 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "dev": "docusaurus start --no-open",
-    "build": "npm run sync:footer-sites && docusaurus build",
+    "build": "export NODE_ENV=\"${NODE_ENV:-production}\"; npm run sync:footer-sites && docusaurus build",
     "swizzle": "docusaurus swizzle",
-    "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "sync:footer-sites": "node ./scripts/fetch-sites-snapshot.mjs",

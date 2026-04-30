@@ -7,7 +7,8 @@ const { resolveNewbeFooterLinks } = require('./footer-sites');
 
 const default51LAId = 'L6b88a5yK4h2Xnci';
 const la51Id = process.env.LI_51LA_ID || default51LAId;
-const isProduction = process.env.NODE_ENV === 'production';
+const resolvedNodeEnv = process.env.NODE_ENV ?? (process.argv.includes('build') ? 'production' : 'development');
+const isProduction = resolvedNodeEnv === 'production';
 const is51LAEnabled =
   process.env.LI_51LA_ENABLED !== 'false' &&
   process.env.LI_51LA_ENABLED !== '0' &&
