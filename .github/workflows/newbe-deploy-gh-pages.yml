@@ -1,0 +1,89 @@
+name: Newbe Deploy gh-pages
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+concurrency:
+  group: newbe-deploy-gh-pages
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+env:
+  NODE_VERSION: "22.12.0"
+  NEWBE_GH_PAGES_PAYLOAD_DIR: .deploy/gh-pages
+
+jobs:
+  build:
+    name: Build validated newbe snapshot
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build and verify newbe
+        run: NODE_ENV=production npm run build
+
+      - name: Assemble gh-pages publication payload
+        run: |
+          rm -rf "${NEWBE_GH_PAGES_PAYLOAD_DIR}"
+          mkdir -p "${NEWBE_GH_PAGES_PAYLOAD_DIR}/dist"
+          cp .github/gh-pages/esa.jsonc "${NEWBE_GH_PAGES_PAYLOAD_DIR}/esa.jsonc"
+          cp -R build/. "${NEWBE_GH_PAGES_PAYLOAD_DIR}/dist/"
+
+      - name: Upload validated gh-pages payload
+        uses: actions/upload-artifact@v4
+        with:
+          name: newbe-gh-pages-payload
+          path: ${{ env.NEWBE_GH_PAGES_PAYLOAD_DIR }}
+          if-no-files-found: error
+
+  deploy:
+    name: Publish validated snapshot to gh-pages
+    runs-on: ubuntu-latest
+    needs: build
+    permissions:
+      contents: write
+    environment:
+      name: newbe-production
+      url: https://newbe.hagicode.com
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Download validated gh-pages payload
+        uses: actions/download-artifact@v4
+        with:
+          name: newbe-gh-pages-payload
+          path: .deploy/gh-pages
+
+      - name: Publish validated gh-pages payload
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: ./.deploy/gh-pages
+          force_orphan: true
+          enable_jekyll: false
+
+      - name: Summarize deployment output
+        run: |
+          echo "Published the validated gh-pages payload with ./esa.jsonc and ./dist/." >> "$GITHUB_STEP_SUMMARY"
+          echo "The Docusaurus build output is normalized into dist/ before publication." >> "$GITHUB_STEP_SUMMARY"
+          echo "GitHub environment: newbe-production" >> "$GITHUB_STEP_SUMMARY"
+          echo "Expected public URL: https://newbe.hagicode.com" >> "$GITHUB_STEP_SUMMARY"
