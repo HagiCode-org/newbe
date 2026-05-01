@@ -14,6 +14,32 @@ const DEFAULT_RELATED_SITE_ORDER = [
 ];
 
 const CURRENT_SITE_ID = 'newbe-blog';
+const DEFAULT_FOOTER_LOCALE = 'zh-CN';
+
+function resolveLocalizedField(field) {
+  if (typeof field === 'string') {
+    return field;
+  }
+
+  if (!field || typeof field !== 'object' || Array.isArray(field)) {
+    return '';
+  }
+
+  for (const candidate of [DEFAULT_FOOTER_LOCALE, 'en-US']) {
+    const value = field[candidate];
+    if (typeof value === 'string' && value.trim().length > 0) {
+      return value;
+    }
+  }
+
+  for (const value of Object.values(field)) {
+    if (typeof value === 'string' && value.trim().length > 0) {
+      return value;
+    }
+  }
+
+  return '';
+}
 
 function resolveNewbeFooterLinks() {
   const snapshotById = new Map(snapshot.entries.map((entry) => [entry.id, entry]));
@@ -25,8 +51,8 @@ function resolveNewbeFooterLinks() {
     }
 
     return [{
-      title: entry.title,
-      description: entry.description,
+      title: resolveLocalizedField(entry.title),
+      description: resolveLocalizedField(entry.description),
       href: entry.url,
     }];
   });
