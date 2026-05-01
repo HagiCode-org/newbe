@@ -2770,6 +2770,7 @@ Electron. 国内直接从官网 https://electronjs.org/ 下载比较困难，需
 - [42.0.0-beta.4](https://mirrors.huaweicloud.com/electron/42.0.0-beta.4/)
 - [42.0.0-beta.5](https://mirrors.huaweicloud.com/electron/42.0.0-beta.5/)
 - [42.0.0-beta.6](https://mirrors.huaweicloud.com/electron/42.0.0-beta.6/)
+- [42.0.0-beta.7](https://mirrors.huaweicloud.com/electron/42.0.0-beta.7/)
 
 
 
