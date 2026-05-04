@@ -39,6 +39,10 @@ function writeDismissedSignature(signature: string): void {
   }
 }
 
+function closeText(locale: string) {
+  return locale.toLowerCase().startsWith('zh') ? '关闭' : 'Close';
+}
+
 export default function PromoteCard({ fetchImpl, footerSelector = DEFAULT_FOOTER_SELECTOR }: PromoteCardProps) {
   const { i18n } = useDocusaurusContext();
   const locale = i18n.currentLocale ?? 'en';
@@ -88,10 +92,16 @@ export default function PromoteCard({ fetchImpl, footerSelector = DEFAULT_FOOTER
   };
 
   return (
-    <section className={styles.promoteCard} data-promote-card aria-label={locale.toLowerCase().startsWith('zh') ? '推广信息' : 'Promotion'}>
-      <div className={styles.inner}>
+    <section
+      className={styles.promoteCard}
+      data-promote-card
+      data-promote-card-layout="compact"
+      aria-label={locale.toLowerCase().startsWith('zh') ? '推广信息' : 'Promotion'}
+    >
+      <div className={styles.inner} data-promote-card-shell="compact">
         <button type="button" className={styles.close} onClick={dismissPromotion} aria-label={closeLabel(locale)}>
-          <span aria-hidden="true">×</span>
+          <span className={styles.closeIcon} aria-hidden="true">×</span>
+          <span className={styles.closeLabel}>{closeText(locale)}</span>
         </button>
         <button
           type="button"
