@@ -18,6 +18,95 @@ Dapr是一个可移植的、无服务器的、事件驱动的运行时，它使�
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v1.18.0-rc.2
+
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/daprd_darwin_amd64.tar.gz" text="daprd_darwin_amd64.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/daprd_darwin_amd64.tar.gz.sha256" text="daprd_darwin_amd64.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/daprd_darwin_arm64.tar.gz" text="daprd_darwin_arm64.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/daprd_darwin_arm64.tar.gz.sha256" text="daprd_darwin_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/daprd_linux_amd64-stablecomponents.tar.gz" text="daprd_linux_amd64-stablecomponents.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/daprd_linux_amd64-stablecomponents.tar.gz.sha256" text="daprd_linux_amd64-stablecomponents.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/daprd_linux_amd64.tar.gz" text="daprd_linux_amd64.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/daprd_linux_amd64.tar.gz.sha256" text="daprd_linux_amd64.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/daprd_linux_arm-stablecomponents.tar.gz" text="daprd_linux_arm-stablecomponents.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/daprd_linux_arm-stablecomponents.tar.gz.sha256" text="daprd_linux_arm-stablecomponents.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/daprd_linux_arm.tar.gz" text="daprd_linux_arm.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/daprd_linux_arm.tar.gz.sha256" text="daprd_linux_arm.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/daprd_linux_arm64-stablecomponents.tar.gz" text="daprd_linux_arm64-stablecomponents.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/daprd_linux_arm64-stablecomponents.tar.gz.sha256" text="daprd_linux_arm64-stablecomponents.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/daprd_linux_arm64.tar.gz" text="daprd_linux_arm64.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/daprd_linux_arm64.tar.gz.sha256" text="daprd_linux_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/daprd_windows_amd64.zip" text="daprd_windows_amd64.zip" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/daprd_windows_amd64.zip.sha256" text="daprd_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/grafana-actor-dashboard.json" text="grafana-actor-dashboard.json" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/grafana-actor-dashboard.json.sha256" text="grafana-actor-dashboard.json.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/grafana-sidecar-dashboard.json" text="grafana-sidecar-dashboard.json" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/grafana-sidecar-dashboard.json.sha256" text="grafana-sidecar-dashboard.json.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/grafana-system-services-dashboard.json" text="grafana-system-services-dashboard.json" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/grafana-system-services-dashboard.json.sha256" text="grafana-system-services-dashboard.json.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/injector_darwin_amd64.tar.gz" text="injector_darwin_amd64.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/injector_darwin_amd64.tar.gz.sha256" text="injector_darwin_amd64.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/injector_darwin_arm64.tar.gz" text="injector_darwin_arm64.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/injector_darwin_arm64.tar.gz.sha256" text="injector_darwin_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/injector_linux_amd64.tar.gz" text="injector_linux_amd64.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/injector_linux_amd64.tar.gz.sha256" text="injector_linux_amd64.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/injector_linux_arm.tar.gz" text="injector_linux_arm.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/injector_linux_arm.tar.gz.sha256" text="injector_linux_arm.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/injector_linux_arm64.tar.gz" text="injector_linux_arm64.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/injector_linux_arm64.tar.gz.sha256" text="injector_linux_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/injector_windows_amd64.zip" text="injector_windows_amd64.zip" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/injector_windows_amd64.zip.sha256" text="injector_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/operator_darwin_amd64.tar.gz" text="operator_darwin_amd64.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/operator_darwin_amd64.tar.gz.sha256" text="operator_darwin_amd64.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/operator_darwin_arm64.tar.gz" text="operator_darwin_arm64.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/operator_darwin_arm64.tar.gz.sha256" text="operator_darwin_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/operator_linux_amd64.tar.gz" text="operator_linux_amd64.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/operator_linux_amd64.tar.gz.sha256" text="operator_linux_amd64.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/operator_linux_arm.tar.gz" text="operator_linux_arm.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/operator_linux_arm.tar.gz.sha256" text="operator_linux_arm.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/operator_linux_arm64.tar.gz" text="operator_linux_arm64.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/operator_linux_arm64.tar.gz.sha256" text="operator_linux_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/operator_windows_amd64.zip" text="operator_windows_amd64.zip" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/operator_windows_amd64.zip.sha256" text="operator_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/placement_darwin_amd64.tar.gz" text="placement_darwin_amd64.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/placement_darwin_amd64.tar.gz.sha256" text="placement_darwin_amd64.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/placement_darwin_arm64.tar.gz" text="placement_darwin_arm64.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/placement_darwin_arm64.tar.gz.sha256" text="placement_darwin_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/placement_linux_amd64.tar.gz" text="placement_linux_amd64.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/placement_linux_amd64.tar.gz.sha256" text="placement_linux_amd64.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/placement_linux_arm.tar.gz" text="placement_linux_arm.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/placement_linux_arm.tar.gz.sha256" text="placement_linux_arm.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/placement_linux_arm64.tar.gz" text="placement_linux_arm64.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/placement_linux_arm64.tar.gz.sha256" text="placement_linux_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/placement_windows_amd64.zip" text="placement_windows_amd64.zip" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/placement_windows_amd64.zip.sha256" text="placement_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/scheduler_darwin_amd64.tar.gz" text="scheduler_darwin_amd64.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/scheduler_darwin_amd64.tar.gz.sha256" text="scheduler_darwin_amd64.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/scheduler_darwin_arm64.tar.gz" text="scheduler_darwin_arm64.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/scheduler_darwin_arm64.tar.gz.sha256" text="scheduler_darwin_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/scheduler_linux_amd64.tar.gz" text="scheduler_linux_amd64.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/scheduler_linux_amd64.tar.gz.sha256" text="scheduler_linux_amd64.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/scheduler_linux_arm.tar.gz" text="scheduler_linux_arm.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/scheduler_linux_arm.tar.gz.sha256" text="scheduler_linux_arm.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/scheduler_linux_arm64.tar.gz" text="scheduler_linux_arm64.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/scheduler_linux_arm64.tar.gz.sha256" text="scheduler_linux_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/scheduler_windows_amd64.zip" text="scheduler_windows_amd64.zip" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/scheduler_windows_amd64.zip.sha256" text="scheduler_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/sentry_darwin_amd64.tar.gz" text="sentry_darwin_amd64.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/sentry_darwin_amd64.tar.gz.sha256" text="sentry_darwin_amd64.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/sentry_darwin_arm64.tar.gz" text="sentry_darwin_arm64.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/sentry_darwin_arm64.tar.gz.sha256" text="sentry_darwin_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/sentry_linux_amd64.tar.gz" text="sentry_linux_amd64.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/sentry_linux_amd64.tar.gz.sha256" text="sentry_linux_amd64.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/sentry_linux_arm.tar.gz" text="sentry_linux_arm.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/sentry_linux_arm.tar.gz.sha256" text="sentry_linux_arm.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/sentry_linux_arm64.tar.gz" text="sentry_linux_arm64.tar.gz" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/sentry_linux_arm64.tar.gz.sha256" text="sentry_linux_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.2/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
+
+
+
 ## v1.18.0-rc.1
 
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.18.0-rc.1/daprd_darwin_amd64.tar.gz" text="daprd_darwin_amd64.tar.gz" repositoryKey="dapr/dapr" />
@@ -1709,6 +1798,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v1.16.11-rc.2
 
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.11-rc.2/daprd_darwin_amd64.tar.gz" text="daprd_darwin_amd64.tar.gz" repositoryKey="dapr/dapr" />
@@ -1795,8 +1886,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.11-rc.2/sentry_linux_arm64.tar.gz.sha256" text="sentry_linux_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.11-rc.2/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.16.11-rc.2/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
-
-
 
 
 
@@ -2598,95 +2687,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0/sentry_linux_arm64.tar.gz.sha256" text="sentry_linux_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
-
-
-
-## v1.17.0-rc.11
-
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/daprd_darwin_amd64.tar.gz" text="daprd_darwin_amd64.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/daprd_darwin_amd64.tar.gz.sha256" text="daprd_darwin_amd64.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/daprd_darwin_arm64.tar.gz" text="daprd_darwin_arm64.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/daprd_darwin_arm64.tar.gz.sha256" text="daprd_darwin_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/daprd_linux_amd64-stablecomponents.tar.gz" text="daprd_linux_amd64-stablecomponents.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/daprd_linux_amd64-stablecomponents.tar.gz.sha256" text="daprd_linux_amd64-stablecomponents.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/daprd_linux_amd64.tar.gz" text="daprd_linux_amd64.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/daprd_linux_amd64.tar.gz.sha256" text="daprd_linux_amd64.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/daprd_linux_arm-stablecomponents.tar.gz" text="daprd_linux_arm-stablecomponents.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/daprd_linux_arm-stablecomponents.tar.gz.sha256" text="daprd_linux_arm-stablecomponents.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/daprd_linux_arm.tar.gz" text="daprd_linux_arm.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/daprd_linux_arm.tar.gz.sha256" text="daprd_linux_arm.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/daprd_linux_arm64-stablecomponents.tar.gz" text="daprd_linux_arm64-stablecomponents.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/daprd_linux_arm64-stablecomponents.tar.gz.sha256" text="daprd_linux_arm64-stablecomponents.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/daprd_linux_arm64.tar.gz" text="daprd_linux_arm64.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/daprd_linux_arm64.tar.gz.sha256" text="daprd_linux_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/daprd_windows_amd64.zip" text="daprd_windows_amd64.zip" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/daprd_windows_amd64.zip.sha256" text="daprd_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/grafana-actor-dashboard.json" text="grafana-actor-dashboard.json" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/grafana-actor-dashboard.json.sha256" text="grafana-actor-dashboard.json.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/grafana-sidecar-dashboard.json" text="grafana-sidecar-dashboard.json" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/grafana-sidecar-dashboard.json.sha256" text="grafana-sidecar-dashboard.json.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/grafana-system-services-dashboard.json" text="grafana-system-services-dashboard.json" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/grafana-system-services-dashboard.json.sha256" text="grafana-system-services-dashboard.json.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/injector_darwin_amd64.tar.gz" text="injector_darwin_amd64.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/injector_darwin_amd64.tar.gz.sha256" text="injector_darwin_amd64.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/injector_darwin_arm64.tar.gz" text="injector_darwin_arm64.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/injector_darwin_arm64.tar.gz.sha256" text="injector_darwin_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/injector_linux_amd64.tar.gz" text="injector_linux_amd64.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/injector_linux_amd64.tar.gz.sha256" text="injector_linux_amd64.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/injector_linux_arm.tar.gz" text="injector_linux_arm.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/injector_linux_arm.tar.gz.sha256" text="injector_linux_arm.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/injector_linux_arm64.tar.gz" text="injector_linux_arm64.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/injector_linux_arm64.tar.gz.sha256" text="injector_linux_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/injector_windows_amd64.zip" text="injector_windows_amd64.zip" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/injector_windows_amd64.zip.sha256" text="injector_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/operator_darwin_amd64.tar.gz" text="operator_darwin_amd64.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/operator_darwin_amd64.tar.gz.sha256" text="operator_darwin_amd64.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/operator_darwin_arm64.tar.gz" text="operator_darwin_arm64.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/operator_darwin_arm64.tar.gz.sha256" text="operator_darwin_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/operator_linux_amd64.tar.gz" text="operator_linux_amd64.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/operator_linux_amd64.tar.gz.sha256" text="operator_linux_amd64.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/operator_linux_arm.tar.gz" text="operator_linux_arm.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/operator_linux_arm.tar.gz.sha256" text="operator_linux_arm.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/operator_linux_arm64.tar.gz" text="operator_linux_arm64.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/operator_linux_arm64.tar.gz.sha256" text="operator_linux_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/operator_windows_amd64.zip" text="operator_windows_amd64.zip" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/operator_windows_amd64.zip.sha256" text="operator_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/placement_darwin_amd64.tar.gz" text="placement_darwin_amd64.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/placement_darwin_amd64.tar.gz.sha256" text="placement_darwin_amd64.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/placement_darwin_arm64.tar.gz" text="placement_darwin_arm64.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/placement_darwin_arm64.tar.gz.sha256" text="placement_darwin_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/placement_linux_amd64.tar.gz" text="placement_linux_amd64.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/placement_linux_amd64.tar.gz.sha256" text="placement_linux_amd64.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/placement_linux_arm.tar.gz" text="placement_linux_arm.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/placement_linux_arm.tar.gz.sha256" text="placement_linux_arm.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/placement_linux_arm64.tar.gz" text="placement_linux_arm64.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/placement_linux_arm64.tar.gz.sha256" text="placement_linux_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/placement_windows_amd64.zip" text="placement_windows_amd64.zip" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/placement_windows_amd64.zip.sha256" text="placement_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/scheduler_darwin_amd64.tar.gz" text="scheduler_darwin_amd64.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/scheduler_darwin_amd64.tar.gz.sha256" text="scheduler_darwin_amd64.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/scheduler_darwin_arm64.tar.gz" text="scheduler_darwin_arm64.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/scheduler_darwin_arm64.tar.gz.sha256" text="scheduler_darwin_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/scheduler_linux_amd64.tar.gz" text="scheduler_linux_amd64.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/scheduler_linux_amd64.tar.gz.sha256" text="scheduler_linux_amd64.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/scheduler_linux_arm.tar.gz" text="scheduler_linux_arm.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/scheduler_linux_arm.tar.gz.sha256" text="scheduler_linux_arm.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/scheduler_linux_arm64.tar.gz" text="scheduler_linux_arm64.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/scheduler_linux_arm64.tar.gz.sha256" text="scheduler_linux_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/scheduler_windows_amd64.zip" text="scheduler_windows_amd64.zip" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/scheduler_windows_amd64.zip.sha256" text="scheduler_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/sentry_darwin_amd64.tar.gz" text="sentry_darwin_amd64.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/sentry_darwin_amd64.tar.gz.sha256" text="sentry_darwin_amd64.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/sentry_darwin_arm64.tar.gz" text="sentry_darwin_arm64.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/sentry_darwin_arm64.tar.gz.sha256" text="sentry_darwin_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/sentry_linux_amd64.tar.gz" text="sentry_linux_amd64.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/sentry_linux_amd64.tar.gz.sha256" text="sentry_linux_amd64.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/sentry_linux_arm.tar.gz" text="sentry_linux_arm.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/sentry_linux_arm.tar.gz.sha256" text="sentry_linux_arm.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/sentry_linux_arm64.tar.gz" text="sentry_linux_arm64.tar.gz" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/sentry_linux_arm64.tar.gz.sha256" text="sentry_linux_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
-- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.17.0-rc.11/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
 
 
 

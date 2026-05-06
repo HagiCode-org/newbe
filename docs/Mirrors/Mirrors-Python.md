@@ -394,6 +394,7 @@ Python. 国内直接从官网 https://www.python.org 下载比较困难，需要
 - [3.14.2](https://repo.huaweicloud.com/python/3.14.2/)
 - [3.14.3](https://repo.huaweicloud.com/python/3.14.3/)
 - [3.14.4](https://repo.huaweicloud.com/python/3.14.4/)
+- [3.14.5](https://repo.huaweicloud.com/python/3.14.5/)
 
 
 
