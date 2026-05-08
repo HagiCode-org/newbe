@@ -2614,13 +2614,13 @@ Nodejs. 国内直接从官网 https://nodejs.org/en/download/ 下载比较困难
 
 
 
-
-
-
-
 ## 25.1
 
 - [v25.1.0](https://repo.huaweicloud.com/nodejs/v25.1.0/)
+
+
+
+
 
 
 
@@ -2673,6 +2673,12 @@ Nodejs. 国内直接从官网 https://nodejs.org/en/download/ 下载比较困难
 ## 25.9
 
 - [v25.9.0](https://repo.huaweicloud.com/nodejs/v25.9.0/)
+
+
+
+## 26.0
+
+- [v26.0.0](https://repo.huaweicloud.com/nodejs/v26.0.0/)
 
 
 
