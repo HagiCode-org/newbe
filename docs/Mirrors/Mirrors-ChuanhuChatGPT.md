@@ -81,6 +81,101 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+## 20231223
+
+- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20231223/ChuanhuChatGPT-20231223-git.zip" text="ChuanhuChatGPT-20231223-git.zip" repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
+
+
+
+## 20231215
+
+- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20231215/ChuanhuChatGPT-20231215-git.zip" text="ChuanhuChatGPT-20231215-git.zip" repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
+
+
+
+## 20231110
+
+- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20231110/ChuanhuChatGPT-20231110-git.zip" text="ChuanhuChatGPT-20231110-git.zip" repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
+
+
+
+## 20231020
+
+- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20231020/ChuanhuChatGPT-20231020-git.zip" text="ChuanhuChatGPT-20231020-git.zip" repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
+
+
+
+## 20231006
+
+- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20231006/ChuanhuChatGPT-20231006-git.zip" text="ChuanhuChatGPT-20231006-git.zip" repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
+
+
+
+## 20230926
+
+- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20230926/ChuanhuChatGPT-20230926-git.zip" text="ChuanhuChatGPT-20230926-git.zip" repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
+
+
+
+## 20230916
+
+- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20230916/ChuanhuChatGPT-20230916-git.zip" text="ChuanhuChatGPT-20230916-git.zip" repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
+
+
+
+
+
+## 20230911
+
+- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20230911/ChuanhuChatGPT-20230911-beta-git.zip" text="ChuanhuChatGPT-20230911-beta-git.zip" repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
+
+
+
+## 20230830
+
+- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20230830/ChuanhuChatGPT-20230830-git.zip" text="ChuanhuChatGPT-20230830-git.zip" repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
+
+
+
+## 20230820
+
+- <GithubMirrorLink link="https://github.com/GaiZhenbiao/ChuanhuChatGPT/releases/download/20230820/ChuanhuChatGPT-20230820-git.zip" text="ChuanhuChatGPT-20230820-git.zip" repositoryKey="GaiZhenbiao/ChuanhuChatGPT" />
+
+
+
+## 20230809
+
+
+
+
+## 20230728
+
+
+
+
+## 20230719
+
+
+
+
+## 20230709
+
+
+
+
+## 20230628
+
+
+
+
+## 20230619
+
+
+
+
+## 20230614
+
+
 
 
 

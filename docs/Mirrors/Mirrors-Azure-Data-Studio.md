@@ -123,6 +123,118 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+## 1.41.3
+
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-linux-1.41.3.deb" text="azuredatastudio-linux-1.41.3.deb" repositoryKey="microsoft/azuredatastudio" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-linux-1.41.3.rpm" text="azuredatastudio-linux-1.41.3.rpm" repositoryKey="microsoft/azuredatastudio" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-linux-1.41.3.tar.gz" text="azuredatastudio-linux-1.41.3.tar.gz" repositoryKey="microsoft/azuredatastudio" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-macos-1.41.3.zip" text="azuredatastudio-macos-1.41.3.zip" repositoryKey="microsoft/azuredatastudio" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-macos-arm64-1.41.3.zip" text="azuredatastudio-macos-arm64-1.41.3.zip" repositoryKey="microsoft/azuredatastudio" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-macos-universal-1.41.3.zip" text="azuredatastudio-macos-universal-1.41.3.zip" repositoryKey="microsoft/azuredatastudio" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-windows-1.41.3.zip" text="azuredatastudio-windows-1.41.3.zip" repositoryKey="microsoft/azuredatastudio" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-windows-arm64-1.41.3.zip" text="azuredatastudio-windows-arm64-1.41.3.zip" repositoryKey="microsoft/azuredatastudio" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-windows-arm64-setup-1.41.3.exe" text="azuredatastudio-windows-arm64-setup-1.41.3.exe" repositoryKey="microsoft/azuredatastudio" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-windows-arm64-user-setup-1.41.3.exe" text="azuredatastudio-windows-arm64-user-setup-1.41.3.exe" repositoryKey="microsoft/azuredatastudio" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-windows-setup-1.41.3.exe" text="azuredatastudio-windows-setup-1.41.3.exe" repositoryKey="microsoft/azuredatastudio" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/microsoft/azuredatastudio/releases/download/1.41.3/azuredatastudio-windows-user-setup-1.41.3.exe" text="azuredatastudio-windows-user-setup-1.41.3.exe" repositoryKey="microsoft/azuredatastudio" preferredProviders={["123pan"]} />
+
+
+
+## 1.47.0
+
+
+
+
+## 1.46.1
+
+
+
+
+## 1.46.0
+
+
+
+
+## 1.45.1
+
+
+
+
+## 1.45.0
+
+
+
+
+## 1.44.1
+
+
+
+
+## 1.44.0
+
+
+
+
+## 1.43.0
+
+
+
+
+## 1.42.0
+
+
+
+
+
+
+## 1.41.2
+
+
+
+
+## 1.41.1
+
+
+
+
+## 1.41.0
+
+
+
+
+## 1.40.2
+
+
+
+
+## 1.40.1
+
+
+
+
+## 1.40.0
+
+
+
+
+## 1.39.1
+
+
+
+
+## 1.39.0
+
+
+
+
+## 1.38.0
+
+
+
+
+## 1.37.0
+
+
 
 
 
