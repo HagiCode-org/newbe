@@ -645,6 +645,22 @@
       "createDate": "2026-04-10"
     },
     {
+      "type": "github",
+      "softwareName": "DeepSeek-TUI",
+      "officialSite": "https://github.com/Hmbown/DeepSeek-TUI/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-DeepSeek-TUI.md",
+      "createDate": "2026-05-14"
+    },
+    {
+      "type": "github",
+      "softwareName": "Hermes Desktop",
+      "officialSite": "https://github.com/fathah/hermes-desktop/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-Hermes-Desktop.md",
+      "createDate": "2026-05-14"
+    },
+    {
       "type": "huawei",
       "softwareName": "Zabbix",
       "officialSite": "https://www.zabbix.com",
