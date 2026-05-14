@@ -17,6 +17,22 @@ Argo CD 是面向 Kubernetes 的声明式 GitOps 持续交付工具。
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v3.2.12
+
+- <GithubMirrorLink link="https://github.com/argoproj/argo-cd/releases/download/v3.2.12/argocd-cli.intoto.jsonl" text="argocd-cli.intoto.jsonl" repositoryKey="argoproj/argo-cd" />
+- <GithubMirrorLink link="https://github.com/argoproj/argo-cd/releases/download/v3.2.12/argocd-darwin-amd64" text="argocd-darwin-amd64" repositoryKey="argoproj/argo-cd" />
+- <GithubMirrorLink link="https://github.com/argoproj/argo-cd/releases/download/v3.2.12/argocd-darwin-arm64" text="argocd-darwin-arm64" repositoryKey="argoproj/argo-cd" />
+- <GithubMirrorLink link="https://github.com/argoproj/argo-cd/releases/download/v3.2.12/argocd-linux-amd64" text="argocd-linux-amd64" repositoryKey="argoproj/argo-cd" />
+- <GithubMirrorLink link="https://github.com/argoproj/argo-cd/releases/download/v3.2.12/argocd-linux-arm64" text="argocd-linux-arm64" repositoryKey="argoproj/argo-cd" />
+- <GithubMirrorLink link="https://github.com/argoproj/argo-cd/releases/download/v3.2.12/argocd-linux-ppc64le" text="argocd-linux-ppc64le" repositoryKey="argoproj/argo-cd" />
+- <GithubMirrorLink link="https://github.com/argoproj/argo-cd/releases/download/v3.2.12/argocd-linux-s390x" text="argocd-linux-s390x" repositoryKey="argoproj/argo-cd" />
+- <GithubMirrorLink link="https://github.com/argoproj/argo-cd/releases/download/v3.2.12/argocd-sbom.intoto.jsonl" text="argocd-sbom.intoto.jsonl" repositoryKey="argoproj/argo-cd" />
+- <GithubMirrorLink link="https://github.com/argoproj/argo-cd/releases/download/v3.2.12/argocd-windows-amd64.exe" text="argocd-windows-amd64.exe" repositoryKey="argoproj/argo-cd" />
+- <GithubMirrorLink link="https://github.com/argoproj/argo-cd/releases/download/v3.2.12/cli_checksums.txt" text="cli_checksums.txt" repositoryKey="argoproj/argo-cd" />
+- <GithubMirrorLink link="https://github.com/argoproj/argo-cd/releases/download/v3.2.12/sbom.tar.gz" text="sbom.tar.gz" repositoryKey="argoproj/argo-cd" />
+
+
+
 ## v3.3.10
 
 - <GithubMirrorLink link="https://github.com/argoproj/argo-cd/releases/download/v3.3.10/argocd-cli.intoto.jsonl" text="argocd-cli.intoto.jsonl" repositoryKey="argoproj/argo-cd" />
@@ -321,6 +337,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v3.3.5
 
 - <GithubMirrorLink link="https://github.com/argoproj/argo-cd/releases/download/v3.3.5/argocd-cli.intoto.jsonl" text="argocd-cli.intoto.jsonl" repositoryKey="argoproj/argo-cd" />
@@ -334,8 +352,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/argoproj/argo-cd/releases/download/v3.3.5/argocd-windows-amd64.exe" text="argocd-windows-amd64.exe" repositoryKey="argoproj/argo-cd" />
 - <GithubMirrorLink link="https://github.com/argoproj/argo-cd/releases/download/v3.3.5/cli_checksums.txt" text="cli_checksums.txt" repositoryKey="argoproj/argo-cd" />
 - <GithubMirrorLink link="https://github.com/argoproj/argo-cd/releases/download/v3.3.5/sbom.tar.gz" text="sbom.tar.gz" repositoryKey="argoproj/argo-cd" />
-
-
 
 
 
@@ -480,22 +496,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/argoproj/argo-cd/releases/download/v3.3.0/argocd-windows-amd64.exe" text="argocd-windows-amd64.exe" repositoryKey="argoproj/argo-cd" />
 - <GithubMirrorLink link="https://github.com/argoproj/argo-cd/releases/download/v3.3.0/cli_checksums.txt" text="cli_checksums.txt" repositoryKey="argoproj/argo-cd" />
 - <GithubMirrorLink link="https://github.com/argoproj/argo-cd/releases/download/v3.3.0/sbom.tar.gz" text="sbom.tar.gz" repositoryKey="argoproj/argo-cd" />
-
-
-
-## v3.3.0-rc4
-
-- <GithubMirrorLink link="https://github.com/argoproj/argo-cd/releases/download/v3.3.0-rc4/argocd-cli.intoto.jsonl" text="argocd-cli.intoto.jsonl" repositoryKey="argoproj/argo-cd" />
-- <GithubMirrorLink link="https://github.com/argoproj/argo-cd/releases/download/v3.3.0-rc4/argocd-darwin-amd64" text="argocd-darwin-amd64" repositoryKey="argoproj/argo-cd" />
-- <GithubMirrorLink link="https://github.com/argoproj/argo-cd/releases/download/v3.3.0-rc4/argocd-darwin-arm64" text="argocd-darwin-arm64" repositoryKey="argoproj/argo-cd" />
-- <GithubMirrorLink link="https://github.com/argoproj/argo-cd/releases/download/v3.3.0-rc4/argocd-linux-amd64" text="argocd-linux-amd64" repositoryKey="argoproj/argo-cd" />
-- <GithubMirrorLink link="https://github.com/argoproj/argo-cd/releases/download/v3.3.0-rc4/argocd-linux-arm64" text="argocd-linux-arm64" repositoryKey="argoproj/argo-cd" />
-- <GithubMirrorLink link="https://github.com/argoproj/argo-cd/releases/download/v3.3.0-rc4/argocd-linux-ppc64le" text="argocd-linux-ppc64le" repositoryKey="argoproj/argo-cd" />
-- <GithubMirrorLink link="https://github.com/argoproj/argo-cd/releases/download/v3.3.0-rc4/argocd-linux-s390x" text="argocd-linux-s390x" repositoryKey="argoproj/argo-cd" />
-- <GithubMirrorLink link="https://github.com/argoproj/argo-cd/releases/download/v3.3.0-rc4/argocd-sbom.intoto.jsonl" text="argocd-sbom.intoto.jsonl" repositoryKey="argoproj/argo-cd" />
-- <GithubMirrorLink link="https://github.com/argoproj/argo-cd/releases/download/v3.3.0-rc4/argocd-windows-amd64.exe" text="argocd-windows-amd64.exe" repositoryKey="argoproj/argo-cd" />
-- <GithubMirrorLink link="https://github.com/argoproj/argo-cd/releases/download/v3.3.0-rc4/cli_checksums.txt" text="cli_checksums.txt" repositoryKey="argoproj/argo-cd" />
-- <GithubMirrorLink link="https://github.com/argoproj/argo-cd/releases/download/v3.3.0-rc4/sbom.tar.gz" text="sbom.tar.gz" repositoryKey="argoproj/argo-cd" />
 
 
 

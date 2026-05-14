@@ -2775,6 +2775,7 @@ Electron. 国内直接从官网 https://electronjs.org/ 下载比较困难，需
 
 - [41.5.0](https://mirrors.huaweicloud.com/electron/41.5.0/)
 - [41.5.1](https://mirrors.huaweicloud.com/electron/41.5.1/)
+- [41.5.2](https://mirrors.huaweicloud.com/electron/41.5.2/)
 
 
 
