@@ -20,6 +20,22 @@ DeepSeek-TUI 是一个运行在终端里的 DeepSeek Coding Agent，适合偏好
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v0.8.38
+
+- <GithubMirrorLink link="https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.38/deepseek-artifacts-sha256.txt" text="deepseek-artifacts-sha256.txt" repositoryKey="Hmbown/DeepSeek-TUI" />
+- <GithubMirrorLink link="https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.38/deepseek-linux-arm64" text="deepseek-linux-arm64" repositoryKey="Hmbown/DeepSeek-TUI" />
+- <GithubMirrorLink link="https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.38/deepseek-linux-x64" text="deepseek-linux-x64" repositoryKey="Hmbown/DeepSeek-TUI" />
+- <GithubMirrorLink link="https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.38/deepseek-macos-arm64" text="deepseek-macos-arm64" repositoryKey="Hmbown/DeepSeek-TUI" />
+- <GithubMirrorLink link="https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.38/deepseek-macos-x64" text="deepseek-macos-x64" repositoryKey="Hmbown/DeepSeek-TUI" />
+- <GithubMirrorLink link="https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.38/deepseek-tui-linux-arm64" text="deepseek-tui-linux-arm64" repositoryKey="Hmbown/DeepSeek-TUI" />
+- <GithubMirrorLink link="https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.38/deepseek-tui-linux-x64" text="deepseek-tui-linux-x64" repositoryKey="Hmbown/DeepSeek-TUI" />
+- <GithubMirrorLink link="https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.38/deepseek-tui-macos-arm64" text="deepseek-tui-macos-arm64" repositoryKey="Hmbown/DeepSeek-TUI" />
+- <GithubMirrorLink link="https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.38/deepseek-tui-macos-x64" text="deepseek-tui-macos-x64" repositoryKey="Hmbown/DeepSeek-TUI" />
+- <GithubMirrorLink link="https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.38/deepseek-tui-windows-x64.exe" text="deepseek-tui-windows-x64.exe" repositoryKey="Hmbown/DeepSeek-TUI" />
+- <GithubMirrorLink link="https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.38/deepseek-windows-x64.exe" text="deepseek-windows-x64.exe" repositoryKey="Hmbown/DeepSeek-TUI" />
+
+
+
 ## v0.8.37
 
 - <GithubMirrorLink link="https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.37/deepseek-artifacts-sha256.txt" text="deepseek-artifacts-sha256.txt" repositoryKey="Hmbown/DeepSeek-TUI" />
@@ -324,6 +340,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v0.8.18
 
 - <GithubMirrorLink link="https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.18/deepseek-artifacts-sha256.txt" text="deepseek-artifacts-sha256.txt" repositoryKey="Hmbown/DeepSeek-TUI" />
@@ -337,8 +355,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.18/deepseek-tui-macos-x64" text="deepseek-tui-macos-x64" repositoryKey="Hmbown/DeepSeek-TUI" />
 - <GithubMirrorLink link="https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.18/deepseek-tui-windows-x64.exe" text="deepseek-tui-windows-x64.exe" repositoryKey="Hmbown/DeepSeek-TUI" />
 - <GithubMirrorLink link="https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.18/deepseek-windows-x64.exe" text="deepseek-windows-x64.exe" repositoryKey="Hmbown/DeepSeek-TUI" />
-
-
 
 
 
@@ -483,22 +499,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.9/deepseek-tui-macos-x64" text="deepseek-tui-macos-x64" repositoryKey="Hmbown/DeepSeek-TUI" />
 - <GithubMirrorLink link="https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.9/deepseek-tui-windows-x64.exe" text="deepseek-tui-windows-x64.exe" repositoryKey="Hmbown/DeepSeek-TUI" />
 - <GithubMirrorLink link="https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.9/deepseek-windows-x64.exe" text="deepseek-windows-x64.exe" repositoryKey="Hmbown/DeepSeek-TUI" />
-
-
-
-## v0.8.8
-
-- <GithubMirrorLink link="https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.8/deepseek-artifacts-sha256.txt" text="deepseek-artifacts-sha256.txt" repositoryKey="Hmbown/DeepSeek-TUI" />
-- <GithubMirrorLink link="https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.8/deepseek-linux-arm64" text="deepseek-linux-arm64" repositoryKey="Hmbown/DeepSeek-TUI" />
-- <GithubMirrorLink link="https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.8/deepseek-linux-x64" text="deepseek-linux-x64" repositoryKey="Hmbown/DeepSeek-TUI" />
-- <GithubMirrorLink link="https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.8/deepseek-macos-arm64" text="deepseek-macos-arm64" repositoryKey="Hmbown/DeepSeek-TUI" />
-- <GithubMirrorLink link="https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.8/deepseek-macos-x64" text="deepseek-macos-x64" repositoryKey="Hmbown/DeepSeek-TUI" />
-- <GithubMirrorLink link="https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.8/deepseek-tui-linux-arm64" text="deepseek-tui-linux-arm64" repositoryKey="Hmbown/DeepSeek-TUI" />
-- <GithubMirrorLink link="https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.8/deepseek-tui-linux-x64" text="deepseek-tui-linux-x64" repositoryKey="Hmbown/DeepSeek-TUI" />
-- <GithubMirrorLink link="https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.8/deepseek-tui-macos-arm64" text="deepseek-tui-macos-arm64" repositoryKey="Hmbown/DeepSeek-TUI" />
-- <GithubMirrorLink link="https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.8/deepseek-tui-macos-x64" text="deepseek-tui-macos-x64" repositoryKey="Hmbown/DeepSeek-TUI" />
-- <GithubMirrorLink link="https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.8/deepseek-tui-windows-x64.exe" text="deepseek-tui-windows-x64.exe" repositoryKey="Hmbown/DeepSeek-TUI" />
-- <GithubMirrorLink link="https://github.com/Hmbown/DeepSeek-TUI/releases/download/v0.8.8/deepseek-windows-x64.exe" text="deepseek-windows-x64.exe" repositoryKey="Hmbown/DeepSeek-TUI" />
 
 
 

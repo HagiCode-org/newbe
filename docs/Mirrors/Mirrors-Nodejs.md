@@ -2429,6 +2429,7 @@ Nodejs. 国内直接从官网 https://nodejs.org/en/download/ 下载比较困难
 - [v22.22.0](https://repo.huaweicloud.com/nodejs/v22.22.0/)
 - [v22.22.1](https://repo.huaweicloud.com/nodejs/v22.22.1/)
 - [v22.22.2](https://repo.huaweicloud.com/nodejs/v22.22.2/)
+- [v22.22.3](https://repo.huaweicloud.com/nodejs/v22.22.3/)
 
 
 
