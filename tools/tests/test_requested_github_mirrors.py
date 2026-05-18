@@ -21,6 +21,11 @@ REQUESTED_MIRRORS = [
         "officialSite": "https://github.com/fathah/hermes-desktop/",
         "markdownFilename": "Mirrors-Hermes-Desktop.md",
     },
+    {
+        "softwareName": "OpenHuman",
+        "officialSite": "https://github.com/tinyhumansai/openhuman/",
+        "markdownFilename": "Mirrors-OpenHuman.md",
+    },
 ]
 
 

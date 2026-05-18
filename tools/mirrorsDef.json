@@ -661,6 +661,14 @@
       "createDate": "2026-05-14"
     },
     {
+      "type": "github",
+      "softwareName": "OpenHuman",
+      "officialSite": "https://github.com/tinyhumansai/openhuman/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-OpenHuman.md",
+      "createDate": "2026-05-18"
+    },
+    {
       "type": "huawei",
       "softwareName": "Zabbix",
       "officialSite": "https://www.zabbix.com",
