@@ -20,6 +20,12 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 ## v5.0.0-beta28
 
+- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0-beta28/SeConv-Linux-ARM64.tar.gz" text="SeConv-Linux-ARM64.tar.gz" repositoryKey="SubtitleEdit/subtitleedit" />
+- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0-beta28/SeConv-Linux-x64.tar.gz" text="SeConv-Linux-x64.tar.gz" repositoryKey="SubtitleEdit/subtitleedit" />
+- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0-beta28/SeConv-macOS-ARM64.zip" text="SeConv-macOS-ARM64.zip" repositoryKey="SubtitleEdit/subtitleedit" />
+- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0-beta28/SeConv-macOS-x64.zip" text="SeConv-macOS-x64.zip" repositoryKey="SubtitleEdit/subtitleedit" />
+- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0-beta28/SeConv-Windows-ARM64.zip" text="SeConv-Windows-ARM64.zip" repositoryKey="SubtitleEdit/subtitleedit" />
+- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0-beta28/SeConv-Windows-x64.zip" text="SeConv-Windows-x64.zip" repositoryKey="SubtitleEdit/subtitleedit" />
 - <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0-beta28/SubtitleEdit-Linux-ARM64.tar.gz" text="SubtitleEdit-Linux-ARM64.tar.gz" repositoryKey="SubtitleEdit/subtitleedit" />
 - <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0-beta28/SubtitleEdit-linux-x64.flatpak" text="SubtitleEdit-linux-x64.flatpak" repositoryKey="SubtitleEdit/subtitleedit" />
 - <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0-beta28/SubtitleEdit-Linux-x64.tar.gz" text="SubtitleEdit-Linux-x64.tar.gz" repositoryKey="SubtitleEdit/subtitleedit" />

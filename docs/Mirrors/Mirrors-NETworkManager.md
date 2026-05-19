@@ -18,6 +18,15 @@ NETworkManager. 国内直接从官网 https://github.com/BornToBeRoot/NETworkMan
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## 2026.5.18.0
+
+- <GithubMirrorLink link="https://github.com/BornToBeRoot/NETworkManager/releases/download/2026.5.18.0/NETworkManager_2026.5.18.0_Archive.zip" text="NETworkManager_2026.5.18.0_Archive.zip" repositoryKey="BornToBeRoot/NETworkManager" />
+- <GithubMirrorLink link="https://github.com/BornToBeRoot/NETworkManager/releases/download/2026.5.18.0/NETworkManager_2026.5.18.0_Portable.zip" text="NETworkManager_2026.5.18.0_Portable.zip" repositoryKey="BornToBeRoot/NETworkManager" />
+- <GithubMirrorLink link="https://github.com/BornToBeRoot/NETworkManager/releases/download/2026.5.18.0/NETworkManager_2026.5.18.0_Setup.msi" text="NETworkManager_2026.5.18.0_Setup.msi" repositoryKey="BornToBeRoot/NETworkManager" />
+- <GithubMirrorLink link="https://github.com/BornToBeRoot/NETworkManager/releases/download/2026.5.18.0/NETworkManager_2026.5.18.0_SHA256SUMS" text="NETworkManager_2026.5.18.0_SHA256SUMS" repositoryKey="BornToBeRoot/NETworkManager" />
+
+
+
 ## 2026.5.3.0
 
 - <GithubMirrorLink link="https://github.com/BornToBeRoot/NETworkManager/releases/download/2026.5.3.0/NETworkManager_2026.5.3.0_Archive.zip" text="NETworkManager_2026.5.3.0_Archive.zip" repositoryKey="BornToBeRoot/NETworkManager" />
@@ -189,14 +198,14 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## 2024.11.19.0
 
 - <GithubMirrorLink link="https://github.com/BornToBeRoot/NETworkManager/releases/download/2024.11.19.0/NETworkManager_2024.11.19.0_Archive.zip" text="NETworkManager_2024.11.19.0_Archive.zip" repositoryKey="BornToBeRoot/NETworkManager" />
 - <GithubMirrorLink link="https://github.com/BornToBeRoot/NETworkManager/releases/download/2024.11.19.0/NETworkManager_2024.11.19.0_Hash.txt" text="NETworkManager_2024.11.19.0_Hash.txt" repositoryKey="BornToBeRoot/NETworkManager" />
 - <GithubMirrorLink link="https://github.com/BornToBeRoot/NETworkManager/releases/download/2024.11.19.0/NETworkManager_2024.11.19.0_Portable.zip" text="NETworkManager_2024.11.19.0_Portable.zip" repositoryKey="BornToBeRoot/NETworkManager" />
 - <GithubMirrorLink link="https://github.com/BornToBeRoot/NETworkManager/releases/download/2024.11.19.0/NETworkManager_2024.11.19.0_Setup.msi" text="NETworkManager_2024.11.19.0_Setup.msi" repositoryKey="BornToBeRoot/NETworkManager" />
-
-
 
 
 
@@ -278,15 +287,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/BornToBeRoot/NETworkManager/releases/download/2024.1.6.0/NETworkManager_2024.1.6.0_Hash.txt" text="NETworkManager_2024.1.6.0_Hash.txt" repositoryKey="BornToBeRoot/NETworkManager" />
 - <GithubMirrorLink link="https://github.com/BornToBeRoot/NETworkManager/releases/download/2024.1.6.0/NETworkManager_2024.1.6.0_Portable.zip" text="NETworkManager_2024.1.6.0_Portable.zip" repositoryKey="BornToBeRoot/NETworkManager" />
 - <GithubMirrorLink link="https://github.com/BornToBeRoot/NETworkManager/releases/download/2024.1.6.0/NETworkManager_2024.1.6.0_Setup.exe" text="NETworkManager_2024.1.6.0_Setup.exe" repositoryKey="BornToBeRoot/NETworkManager" />
-
-
-
-## 2023.12.28.0
-
-- <GithubMirrorLink link="https://github.com/BornToBeRoot/NETworkManager/releases/download/2023.12.28.0/NETworkManager_2023.12.28.0_Archive.zip" text="NETworkManager_2023.12.28.0_Archive.zip" repositoryKey="BornToBeRoot/NETworkManager" />
-- <GithubMirrorLink link="https://github.com/BornToBeRoot/NETworkManager/releases/download/2023.12.28.0/NETworkManager_2023.12.28.0_Hash.txt" text="NETworkManager_2023.12.28.0_Hash.txt" repositoryKey="BornToBeRoot/NETworkManager" />
-- <GithubMirrorLink link="https://github.com/BornToBeRoot/NETworkManager/releases/download/2023.12.28.0/NETworkManager_2023.12.28.0_Portable.zip" text="NETworkManager_2023.12.28.0_Portable.zip" repositoryKey="BornToBeRoot/NETworkManager" />
-- <GithubMirrorLink link="https://github.com/BornToBeRoot/NETworkManager/releases/download/2023.12.28.0/NETworkManager_2023.12.28.0_Setup.exe" text="NETworkManager_2023.12.28.0_Setup.exe" repositoryKey="BornToBeRoot/NETworkManager" />
 
 
 
