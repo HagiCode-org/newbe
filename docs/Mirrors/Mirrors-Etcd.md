@@ -288,6 +288,12 @@ Etcd. 国内直接从官网 https://etcd.io 下载比较困难，需要一些技
 
 
 
+## 3.7
+
+- [v3.7.0-beta.0](https://mirrors.huaweicloud.com/etcd/v3.7.0-beta.0/)
+
+
+
 
 找不到想要的版本？您可以访问 [索引页](https://mirrors.huaweicloud.com/etcd/) 以下载更多版本。
 
