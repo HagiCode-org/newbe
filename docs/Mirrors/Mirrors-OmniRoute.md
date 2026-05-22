@@ -20,6 +20,22 @@ OmniRoute 是一个聚合多家大模型与 Agent 能力的 AI 网关，同时�
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v3.8.1
+
+- <GithubMirrorLink link="https://github.com/diegosouzapw/OmniRoute/releases/download/v3.8.1/OmniRoute-3.8.1-arm64.AppImage" text="OmniRoute-3.8.1-arm64.AppImage" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/diegosouzapw/OmniRoute/releases/download/v3.8.1/OmniRoute-3.8.1-arm64.dmg" text="OmniRoute-3.8.1-arm64.dmg" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/diegosouzapw/OmniRoute/releases/download/v3.8.1/OmniRoute-3.8.1.AppImage" text="OmniRoute-3.8.1.AppImage" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/diegosouzapw/OmniRoute/releases/download/v3.8.1/OmniRoute-3.8.1.dmg" text="OmniRoute-3.8.1.dmg" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/diegosouzapw/OmniRoute/releases/download/v3.8.1/omniroute-desktop_3.8.1_amd64.deb" text="omniroute-desktop_3.8.1_amd64.deb" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/diegosouzapw/OmniRoute/releases/download/v3.8.1/omniroute-desktop_3.8.1_arm64.deb" text="omniroute-desktop_3.8.1_arm64.deb" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/diegosouzapw/OmniRoute/releases/download/v3.8.1/OmniRoute-v3.8.1.source.tar.gz" text="OmniRoute-v3.8.1.source.tar.gz" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/diegosouzapw/OmniRoute/releases/download/v3.8.1/OmniRoute-v3.8.1.source.zip" text="OmniRoute-v3.8.1.source.zip" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/diegosouzapw/OmniRoute/releases/download/v3.8.1/OmniRoute.3.8.1.exe" text="OmniRoute.3.8.1.exe" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/diegosouzapw/OmniRoute/releases/download/v3.8.1/OmniRoute.exe" text="OmniRoute.exe" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/diegosouzapw/OmniRoute/releases/download/v3.8.1/OmniRoute.Setup.3.8.1.exe" text="OmniRoute.Setup.3.8.1.exe" repositoryKey="diegosouzapw/OmniRoute" />
+
+
+
 ## v3.8.0
 
 - <GithubMirrorLink link="https://github.com/diegosouzapw/OmniRoute/releases/download/v3.8.0/omniroute-3.8.0.tgz" text="omniroute-3.8.0.tgz" repositoryKey="diegosouzapw/OmniRoute" />
@@ -277,6 +293,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v3.6.0
 
 - <GithubMirrorLink link="https://github.com/diegosouzapw/OmniRoute/releases/download/v3.6.0/OmniRoute-3.6.0-arm64.dmg" text="OmniRoute-3.6.0-arm64.dmg" repositoryKey="diegosouzapw/OmniRoute" />
@@ -289,8 +307,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/diegosouzapw/OmniRoute/releases/download/v3.6.0/OmniRoute.3.6.0.exe" text="OmniRoute.3.6.0.exe" repositoryKey="diegosouzapw/OmniRoute" />
 - <GithubMirrorLink link="https://github.com/diegosouzapw/OmniRoute/releases/download/v3.6.0/OmniRoute.exe" text="OmniRoute.exe" repositoryKey="diegosouzapw/OmniRoute" />
 - <GithubMirrorLink link="https://github.com/diegosouzapw/OmniRoute/releases/download/v3.6.0/OmniRoute.Setup.3.6.0.exe" text="OmniRoute.Setup.3.6.0.exe" repositoryKey="diegosouzapw/OmniRoute" />
-
-
 
 
 
@@ -426,21 +442,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/diegosouzapw/OmniRoute/releases/download/v3.5.1/OmniRoute.3.5.1.exe" text="OmniRoute.3.5.1.exe" repositoryKey="diegosouzapw/OmniRoute" />
 - <GithubMirrorLink link="https://github.com/diegosouzapw/OmniRoute/releases/download/v3.5.1/OmniRoute.exe" text="OmniRoute.exe" repositoryKey="diegosouzapw/OmniRoute" />
 - <GithubMirrorLink link="https://github.com/diegosouzapw/OmniRoute/releases/download/v3.5.1/OmniRoute.Setup.3.5.1.exe" text="OmniRoute.Setup.3.5.1.exe" repositoryKey="diegosouzapw/OmniRoute" />
-
-
-
-## v3.5.0
-
-- <GithubMirrorLink link="https://github.com/diegosouzapw/OmniRoute/releases/download/v3.5.0/OmniRoute-3.5.0-arm64.dmg" text="OmniRoute-3.5.0-arm64.dmg" repositoryKey="diegosouzapw/OmniRoute" />
-- <GithubMirrorLink link="https://github.com/diegosouzapw/OmniRoute/releases/download/v3.5.0/OmniRoute-3.5.0.AppImage" text="OmniRoute-3.5.0.AppImage" repositoryKey="diegosouzapw/OmniRoute" />
-- <GithubMirrorLink link="https://github.com/diegosouzapw/OmniRoute/releases/download/v3.5.0/OmniRoute-3.5.0.dmg" text="OmniRoute-3.5.0.dmg" repositoryKey="diegosouzapw/OmniRoute" />
-- <GithubMirrorLink link="https://github.com/diegosouzapw/OmniRoute/releases/download/v3.5.0/omniroute-desktop_3.5.0_amd64.deb" text="omniroute-desktop_3.5.0_amd64.deb" repositoryKey="diegosouzapw/OmniRoute" />
-- <GithubMirrorLink link="https://github.com/diegosouzapw/OmniRoute/releases/download/v3.5.0/omniroute-desktop_3.5.0_arm64.deb" text="omniroute-desktop_3.5.0_arm64.deb" repositoryKey="diegosouzapw/OmniRoute" />
-- <GithubMirrorLink link="https://github.com/diegosouzapw/OmniRoute/releases/download/v3.5.0/OmniRoute-v3.5.0.source.tar.gz" text="OmniRoute-v3.5.0.source.tar.gz" repositoryKey="diegosouzapw/OmniRoute" />
-- <GithubMirrorLink link="https://github.com/diegosouzapw/OmniRoute/releases/download/v3.5.0/OmniRoute-v3.5.0.source.zip" text="OmniRoute-v3.5.0.source.zip" repositoryKey="diegosouzapw/OmniRoute" />
-- <GithubMirrorLink link="https://github.com/diegosouzapw/OmniRoute/releases/download/v3.5.0/OmniRoute.3.5.0.exe" text="OmniRoute.3.5.0.exe" repositoryKey="diegosouzapw/OmniRoute" />
-- <GithubMirrorLink link="https://github.com/diegosouzapw/OmniRoute/releases/download/v3.5.0/OmniRoute.exe" text="OmniRoute.exe" repositoryKey="diegosouzapw/OmniRoute" />
-- <GithubMirrorLink link="https://github.com/diegosouzapw/OmniRoute/releases/download/v3.5.0/OmniRoute.Setup.3.5.0.exe" text="OmniRoute.Setup.3.5.0.exe" repositoryKey="diegosouzapw/OmniRoute" />
 
 
 
