@@ -1707,6 +1707,10 @@ Nginx. 国内直接从官网 http://nginx.org 下载比较困难，需要一些�
 - [nginx-1.30.1.tar.gz.asc](https://mirrors.huaweicloud.com/nginx/nginx-1.30.1.tar.gz.asc)
 - [nginx-1.30.1.zip](https://mirrors.huaweicloud.com/nginx/nginx-1.30.1.zip)
 - [nginx-1.30.1.zip.asc](https://mirrors.huaweicloud.com/nginx/nginx-1.30.1.zip.asc)
+- [nginx-1.30.2.tar.gz](https://mirrors.huaweicloud.com/nginx/nginx-1.30.2.tar.gz)
+- [nginx-1.30.2.tar.gz.asc](https://mirrors.huaweicloud.com/nginx/nginx-1.30.2.tar.gz.asc)
+- [nginx-1.30.2.zip](https://mirrors.huaweicloud.com/nginx/nginx-1.30.2.zip)
+- [nginx-1.30.2.zip.asc](https://mirrors.huaweicloud.com/nginx/nginx-1.30.2.zip.asc)
 
 
 
@@ -1716,6 +1720,10 @@ Nginx. 国内直接从官网 http://nginx.org 下载比较困难，需要一些�
 - [nginx-1.31.0.tar.gz.asc](https://mirrors.huaweicloud.com/nginx/nginx-1.31.0.tar.gz.asc)
 - [nginx-1.31.0.zip](https://mirrors.huaweicloud.com/nginx/nginx-1.31.0.zip)
 - [nginx-1.31.0.zip.asc](https://mirrors.huaweicloud.com/nginx/nginx-1.31.0.zip.asc)
+- [nginx-1.31.1.tar.gz](https://mirrors.huaweicloud.com/nginx/nginx-1.31.1.tar.gz)
+- [nginx-1.31.1.tar.gz.asc](https://mirrors.huaweicloud.com/nginx/nginx-1.31.1.tar.gz.asc)
+- [nginx-1.31.1.zip](https://mirrors.huaweicloud.com/nginx/nginx-1.31.1.zip)
+- [nginx-1.31.1.zip.asc](https://mirrors.huaweicloud.com/nginx/nginx-1.31.1.zip.asc)
 
 
 
