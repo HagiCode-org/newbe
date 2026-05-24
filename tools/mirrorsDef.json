@@ -685,6 +685,14 @@
       "createDate": "2026-05-20"
     },
     {
+      "type": "github",
+      "softwareName": "DeepSeek-Reasonix",
+      "officialSite": "https://github.com/esengine/DeepSeek-Reasonix/",
+      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
+      "markdownFilename": "Mirrors-DeepSeek-Reasonix.md",
+      "createDate": "2026-05-24"
+    },
+    {
       "type": "huawei",
       "softwareName": "Zabbix",
       "officialSite": "https://www.zabbix.com",
