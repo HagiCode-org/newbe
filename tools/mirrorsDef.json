@@ -646,11 +646,11 @@
     },
     {
       "type": "github",
-      "softwareName": "DeepSeek-TUI",
-      "officialSite": "https://github.com/Hmbown/DeepSeek-TUI/",
+      "softwareName": "CodeWhale",
+      "officialSite": "https://github.com/Hmbown/CodeWhale/",
       "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
-      "markdownFilename": "Mirrors-DeepSeek-TUI.md",
-      "createDate": "2026-05-14"
+      "markdownFilename": "Mirrors-CodeWhale.md",
+      "createDate": "2026-05-25"
     },
     {
       "type": "github",
