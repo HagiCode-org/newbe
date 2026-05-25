@@ -1,0 +1,312 @@
+---
+date: 2026-05-24
+title: DeepSeek-Reasonix
+tags:
+  - DeepSeek-Reasonix
+  - Mirrors
+  - 加速下载
+  - 镜像加速
+  - 国内加速
+top: -99
+---
+
+DeepSeek-Reasonix. 国内直接从官网 https://github.com/esengine/DeepSeek-Reasonix/ 下载比较困难，需要一些技术手段。这里提供一个国内的镜像下载地址列表，方便网友下载。
+
+ 
+
+import GithubMirrorLink from '../../src/components/GithubMirrorLink';
+
+
+## desktop-v0.50.0
+
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.50.0/latest.json" text="latest.json" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.50.0/Reasonix-0.50.0-1.x86_64.rpm" text="Reasonix-0.50.0-1.x86_64.rpm" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.50.0/Reasonix-0.50.0-1.x86_64.rpm.sig" text="Reasonix-0.50.0-1.x86_64.rpm.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.50.0/Reasonix_0.50.0_amd64.AppImage" text="Reasonix_0.50.0_amd64.AppImage" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.50.0/Reasonix_0.50.0_amd64.AppImage.sig" text="Reasonix_0.50.0_amd64.AppImage.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.50.0/Reasonix_0.50.0_amd64.deb" text="Reasonix_0.50.0_amd64.deb" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.50.0/Reasonix_0.50.0_amd64.deb.sig" text="Reasonix_0.50.0_amd64.deb.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.50.0/Reasonix_0.50.0_universal.dmg" text="Reasonix_0.50.0_universal.dmg" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.50.0/Reasonix_0.50.0_x64-setup.exe" text="Reasonix_0.50.0_x64-setup.exe" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.50.0/Reasonix_0.50.0_x64-setup.exe.sig" text="Reasonix_0.50.0_x64-setup.exe.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.50.0/Reasonix_0.50.0_x64_en-US.msi" text="Reasonix_0.50.0_x64_en-US.msi" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.50.0/Reasonix_0.50.0_x64_en-US.msi.sig" text="Reasonix_0.50.0_x64_en-US.msi.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.50.0/Reasonix_universal.app.tar.gz" text="Reasonix_universal.app.tar.gz" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.50.0/Reasonix_universal.app.tar.gz.sig" text="Reasonix_universal.app.tar.gz.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+
+
+
+## desktop-v0.49.0
+
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.49.0/latest.json" text="latest.json" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.49.0/Reasonix-0.49.0-1.x86_64.rpm" text="Reasonix-0.49.0-1.x86_64.rpm" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.49.0/Reasonix-0.49.0-1.x86_64.rpm.sig" text="Reasonix-0.49.0-1.x86_64.rpm.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.49.0/Reasonix_0.49.0_amd64.AppImage" text="Reasonix_0.49.0_amd64.AppImage" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.49.0/Reasonix_0.49.0_amd64.AppImage.sig" text="Reasonix_0.49.0_amd64.AppImage.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.49.0/Reasonix_0.49.0_amd64.deb" text="Reasonix_0.49.0_amd64.deb" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.49.0/Reasonix_0.49.0_amd64.deb.sig" text="Reasonix_0.49.0_amd64.deb.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.49.0/Reasonix_0.49.0_universal.dmg" text="Reasonix_0.49.0_universal.dmg" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.49.0/Reasonix_0.49.0_x64-setup.exe" text="Reasonix_0.49.0_x64-setup.exe" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.49.0/Reasonix_0.49.0_x64-setup.exe.sig" text="Reasonix_0.49.0_x64-setup.exe.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.49.0/Reasonix_0.49.0_x64_en-US.msi" text="Reasonix_0.49.0_x64_en-US.msi" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.49.0/Reasonix_0.49.0_x64_en-US.msi.sig" text="Reasonix_0.49.0_x64_en-US.msi.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.49.0/Reasonix_universal.app.tar.gz" text="Reasonix_universal.app.tar.gz" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.49.0/Reasonix_universal.app.tar.gz.sig" text="Reasonix_universal.app.tar.gz.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+
+
+
+## desktop-v0.48.1
+
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.48.1/latest.json" text="latest.json" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.48.1/Reasonix-0.48.1-1.x86_64.rpm" text="Reasonix-0.48.1-1.x86_64.rpm" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.48.1/Reasonix-0.48.1-1.x86_64.rpm.sig" text="Reasonix-0.48.1-1.x86_64.rpm.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.48.1/Reasonix_0.48.1_amd64.AppImage" text="Reasonix_0.48.1_amd64.AppImage" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.48.1/Reasonix_0.48.1_amd64.AppImage.sig" text="Reasonix_0.48.1_amd64.AppImage.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.48.1/Reasonix_0.48.1_amd64.deb" text="Reasonix_0.48.1_amd64.deb" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.48.1/Reasonix_0.48.1_amd64.deb.sig" text="Reasonix_0.48.1_amd64.deb.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.48.1/Reasonix_0.48.1_universal.dmg" text="Reasonix_0.48.1_universal.dmg" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.48.1/Reasonix_0.48.1_x64-setup.exe" text="Reasonix_0.48.1_x64-setup.exe" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.48.1/Reasonix_0.48.1_x64-setup.exe.sig" text="Reasonix_0.48.1_x64-setup.exe.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.48.1/Reasonix_0.48.1_x64_en-US.msi" text="Reasonix_0.48.1_x64_en-US.msi" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.48.1/Reasonix_0.48.1_x64_en-US.msi.sig" text="Reasonix_0.48.1_x64_en-US.msi.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.48.1/Reasonix_universal.app.tar.gz" text="Reasonix_universal.app.tar.gz" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.48.1/Reasonix_universal.app.tar.gz.sig" text="Reasonix_universal.app.tar.gz.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+
+
+
+## desktop-v0.48.0
+
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.48.0/latest.json" text="latest.json" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.48.0/Reasonix-0.48.0-1.x86_64.rpm" text="Reasonix-0.48.0-1.x86_64.rpm" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.48.0/Reasonix-0.48.0-1.x86_64.rpm.sig" text="Reasonix-0.48.0-1.x86_64.rpm.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.48.0/Reasonix_0.48.0_amd64.AppImage" text="Reasonix_0.48.0_amd64.AppImage" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.48.0/Reasonix_0.48.0_amd64.AppImage.sig" text="Reasonix_0.48.0_amd64.AppImage.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.48.0/Reasonix_0.48.0_amd64.deb" text="Reasonix_0.48.0_amd64.deb" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.48.0/Reasonix_0.48.0_amd64.deb.sig" text="Reasonix_0.48.0_amd64.deb.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.48.0/Reasonix_0.48.0_universal.dmg" text="Reasonix_0.48.0_universal.dmg" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.48.0/Reasonix_0.48.0_x64-setup.exe" text="Reasonix_0.48.0_x64-setup.exe" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.48.0/Reasonix_0.48.0_x64-setup.exe.sig" text="Reasonix_0.48.0_x64-setup.exe.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.48.0/Reasonix_0.48.0_x64_en-US.msi" text="Reasonix_0.48.0_x64_en-US.msi" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.48.0/Reasonix_0.48.0_x64_en-US.msi.sig" text="Reasonix_0.48.0_x64_en-US.msi.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.48.0/Reasonix_universal.app.tar.gz" text="Reasonix_universal.app.tar.gz" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.48.0/Reasonix_universal.app.tar.gz.sig" text="Reasonix_universal.app.tar.gz.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+
+
+
+## desktop-v0.47.1
+
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.47.1/latest.json" text="latest.json" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.47.1/Reasonix-0.47.1-1.x86_64.rpm" text="Reasonix-0.47.1-1.x86_64.rpm" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.47.1/Reasonix-0.47.1-1.x86_64.rpm.sig" text="Reasonix-0.47.1-1.x86_64.rpm.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.47.1/Reasonix_0.47.1_amd64.AppImage" text="Reasonix_0.47.1_amd64.AppImage" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.47.1/Reasonix_0.47.1_amd64.AppImage.sig" text="Reasonix_0.47.1_amd64.AppImage.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.47.1/Reasonix_0.47.1_amd64.deb" text="Reasonix_0.47.1_amd64.deb" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.47.1/Reasonix_0.47.1_amd64.deb.sig" text="Reasonix_0.47.1_amd64.deb.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.47.1/Reasonix_0.47.1_universal.dmg" text="Reasonix_0.47.1_universal.dmg" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.47.1/Reasonix_0.47.1_x64-setup.exe" text="Reasonix_0.47.1_x64-setup.exe" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.47.1/Reasonix_0.47.1_x64-setup.exe.sig" text="Reasonix_0.47.1_x64-setup.exe.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.47.1/Reasonix_0.47.1_x64_en-US.msi" text="Reasonix_0.47.1_x64_en-US.msi" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.47.1/Reasonix_0.47.1_x64_en-US.msi.sig" text="Reasonix_0.47.1_x64_en-US.msi.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.47.1/Reasonix_universal.app.tar.gz" text="Reasonix_universal.app.tar.gz" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.47.1/Reasonix_universal.app.tar.gz.sig" text="Reasonix_universal.app.tar.gz.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+
+
+
+## desktop-v0.47.0
+
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.47.0/latest.json" text="latest.json" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.47.0/Reasonix-0.47.0-1.x86_64.rpm" text="Reasonix-0.47.0-1.x86_64.rpm" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.47.0/Reasonix-0.47.0-1.x86_64.rpm.sig" text="Reasonix-0.47.0-1.x86_64.rpm.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.47.0/Reasonix_0.47.0_amd64.AppImage" text="Reasonix_0.47.0_amd64.AppImage" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.47.0/Reasonix_0.47.0_amd64.AppImage.sig" text="Reasonix_0.47.0_amd64.AppImage.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.47.0/Reasonix_0.47.0_amd64.deb" text="Reasonix_0.47.0_amd64.deb" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.47.0/Reasonix_0.47.0_amd64.deb.sig" text="Reasonix_0.47.0_amd64.deb.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.47.0/Reasonix_0.47.0_universal.dmg" text="Reasonix_0.47.0_universal.dmg" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.47.0/Reasonix_0.47.0_x64-setup.exe" text="Reasonix_0.47.0_x64-setup.exe" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.47.0/Reasonix_0.47.0_x64-setup.exe.sig" text="Reasonix_0.47.0_x64-setup.exe.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.47.0/Reasonix_0.47.0_x64_en-US.msi" text="Reasonix_0.47.0_x64_en-US.msi" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.47.0/Reasonix_0.47.0_x64_en-US.msi.sig" text="Reasonix_0.47.0_x64_en-US.msi.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.47.0/Reasonix_universal.app.tar.gz" text="Reasonix_universal.app.tar.gz" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v0.47.0/Reasonix_universal.app.tar.gz.sig" text="Reasonix_universal.app.tar.gz.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+
+
+
+## v0.45.1
+
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.45.1/latest.json" text="latest.json" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.45.1/Reasonix-0.45.1-1.x86_64.rpm" text="Reasonix-0.45.1-1.x86_64.rpm" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.45.1/Reasonix-0.45.1-1.x86_64.rpm.sig" text="Reasonix-0.45.1-1.x86_64.rpm.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.45.1/Reasonix_0.45.1_amd64.AppImage" text="Reasonix_0.45.1_amd64.AppImage" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.45.1/Reasonix_0.45.1_amd64.AppImage.sig" text="Reasonix_0.45.1_amd64.AppImage.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.45.1/Reasonix_0.45.1_amd64.deb" text="Reasonix_0.45.1_amd64.deb" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.45.1/Reasonix_0.45.1_amd64.deb.sig" text="Reasonix_0.45.1_amd64.deb.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.45.1/Reasonix_0.45.1_universal.dmg" text="Reasonix_0.45.1_universal.dmg" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.45.1/Reasonix_0.45.1_x64-setup.exe" text="Reasonix_0.45.1_x64-setup.exe" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.45.1/Reasonix_0.45.1_x64-setup.exe.sig" text="Reasonix_0.45.1_x64-setup.exe.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.45.1/Reasonix_0.45.1_x64_en-US.msi" text="Reasonix_0.45.1_x64_en-US.msi" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.45.1/Reasonix_0.45.1_x64_en-US.msi.sig" text="Reasonix_0.45.1_x64_en-US.msi.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.45.1/Reasonix_universal.app.tar.gz" text="Reasonix_universal.app.tar.gz" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.45.1/Reasonix_universal.app.tar.gz.sig" text="Reasonix_universal.app.tar.gz.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+
+
+
+## v0.43.0
+
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.43.0/latest.json" text="latest.json" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.43.0/Reasonix-0.43.0-1.x86_64.rpm" text="Reasonix-0.43.0-1.x86_64.rpm" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.43.0/Reasonix-0.43.0-1.x86_64.rpm.sig" text="Reasonix-0.43.0-1.x86_64.rpm.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.43.0/Reasonix_0.43.0_amd64.AppImage" text="Reasonix_0.43.0_amd64.AppImage" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.43.0/Reasonix_0.43.0_amd64.AppImage.sig" text="Reasonix_0.43.0_amd64.AppImage.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.43.0/Reasonix_0.43.0_amd64.deb" text="Reasonix_0.43.0_amd64.deb" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.43.0/Reasonix_0.43.0_amd64.deb.sig" text="Reasonix_0.43.0_amd64.deb.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.43.0/Reasonix_0.43.0_universal.dmg" text="Reasonix_0.43.0_universal.dmg" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.43.0/Reasonix_0.43.0_x64-setup.exe" text="Reasonix_0.43.0_x64-setup.exe" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.43.0/Reasonix_0.43.0_x64-setup.exe.sig" text="Reasonix_0.43.0_x64-setup.exe.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.43.0/Reasonix_0.43.0_x64_en-US.msi" text="Reasonix_0.43.0_x64_en-US.msi" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.43.0/Reasonix_0.43.0_x64_en-US.msi.sig" text="Reasonix_0.43.0_x64_en-US.msi.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.43.0/Reasonix_universal.app.tar.gz" text="Reasonix_universal.app.tar.gz" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.43.0/Reasonix_universal.app.tar.gz.sig" text="Reasonix_universal.app.tar.gz.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+
+
+
+## v0.42.0-3
+
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.42.0-3/latest.json" text="latest.json" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.42.0-3/Reasonix-0.42.0-3-1.x86_64.rpm" text="Reasonix-0.42.0-3-1.x86_64.rpm" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.42.0-3/Reasonix-0.42.0-3-1.x86_64.rpm.sig" text="Reasonix-0.42.0-3-1.x86_64.rpm.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.42.0-3/Reasonix_0.42.0-3_amd64.AppImage" text="Reasonix_0.42.0-3_amd64.AppImage" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.42.0-3/Reasonix_0.42.0-3_amd64.AppImage.sig" text="Reasonix_0.42.0-3_amd64.AppImage.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.42.0-3/Reasonix_0.42.0-3_amd64.deb" text="Reasonix_0.42.0-3_amd64.deb" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.42.0-3/Reasonix_0.42.0-3_amd64.deb.sig" text="Reasonix_0.42.0-3_amd64.deb.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.42.0-3/Reasonix_0.42.0-3_universal.dmg" text="Reasonix_0.42.0-3_universal.dmg" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.42.0-3/Reasonix_0.42.0-3_x64-setup.exe" text="Reasonix_0.42.0-3_x64-setup.exe" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.42.0-3/Reasonix_0.42.0-3_x64-setup.exe.sig" text="Reasonix_0.42.0-3_x64-setup.exe.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.42.0-3/Reasonix_0.42.0-3_x64_en-US.msi" text="Reasonix_0.42.0-3_x64_en-US.msi" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.42.0-3/Reasonix_0.42.0-3_x64_en-US.msi.sig" text="Reasonix_0.42.0-3_x64_en-US.msi.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.42.0-3/Reasonix_universal.app.tar.gz" text="Reasonix_universal.app.tar.gz" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.42.0-3/Reasonix_universal.app.tar.gz.sig" text="Reasonix_universal.app.tar.gz.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+
+
+
+## v0.42.0-2
+
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.42.0-2/latest.json" text="latest.json" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.42.0-2/Reasonix-0.42.0-2-1.x86_64.rpm" text="Reasonix-0.42.0-2-1.x86_64.rpm" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.42.0-2/Reasonix-0.42.0-2-1.x86_64.rpm.sig" text="Reasonix-0.42.0-2-1.x86_64.rpm.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.42.0-2/Reasonix_0.42.0-2_amd64.AppImage" text="Reasonix_0.42.0-2_amd64.AppImage" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.42.0-2/Reasonix_0.42.0-2_amd64.AppImage.sig" text="Reasonix_0.42.0-2_amd64.AppImage.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.42.0-2/Reasonix_0.42.0-2_amd64.deb" text="Reasonix_0.42.0-2_amd64.deb" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.42.0-2/Reasonix_0.42.0-2_amd64.deb.sig" text="Reasonix_0.42.0-2_amd64.deb.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.42.0-2/Reasonix_0.42.0-2_universal.dmg" text="Reasonix_0.42.0-2_universal.dmg" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.42.0-2/Reasonix_0.42.0-2_x64-setup.exe" text="Reasonix_0.42.0-2_x64-setup.exe" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.42.0-2/Reasonix_0.42.0-2_x64-setup.exe.sig" text="Reasonix_0.42.0-2_x64-setup.exe.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.42.0-2/Reasonix_0.42.0-2_x64_en-US.msi" text="Reasonix_0.42.0-2_x64_en-US.msi" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.42.0-2/Reasonix_0.42.0-2_x64_en-US.msi.sig" text="Reasonix_0.42.0-2_x64_en-US.msi.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.42.0-2/Reasonix_universal.app.tar.gz" text="Reasonix_universal.app.tar.gz" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v0.42.0-2/Reasonix_universal.app.tar.gz.sig" text="Reasonix_universal.app.tar.gz.sig" repositoryKey="esengine/DeepSeek-Reasonix" />
+
+
+
+## v0.38.0
+
+
+
+
+## v0.37.0
+
+
+
+
+## v0.36.2
+
+
+
+
+## v0.36.0
+
+
+
+
+## v0.34.0
+
+
+
+
+## v0.32.0
+
+
+
+
+## v0.31.0
+
+
+
+
+## v0.30.5
+
+
+
+
+## v0.30.4
+
+
+
+
+
+
+## v0.30.3
+
+
+
+
+## v0.30.2
+
+
+
+
+## v0.30.1
+
+
+
+
+## v0.30.0
+
+
+
+
+## v0.29.1
+
+
+
+
+## v0.29.0
+
+
+
+
+## v0.28.0
+
+
+
+
+## v0.27.3
+
+
+
+
+## v0.26.0
+
+
+
+
+## v0.24.1
+
+
+
+
+
+找不到想要的版本？您可以访问 [官方网站](https://github.com/esengine/DeepSeek-Reasonix/) 以下载更多版本。
+
+<!-- md Mirrors.md -->
+
+
