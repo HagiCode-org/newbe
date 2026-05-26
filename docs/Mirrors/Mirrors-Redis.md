@@ -499,6 +499,7 @@ Redis. 国内直接从官网 https://redis.io 下载比较困难，需要一些�
 ## 8.8
 
 - [redis-8.8-rc1.tar.gz](https://repo.huaweicloud.com/redis/redis-8.8-rc1.tar.gz)
+- [redis-8.8.0.tar.gz](https://repo.huaweicloud.com/redis/redis-8.8.0.tar.gz)
 
 
 
