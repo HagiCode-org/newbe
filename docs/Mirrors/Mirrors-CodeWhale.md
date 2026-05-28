@@ -20,6 +20,39 @@ CodeWhale 是一个运行在终端里的 DeepSeek Coding Agent，适合偏好 TU
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v0.8.47
+
+- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.47/codewhale-artifacts-sha256.txt" text="codewhale-artifacts-sha256.txt" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.47/codewhale-linux-arm64" text="codewhale-linux-arm64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.47/codewhale-linux-arm64.tar.gz" text="codewhale-linux-arm64.tar.gz" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.47/codewhale-linux-x64" text="codewhale-linux-x64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.47/codewhale-linux-x64.tar.gz" text="codewhale-linux-x64.tar.gz" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.47/codewhale-macos-arm64" text="codewhale-macos-arm64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.47/codewhale-macos-arm64.tar.gz" text="codewhale-macos-arm64.tar.gz" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.47/codewhale-macos-x64" text="codewhale-macos-x64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.47/codewhale-macos-x64.tar.gz" text="codewhale-macos-x64.tar.gz" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.47/codewhale-tui-linux-arm64" text="codewhale-tui-linux-arm64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.47/codewhale-tui-linux-x64" text="codewhale-tui-linux-x64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.47/codewhale-tui-macos-arm64" text="codewhale-tui-macos-arm64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.47/codewhale-tui-macos-x64" text="codewhale-tui-macos-x64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.47/codewhale-tui-windows-x64.exe" text="codewhale-tui-windows-x64.exe" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.47/codewhale-windows-x64-portable.zip" text="codewhale-windows-x64-portable.zip" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.47/codewhale-windows-x64.exe" text="codewhale-windows-x64.exe" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.47/codewhale-windows-x64.zip" text="codewhale-windows-x64.zip" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.47/deepseek-artifacts-sha256.txt" text="deepseek-artifacts-sha256.txt" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.47/deepseek-linux-arm64" text="deepseek-linux-arm64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.47/deepseek-linux-x64" text="deepseek-linux-x64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.47/deepseek-macos-arm64" text="deepseek-macos-arm64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.47/deepseek-macos-x64" text="deepseek-macos-x64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.47/deepseek-tui-linux-arm64" text="deepseek-tui-linux-arm64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.47/deepseek-tui-linux-x64" text="deepseek-tui-linux-x64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.47/deepseek-tui-macos-arm64" text="deepseek-tui-macos-arm64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.47/deepseek-tui-macos-x64" text="deepseek-tui-macos-x64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.47/deepseek-tui-windows-x64.exe" text="deepseek-tui-windows-x64.exe" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.47/deepseek-windows-x64.exe" text="deepseek-windows-x64.exe" repositoryKey="Hmbown/CodeWhale" />
+
+
+
 ## v0.8.46
 
 - <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.46/codewhale-artifacts-sha256.txt" text="codewhale-artifacts-sha256.txt" repositoryKey="Hmbown/CodeWhale" />
@@ -396,6 +429,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v0.8.27
 
 - <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.27/deepseek-artifacts-sha256.txt" text="deepseek-artifacts-sha256.txt" repositoryKey="Hmbown/CodeWhale" />
@@ -409,8 +444,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.27/deepseek-tui-macos-x64" text="deepseek-tui-macos-x64" repositoryKey="Hmbown/CodeWhale" />
 - <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.27/deepseek-tui-windows-x64.exe" text="deepseek-tui-windows-x64.exe" repositoryKey="Hmbown/CodeWhale" />
 - <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.27/deepseek-windows-x64.exe" text="deepseek-windows-x64.exe" repositoryKey="Hmbown/CodeWhale" />
-
-
 
 
 
@@ -555,22 +588,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.18/deepseek-tui-macos-x64" text="deepseek-tui-macos-x64" repositoryKey="Hmbown/CodeWhale" />
 - <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.18/deepseek-tui-windows-x64.exe" text="deepseek-tui-windows-x64.exe" repositoryKey="Hmbown/CodeWhale" />
 - <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.18/deepseek-windows-x64.exe" text="deepseek-windows-x64.exe" repositoryKey="Hmbown/CodeWhale" />
-
-
-
-## v0.8.17
-
-- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.17/deepseek-artifacts-sha256.txt" text="deepseek-artifacts-sha256.txt" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.17/deepseek-linux-arm64" text="deepseek-linux-arm64" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.17/deepseek-linux-x64" text="deepseek-linux-x64" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.17/deepseek-macos-arm64" text="deepseek-macos-arm64" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.17/deepseek-macos-x64" text="deepseek-macos-x64" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.17/deepseek-tui-linux-arm64" text="deepseek-tui-linux-arm64" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.17/deepseek-tui-linux-x64" text="deepseek-tui-linux-x64" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.17/deepseek-tui-macos-arm64" text="deepseek-tui-macos-arm64" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.17/deepseek-tui-macos-x64" text="deepseek-tui-macos-x64" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.17/deepseek-tui-windows-x64.exe" text="deepseek-tui-windows-x64.exe" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/Hmbown/CodeWhale/releases/download/v0.8.17/deepseek-windows-x64.exe" text="deepseek-windows-x64.exe" repositoryKey="Hmbown/CodeWhale" />
 
 
 
