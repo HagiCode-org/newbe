@@ -17,6 +17,19 @@ k3s 是由 Rancher 推出的轻量级 Kubernetes 发行版：k3s-io/k3s。k3d �
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v5.9.0
+
+- <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.9.0/checksums.txt" text="checksums.txt" repositoryKey="k3d-io/k3d" />
+- <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.9.0/k3d-darwin-amd64" text="k3d-darwin-amd64" repositoryKey="k3d-io/k3d" />
+- <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.9.0/k3d-darwin-arm64" text="k3d-darwin-arm64" repositoryKey="k3d-io/k3d" />
+- <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.9.0/k3d-linux-386" text="k3d-linux-386" repositoryKey="k3d-io/k3d" />
+- <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.9.0/k3d-linux-amd64" text="k3d-linux-amd64" repositoryKey="k3d-io/k3d" />
+- <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.9.0/k3d-linux-arm" text="k3d-linux-arm" repositoryKey="k3d-io/k3d" />
+- <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.9.0/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
+- <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.9.0/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
+
+
+
 ## v5.9.0-rc.0
 
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.9.0-rc.0/checksums.txt" text="checksums.txt" repositoryKey="k3d-io/k3d" />
@@ -262,6 +275,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v5.4.7
 
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.7/k3d-darwin-amd64" text="k3d-darwin-amd64" repositoryKey="k3d-io/k3d" />
@@ -271,8 +286,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.7/k3d-linux-arm" text="k3d-linux-arm" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.7/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.4.7/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
-
-
 
 
 
@@ -382,19 +395,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.3.0/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.3.0/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
 - <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.3.0/sha256sum.txt" text="sha256sum.txt" repositoryKey="k3d-io/k3d" />
-
-
-
-## v5.3.0-rc.1
-
-- <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.3.0-rc.1/k3d-darwin-amd64" text="k3d-darwin-amd64" repositoryKey="k3d-io/k3d" />
-- <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.3.0-rc.1/k3d-darwin-arm64" text="k3d-darwin-arm64" repositoryKey="k3d-io/k3d" />
-- <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.3.0-rc.1/k3d-linux-386" text="k3d-linux-386" repositoryKey="k3d-io/k3d" />
-- <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.3.0-rc.1/k3d-linux-amd64" text="k3d-linux-amd64" repositoryKey="k3d-io/k3d" />
-- <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.3.0-rc.1/k3d-linux-arm" text="k3d-linux-arm" repositoryKey="k3d-io/k3d" />
-- <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.3.0-rc.1/k3d-linux-arm64" text="k3d-linux-arm64" repositoryKey="k3d-io/k3d" />
-- <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.3.0-rc.1/k3d-windows-amd64.exe" text="k3d-windows-amd64.exe" repositoryKey="k3d-io/k3d" />
-- <GithubMirrorLink link="https://github.com/k3d-io/k3d/releases/download/v5.3.0-rc.1/sha256sum.txt" text="sha256sum.txt" repositoryKey="k3d-io/k3d" />
 
 
 

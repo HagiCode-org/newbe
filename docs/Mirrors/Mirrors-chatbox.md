@@ -23,6 +23,15 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 ## v1.20.3
 
+- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v1.20.3/Chatbox-1.20.3-amd64.deb" text="Chatbox-1.20.3-amd64.deb" repositoryKey="Bin-Huang/chatbox" />
+- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v1.20.3/Chatbox-1.20.3-arm64.AppImage" text="Chatbox-1.20.3-arm64.AppImage" repositoryKey="Bin-Huang/chatbox" />
+- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v1.20.3/Chatbox-1.20.3-arm64.deb" text="Chatbox-1.20.3-arm64.deb" repositoryKey="Bin-Huang/chatbox" />
+- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v1.20.3/Chatbox-1.20.3-arm64.dmg" text="Chatbox-1.20.3-arm64.dmg" repositoryKey="Bin-Huang/chatbox" />
+- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v1.20.3/Chatbox-1.20.3-Setup.exe" text="Chatbox-1.20.3-Setup.exe" repositoryKey="Bin-Huang/chatbox" />
+- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v1.20.3/Chatbox-1.20.3-x86_64.AppImage" text="Chatbox-1.20.3-x86_64.AppImage" repositoryKey="Bin-Huang/chatbox" />
+- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v1.20.3/chatbox-1.20.3.apk" text="chatbox-1.20.3.apk" repositoryKey="Bin-Huang/chatbox" />
+- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v1.20.3/Chatbox-1.20.3.dmg" text="Chatbox-1.20.3.dmg" repositoryKey="Bin-Huang/chatbox" />
+- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v1.20.3/SHA256SUMS.txt" text="SHA256SUMS.txt" repositoryKey="Bin-Huang/chatbox" />
 
 
 
