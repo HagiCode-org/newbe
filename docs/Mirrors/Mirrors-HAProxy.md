@@ -111,13 +111,13 @@ HAProxy. 国内直接从官网 https://www.haproxy.org 下载比较困难，需�
 
 
 
-
-
-
-
 ## 2.6
 
 - [2.6](https://mirrors.huaweicloud.com/haproxy/2.6/)
+
+
+
+
 
 
 
@@ -166,6 +166,12 @@ HAProxy. 国内直接从官网 https://www.haproxy.org 下载比较困难，需�
 ## 3.4
 
 - [3.4](https://mirrors.huaweicloud.com/haproxy/3.4/)
+
+
+
+## 3.5
+
+- [3.5](https://mirrors.huaweicloud.com/haproxy/3.5/)
 
 
 
