@@ -17,6 +17,32 @@ DeepSeek-Reasonix. 国内直接从官网 https://github.com/esengine/DeepSeek-Re
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v1.1.0
+
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.1.0/reasonix-darwin-amd64.tar.gz" text="reasonix-darwin-amd64.tar.gz" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.1.0/reasonix-darwin-arm64.tar.gz" text="reasonix-darwin-arm64.tar.gz" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.1.0/reasonix-linux-amd64.tar.gz" text="reasonix-linux-amd64.tar.gz" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.1.0/reasonix-linux-arm64.tar.gz" text="reasonix-linux-arm64.tar.gz" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.1.0/reasonix-windows-amd64.zip" text="reasonix-windows-amd64.zip" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.1.0/reasonix-windows-arm64.zip" text="reasonix-windows-arm64.zip" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.1.0/SHA256SUMS" text="SHA256SUMS" repositoryKey="esengine/DeepSeek-Reasonix" />
+
+
+
+## desktop-v1.1.0
+
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.1.0/latest.json" text="latest.json" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.1.0/Reasonix-darwin-amd64.zip" text="Reasonix-darwin-amd64.zip" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.1.0/Reasonix-darwin-amd64.zip.minisig" text="Reasonix-darwin-amd64.zip.minisig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.1.0/Reasonix-darwin-arm64.zip" text="Reasonix-darwin-arm64.zip" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.1.0/Reasonix-darwin-arm64.zip.minisig" text="Reasonix-darwin-arm64.zip.minisig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.1.0/Reasonix-linux-amd64.tar.gz" text="Reasonix-linux-amd64.tar.gz" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.1.0/Reasonix-linux-amd64.tar.gz.minisig" text="Reasonix-linux-amd64.tar.gz.minisig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.1.0/Reasonix-windows-amd64-installer.exe" text="Reasonix-windows-amd64-installer.exe" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.1.0/Reasonix-windows-amd64-installer.exe.minisig" text="Reasonix-windows-amd64-installer.exe.minisig" repositoryKey="esengine/DeepSeek-Reasonix" />
+
+
+
 ## desktop-v1.0.0
 
 - <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.0.0/latest.json" text="latest.json" repositoryKey="esengine/DeepSeek-Reasonix" />
@@ -305,14 +331,14 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v0.36.0
 
 
 
 
 ## v0.34.0
-
-
 
 
 
@@ -353,16 +379,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 ## v0.30.0
-
-
-
-
-## v0.29.1
-
-
-
-
-## v0.29.0
 
 
 
