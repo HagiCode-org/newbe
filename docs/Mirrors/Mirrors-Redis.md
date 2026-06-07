@@ -474,6 +474,7 @@ Redis. 国内直接从官网 https://redis.io 下载比较困难，需要一些�
 - [redis-8.2.4.tar.gz](https://repo.huaweicloud.com/redis/redis-8.2.4.tar.gz)
 - [redis-8.2.5.tar.gz](https://repo.huaweicloud.com/redis/redis-8.2.5.tar.gz)
 - [redis-8.2.6.tar.gz](https://repo.huaweicloud.com/redis/redis-8.2.6.tar.gz)
+- [redis-8.2.7.tar.gz](https://repo.huaweicloud.com/redis/redis-8.2.7.tar.gz)
 
 
 
@@ -483,6 +484,7 @@ Redis. 国内直接从官网 https://redis.io 下载比较困难，需要一些�
 - [redis-8.4.1.tar.gz](https://repo.huaweicloud.com/redis/redis-8.4.1.tar.gz)
 - [redis-8.4.2.tar.gz](https://repo.huaweicloud.com/redis/redis-8.4.2.tar.gz)
 - [redis-8.4.3.tar.gz](https://repo.huaweicloud.com/redis/redis-8.4.3.tar.gz)
+- [redis-8.4.4.tar.gz](https://repo.huaweicloud.com/redis/redis-8.4.4.tar.gz)
 
 
 
@@ -493,6 +495,7 @@ Redis. 国内直接从官网 https://redis.io 下载比较困难，需要一些�
 - [redis-8.6.1.tar.gz](https://repo.huaweicloud.com/redis/redis-8.6.1.tar.gz)
 - [redis-8.6.2.tar.gz](https://repo.huaweicloud.com/redis/redis-8.6.2.tar.gz)
 - [redis-8.6.3.tar.gz](https://repo.huaweicloud.com/redis/redis-8.6.3.tar.gz)
+- [redis-8.6.4.tar.gz](https://repo.huaweicloud.com/redis/redis-8.6.4.tar.gz)
 
 
 
