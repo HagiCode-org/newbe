@@ -1,0 +1,5 @@
+action_recommendations:
+  - id: newbe-deploy-gh-pages
+    watch: true
+    include: true
+    reason: "publish site"
