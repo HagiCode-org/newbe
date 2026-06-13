@@ -408,10 +408,6 @@ Git for Windows. 国内直接从官网 http://git-scm.com/download/win 下载比
 
 
 
-
-
-
-
 ## 2.46
 
 - [v2.46.0-rc0.windows.1](https://mirrors.huaweicloud.com/git-for-windows/v2.46.0-rc0.windows.1/)
@@ -421,6 +417,10 @@ Git for Windows. 国内直接从官网 http://git-scm.com/download/win 下载比
 - [v2.46.1.windows.1](https://mirrors.huaweicloud.com/git-for-windows/v2.46.1.windows.1/)
 - [v2.46.2.windows.1](https://mirrors.huaweicloud.com/git-for-windows/v2.46.2.windows.1/)
 - [v2.46.2.windows.2](https://mirrors.huaweicloud.com/git-for-windows/v2.46.2.windows.2/)
+
+
+
+
 
 
 
@@ -506,6 +506,12 @@ Git for Windows. 国内直接从官网 http://git-scm.com/download/win 下载比
 - [v2.54.0-rc1.windows.1](https://mirrors.huaweicloud.com/git-for-windows/v2.54.0-rc1.windows.1/)
 - [v2.54.0-rc2.windows.1](https://mirrors.huaweicloud.com/git-for-windows/v2.54.0-rc2.windows.1/)
 - [v2.54.0.windows.1](https://mirrors.huaweicloud.com/git-for-windows/v2.54.0.windows.1/)
+
+
+
+## 2.55
+
+- [v2.55.0-rc0.windows.1](https://mirrors.huaweicloud.com/git-for-windows/v2.55.0-rc0.windows.1/)
 
 
 
