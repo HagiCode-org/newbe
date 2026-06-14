@@ -20,6 +20,267 @@ llama.cpp 是一个面向本地大模型推理的 C/C++ 运行时项目，强调
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## b9628
+
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9628/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9628/cudart-llama-bin-win-cuda-13.3-x64.zip" text="cudart-llama-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9628/llama-b9628-bin-android-arm64.tar.gz" text="llama-b9628-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9628/llama-b9628-bin-macos-arm64.tar.gz" text="llama-b9628-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9628/llama-b9628-bin-macos-x64.tar.gz" text="llama-b9628-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9628/llama-b9628-bin-ubuntu-arm64.tar.gz" text="llama-b9628-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9628/llama-b9628-bin-ubuntu-openvino-2026.0-x64.tar.gz" text="llama-b9628-bin-ubuntu-openvino-2026.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9628/llama-b9628-bin-ubuntu-rocm-7.2-x64.tar.gz" text="llama-b9628-bin-ubuntu-rocm-7.2-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9628/llama-b9628-bin-ubuntu-s390x.tar.gz" text="llama-b9628-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9628/llama-b9628-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b9628-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9628/llama-b9628-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b9628-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9628/llama-b9628-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b9628-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9628/llama-b9628-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b9628-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9628/llama-b9628-bin-ubuntu-x64.tar.gz" text="llama-b9628-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9628/llama-b9628-bin-win-cpu-arm64.zip" text="llama-b9628-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9628/llama-b9628-bin-win-cpu-x64.zip" text="llama-b9628-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9628/llama-b9628-bin-win-cuda-12.4-x64.zip" text="llama-b9628-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9628/llama-b9628-bin-win-cuda-13.3-x64.zip" text="llama-b9628-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9628/llama-b9628-bin-win-hip-radeon-x64.zip" text="llama-b9628-bin-win-hip-radeon-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9628/llama-b9628-bin-win-opencl-adreno-arm64.zip" text="llama-b9628-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9628/llama-b9628-bin-win-sycl-x64.zip" text="llama-b9628-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9628/llama-b9628-bin-win-vulkan-x64.zip" text="llama-b9628-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9628/llama-b9628-ui.tar.gz" text="llama-b9628-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9628/llama-b9628-xcframework.zip" text="llama-b9628-xcframework.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+
+
+
+## b9627
+
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9627/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9627/cudart-llama-bin-win-cuda-13.3-x64.zip" text="cudart-llama-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9627/llama-b9627-bin-android-arm64.tar.gz" text="llama-b9627-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9627/llama-b9627-bin-macos-arm64.tar.gz" text="llama-b9627-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9627/llama-b9627-bin-macos-x64.tar.gz" text="llama-b9627-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9627/llama-b9627-bin-ubuntu-arm64.tar.gz" text="llama-b9627-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9627/llama-b9627-bin-ubuntu-openvino-2026.0-x64.tar.gz" text="llama-b9627-bin-ubuntu-openvino-2026.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9627/llama-b9627-bin-ubuntu-rocm-7.2-x64.tar.gz" text="llama-b9627-bin-ubuntu-rocm-7.2-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9627/llama-b9627-bin-ubuntu-s390x.tar.gz" text="llama-b9627-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9627/llama-b9627-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b9627-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9627/llama-b9627-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b9627-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9627/llama-b9627-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b9627-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9627/llama-b9627-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b9627-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9627/llama-b9627-bin-ubuntu-x64.tar.gz" text="llama-b9627-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9627/llama-b9627-bin-win-cpu-arm64.zip" text="llama-b9627-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9627/llama-b9627-bin-win-cpu-x64.zip" text="llama-b9627-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9627/llama-b9627-bin-win-cuda-12.4-x64.zip" text="llama-b9627-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9627/llama-b9627-bin-win-cuda-13.3-x64.zip" text="llama-b9627-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9627/llama-b9627-bin-win-hip-radeon-x64.zip" text="llama-b9627-bin-win-hip-radeon-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9627/llama-b9627-bin-win-opencl-adreno-arm64.zip" text="llama-b9627-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9627/llama-b9627-bin-win-sycl-x64.zip" text="llama-b9627-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9627/llama-b9627-bin-win-vulkan-x64.zip" text="llama-b9627-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9627/llama-b9627-ui.tar.gz" text="llama-b9627-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9627/llama-b9627-xcframework.zip" text="llama-b9627-xcframework.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+
+
+
+## b9626
+
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9626/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9626/cudart-llama-bin-win-cuda-13.3-x64.zip" text="cudart-llama-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9626/llama-b9626-bin-android-arm64.tar.gz" text="llama-b9626-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9626/llama-b9626-bin-macos-arm64.tar.gz" text="llama-b9626-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9626/llama-b9626-bin-macos-x64.tar.gz" text="llama-b9626-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9626/llama-b9626-bin-ubuntu-arm64.tar.gz" text="llama-b9626-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9626/llama-b9626-bin-ubuntu-openvino-2026.0-x64.tar.gz" text="llama-b9626-bin-ubuntu-openvino-2026.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9626/llama-b9626-bin-ubuntu-rocm-7.2-x64.tar.gz" text="llama-b9626-bin-ubuntu-rocm-7.2-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9626/llama-b9626-bin-ubuntu-s390x.tar.gz" text="llama-b9626-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9626/llama-b9626-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b9626-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9626/llama-b9626-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b9626-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9626/llama-b9626-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b9626-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9626/llama-b9626-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b9626-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9626/llama-b9626-bin-ubuntu-x64.tar.gz" text="llama-b9626-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9626/llama-b9626-bin-win-cpu-arm64.zip" text="llama-b9626-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9626/llama-b9626-bin-win-cpu-x64.zip" text="llama-b9626-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9626/llama-b9626-bin-win-cuda-12.4-x64.zip" text="llama-b9626-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9626/llama-b9626-bin-win-cuda-13.3-x64.zip" text="llama-b9626-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9626/llama-b9626-bin-win-hip-radeon-x64.zip" text="llama-b9626-bin-win-hip-radeon-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9626/llama-b9626-bin-win-opencl-adreno-arm64.zip" text="llama-b9626-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9626/llama-b9626-bin-win-sycl-x64.zip" text="llama-b9626-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9626/llama-b9626-bin-win-vulkan-x64.zip" text="llama-b9626-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9626/llama-b9626-ui.tar.gz" text="llama-b9626-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9626/llama-b9626-xcframework.zip" text="llama-b9626-xcframework.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+
+
+
+## b9625
+
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9625/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9625/cudart-llama-bin-win-cuda-13.3-x64.zip" text="cudart-llama-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9625/llama-b9625-bin-android-arm64.tar.gz" text="llama-b9625-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9625/llama-b9625-bin-macos-arm64.tar.gz" text="llama-b9625-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9625/llama-b9625-bin-macos-x64.tar.gz" text="llama-b9625-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9625/llama-b9625-bin-ubuntu-arm64.tar.gz" text="llama-b9625-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9625/llama-b9625-bin-ubuntu-openvino-2026.0-x64.tar.gz" text="llama-b9625-bin-ubuntu-openvino-2026.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9625/llama-b9625-bin-ubuntu-rocm-7.2-x64.tar.gz" text="llama-b9625-bin-ubuntu-rocm-7.2-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9625/llama-b9625-bin-ubuntu-s390x.tar.gz" text="llama-b9625-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9625/llama-b9625-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b9625-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9625/llama-b9625-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b9625-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9625/llama-b9625-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b9625-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9625/llama-b9625-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b9625-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9625/llama-b9625-bin-ubuntu-x64.tar.gz" text="llama-b9625-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9625/llama-b9625-bin-win-cpu-arm64.zip" text="llama-b9625-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9625/llama-b9625-bin-win-cpu-x64.zip" text="llama-b9625-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9625/llama-b9625-bin-win-cuda-12.4-x64.zip" text="llama-b9625-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9625/llama-b9625-bin-win-cuda-13.3-x64.zip" text="llama-b9625-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9625/llama-b9625-bin-win-hip-radeon-x64.zip" text="llama-b9625-bin-win-hip-radeon-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9625/llama-b9625-bin-win-opencl-adreno-arm64.zip" text="llama-b9625-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9625/llama-b9625-bin-win-sycl-x64.zip" text="llama-b9625-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9625/llama-b9625-bin-win-vulkan-x64.zip" text="llama-b9625-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9625/llama-b9625-ui.tar.gz" text="llama-b9625-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9625/llama-b9625-xcframework.zip" text="llama-b9625-xcframework.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+
+
+
+## b9624
+
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9624/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9624/cudart-llama-bin-win-cuda-13.3-x64.zip" text="cudart-llama-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9624/llama-b9624-bin-android-arm64.tar.gz" text="llama-b9624-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9624/llama-b9624-bin-macos-arm64.tar.gz" text="llama-b9624-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9624/llama-b9624-bin-macos-x64.tar.gz" text="llama-b9624-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9624/llama-b9624-bin-ubuntu-arm64.tar.gz" text="llama-b9624-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9624/llama-b9624-bin-ubuntu-openvino-2026.0-x64.tar.gz" text="llama-b9624-bin-ubuntu-openvino-2026.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9624/llama-b9624-bin-ubuntu-rocm-7.2-x64.tar.gz" text="llama-b9624-bin-ubuntu-rocm-7.2-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9624/llama-b9624-bin-ubuntu-s390x.tar.gz" text="llama-b9624-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9624/llama-b9624-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b9624-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9624/llama-b9624-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b9624-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9624/llama-b9624-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b9624-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9624/llama-b9624-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b9624-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9624/llama-b9624-bin-ubuntu-x64.tar.gz" text="llama-b9624-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9624/llama-b9624-bin-win-cpu-arm64.zip" text="llama-b9624-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9624/llama-b9624-bin-win-cpu-x64.zip" text="llama-b9624-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9624/llama-b9624-bin-win-cuda-12.4-x64.zip" text="llama-b9624-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9624/llama-b9624-bin-win-cuda-13.3-x64.zip" text="llama-b9624-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9624/llama-b9624-bin-win-hip-radeon-x64.zip" text="llama-b9624-bin-win-hip-radeon-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9624/llama-b9624-bin-win-opencl-adreno-arm64.zip" text="llama-b9624-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9624/llama-b9624-bin-win-sycl-x64.zip" text="llama-b9624-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9624/llama-b9624-bin-win-vulkan-x64.zip" text="llama-b9624-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9624/llama-b9624-ui.tar.gz" text="llama-b9624-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9624/llama-b9624-xcframework.zip" text="llama-b9624-xcframework.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+
+
+
+## b9623
+
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9623/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9623/cudart-llama-bin-win-cuda-13.3-x64.zip" text="cudart-llama-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9623/llama-b9623-bin-android-arm64.tar.gz" text="llama-b9623-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9623/llama-b9623-bin-macos-arm64.tar.gz" text="llama-b9623-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9623/llama-b9623-bin-macos-x64.tar.gz" text="llama-b9623-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9623/llama-b9623-bin-ubuntu-arm64.tar.gz" text="llama-b9623-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9623/llama-b9623-bin-ubuntu-openvino-2026.0-x64.tar.gz" text="llama-b9623-bin-ubuntu-openvino-2026.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9623/llama-b9623-bin-ubuntu-rocm-7.2-x64.tar.gz" text="llama-b9623-bin-ubuntu-rocm-7.2-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9623/llama-b9623-bin-ubuntu-s390x.tar.gz" text="llama-b9623-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9623/llama-b9623-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b9623-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9623/llama-b9623-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b9623-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9623/llama-b9623-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b9623-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9623/llama-b9623-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b9623-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9623/llama-b9623-bin-ubuntu-x64.tar.gz" text="llama-b9623-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9623/llama-b9623-bin-win-cpu-arm64.zip" text="llama-b9623-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9623/llama-b9623-bin-win-cpu-x64.zip" text="llama-b9623-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9623/llama-b9623-bin-win-cuda-12.4-x64.zip" text="llama-b9623-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9623/llama-b9623-bin-win-cuda-13.3-x64.zip" text="llama-b9623-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9623/llama-b9623-bin-win-hip-radeon-x64.zip" text="llama-b9623-bin-win-hip-radeon-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9623/llama-b9623-bin-win-opencl-adreno-arm64.zip" text="llama-b9623-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9623/llama-b9623-bin-win-sycl-x64.zip" text="llama-b9623-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9623/llama-b9623-bin-win-vulkan-x64.zip" text="llama-b9623-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9623/llama-b9623-ui.tar.gz" text="llama-b9623-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9623/llama-b9623-xcframework.zip" text="llama-b9623-xcframework.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+
+
+
+## b9622
+
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9622/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9622/cudart-llama-bin-win-cuda-13.3-x64.zip" text="cudart-llama-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9622/llama-b9622-bin-android-arm64.tar.gz" text="llama-b9622-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9622/llama-b9622-bin-macos-arm64.tar.gz" text="llama-b9622-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9622/llama-b9622-bin-macos-x64.tar.gz" text="llama-b9622-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9622/llama-b9622-bin-ubuntu-arm64.tar.gz" text="llama-b9622-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9622/llama-b9622-bin-ubuntu-openvino-2026.0-x64.tar.gz" text="llama-b9622-bin-ubuntu-openvino-2026.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9622/llama-b9622-bin-ubuntu-rocm-7.2-x64.tar.gz" text="llama-b9622-bin-ubuntu-rocm-7.2-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9622/llama-b9622-bin-ubuntu-s390x.tar.gz" text="llama-b9622-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9622/llama-b9622-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b9622-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9622/llama-b9622-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b9622-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9622/llama-b9622-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b9622-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9622/llama-b9622-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b9622-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9622/llama-b9622-bin-ubuntu-x64.tar.gz" text="llama-b9622-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9622/llama-b9622-bin-win-cpu-arm64.zip" text="llama-b9622-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9622/llama-b9622-bin-win-cpu-x64.zip" text="llama-b9622-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9622/llama-b9622-bin-win-cuda-12.4-x64.zip" text="llama-b9622-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9622/llama-b9622-bin-win-cuda-13.3-x64.zip" text="llama-b9622-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9622/llama-b9622-bin-win-hip-radeon-x64.zip" text="llama-b9622-bin-win-hip-radeon-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9622/llama-b9622-bin-win-opencl-adreno-arm64.zip" text="llama-b9622-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9622/llama-b9622-bin-win-sycl-x64.zip" text="llama-b9622-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9622/llama-b9622-bin-win-vulkan-x64.zip" text="llama-b9622-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9622/llama-b9622-ui.tar.gz" text="llama-b9622-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9622/llama-b9622-xcframework.zip" text="llama-b9622-xcframework.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+
+
+
+## b9621
+
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9621/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9621/cudart-llama-bin-win-cuda-13.3-x64.zip" text="cudart-llama-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9621/llama-b9621-bin-android-arm64.tar.gz" text="llama-b9621-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9621/llama-b9621-bin-macos-arm64.tar.gz" text="llama-b9621-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9621/llama-b9621-bin-macos-x64.tar.gz" text="llama-b9621-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9621/llama-b9621-bin-ubuntu-arm64.tar.gz" text="llama-b9621-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9621/llama-b9621-bin-ubuntu-openvino-2026.0-x64.tar.gz" text="llama-b9621-bin-ubuntu-openvino-2026.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9621/llama-b9621-bin-ubuntu-rocm-7.2-x64.tar.gz" text="llama-b9621-bin-ubuntu-rocm-7.2-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9621/llama-b9621-bin-ubuntu-s390x.tar.gz" text="llama-b9621-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9621/llama-b9621-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b9621-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9621/llama-b9621-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b9621-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9621/llama-b9621-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b9621-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9621/llama-b9621-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b9621-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9621/llama-b9621-bin-ubuntu-x64.tar.gz" text="llama-b9621-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9621/llama-b9621-bin-win-cpu-arm64.zip" text="llama-b9621-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9621/llama-b9621-bin-win-cpu-x64.zip" text="llama-b9621-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9621/llama-b9621-bin-win-cuda-12.4-x64.zip" text="llama-b9621-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9621/llama-b9621-bin-win-cuda-13.3-x64.zip" text="llama-b9621-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9621/llama-b9621-bin-win-hip-radeon-x64.zip" text="llama-b9621-bin-win-hip-radeon-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9621/llama-b9621-bin-win-opencl-adreno-arm64.zip" text="llama-b9621-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9621/llama-b9621-bin-win-sycl-x64.zip" text="llama-b9621-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9621/llama-b9621-bin-win-vulkan-x64.zip" text="llama-b9621-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9621/llama-b9621-ui.tar.gz" text="llama-b9621-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9621/llama-b9621-xcframework.zip" text="llama-b9621-xcframework.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+
+
+
+## b9620
+
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9620/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9620/cudart-llama-bin-win-cuda-13.3-x64.zip" text="cudart-llama-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9620/llama-b9620-bin-android-arm64.tar.gz" text="llama-b9620-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9620/llama-b9620-bin-macos-arm64.tar.gz" text="llama-b9620-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9620/llama-b9620-bin-macos-x64.tar.gz" text="llama-b9620-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9620/llama-b9620-bin-ubuntu-arm64.tar.gz" text="llama-b9620-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9620/llama-b9620-bin-ubuntu-openvino-2026.0-x64.tar.gz" text="llama-b9620-bin-ubuntu-openvino-2026.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9620/llama-b9620-bin-ubuntu-rocm-7.2-x64.tar.gz" text="llama-b9620-bin-ubuntu-rocm-7.2-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9620/llama-b9620-bin-ubuntu-s390x.tar.gz" text="llama-b9620-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9620/llama-b9620-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b9620-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9620/llama-b9620-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b9620-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9620/llama-b9620-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b9620-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9620/llama-b9620-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b9620-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9620/llama-b9620-bin-ubuntu-x64.tar.gz" text="llama-b9620-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9620/llama-b9620-bin-win-cpu-arm64.zip" text="llama-b9620-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9620/llama-b9620-bin-win-cpu-x64.zip" text="llama-b9620-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9620/llama-b9620-bin-win-cuda-12.4-x64.zip" text="llama-b9620-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9620/llama-b9620-bin-win-cuda-13.3-x64.zip" text="llama-b9620-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9620/llama-b9620-bin-win-hip-radeon-x64.zip" text="llama-b9620-bin-win-hip-radeon-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9620/llama-b9620-bin-win-opencl-adreno-arm64.zip" text="llama-b9620-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9620/llama-b9620-bin-win-sycl-x64.zip" text="llama-b9620-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9620/llama-b9620-bin-win-vulkan-x64.zip" text="llama-b9620-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9620/llama-b9620-ui.tar.gz" text="llama-b9620-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9620/llama-b9620-xcframework.zip" text="llama-b9620-xcframework.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
+
+
+
 ## b9616
 
 - <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9616/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
@@ -327,6 +588,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## b9592
 
 - <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9592/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
@@ -561,8 +824,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
-
-
 ## b9578
 
 - <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9578/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
@@ -586,240 +847,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9578/llama-b9578-bin-win-vulkan-x64.zip" text="llama-b9578-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9578/llama-b9578-ui.tar.gz" text="llama-b9578-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9578/llama-b9578-xcframework.zip" text="llama-b9578-xcframework.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-
-
-
-## b9577
-
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9577/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9577/cudart-llama-bin-win-cuda-13.3-x64.zip" text="cudart-llama-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9577/llama-b9577-bin-android-arm64.tar.gz" text="llama-b9577-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9577/llama-b9577-bin-macos-arm64.tar.gz" text="llama-b9577-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9577/llama-b9577-bin-macos-x64.tar.gz" text="llama-b9577-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9577/llama-b9577-bin-ubuntu-arm64.tar.gz" text="llama-b9577-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9577/llama-b9577-bin-ubuntu-openvino-2026.0-x64.tar.gz" text="llama-b9577-bin-ubuntu-openvino-2026.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9577/llama-b9577-bin-ubuntu-rocm-7.2-x64.tar.gz" text="llama-b9577-bin-ubuntu-rocm-7.2-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9577/llama-b9577-bin-ubuntu-s390x.tar.gz" text="llama-b9577-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9577/llama-b9577-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b9577-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9577/llama-b9577-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b9577-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9577/llama-b9577-bin-ubuntu-x64.tar.gz" text="llama-b9577-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9577/llama-b9577-bin-win-cpu-arm64.zip" text="llama-b9577-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9577/llama-b9577-bin-win-cpu-x64.zip" text="llama-b9577-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9577/llama-b9577-bin-win-cuda-12.4-x64.zip" text="llama-b9577-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9577/llama-b9577-bin-win-cuda-13.3-x64.zip" text="llama-b9577-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9577/llama-b9577-bin-win-hip-radeon-x64.zip" text="llama-b9577-bin-win-hip-radeon-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9577/llama-b9577-bin-win-opencl-adreno-arm64.zip" text="llama-b9577-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9577/llama-b9577-bin-win-vulkan-x64.zip" text="llama-b9577-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9577/llama-b9577-ui.tar.gz" text="llama-b9577-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9577/llama-b9577-xcframework.zip" text="llama-b9577-xcframework.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-
-
-
-## b9575
-
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9575/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9575/cudart-llama-bin-win-cuda-13.3-x64.zip" text="cudart-llama-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9575/llama-b9575-bin-android-arm64.tar.gz" text="llama-b9575-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9575/llama-b9575-bin-macos-arm64.tar.gz" text="llama-b9575-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9575/llama-b9575-bin-macos-x64.tar.gz" text="llama-b9575-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9575/llama-b9575-bin-ubuntu-arm64.tar.gz" text="llama-b9575-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9575/llama-b9575-bin-ubuntu-openvino-2026.0-x64.tar.gz" text="llama-b9575-bin-ubuntu-openvino-2026.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9575/llama-b9575-bin-ubuntu-rocm-7.2-x64.tar.gz" text="llama-b9575-bin-ubuntu-rocm-7.2-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9575/llama-b9575-bin-ubuntu-s390x.tar.gz" text="llama-b9575-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9575/llama-b9575-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b9575-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9575/llama-b9575-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b9575-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9575/llama-b9575-bin-ubuntu-x64.tar.gz" text="llama-b9575-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9575/llama-b9575-bin-win-cpu-arm64.zip" text="llama-b9575-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9575/llama-b9575-bin-win-cpu-x64.zip" text="llama-b9575-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9575/llama-b9575-bin-win-cuda-12.4-x64.zip" text="llama-b9575-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9575/llama-b9575-bin-win-cuda-13.3-x64.zip" text="llama-b9575-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9575/llama-b9575-bin-win-hip-radeon-x64.zip" text="llama-b9575-bin-win-hip-radeon-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9575/llama-b9575-bin-win-opencl-adreno-arm64.zip" text="llama-b9575-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9575/llama-b9575-bin-win-vulkan-x64.zip" text="llama-b9575-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9575/llama-b9575-ui.tar.gz" text="llama-b9575-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9575/llama-b9575-xcframework.zip" text="llama-b9575-xcframework.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-
-
-
-## b9574
-
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9574/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9574/cudart-llama-bin-win-cuda-13.3-x64.zip" text="cudart-llama-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9574/llama-b9574-bin-android-arm64.tar.gz" text="llama-b9574-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9574/llama-b9574-bin-macos-arm64.tar.gz" text="llama-b9574-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9574/llama-b9574-bin-macos-x64.tar.gz" text="llama-b9574-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9574/llama-b9574-bin-ubuntu-arm64.tar.gz" text="llama-b9574-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9574/llama-b9574-bin-ubuntu-openvino-2026.0-x64.tar.gz" text="llama-b9574-bin-ubuntu-openvino-2026.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9574/llama-b9574-bin-ubuntu-rocm-7.2-x64.tar.gz" text="llama-b9574-bin-ubuntu-rocm-7.2-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9574/llama-b9574-bin-ubuntu-s390x.tar.gz" text="llama-b9574-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9574/llama-b9574-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b9574-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9574/llama-b9574-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b9574-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9574/llama-b9574-bin-ubuntu-x64.tar.gz" text="llama-b9574-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9574/llama-b9574-bin-win-cpu-arm64.zip" text="llama-b9574-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9574/llama-b9574-bin-win-cpu-x64.zip" text="llama-b9574-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9574/llama-b9574-bin-win-cuda-12.4-x64.zip" text="llama-b9574-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9574/llama-b9574-bin-win-cuda-13.3-x64.zip" text="llama-b9574-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9574/llama-b9574-bin-win-hip-radeon-x64.zip" text="llama-b9574-bin-win-hip-radeon-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9574/llama-b9574-bin-win-opencl-adreno-arm64.zip" text="llama-b9574-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9574/llama-b9574-bin-win-vulkan-x64.zip" text="llama-b9574-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9574/llama-b9574-ui.tar.gz" text="llama-b9574-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9574/llama-b9574-xcframework.zip" text="llama-b9574-xcframework.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-
-
-
-## b9573
-
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9573/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9573/cudart-llama-bin-win-cuda-13.3-x64.zip" text="cudart-llama-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9573/llama-b9573-bin-android-arm64.tar.gz" text="llama-b9573-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9573/llama-b9573-bin-macos-arm64.tar.gz" text="llama-b9573-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9573/llama-b9573-bin-macos-x64.tar.gz" text="llama-b9573-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9573/llama-b9573-bin-ubuntu-arm64.tar.gz" text="llama-b9573-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9573/llama-b9573-bin-ubuntu-openvino-2026.0-x64.tar.gz" text="llama-b9573-bin-ubuntu-openvino-2026.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9573/llama-b9573-bin-ubuntu-rocm-7.2-x64.tar.gz" text="llama-b9573-bin-ubuntu-rocm-7.2-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9573/llama-b9573-bin-ubuntu-s390x.tar.gz" text="llama-b9573-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9573/llama-b9573-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b9573-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9573/llama-b9573-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b9573-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9573/llama-b9573-bin-ubuntu-x64.tar.gz" text="llama-b9573-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9573/llama-b9573-bin-win-cpu-arm64.zip" text="llama-b9573-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9573/llama-b9573-bin-win-cpu-x64.zip" text="llama-b9573-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9573/llama-b9573-bin-win-cuda-12.4-x64.zip" text="llama-b9573-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9573/llama-b9573-bin-win-cuda-13.3-x64.zip" text="llama-b9573-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9573/llama-b9573-bin-win-hip-radeon-x64.zip" text="llama-b9573-bin-win-hip-radeon-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9573/llama-b9573-bin-win-opencl-adreno-arm64.zip" text="llama-b9573-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9573/llama-b9573-bin-win-vulkan-x64.zip" text="llama-b9573-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9573/llama-b9573-ui.tar.gz" text="llama-b9573-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9573/llama-b9573-xcframework.zip" text="llama-b9573-xcframework.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-
-
-
-## b9572
-
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9572/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9572/cudart-llama-bin-win-cuda-13.3-x64.zip" text="cudart-llama-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9572/llama-b9572-bin-android-arm64.tar.gz" text="llama-b9572-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9572/llama-b9572-bin-macos-arm64.tar.gz" text="llama-b9572-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9572/llama-b9572-bin-macos-x64.tar.gz" text="llama-b9572-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9572/llama-b9572-bin-ubuntu-arm64.tar.gz" text="llama-b9572-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9572/llama-b9572-bin-ubuntu-openvino-2026.0-x64.tar.gz" text="llama-b9572-bin-ubuntu-openvino-2026.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9572/llama-b9572-bin-ubuntu-rocm-7.2-x64.tar.gz" text="llama-b9572-bin-ubuntu-rocm-7.2-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9572/llama-b9572-bin-ubuntu-s390x.tar.gz" text="llama-b9572-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9572/llama-b9572-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b9572-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9572/llama-b9572-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b9572-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9572/llama-b9572-bin-ubuntu-x64.tar.gz" text="llama-b9572-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9572/llama-b9572-bin-win-cpu-arm64.zip" text="llama-b9572-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9572/llama-b9572-bin-win-cpu-x64.zip" text="llama-b9572-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9572/llama-b9572-bin-win-cuda-12.4-x64.zip" text="llama-b9572-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9572/llama-b9572-bin-win-cuda-13.3-x64.zip" text="llama-b9572-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9572/llama-b9572-bin-win-hip-radeon-x64.zip" text="llama-b9572-bin-win-hip-radeon-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9572/llama-b9572-bin-win-opencl-adreno-arm64.zip" text="llama-b9572-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9572/llama-b9572-bin-win-vulkan-x64.zip" text="llama-b9572-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9572/llama-b9572-ui.tar.gz" text="llama-b9572-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9572/llama-b9572-xcframework.zip" text="llama-b9572-xcframework.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-
-
-
-## b9571
-
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9571/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9571/cudart-llama-bin-win-cuda-13.3-x64.zip" text="cudart-llama-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9571/llama-b9571-bin-android-arm64.tar.gz" text="llama-b9571-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9571/llama-b9571-bin-macos-arm64.tar.gz" text="llama-b9571-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9571/llama-b9571-bin-macos-x64.tar.gz" text="llama-b9571-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9571/llama-b9571-bin-ubuntu-arm64.tar.gz" text="llama-b9571-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9571/llama-b9571-bin-ubuntu-openvino-2026.0-x64.tar.gz" text="llama-b9571-bin-ubuntu-openvino-2026.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9571/llama-b9571-bin-ubuntu-rocm-7.2-x64.tar.gz" text="llama-b9571-bin-ubuntu-rocm-7.2-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9571/llama-b9571-bin-ubuntu-s390x.tar.gz" text="llama-b9571-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9571/llama-b9571-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b9571-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9571/llama-b9571-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b9571-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9571/llama-b9571-bin-ubuntu-x64.tar.gz" text="llama-b9571-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9571/llama-b9571-bin-win-cpu-arm64.zip" text="llama-b9571-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9571/llama-b9571-bin-win-cpu-x64.zip" text="llama-b9571-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9571/llama-b9571-bin-win-cuda-12.4-x64.zip" text="llama-b9571-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9571/llama-b9571-bin-win-cuda-13.3-x64.zip" text="llama-b9571-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9571/llama-b9571-bin-win-hip-radeon-x64.zip" text="llama-b9571-bin-win-hip-radeon-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9571/llama-b9571-bin-win-opencl-adreno-arm64.zip" text="llama-b9571-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9571/llama-b9571-bin-win-vulkan-x64.zip" text="llama-b9571-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9571/llama-b9571-ui.tar.gz" text="llama-b9571-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9571/llama-b9571-xcframework.zip" text="llama-b9571-xcframework.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-
-
-
-## b9570
-
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9570/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9570/cudart-llama-bin-win-cuda-13.3-x64.zip" text="cudart-llama-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9570/llama-b9570-bin-android-arm64.tar.gz" text="llama-b9570-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9570/llama-b9570-bin-macos-arm64.tar.gz" text="llama-b9570-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9570/llama-b9570-bin-macos-x64.tar.gz" text="llama-b9570-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9570/llama-b9570-bin-ubuntu-arm64.tar.gz" text="llama-b9570-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9570/llama-b9570-bin-ubuntu-openvino-2026.0-x64.tar.gz" text="llama-b9570-bin-ubuntu-openvino-2026.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9570/llama-b9570-bin-ubuntu-rocm-7.2-x64.tar.gz" text="llama-b9570-bin-ubuntu-rocm-7.2-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9570/llama-b9570-bin-ubuntu-s390x.tar.gz" text="llama-b9570-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9570/llama-b9570-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b9570-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9570/llama-b9570-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b9570-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9570/llama-b9570-bin-ubuntu-x64.tar.gz" text="llama-b9570-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9570/llama-b9570-bin-win-cpu-arm64.zip" text="llama-b9570-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9570/llama-b9570-bin-win-cpu-x64.zip" text="llama-b9570-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9570/llama-b9570-bin-win-cuda-12.4-x64.zip" text="llama-b9570-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9570/llama-b9570-bin-win-cuda-13.3-x64.zip" text="llama-b9570-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9570/llama-b9570-bin-win-hip-radeon-x64.zip" text="llama-b9570-bin-win-hip-radeon-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9570/llama-b9570-bin-win-opencl-adreno-arm64.zip" text="llama-b9570-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9570/llama-b9570-bin-win-vulkan-x64.zip" text="llama-b9570-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9570/llama-b9570-ui.tar.gz" text="llama-b9570-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9570/llama-b9570-xcframework.zip" text="llama-b9570-xcframework.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-
-
-
-## b9568
-
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9568/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9568/cudart-llama-bin-win-cuda-13.3-x64.zip" text="cudart-llama-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9568/llama-b9568-bin-android-arm64.tar.gz" text="llama-b9568-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9568/llama-b9568-bin-macos-arm64.tar.gz" text="llama-b9568-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9568/llama-b9568-bin-macos-x64.tar.gz" text="llama-b9568-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9568/llama-b9568-bin-ubuntu-arm64.tar.gz" text="llama-b9568-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9568/llama-b9568-bin-ubuntu-openvino-2026.0-x64.tar.gz" text="llama-b9568-bin-ubuntu-openvino-2026.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9568/llama-b9568-bin-ubuntu-rocm-7.2-x64.tar.gz" text="llama-b9568-bin-ubuntu-rocm-7.2-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9568/llama-b9568-bin-ubuntu-s390x.tar.gz" text="llama-b9568-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9568/llama-b9568-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b9568-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9568/llama-b9568-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b9568-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9568/llama-b9568-bin-ubuntu-x64.tar.gz" text="llama-b9568-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9568/llama-b9568-bin-win-cpu-arm64.zip" text="llama-b9568-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9568/llama-b9568-bin-win-cpu-x64.zip" text="llama-b9568-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9568/llama-b9568-bin-win-cuda-12.4-x64.zip" text="llama-b9568-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9568/llama-b9568-bin-win-cuda-13.3-x64.zip" text="llama-b9568-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9568/llama-b9568-bin-win-hip-radeon-x64.zip" text="llama-b9568-bin-win-hip-radeon-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9568/llama-b9568-bin-win-opencl-adreno-arm64.zip" text="llama-b9568-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9568/llama-b9568-bin-win-vulkan-x64.zip" text="llama-b9568-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9568/llama-b9568-ui.tar.gz" text="llama-b9568-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9568/llama-b9568-xcframework.zip" text="llama-b9568-xcframework.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-
-
-
-## b9567
-
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9567/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9567/cudart-llama-bin-win-cuda-13.3-x64.zip" text="cudart-llama-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9567/llama-b9567-bin-android-arm64.tar.gz" text="llama-b9567-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9567/llama-b9567-bin-macos-arm64.tar.gz" text="llama-b9567-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9567/llama-b9567-bin-macos-x64.tar.gz" text="llama-b9567-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9567/llama-b9567-bin-ubuntu-arm64.tar.gz" text="llama-b9567-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9567/llama-b9567-bin-ubuntu-openvino-2026.0-x64.tar.gz" text="llama-b9567-bin-ubuntu-openvino-2026.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9567/llama-b9567-bin-ubuntu-rocm-7.2-x64.tar.gz" text="llama-b9567-bin-ubuntu-rocm-7.2-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9567/llama-b9567-bin-ubuntu-s390x.tar.gz" text="llama-b9567-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9567/llama-b9567-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b9567-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9567/llama-b9567-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b9567-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9567/llama-b9567-bin-ubuntu-x64.tar.gz" text="llama-b9567-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9567/llama-b9567-bin-win-cpu-arm64.zip" text="llama-b9567-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9567/llama-b9567-bin-win-cpu-x64.zip" text="llama-b9567-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9567/llama-b9567-bin-win-cuda-12.4-x64.zip" text="llama-b9567-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9567/llama-b9567-bin-win-cuda-13.3-x64.zip" text="llama-b9567-bin-win-cuda-13.3-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9567/llama-b9567-bin-win-hip-radeon-x64.zip" text="llama-b9567-bin-win-hip-radeon-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9567/llama-b9567-bin-win-opencl-adreno-arm64.zip" text="llama-b9567-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9567/llama-b9567-bin-win-vulkan-x64.zip" text="llama-b9567-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9567/llama-b9567-ui.tar.gz" text="llama-b9567-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b9567/llama-b9567-xcframework.zip" text="llama-b9567-xcframework.zip" repositoryKey="ggml-org/llama.cpp" preferredProviders={["123pan"]} />
 
 
 
