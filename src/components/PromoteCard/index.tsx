@@ -16,11 +16,6 @@ function closeLabel(locale: string) {
   return locale.toLowerCase().startsWith('zh') ? '关闭推广信息' : 'Dismiss promotion';
 }
 
-function platformLabel(platform: string | null, locale: string) {
-  if (platform) return platform;
-  return locale.toLowerCase().startsWith('zh') ? '推荐' : 'Promoted';
-}
-
 function readDismissedSignature(): string | null {
   if (typeof window === 'undefined') return null;
   try {
@@ -111,7 +106,6 @@ export default function PromoteCard({ fetchImpl, footerSelector = DEFAULT_FOOTER
           aria-label={`${promotion.ctaLabel}: ${promotion.title}`}
         >
           <span className={styles.body}>
-            <span className={styles.badge}>{platformLabel(promotion.platform, locale)}</span>
             <span className={styles.title}>{promotion.title}</span>
             <span className={styles.description}>{promotion.description}</span>
           </span>
