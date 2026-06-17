@@ -26,7 +26,7 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.4.3/local-ai-v4.4.3-darwin-arm64" text="local-ai-v4.4.3-darwin-arm64" repositoryKey="mudler/LocalAI" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.4.3/local-ai-v4.4.3-linux-amd64" text="local-ai-v4.4.3-linux-amd64" repositoryKey="mudler/LocalAI" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.4.3/local-ai-v4.4.3-linux-arm64" text="local-ai-v4.4.3-linux-arm64" repositoryKey="mudler/LocalAI" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.4.3/LocalAI-v4.4.3-checksums.txt" text="LocalAI-v4.4.3-checksums.txt" repositoryKey="mudler/LocalAI" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.4.3/LocalAI-v4.4.3-checksums.txt" text="LocalAI-v4.4.3-checksums.txt" repositoryKey="mudler/LocalAI" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-mVsSA", "status": "synced", "syncedAt": "2026-06-16T11:03:35.557Z", "source": "azure"}]} />
 - <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.4.3/LocalAI-v4.4.3-source.tar.gz" text="LocalAI-v4.4.3-source.tar.gz" repositoryKey="mudler/LocalAI" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.4.3/LocalAI.dmg" text="LocalAI.dmg" repositoryKey="mudler/LocalAI" preferredProviders={["123pan"]} />
 

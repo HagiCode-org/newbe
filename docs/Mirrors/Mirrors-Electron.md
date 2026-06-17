@@ -2856,6 +2856,7 @@ Electron. 国内直接从官网 https://electronjs.org/ 下载比较困难，需
 - [43.0.0-beta.1](https://mirrors.huaweicloud.com/electron/43.0.0-beta.1/)
 - [43.0.0-beta.2](https://mirrors.huaweicloud.com/electron/43.0.0-beta.2/)
 - [43.0.0-beta.3](https://mirrors.huaweicloud.com/electron/43.0.0-beta.3/)
+- [43.0.0-beta.4](https://mirrors.huaweicloud.com/electron/43.0.0-beta.4/)
 
 
 
