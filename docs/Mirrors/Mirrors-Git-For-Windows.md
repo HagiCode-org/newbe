@@ -512,6 +512,7 @@ Git for Windows. 国内直接从官网 http://git-scm.com/download/win 下载比
 ## 2.55
 
 - [v2.55.0-rc0.windows.1](https://mirrors.huaweicloud.com/git-for-windows/v2.55.0-rc0.windows.1/)
+- [v2.55.0-rc1.windows.1](https://mirrors.huaweicloud.com/git-for-windows/v2.55.0-rc1.windows.1/)
 
 
 
