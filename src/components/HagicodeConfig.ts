@@ -56,7 +56,7 @@ export const HAGICODE_CONFIG: HagicodeConfig = {
   links: {
     homepage: 'https://hagicode.com/',
     video: 'https://www.bilibili.com/video/BV1pirZBuEzq',
-    installation: 'https://docs.hagicode.com/installation/desktop/',
+    installation: 'https://docs.hagicode.com/installation/windows-store/',
   },
   features: {
     title: '核心功能',
@@ -105,7 +105,7 @@ export const HAGICODE_CONFIG: HagicodeConfig = {
   },
   modal: {
     ctaButtons: {
-      install: '安装指南',
+      install: 'Microsoft Store 安装',
       video: '实战视频',
     },
   },
