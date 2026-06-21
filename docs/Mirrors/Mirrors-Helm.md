@@ -366,6 +366,7 @@ Helm. 国内直接从官网 https://helm.sh 下载比较困难，需要一些技
 
 - [v3.21.0](https://mirrors.huaweicloud.com/helm/v3.21.0/)
 - [v3.21.1](https://mirrors.huaweicloud.com/helm/v3.21.1/)
+- [v3.21.2](https://mirrors.huaweicloud.com/helm/v3.21.2/)
 
 
 
