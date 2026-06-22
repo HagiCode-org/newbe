@@ -183,11 +183,12 @@ const GithubMirrorLink: React.FC<GithubMirrorLinkProps> = ({
         {supportsDomesticPanAcceleration && (
           <a
             className={styles.triggerDomesticBadge}
-            href={domesticPanMirror?.fullUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            title="打开网盘下载链接"
-            aria-label={`打开 ${text} 的网盘下载链接`}
+            href="#"
+            onClick={handleClick}
+            role="button"
+            tabIndex={0}
+            title="打开完整连接面板"
+            aria-label={`打开 ${text} 的完整连接面板`}
           >
             <span className={styles.triggerDomesticBadgeLabel}>高速网盘下载</span>
           </a>
