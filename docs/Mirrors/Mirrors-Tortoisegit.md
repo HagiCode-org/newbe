@@ -242,13 +242,13 @@ Tortoisegit. 国内直接从官网 https://tortoisegit.org 下载比较困难，
 
 
 
-
-
-
-
 ## 2.10.10
 
 - [2.10.0.0](https://repo.huaweicloud.com/tortoisegit/2.10.0.0/)
+
+
+
+
 
 
 
@@ -297,6 +297,12 @@ Tortoisegit. 国内直接从官网 https://tortoisegit.org 下载比较困难，
 ## 2.18.18
 
 - [2.18.0.0](https://repo.huaweicloud.com/tortoisegit/2.18.0.0/)
+
+
+
+## 2.19.19
+
+- [2.19.0.0](https://repo.huaweicloud.com/tortoisegit/2.19.0.0/)
 
 
 
