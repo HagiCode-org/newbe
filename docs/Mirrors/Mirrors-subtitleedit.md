@@ -18,6 +18,25 @@ subtitleedit. 国内直接从官网 https://github.com/SubtitleEdit/subtitleedit
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v5.0.0
+
+- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0/SeConv-Linux-ARM64.tar.gz" text="SeConv-Linux-ARM64.tar.gz" repositoryKey="SubtitleEdit/subtitleedit" />
+- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0/SeConv-Linux-x64.tar.gz" text="SeConv-Linux-x64.tar.gz" repositoryKey="SubtitleEdit/subtitleedit" />
+- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0/SeConv-macOS-ARM64.zip" text="SeConv-macOS-ARM64.zip" repositoryKey="SubtitleEdit/subtitleedit" />
+- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0/SeConv-macOS-x64.zip" text="SeConv-macOS-x64.zip" repositoryKey="SubtitleEdit/subtitleedit" />
+- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0/SeConv-Windows-ARM64.zip" text="SeConv-Windows-ARM64.zip" repositoryKey="SubtitleEdit/subtitleedit" />
+- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0/SeConv-Windows-x64.zip" text="SeConv-Windows-x64.zip" repositoryKey="SubtitleEdit/subtitleedit" />
+- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0/SubtitleEdit-Linux-ARM64.tar.gz" text="SubtitleEdit-Linux-ARM64.tar.gz" repositoryKey="SubtitleEdit/subtitleedit" />
+- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0/SubtitleEdit-linux-x64.flatpak" text="SubtitleEdit-linux-x64.flatpak" repositoryKey="SubtitleEdit/subtitleedit" />
+- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0/SubtitleEdit-Linux-x64.tar.gz" text="SubtitleEdit-Linux-x64.tar.gz" repositoryKey="SubtitleEdit/subtitleedit" />
+- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0/SubtitleEdit-macOS-ARM64.dmg" text="SubtitleEdit-macOS-ARM64.dmg" repositoryKey="SubtitleEdit/subtitleedit" />
+- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0/SubtitleEdit-macOS-x64.dmg" text="SubtitleEdit-macOS-x64.dmg" repositoryKey="SubtitleEdit/subtitleedit" />
+- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0/SubtitleEdit-Windows-ARM64.zip" text="SubtitleEdit-Windows-ARM64.zip" repositoryKey="SubtitleEdit/subtitleedit" />
+- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0/SubtitleEdit-Windows-x64-Setup.exe" text="SubtitleEdit-Windows-x64-Setup.exe" repositoryKey="SubtitleEdit/subtitleedit" />
+- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0/SubtitleEdit-Windows-x64.zip" text="SubtitleEdit-Windows-x64.zip" repositoryKey="SubtitleEdit/subtitleedit" />
+
+
+
 ## v5.0.0-rc4
 
 - <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0-rc4/SeConv-Linux-ARM64.tar.gz" text="SeConv-Linux-ARM64.tar.gz" repositoryKey="SubtitleEdit/subtitleedit" />
@@ -290,6 +309,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v5.0.0-beta19
 
 - <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0-beta19/SubtitleEdit-Linux-x64.tar.gz" text="SubtitleEdit-Linux-x64.tar.gz" repositoryKey="SubtitleEdit/subtitleedit" />
@@ -298,8 +319,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0-beta19/SubtitleEdit-Windows-ARM64.zip" text="SubtitleEdit-Windows-ARM64.zip" repositoryKey="SubtitleEdit/subtitleedit" />
 - <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0-beta19/SubtitleEdit-Windows-x64-Setup.exe" text="SubtitleEdit-Windows-x64-Setup.exe" repositoryKey="SubtitleEdit/subtitleedit" />
 - <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0-beta19/SubtitleEdit-Windows-x64.zip" text="SubtitleEdit-Windows-x64.zip" repositoryKey="SubtitleEdit/subtitleedit" />
-
-
 
 
 
@@ -401,17 +420,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0-beta10/SubtitleEdit-Windows-ARM64.zip" text="SubtitleEdit-Windows-ARM64.zip" repositoryKey="SubtitleEdit/subtitleedit" />
 - <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0-beta10/SubtitleEdit-Windows-x64-Setup.exe" text="SubtitleEdit-Windows-x64-Setup.exe" repositoryKey="SubtitleEdit/subtitleedit" />
 - <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0-beta10/SubtitleEdit-Windows-x64.zip" text="SubtitleEdit-Windows-x64.zip" repositoryKey="SubtitleEdit/subtitleedit" />
-
-
-
-## v5.0.0-beta9
-
-- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0-beta9/SubtitleEdit-Linux-x64.tar.gz" text="SubtitleEdit-Linux-x64.tar.gz" repositoryKey="SubtitleEdit/subtitleedit" />
-- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0-beta9/SubtitleEdit-macOS-ARM64.dmg" text="SubtitleEdit-macOS-ARM64.dmg" repositoryKey="SubtitleEdit/subtitleedit" />
-- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0-beta9/SubtitleEdit-macOS-x64.dmg" text="SubtitleEdit-macOS-x64.dmg" repositoryKey="SubtitleEdit/subtitleedit" />
-- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0-beta9/SubtitleEdit-Windows-ARM64.zip" text="SubtitleEdit-Windows-ARM64.zip" repositoryKey="SubtitleEdit/subtitleedit" />
-- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0-beta9/SubtitleEdit-Windows-x64-Setup.exe" text="SubtitleEdit-Windows-x64-Setup.exe" repositoryKey="SubtitleEdit/subtitleedit" />
-- <GithubMirrorLink link="https://github.com/SubtitleEdit/subtitleedit/releases/download/v5.0.0-beta9/SubtitleEdit-Windows-x64.zip" text="SubtitleEdit-Windows-x64.zip" repositoryKey="SubtitleEdit/subtitleedit" />
 
 
 
