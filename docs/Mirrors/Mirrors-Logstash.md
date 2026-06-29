@@ -423,6 +423,19 @@ Logstash. 国内直接从官网 https://www.elastic.co 下载比较困难，需�
 - [7.17.0](https://mirrors.huaweicloud.com/logstash/7.17.0/)
 - [7.17.1](https://mirrors.huaweicloud.com/logstash/7.17.1/)
 - [7.17.2](https://mirrors.huaweicloud.com/logstash/7.17.2/)
+- [7.17.8](https://mirrors.huaweicloud.com/logstash/7.17.8/)
+- [7.17.9](https://mirrors.huaweicloud.com/logstash/7.17.9/)
+- [7.17.19](https://mirrors.huaweicloud.com/logstash/7.17.19/)
+- [7.17.20](https://mirrors.huaweicloud.com/logstash/7.17.20/)
+- [7.17.21](https://mirrors.huaweicloud.com/logstash/7.17.21/)
+- [7.17.22](https://mirrors.huaweicloud.com/logstash/7.17.22/)
+- [7.17.23](https://mirrors.huaweicloud.com/logstash/7.17.23/)
+- [7.17.24](https://mirrors.huaweicloud.com/logstash/7.17.24/)
+- [7.17.25](https://mirrors.huaweicloud.com/logstash/7.17.25/)
+- [7.17.26](https://mirrors.huaweicloud.com/logstash/7.17.26/)
+- [7.17.27](https://mirrors.huaweicloud.com/logstash/7.17.27/)
+- [7.17.28](https://mirrors.huaweicloud.com/logstash/7.17.28/)
+- [7.17.29](https://mirrors.huaweicloud.com/logstash/7.17.29/)
 
 
 
@@ -446,8 +459,27 @@ Logstash. 国内直接从官网 https://www.elastic.co 下载比较困难，需�
 
 
 
+## 8.3
+
+- [8.3.2](https://mirrors.huaweicloud.com/logstash/8.3.2/)
+- [8.3.3](https://mirrors.huaweicloud.com/logstash/8.3.3/)
+
+
+
+## 8.4
+
+- [8.4.0](https://mirrors.huaweicloud.com/logstash/8.4.0/)
+- [8.4.1](https://mirrors.huaweicloud.com/logstash/8.4.1/)
+- [8.4.2](https://mirrors.huaweicloud.com/logstash/8.4.2/)
+- [8.4.3](https://mirrors.huaweicloud.com/logstash/8.4.3/)
+
+
+
 ## 8.5
 
+- [8.5.0](https://mirrors.huaweicloud.com/logstash/8.5.0/)
+- [8.5.1](https://mirrors.huaweicloud.com/logstash/8.5.1/)
+- [8.5.2](https://mirrors.huaweicloud.com/logstash/8.5.2/)
 - [8.5.3](https://mirrors.huaweicloud.com/logstash/8.5.3/)
 
 
@@ -467,25 +499,65 @@ Logstash. 国内直接从官网 https://www.elastic.co 下载比较困难，需�
 
 
 
-
-
-
-
 ## 8.8
 
 - [8.8.0](https://mirrors.huaweicloud.com/logstash/8.8.0/)
 - [8.8.1](https://mirrors.huaweicloud.com/logstash/8.8.1/)
+- [8.8.2](https://mirrors.huaweicloud.com/logstash/8.8.2/)
 
 
 
 ## 8.9
 
+- [8.9.0](https://mirrors.huaweicloud.com/logstash/8.9.0/)
+- [8.9.1](https://mirrors.huaweicloud.com/logstash/8.9.1/)
 - [8.9.2](https://mirrors.huaweicloud.com/logstash/8.9.2/)
+
+
+
+## 8.10
+
+- [8.10.0](https://mirrors.huaweicloud.com/logstash/8.10.0/)
+- [8.10.1](https://mirrors.huaweicloud.com/logstash/8.10.1/)
+- [8.10.2](https://mirrors.huaweicloud.com/logstash/8.10.2/)
+- [8.10.3](https://mirrors.huaweicloud.com/logstash/8.10.3/)
+- [8.10.4](https://mirrors.huaweicloud.com/logstash/8.10.4/)
+
+
+
+## 8.11
+
+- [8.11.0](https://mirrors.huaweicloud.com/logstash/8.11.0/)
+- [8.11.1](https://mirrors.huaweicloud.com/logstash/8.11.1/)
+- [8.11.2](https://mirrors.huaweicloud.com/logstash/8.11.2/)
+- [8.11.3](https://mirrors.huaweicloud.com/logstash/8.11.3/)
+- [8.11.4](https://mirrors.huaweicloud.com/logstash/8.11.4/)
+
+
+
+## 8.12
+
+- [8.12.0](https://mirrors.huaweicloud.com/logstash/8.12.0/)
+- [8.12.1](https://mirrors.huaweicloud.com/logstash/8.12.1/)
+- [8.12.2](https://mirrors.huaweicloud.com/logstash/8.12.2/)
+
+
+
+## 8.13
+
+- [8.13.0](https://mirrors.huaweicloud.com/logstash/8.13.0/)
+- [8.13.1](https://mirrors.huaweicloud.com/logstash/8.13.1/)
+- [8.13.2](https://mirrors.huaweicloud.com/logstash/8.13.2/)
+- [8.13.3](https://mirrors.huaweicloud.com/logstash/8.13.3/)
+- [8.13.4](https://mirrors.huaweicloud.com/logstash/8.13.4/)
 
 
 
 ## 8.14
 
+- [8.14.0](https://mirrors.huaweicloud.com/logstash/8.14.0/)
+- [8.14.1](https://mirrors.huaweicloud.com/logstash/8.14.1/)
+- [8.14.2](https://mirrors.huaweicloud.com/logstash/8.14.2/)
 - [8.14.3](https://mirrors.huaweicloud.com/logstash/8.14.3/)
 
 
@@ -498,6 +570,10 @@ Logstash. 国内直接从官网 https://www.elastic.co 下载比较困难，需�
 - [8.15.3](https://mirrors.huaweicloud.com/logstash/8.15.3/)
 - [8.15.4](https://mirrors.huaweicloud.com/logstash/8.15.4/)
 - [8.15.5](https://mirrors.huaweicloud.com/logstash/8.15.5/)
+
+
+
+
 
 
 
@@ -520,6 +596,49 @@ Logstash. 国内直接从官网 https://www.elastic.co 下载比较困难，需�
 - [8.17.2](https://mirrors.huaweicloud.com/logstash/8.17.2/)
 - [8.17.3](https://mirrors.huaweicloud.com/logstash/8.17.3/)
 - [8.17.4](https://mirrors.huaweicloud.com/logstash/8.17.4/)
+- [8.17.5](https://mirrors.huaweicloud.com/logstash/8.17.5/)
+- [8.17.6](https://mirrors.huaweicloud.com/logstash/8.17.6/)
+- [8.17.7](https://mirrors.huaweicloud.com/logstash/8.17.7/)
+- [8.17.8](https://mirrors.huaweicloud.com/logstash/8.17.8/)
+- [8.17.9](https://mirrors.huaweicloud.com/logstash/8.17.9/)
+- [8.17.10](https://mirrors.huaweicloud.com/logstash/8.17.10/)
+
+
+
+## 8.18
+
+- [8.18.0](https://mirrors.huaweicloud.com/logstash/8.18.0/)
+- [8.18.1](https://mirrors.huaweicloud.com/logstash/8.18.1/)
+- [8.18.2](https://mirrors.huaweicloud.com/logstash/8.18.2/)
+- [8.18.3](https://mirrors.huaweicloud.com/logstash/8.18.3/)
+- [8.18.4](https://mirrors.huaweicloud.com/logstash/8.18.4/)
+- [8.18.5](https://mirrors.huaweicloud.com/logstash/8.18.5/)
+- [8.18.6](https://mirrors.huaweicloud.com/logstash/8.18.6/)
+- [8.18.7](https://mirrors.huaweicloud.com/logstash/8.18.7/)
+- [8.18.8](https://mirrors.huaweicloud.com/logstash/8.18.8/)
+
+
+
+## 8.19
+
+- [8.19.0](https://mirrors.huaweicloud.com/logstash/8.19.0/)
+- [8.19.1](https://mirrors.huaweicloud.com/logstash/8.19.1/)
+- [8.19.2](https://mirrors.huaweicloud.com/logstash/8.19.2/)
+- [8.19.3](https://mirrors.huaweicloud.com/logstash/8.19.3/)
+- [8.19.4](https://mirrors.huaweicloud.com/logstash/8.19.4/)
+- [8.19.5](https://mirrors.huaweicloud.com/logstash/8.19.5/)
+- [8.19.6](https://mirrors.huaweicloud.com/logstash/8.19.6/)
+- [8.19.7](https://mirrors.huaweicloud.com/logstash/8.19.7/)
+- [8.19.8](https://mirrors.huaweicloud.com/logstash/8.19.8/)
+- [8.19.9](https://mirrors.huaweicloud.com/logstash/8.19.9/)
+- [8.19.10](https://mirrors.huaweicloud.com/logstash/8.19.10/)
+- [8.19.11](https://mirrors.huaweicloud.com/logstash/8.19.11/)
+- [8.19.12](https://mirrors.huaweicloud.com/logstash/8.19.12/)
+- [8.19.13](https://mirrors.huaweicloud.com/logstash/8.19.13/)
+- [8.19.14](https://mirrors.huaweicloud.com/logstash/8.19.14/)
+- [8.19.15](https://mirrors.huaweicloud.com/logstash/8.19.15/)
+- [8.19.16](https://mirrors.huaweicloud.com/logstash/8.19.16/)
+- [8.19.17](https://mirrors.huaweicloud.com/logstash/8.19.17/)
 
 
 
@@ -562,6 +681,30 @@ Logstash. 国内直接从官网 https://www.elastic.co 下载比较困难，需�
 - [9.2.2](https://mirrors.huaweicloud.com/logstash/9.2.2/)
 - [9.2.3](https://mirrors.huaweicloud.com/logstash/9.2.3/)
 - [9.2.4](https://mirrors.huaweicloud.com/logstash/9.2.4/)
+- [9.2.5](https://mirrors.huaweicloud.com/logstash/9.2.5/)
+- [9.2.6](https://mirrors.huaweicloud.com/logstash/9.2.6/)
+- [9.2.7](https://mirrors.huaweicloud.com/logstash/9.2.7/)
+- [9.2.8](https://mirrors.huaweicloud.com/logstash/9.2.8/)
+
+
+
+## 9.3
+
+- [9.3.0](https://mirrors.huaweicloud.com/logstash/9.3.0/)
+- [9.3.1](https://mirrors.huaweicloud.com/logstash/9.3.1/)
+- [9.3.2](https://mirrors.huaweicloud.com/logstash/9.3.2/)
+- [9.3.3](https://mirrors.huaweicloud.com/logstash/9.3.3/)
+- [9.3.4](https://mirrors.huaweicloud.com/logstash/9.3.4/)
+- [9.3.5](https://mirrors.huaweicloud.com/logstash/9.3.5/)
+- [9.3.6](https://mirrors.huaweicloud.com/logstash/9.3.6/)
+
+
+
+## 9.4
+
+- [9.4.0](https://mirrors.huaweicloud.com/logstash/9.4.0/)
+- [9.4.1](https://mirrors.huaweicloud.com/logstash/9.4.1/)
+- [9.4.2](https://mirrors.huaweicloud.com/logstash/9.4.2/)
 
 
 
