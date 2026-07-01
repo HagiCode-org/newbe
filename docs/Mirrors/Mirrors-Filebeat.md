@@ -625,6 +625,7 @@ Filebeat. 国内直接从官网 https://www.elastic.co 下载比较困难，需�
 - [8.19.15](https://mirrors.huaweicloud.com/filebeat/8.19.15/)
 - [8.19.16](https://mirrors.huaweicloud.com/filebeat/8.19.16/)
 - [8.19.17](https://mirrors.huaweicloud.com/filebeat/8.19.17/)
+- [8.19.18](https://mirrors.huaweicloud.com/filebeat/8.19.18/)
 
 
 
@@ -683,6 +684,7 @@ Filebeat. 国内直接从官网 https://www.elastic.co 下载比较困难，需�
 - [9.3.4](https://mirrors.huaweicloud.com/filebeat/9.3.4/)
 - [9.3.5](https://mirrors.huaweicloud.com/filebeat/9.3.5/)
 - [9.3.6](https://mirrors.huaweicloud.com/filebeat/9.3.6/)
+- [9.3.7](https://mirrors.huaweicloud.com/filebeat/9.3.7/)
 
 
 
@@ -691,6 +693,7 @@ Filebeat. 国内直接从官网 https://www.elastic.co 下载比较困难，需�
 - [9.4.0](https://mirrors.huaweicloud.com/filebeat/9.4.0/)
 - [9.4.1](https://mirrors.huaweicloud.com/filebeat/9.4.1/)
 - [9.4.2](https://mirrors.huaweicloud.com/filebeat/9.4.2/)
+- [9.4.3](https://mirrors.huaweicloud.com/filebeat/9.4.3/)
 
 
 
