@@ -2718,6 +2718,7 @@ Electron. 国内直接从官网 https://electronjs.org/ 下载比较困难，需
 - [40.10.3](https://mirrors.huaweicloud.com/electron/40.10.3/)
 - [40.10.4](https://mirrors.huaweicloud.com/electron/40.10.4/)
 - [40.10.5](https://mirrors.huaweicloud.com/electron/40.10.5/)
+- [40.10.6](https://mirrors.huaweicloud.com/electron/40.10.6/)
 
 
 
