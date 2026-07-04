@@ -19,6 +19,7 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 ## v1.15.0
 
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.15.0/latest.json" text="latest.json" repositoryKey="esengine/DeepSeek-Reasonix" />
 - <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.15.0/reasonix-darwin-amd64.tar.gz" text="reasonix-darwin-amd64.tar.gz" repositoryKey="esengine/DeepSeek-Reasonix" />
 - <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.15.0/reasonix-darwin-arm64.tar.gz" text="reasonix-darwin-arm64.tar.gz" repositoryKey="esengine/DeepSeek-Reasonix" />
 - <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.15.0/reasonix-linux-amd64.tar.gz" text="reasonix-linux-amd64.tar.gz" repositoryKey="esengine/DeepSeek-Reasonix" />

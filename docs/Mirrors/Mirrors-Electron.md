@@ -2796,13 +2796,13 @@ Electron. 国内直接从官网 https://electronjs.org/ 下载比较困难，需
 
 
 
-
-
-
-
 ## 41.8
 
 - [41.8.0](https://mirrors.huaweicloud.com/electron/41.8.0/)
+
+
+
+
 
 
 
@@ -2888,6 +2888,12 @@ Electron. 国内直接从官网 https://electronjs.org/ 下载比较困难，需
 - [43.0.0-beta.6](https://mirrors.huaweicloud.com/electron/43.0.0-beta.6/)
 - [43.0.0-beta.7](https://mirrors.huaweicloud.com/electron/43.0.0-beta.7/)
 - [43.0.0-beta.8](https://mirrors.huaweicloud.com/electron/43.0.0-beta.8/)
+
+
+
+## 44.0
+
+- [44.0.0-alpha.1](https://mirrors.huaweicloud.com/electron/44.0.0-alpha.1/)
 
 
 
