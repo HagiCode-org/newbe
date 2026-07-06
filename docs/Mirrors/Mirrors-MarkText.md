@@ -20,6 +20,35 @@ MarkText 是一个简洁而优雅的 Markdown 编辑器，支持实时预览、�
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v0.20.0-rc.1
+
+- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.20.0-rc.1/builder-debug.yml" text="builder-debug.yml" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-a4dlA", "status": "synced", "syncedAt": "2026-07-05T14:26:28.218Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.20.0-rc.1/latest-linux.yml" text="latest-linux.yml" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-WY5SA", "status": "synced", "syncedAt": "2026-07-05T14:26:26.261Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.20.0-rc.1/latest-mac.yml" text="latest-mac.yml" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-U8FlA", "status": "synced", "syncedAt": "2026-07-05T09:40:07.749Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.20.0-rc.1/latest.yml" text="latest.yml" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-Fe8SA", "status": "synced", "syncedAt": "2026-07-05T09:40:06.223Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.20.0-rc.1/marktext-linux-0.20.0-rc.1.AppImage" text="marktext-linux-0.20.0-rc.1.AppImage" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-CFfSA", "status": "synced", "syncedAt": "2026-07-05T19:44:39.311Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.20.0-rc.1/marktext-linux-0.20.0-rc.1.deb" text="marktext-linux-0.20.0-rc.1.deb" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-OY5SA", "status": "synced", "syncedAt": "2026-07-05T19:44:37.814Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.20.0-rc.1/marktext-linux-0.20.0-rc.1.rpm" text="marktext-linux-0.20.0-rc.1.rpm" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-We8SA", "status": "synced", "syncedAt": "2026-07-05T19:45:02.121Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.20.0-rc.1/marktext-linux-0.20.0-rc.1.snap" text="marktext-linux-0.20.0-rc.1.snap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-ArbSA", "status": "synced", "syncedAt": "2026-07-05T19:45:05.391Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.20.0-rc.1/marktext-linux-0.20.0-rc.1.tar.gz" text="marktext-linux-0.20.0-rc.1.tar.gz" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-wtflA", "status": "synced", "syncedAt": "2026-07-05T19:45:31.003Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.20.0-rc.1/marktext-mac-arm64-0.20.0-rc.1.dmg" text="marktext-mac-arm64-0.20.0-rc.1.dmg" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-2dklA", "status": "synced", "syncedAt": "2026-07-05T19:45:31.121Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.20.0-rc.1/marktext-mac-arm64-0.20.0-rc.1.dmg.blockmap" text="marktext-mac-arm64-0.20.0-rc.1.dmg.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-BtflA", "status": "synced", "syncedAt": "2026-07-05T10:26:02.126Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.20.0-rc.1/marktext-mac-arm64-0.20.0-rc.1.zip" text="marktext-mac-arm64-0.20.0-rc.1.zip" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-gtflA", "status": "synced", "syncedAt": "2026-07-05T19:46:00.339Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.20.0-rc.1/marktext-mac-arm64-0.20.0-rc.1.zip.blockmap" text="marktext-mac-arm64-0.20.0-rc.1.zip.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-JtflA", "status": "synced", "syncedAt": "2026-07-05T10:26:08.517Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.20.0-rc.1/marktext-mac-x64-0.20.0-rc.1.dmg" text="marktext-mac-x64-0.20.0-rc.1.dmg" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-Z8FlA", "status": "synced", "syncedAt": "2026-07-05T19:46:05.369Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.20.0-rc.1/marktext-mac-x64-0.20.0-rc.1.dmg.blockmap" text="marktext-mac-x64-0.20.0-rc.1.dmg.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-S8FlA", "status": "synced", "syncedAt": "2026-07-05T10:41:15.512Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.20.0-rc.1/marktext-mac-x64-0.20.0-rc.1.zip" text="marktext-mac-x64-0.20.0-rc.1.zip" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-Ce8SA", "status": "synced", "syncedAt": "2026-07-05T19:46:27.097Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.20.0-rc.1/marktext-mac-x64-0.20.0-rc.1.zip.blockmap" text="marktext-mac-x64-0.20.0-rc.1.zip.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-ndklA", "status": "synced", "syncedAt": "2026-07-05T10:41:29.054Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.20.0-rc.1/marktext-win-arm64-0.20.0-rc.1-setup.exe" text="marktext-win-arm64-0.20.0-rc.1-setup.exe" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-9rbSA", "status": "synced", "syncedAt": "2026-07-05T19:46:28.584Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.20.0-rc.1/marktext-win-arm64-0.20.0-rc.1-setup.exe.blockmap" text="marktext-win-arm64-0.20.0-rc.1-setup.exe.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-hrbSA", "status": "synced", "syncedAt": "2026-07-05T10:56:43.749Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.20.0-rc.1/marktext-win-arm64-0.20.0-rc.1.zip" text="marktext-win-arm64-0.20.0-rc.1.zip" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-Oe8SA", "status": "synced", "syncedAt": "2026-07-05T19:46:57.152Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.20.0-rc.1/marktext-win-x64-0.20.0-rc.1-setup.exe" text="marktext-win-x64-0.20.0-rc.1-setup.exe" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-Ne8SA", "status": "synced", "syncedAt": "2026-07-05T19:46:53.023Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.20.0-rc.1/marktext-win-x64-0.20.0-rc.1-setup.exe.blockmap" text="marktext-win-x64-0.20.0-rc.1-setup.exe.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-Ye8SA", "status": "synced", "syncedAt": "2026-07-05T11:12:01.500Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.20.0-rc.1/marktext-win-x64-0.20.0-rc.1.zip" text="marktext-win-x64-0.20.0-rc.1.zip" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-c8FlA", "status": "synced", "syncedAt": "2026-07-05T19:47:24.449Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.20.0-rc.1/SHA256SUMS.txt" text="SHA256SUMS.txt" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-l8FlA", "status": "synced", "syncedAt": "2026-07-05T11:12:08.741Z", "source": "azure"}]} />
+
+
+
 ## v0.20.0-beta.5
 
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.20.0-beta.5/builder-debug.yml" text="builder-debug.yml" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-FY5SA", "status": "synced", "syncedAt": "2026-07-03T04:10:29.468Z", "source": "azure"}]} />
@@ -472,6 +501,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v0.16.0-rc.2
 
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.16.0-rc.2/latest-linux.yml" text="latest-linux.yml" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
@@ -488,8 +519,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.16.0-rc.2/marktext-x86_64.rpm" text="marktext-x86_64.rpm" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.16.0-rc.2/marktext.dmg" text="marktext.dmg" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.16.0-rc.2/marktext.dmg.blockmap" text="marktext.dmg.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
-
-
 
 
 
@@ -640,22 +669,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.13.65/marktext-0.13.65.tar.gz" text="marktext-0.13.65.tar.gz" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.13.65/marktext-setup-0.13.65.exe" text="marktext-setup-0.13.65.exe" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.13.65/marktext-setup-0.13.65.exe.blockmap" text="marktext-setup-0.13.65.exe.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
-
-
-
-## v0.13.53
-
-- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.13.53/latest-linux.yml" text="latest-linux.yml" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.13.53/latest-mac.yml" text="latest-mac.yml" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.13.53/latest.yml" text="latest.yml" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.13.53/marktext-0.13.53-mac.zip" text="marktext-0.13.53-mac.zip" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.13.53/marktext-0.13.53-x86_64.AppImage" text="marktext-0.13.53-x86_64.AppImage" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.13.53/marktext-0.13.53.dmg" text="marktext-0.13.53.dmg" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.13.53/marktext-0.13.53.dmg.blockmap" text="marktext-0.13.53.dmg.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.13.53/marktext-0.13.53.exe" text="marktext-0.13.53.exe" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.13.53/marktext-0.13.53.tar.gz" text="marktext-0.13.53.tar.gz" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.13.53/marktext-setup-0.13.53.exe" text="marktext-setup-0.13.53.exe" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/marktext/marktext/releases/download/v0.13.53/marktext-setup-0.13.53.exe.blockmap" text="marktext-setup-0.13.53.exe.blockmap" repositoryKey="marktext/marktext" preferredProviders={["123pan"]} />
 
 
 
