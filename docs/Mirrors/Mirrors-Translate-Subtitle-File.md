@@ -18,6 +18,27 @@ Translate-Subtitle-File. 国内直接从官网 https://github.com/1c7/Translate-
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v5.5.14
+
+- <GithubMirrorLink link="https://github.com/1c7/Translate-Subtitle-File/releases/download/v5.5.14/Zimoo-darwin-arm64-5.5.14.zip" text="Zimoo-darwin-arm64-5.5.14.zip" repositoryKey="1c7/Translate-Subtitle-File" />
+- <GithubMirrorLink link="https://github.com/1c7/Translate-Subtitle-File/releases/download/v5.5.14/Zimoo-win32-x64-5.5.14.zip" text="Zimoo-win32-x64-5.5.14.zip" repositoryKey="1c7/Translate-Subtitle-File" />
+
+
+
+## v5.5.13
+
+- <GithubMirrorLink link="https://github.com/1c7/Translate-Subtitle-File/releases/download/v5.5.13/Zimoo-darwin-arm64-5.5.13.zip" text="Zimoo-darwin-arm64-5.5.13.zip" repositoryKey="1c7/Translate-Subtitle-File" />
+- <GithubMirrorLink link="https://github.com/1c7/Translate-Subtitle-File/releases/download/v5.5.13/Zimoo-win32-x64-5.5.13.zip" text="Zimoo-win32-x64-5.5.13.zip" repositoryKey="1c7/Translate-Subtitle-File" />
+
+
+
+## v5.5.12
+
+- <GithubMirrorLink link="https://github.com/1c7/Translate-Subtitle-File/releases/download/v5.5.12/Zimoo-darwin-arm64-5.5.12.zip" text="Zimoo-darwin-arm64-5.5.12.zip" repositoryKey="1c7/Translate-Subtitle-File" />
+- <GithubMirrorLink link="https://github.com/1c7/Translate-Subtitle-File/releases/download/v5.5.12/Zimoo-win32-x64-5.5.12.zip" text="Zimoo-win32-x64-5.5.12.zip" repositoryKey="1c7/Translate-Subtitle-File" />
+
+
+
 ## v5.5.10
 
 - <GithubMirrorLink link="https://github.com/1c7/Translate-Subtitle-File/releases/download/v5.5.10/Zimoo-darwin-arm64-5.5.10.zip" text="Zimoo-darwin-arm64-5.5.10.zip" repositoryKey="1c7/Translate-Subtitle-File" />
@@ -136,6 +157,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## 3.8.0
 
 - <GithubMirrorLink link="https://github.com/1c7/Translate-Subtitle-File/releases/download/3.8.0/Tern_macOS_3.8.0.dmg" text="Tern_macOS_3.8.0.dmg" repositoryKey="1c7/Translate-Subtitle-File" />
@@ -154,8 +177,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 - <GithubMirrorLink link="https://github.com/1c7/Translate-Subtitle-File/releases/download/3.6.0/Tern_macOS_3.6.0.dmg" text="Tern_macOS_3.6.0.dmg" repositoryKey="1c7/Translate-Subtitle-File" />
 - <GithubMirrorLink link="https://github.com/1c7/Translate-Subtitle-File/releases/download/3.6.0/Tern_Windows_3.6.0.zip" text="Tern_Windows_3.6.0.zip" repositoryKey="1c7/Translate-Subtitle-File" />
-
-
 
 
 
@@ -205,21 +226,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 - <GithubMirrorLink link="https://github.com/1c7/Translate-Subtitle-File/releases/download/2.9.0/Tern_macOS_2.9.0.dmg" text="Tern_macOS_2.9.0.dmg" repositoryKey="1c7/Translate-Subtitle-File" />
 - <GithubMirrorLink link="https://github.com/1c7/Translate-Subtitle-File/releases/download/2.9.0/Tern_Windows_2.9.0.zip" text="Tern_Windows_2.9.0.zip" repositoryKey="1c7/Translate-Subtitle-File" />
-
-
-
-## 2.8.0
-
-
-
-
-## 2.7.0
-
-
-
-
-## 2.6.0
-
 
 
 
