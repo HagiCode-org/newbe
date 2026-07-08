@@ -128,6 +128,7 @@ Memcached. 国内直接从官网 https://www.memcached.org 下载比较困难，
 - [memcached-1.6.41.tar.gz](https://mirrors.huaweicloud.com/memcached/memcached-1.6.41.tar.gz)
 - [memcached-1.6.42.tar.gz](https://mirrors.huaweicloud.com/memcached/memcached-1.6.42.tar.gz)
 - [memcached-1.6.43.tar.gz](https://mirrors.huaweicloud.com/memcached/memcached-1.6.43.tar.gz)
+- [memcached-1.6.44.tar.gz](https://mirrors.huaweicloud.com/memcached/memcached-1.6.44.tar.gz)
 
 
 
