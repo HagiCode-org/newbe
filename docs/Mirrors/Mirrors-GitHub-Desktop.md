@@ -20,9 +20,25 @@ GitHub Desktop 是一个帮助用户更轻松处理克隆、分支、提交和�
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## release-3.6.3-beta3
+
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.6.3-beta3/GitHub.Desktop-3.6.3-beta3-checksums.txt" text="GitHub.Desktop-3.6.3-beta3-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-VdklA", "status": "synced", "syncedAt": "2026-07-08T19:55:38.673Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.6.3-beta3/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-Qt8SA", "status": "synced", "syncedAt": "2026-07-08T19:56:14.440Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.6.3-beta3/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-c1FSA", "status": "synced", "syncedAt": "2026-07-08T19:56:28.588Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.6.3-beta3/GitHubDesktop-3.6.3-beta3-arm64-delta.nupkg" text="GitHubDesktop-3.6.3-beta3-arm64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-B0FlA", "status": "synced", "syncedAt": "2026-07-08T19:56:32.918Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.6.3-beta3/GitHubDesktop-3.6.3-beta3-arm64-full.nupkg" text="GitHubDesktop-3.6.3-beta3-arm64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-e1FSA", "status": "synced", "syncedAt": "2026-07-08T19:57:10.171Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.6.3-beta3/GitHubDesktop-3.6.3-beta3-x64-delta.nupkg" text="GitHubDesktop-3.6.3-beta3-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-grbSA", "status": "synced", "syncedAt": "2026-07-08T19:56:48.902Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.6.3-beta3/GitHubDesktop-3.6.3-beta3-x64-full.nupkg" text="GitHubDesktop-3.6.3-beta3-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-t1FSA", "status": "synced", "syncedAt": "2026-07-08T19:57:34.044Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.6.3-beta3/GitHubDesktopSetup-arm64.exe" text="GitHubDesktopSetup-arm64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-kt8SA", "status": "synced", "syncedAt": "2026-07-08T19:57:54.033Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.6.3-beta3/GitHubDesktopSetup-arm64.msi" text="GitHubDesktopSetup-arm64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-qtflA", "status": "synced", "syncedAt": "2026-07-08T19:58:18.156Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.6.3-beta3/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-ot8SA", "status": "synced", "syncedAt": "2026-07-08T19:58:39.739Z", "source": "azure"}]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.6.3-beta3/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-J0FlA", "status": "synced", "syncedAt": "2026-07-08T19:59:00.458Z", "source": "azure"}]} />
+
+
+
 ## release-3.6.3-beta2
 
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.6.3-beta2/GitHub.Desktop-3.6.3-beta2-checksums.txt" text="GitHub.Desktop-3.6.3-beta2-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.6.3-beta2/GitHub.Desktop-3.6.3-beta2-checksums.txt" text="GitHub.Desktop-3.6.3-beta2-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-U1FSA", "status": "synced", "syncedAt": "2026-07-08T03:43:53.484Z", "source": "azure"}]} />
 - <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.6.3-beta2/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-StflA", "status": "synced", "syncedAt": "2026-07-07T20:14:26.998Z", "source": "azure"}]} />
 - <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.6.3-beta2/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-D1FSA", "status": "synced", "syncedAt": "2026-07-07T20:14:32.136Z", "source": "azure"}]} />
 - <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.6.3-beta2/GitHubDesktop-3.6.3-beta2-arm64-delta.nupkg" text="GitHubDesktop-3.6.3-beta2-arm64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-r1FSA", "status": "synced", "syncedAt": "2026-07-07T20:14:41.405Z", "source": "azure"}]} />
@@ -289,6 +305,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## release-3.5.9-beta2
 
 - <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.9-beta2/GitHub.Desktop-3.5.9-beta2-checksums.txt" text="GitHub.Desktop-3.5.9-beta2-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-kWpuA", "status": "synced", "syncedAt": "2026-04-22T13:12:27.993Z", "source": "azure"}]} />
@@ -302,8 +320,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.9-beta2/GitHubDesktopSetup-arm64.msi" text="GitHubDesktopSetup-arm64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-PWpuA", "status": "synced", "syncedAt": "2026-04-22T19:08:31.453Z", "source": "azure"}]} />
 - <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.9-beta2/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-XWpuA", "status": "synced", "syncedAt": "2026-04-22T19:09:26.027Z", "source": "azure"}]} />
 - <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.9-beta2/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-nWpuA", "status": "synced", "syncedAt": "2026-04-22T19:10:14.655Z", "source": "azure"}]} />
-
-
 
 
 
@@ -432,22 +448,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5/GitHubDesktop-3.5.5-x64-full.nupkg" text="GitHubDesktop-3.5.5-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-
-
-
-## release-3.5.5-beta6
-
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHub.Desktop-3.5.5-beta6-checksums.txt" text="GitHub.Desktop-3.5.5-beta6-checksums.txt" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHub.Desktop-arm64.zip" text="GitHub.Desktop-arm64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHub.Desktop-x64.zip" text="GitHub.Desktop-x64.zip" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHubDesktop-3.5.5-beta6-arm64-delta.nupkg" text="GitHubDesktop-3.5.5-beta6-arm64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHubDesktop-3.5.5-beta6-arm64-full.nupkg" text="GitHubDesktop-3.5.5-beta6-arm64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHubDesktop-3.5.5-beta6-x64-delta.nupkg" text="GitHubDesktop-3.5.5-beta6-x64-delta.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHubDesktop-3.5.5-beta6-x64-full.nupkg" text="GitHubDesktop-3.5.5-beta6-x64-full.nupkg" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHubDesktopSetup-arm64.exe" text="GitHubDesktopSetup-arm64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHubDesktopSetup-arm64.msi" text="GitHubDesktopSetup-arm64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHubDesktopSetup-x64.exe" text="GitHubDesktopSetup-x64.exe" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/desktop/desktop/releases/download/release-3.5.5-beta6/GitHubDesktopSetup-x64.msi" text="GitHubDesktopSetup-x64.msi" repositoryKey="desktop/desktop" preferredProviders={["123pan"]} />
 
 
 
