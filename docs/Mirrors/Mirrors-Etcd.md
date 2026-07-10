@@ -295,6 +295,7 @@ Etcd. 国内直接从官网 https://etcd.io 下载比较困难，需要一些技
 
 ## 3.7
 
+- [v3.7.0](https://mirrors.huaweicloud.com/etcd/v3.7.0/)
 - [v3.7.0-beta.0](https://mirrors.huaweicloud.com/etcd/v3.7.0-beta.0/)
 - [v3.7.0-rc.0](https://mirrors.huaweicloud.com/etcd/v3.7.0-rc.0/)
 

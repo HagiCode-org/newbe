@@ -367,6 +367,7 @@ Helm. 国内直接从官网 https://helm.sh 下载比较困难，需要一些技
 - [v3.21.0](https://mirrors.huaweicloud.com/helm/v3.21.0/)
 - [v3.21.1](https://mirrors.huaweicloud.com/helm/v3.21.1/)
 - [v3.21.2](https://mirrors.huaweicloud.com/helm/v3.21.2/)
+- [v3.21.3](https://mirrors.huaweicloud.com/helm/v3.21.3/)
 
 
 
@@ -399,6 +400,7 @@ Helm. 国内直接从官网 https://helm.sh 下载比较困难，需要一些技
 - [v4.2.0](https://mirrors.huaweicloud.com/helm/v4.2.0/)
 - [v4.2.1](https://mirrors.huaweicloud.com/helm/v4.2.1/)
 - [v4.2.2](https://mirrors.huaweicloud.com/helm/v4.2.2/)
+- [v4.2.3](https://mirrors.huaweicloud.com/helm/v4.2.3/)
 
 
 
