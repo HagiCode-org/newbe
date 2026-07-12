@@ -3005,8 +3005,11 @@ ChromeDriver 可用于 Android 上的 Chrome 和桌面版 Chrome（Mac、Linux�
 - [152.0.7938.0](https://mirrors.huaweicloud.com/chromedriver/152.0.7938.0/)
 - [152.0.7939.0](https://mirrors.huaweicloud.com/chromedriver/152.0.7939.0/)
 - [152.0.7939.2](https://mirrors.huaweicloud.com/chromedriver/152.0.7939.2/)
+- [152.0.7939.3](https://mirrors.huaweicloud.com/chromedriver/152.0.7939.3/)
 - [152.0.7940.0](https://mirrors.huaweicloud.com/chromedriver/152.0.7940.0/)
 - [152.0.7941.0](https://mirrors.huaweicloud.com/chromedriver/152.0.7941.0/)
+- [152.0.7942.0](https://mirrors.huaweicloud.com/chromedriver/152.0.7942.0/)
+- [152.0.7943.0](https://mirrors.huaweicloud.com/chromedriver/152.0.7943.0/)
 
 
 
