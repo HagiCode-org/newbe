@@ -26,9 +26,9 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 ## v3.6.3
 
+- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.6.3/Main.jar" text="Main.jar" repositoryKey="RubberTranslator/RubberTranslator" />
 - <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.6.3/RT-v3.6.3-linux.zip" text="RT-v3.6.3-linux.zip" repositoryKey="RubberTranslator/RubberTranslator" />
 - <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.6.3/RT-v3.6.3-win.zip" text="RT-v3.6.3-win.zip" repositoryKey="RubberTranslator/RubberTranslator" />
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.6.3/Main.jar" text="Main.jar" repositoryKey="RubberTranslator/RubberTranslator" />
 
 
 
@@ -49,9 +49,9 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 ## v3.6.0
 
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.6.0/RT-v3.6.0-win.zip" text="RT-v3.6.0-win.zip" repositoryKey="RubberTranslator/RubberTranslator" />
 - <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.6.0/Main.jar" text="Main.jar" repositoryKey="RubberTranslator/RubberTranslator" />
 - <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.6.0/RT-v3.6.0-linux.zip" text="RT-v3.6.0-linux.zip" repositoryKey="RubberTranslator/RubberTranslator" />
+- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.6.0/RT-v3.6.0-win.zip" text="RT-v3.6.0-win.zip" repositoryKey="RubberTranslator/RubberTranslator" />
 
 
 
@@ -64,8 +64,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 ## v3.5.1
 
 - <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.5.1/Main.jar" text="Main.jar" repositoryKey="RubberTranslator/RubberTranslator" />
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.5.1/RT-v3.5.1-mac.dmg" text="RT-v3.5.1-mac.dmg" repositoryKey="RubberTranslator/RubberTranslator" />
 - <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.5.1/RT-v3.5.1-linux.zip" text="RT-v3.5.1-linux.zip" repositoryKey="RubberTranslator/RubberTranslator" />
+- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.5.1/RT-v3.5.1-mac.dmg" text="RT-v3.5.1-mac.dmg" repositoryKey="RubberTranslator/RubberTranslator" />
 - <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.5.1/RT-v3.5.1-win.zip" text="RT-v3.5.1-win.zip" repositoryKey="RubberTranslator/RubberTranslator" />
 
 
@@ -73,161 +73,28 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 ## v3.5.0
 
 - <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.5.0/Main.jar" text="Main.jar" repositoryKey="RubberTranslator/RubberTranslator" />
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.5.0/RT-v3.5.0-win.zip" text="RT-v3.5.0-win.zip" repositoryKey="RubberTranslator/RubberTranslator" />
 - <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.5.0/RT-v3.5.0-linux.zip" text="RT-v3.5.0-linux.zip" repositoryKey="RubberTranslator/RubberTranslator" />
 - <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.5.0/RT-v3.5.0-mac.dmg" text="RT-v3.5.0-mac.dmg" repositoryKey="RubberTranslator/RubberTranslator" />
+- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.5.0/RT-v3.5.0-win.zip" text="RT-v3.5.0-win.zip" repositoryKey="RubberTranslator/RubberTranslator" />
 
 
 
 ## v3.4.1
 
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.4.1/RT-v3.4.1-mac-only.dmg" text="RT-v3.4.1-mac-only.dmg" repositoryKey="RubberTranslator/RubberTranslator" />
 - <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.4.1/Main.jar" text="Main.jar" repositoryKey="RubberTranslator/RubberTranslator" />
+- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.4.1/RT-v3.4.1-mac-only.dmg" text="RT-v3.4.1-mac-only.dmg" repositoryKey="RubberTranslator/RubberTranslator" />
 
 
 
 ## v3.4.0
 
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.4.0/RubberTranslator-v3.4.0-mac.dmg" text="RubberTranslator-v3.4.0-mac.dmg" repositoryKey="RubberTranslator/RubberTranslator" />
 - <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.4.0/Main.jar" text="Main.jar" repositoryKey="RubberTranslator/RubberTranslator" />
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.4.0/Win-Linux-upddate-package.zip" text="Win-Linux-upddate-package.zip" repositoryKey="RubberTranslator/RubberTranslator" />
 - <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.4.0/RubberTranslator-v3.4.0-linux.zip" text="RubberTranslator-v3.4.0-linux.zip" repositoryKey="RubberTranslator/RubberTranslator" />
+- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.4.0/RubberTranslator-v3.4.0-mac.dmg" text="RubberTranslator-v3.4.0-mac.dmg" repositoryKey="RubberTranslator/RubberTranslator" />
 - <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.4.0/RubberTranslator-v3.4.0-win.zip" text="RubberTranslator-v3.4.0-win.zip" repositoryKey="RubberTranslator/RubberTranslator" />
+- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.4.0/Win-Linux-upddate-package.zip" text="Win-Linux-upddate-package.zip" repositoryKey="RubberTranslator/RubberTranslator" />
 
 
-
-## v3.3.4
-
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.3.4/Main.jar" text="Main.jar" repositoryKey="RubberTranslator/RubberTranslator" />
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.3.4/RubberTranslator-v3.3.4-win.zip" text="RubberTranslator-v3.3.4-win.zip" repositoryKey="RubberTranslator/RubberTranslator" />
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.3.4/RubberTranslator-v3.3.4-linux.zip" text="RubberTranslator-v3.3.4-linux.zip" repositoryKey="RubberTranslator/RubberTranslator" />
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.3.4/RubberTranslator-v3.3.4-mac.dmg" text="RubberTranslator-v3.3.4-mac.dmg" repositoryKey="RubberTranslator/RubberTranslator" />
-
-
-
-## v3.3.3
-
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.3.3/RubberTranslator-v3.3.3-mac.dmg" text="RubberTranslator-v3.3.3-mac.dmg" repositoryKey="RubberTranslator/RubberTranslator" />
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.3.3/Main.jar" text="Main.jar" repositoryKey="RubberTranslator/RubberTranslator" />
-
-
-
-## v3.3.2
-
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.3.2/RubberTranslator-v3.3.2-win.zip" text="RubberTranslator-v3.3.2-win.zip" repositoryKey="RubberTranslator/RubberTranslator" />
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.3.2/RubberTranslator-v3.3.2-linux.zip" text="RubberTranslator-v3.3.2-linux.zip" repositoryKey="RubberTranslator/RubberTranslator" />
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.3.2/RubberTranslator-v3.3.2-mac-beta.dmg" text="RubberTranslator-v3.3.2-mac-beta.dmg" repositoryKey="RubberTranslator/RubberTranslator" />
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.3.2/Main.jar" text="Main.jar" repositoryKey="RubberTranslator/RubberTranslator" />
-
-
-
-## v3.3.1
-
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.3.1/RubberTranslator-v3.3.1-win.zip" text="RubberTranslator-v3.3.1-win.zip" repositoryKey="RubberTranslator/RubberTranslator" />
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.3.1/Main.jar" text="Main.jar" repositoryKey="RubberTranslator/RubberTranslator" />
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.3.1/RubberTranslator-v3.3.1-linux.zip" text="RubberTranslator-v3.3.1-linux.zip" repositoryKey="RubberTranslator/RubberTranslator" />
-
-
-
-## v3.2.1
-
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.2.1/Main.jar" text="Main.jar" repositoryKey="RubberTranslator/RubberTranslator" />
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.2.1/RubberTranslator-v3.2.1-win.zip" text="RubberTranslator-v3.2.1-win.zip" repositoryKey="RubberTranslator/RubberTranslator" />
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.2.1/RubberTranslator-v3.2.1-linux.zip" text="RubberTranslator-v3.2.1-linux.zip" repositoryKey="RubberTranslator/RubberTranslator" />
-
-
-
-## v3.2.1-beta
-
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.2.1-beta/RubberTranslator-v3.2.1-beta.zip" text="RubberTranslator-v3.2.1-beta.zip" repositoryKey="RubberTranslator/RubberTranslator" />
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.2.1-beta/Main.jar" text="Main.jar" repositoryKey="RubberTranslator/RubberTranslator" />
-
-
-
-## v3.2.0-beta
-
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.2.0-beta/RubberTranslator-v3.2.0-beta.zip" text="RubberTranslator-v3.2.0-beta.zip" repositoryKey="RubberTranslator/RubberTranslator" />
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.2.0-beta/Main.jar" text="Main.jar" repositoryKey="RubberTranslator/RubberTranslator" />
-
-
-
-## v3.1.0
-
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.1.0/RubberTranslator-v3.1.0.zip" text="RubberTranslator-v3.1.0.zip" repositoryKey="RubberTranslator/RubberTranslator" />
-
-
-
-## v3.0.1
-
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.0.1/RubberTranslator-v3.0.1.zip" text="RubberTranslator-v3.0.1.zip" repositoryKey="RubberTranslator/RubberTranslator" />
-
-
-
-## v3.0.0
-
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.0.0/RubberTranslator-v3.0.0.zip" text="RubberTranslator-v3.0.0.zip" repositoryKey="RubberTranslator/RubberTranslator" />
-
-
-
-
-
-## v3.0.0-beta2
-
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.0.0-beta2/RubberTranslator-v3.0.0-beta2.zip" text="RubberTranslator-v3.0.0-beta2.zip" repositoryKey="RubberTranslator/RubberTranslator" />
-
-
-
-## v3.0.0-beta1
-
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v3.0.0-beta1/RubberTranslator-v3.0.0-beta1.zip" text="RubberTranslator-v3.0.0-beta1.zip" repositoryKey="RubberTranslator/RubberTranslator" />
-
-
-
-## v2.0.0
-
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v2.0.0/RubberTranslator-v2.0.0.zip" text="RubberTranslator-v2.0.0.zip" repositoryKey="RubberTranslator/RubberTranslator" />
-
-
-
-## v2.0.0-beta4
-
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v2.0.0-beta4/RubberTranslator-v2.0.0-beta4.zip" text="RubberTranslator-v2.0.0-beta4.zip" repositoryKey="RubberTranslator/RubberTranslator" />
-
-
-
-## v2.0.0-beta3
-
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v2.0.0-beta3/RubberTranslator-v2.0.0-beta3.zip" text="RubberTranslator-v2.0.0-beta3.zip" repositoryKey="RubberTranslator/RubberTranslator" />
-
-
-
-## v2.0.0-beta2
-
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v2.0.0-beta2/RubberTranslator-v2.0.0-beta2.msi" text="RubberTranslator-v2.0.0-beta2.msi" repositoryKey="RubberTranslator/RubberTranslator" />
-
-
-
-## v2.0.0-prerelease
-
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v2.0.0-prerelease/RubberTranslator.msi" text="RubberTranslator.msi" repositoryKey="RubberTranslator/RubberTranslator" />
-
-
-
-## v1.1.1
-
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v1.1.1/RubberTranslator.msi" text="RubberTranslator.msi" repositoryKey="RubberTranslator/RubberTranslator" />
-
-
-
-## v1.1.0
-
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v1.1.0/RubberTranslator.msi" text="RubberTranslator.msi" repositoryKey="RubberTranslator/RubberTranslator" />
-
-
-
-## v1.0.0
-
-- <GithubMirrorLink link="https://github.com/RubberTranslator/RubberTranslator/releases/download/v1.0.0/RubberTranslator.msi" text="RubberTranslator.msi" repositoryKey="RubberTranslator/RubberTranslator" />
 
 
 
