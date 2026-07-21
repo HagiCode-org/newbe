@@ -18,6 +18,134 @@ PowerShell Core 是一个跨平台（Windows、Linux 和 macOS）的自动化和
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v7.7.0-preview.3
+
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.7.0-preview.3/hashes.sha256" text="hashes.sha256" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.7.0-preview.3/powershell-7.7.0-preview.3-linux-arm32.tar.gz" text="powershell-7.7.0-preview.3-linux-arm32.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.7.0-preview.3/powershell-7.7.0-preview.3-linux-arm64.tar.gz" text="powershell-7.7.0-preview.3-linux-arm64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.7.0-preview.3/powershell-7.7.0-preview.3-linux-musl-x64.tar.gz" text="powershell-7.7.0-preview.3-linux-musl-x64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.7.0-preview.3/powershell-7.7.0-preview.3-linux-x64-fxdependent.tar.gz" text="powershell-7.7.0-preview.3-linux-x64-fxdependent.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.7.0-preview.3/powershell-7.7.0-preview.3-linux-x64-musl-noopt-fxdependent.tar.gz" text="powershell-7.7.0-preview.3-linux-x64-musl-noopt-fxdependent.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.7.0-preview.3/powershell-7.7.0-preview.3-linux-x64.tar.gz" text="powershell-7.7.0-preview.3-linux-x64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.7.0-preview.3/powershell-7.7.0-preview.3-osx-arm64.pkg" text="powershell-7.7.0-preview.3-osx-arm64.pkg" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.7.0-preview.3/powershell-7.7.0-preview.3-osx-arm64.tar.gz" text="powershell-7.7.0-preview.3-osx-arm64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.7.0-preview.3/powershell-7.7.0-preview.3-osx-x64.pkg" text="powershell-7.7.0-preview.3-osx-x64.pkg" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.7.0-preview.3/powershell-7.7.0-preview.3-osx-x64.tar.gz" text="powershell-7.7.0-preview.3-osx-x64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.7.0-preview.3/PowerShell-7.7.0-preview.3-win-arm64.zip" text="PowerShell-7.7.0-preview.3-win-arm64.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.7.0-preview.3/PowerShell-7.7.0-preview.3-win-fxdependent.zip" text="PowerShell-7.7.0-preview.3-win-fxdependent.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.7.0-preview.3/PowerShell-7.7.0-preview.3-win-fxdependentWinDesktop.zip" text="PowerShell-7.7.0-preview.3-win-fxdependentWinDesktop.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.7.0-preview.3/PowerShell-7.7.0-preview.3-win-x64.zip" text="PowerShell-7.7.0-preview.3-win-x64.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.7.0-preview.3/PowerShell-7.7.0-preview.3-win-x86.zip" text="PowerShell-7.7.0-preview.3-win-x86.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.7.0-preview.3/powershell-preview-7.7.0_preview.3-1.cm.aarch64.rpm" text="powershell-preview-7.7.0_preview.3-1.cm.aarch64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.7.0-preview.3/powershell-preview-7.7.0_preview.3-1.cm.x86_64.rpm" text="powershell-preview-7.7.0_preview.3-1.cm.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.7.0-preview.3/powershell-preview-7.7.0_preview.3-1.rh.x86_64.rpm" text="powershell-preview-7.7.0_preview.3-1.rh.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.7.0-preview.3/powershell-preview_7.7.0-preview.3-1.deb_amd64.deb" text="powershell-preview_7.7.0-preview.3-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.7.0-preview.3/powershell-preview_7.7.0-preview.3-1.deb_arm64.deb" text="powershell-preview_7.7.0-preview.3-1.deb_arm64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.7.0-preview.3/PowerShellPreview-7.7.0-preview.3.msixbundle" text="PowerShellPreview-7.7.0-preview.3.msixbundle" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+
+
+
+## v7.6.4
+
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/hashes.sha256" text="hashes.sha256" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/powershell-7.6.4-1.cm.aarch64.rpm" text="powershell-7.6.4-1.cm.aarch64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/powershell-7.6.4-1.cm.x86_64.rpm" text="powershell-7.6.4-1.cm.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/powershell-7.6.4-1.rh.x86_64.rpm" text="powershell-7.6.4-1.rh.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/powershell-7.6.4-linux-arm32.tar.gz" text="powershell-7.6.4-linux-arm32.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/powershell-7.6.4-linux-arm64.tar.gz" text="powershell-7.6.4-linux-arm64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/powershell-7.6.4-linux-musl-x64.tar.gz" text="powershell-7.6.4-linux-musl-x64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/powershell-7.6.4-linux-x64-fxdependent.tar.gz" text="powershell-7.6.4-linux-x64-fxdependent.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/powershell-7.6.4-linux-x64-musl-noopt-fxdependent.tar.gz" text="powershell-7.6.4-linux-x64-musl-noopt-fxdependent.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/powershell-7.6.4-linux-x64.tar.gz" text="powershell-7.6.4-linux-x64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/powershell-7.6.4-osx-arm64.pkg" text="powershell-7.6.4-osx-arm64.pkg" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/powershell-7.6.4-osx-arm64.tar.gz" text="powershell-7.6.4-osx-arm64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/powershell-7.6.4-osx-x64.pkg" text="powershell-7.6.4-osx-x64.pkg" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/powershell-7.6.4-osx-x64.tar.gz" text="powershell-7.6.4-osx-x64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/PowerShell-7.6.4-win-arm64.msi" text="PowerShell-7.6.4-win-arm64.msi" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/PowerShell-7.6.4-win-arm64.zip" text="PowerShell-7.6.4-win-arm64.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/PowerShell-7.6.4-win-fxdependent.zip" text="PowerShell-7.6.4-win-fxdependent.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/PowerShell-7.6.4-win-fxdependentWinDesktop.zip" text="PowerShell-7.6.4-win-fxdependentWinDesktop.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/PowerShell-7.6.4-win-x64.msi" text="PowerShell-7.6.4-win-x64.msi" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/PowerShell-7.6.4-win-x64.zip" text="PowerShell-7.6.4-win-x64.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/PowerShell-7.6.4-win-x86.msi" text="PowerShell-7.6.4-win-x86.msi" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/PowerShell-7.6.4-win-x86.zip" text="PowerShell-7.6.4-win-x86.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/PowerShell-7.6.4.msixbundle" text="PowerShell-7.6.4.msixbundle" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/powershell-lts-7.6.4-1.cm.aarch64.rpm" text="powershell-lts-7.6.4-1.cm.aarch64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/powershell-lts-7.6.4-1.cm.x86_64.rpm" text="powershell-lts-7.6.4-1.cm.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/powershell-lts-7.6.4-1.rh.x86_64.rpm" text="powershell-lts-7.6.4-1.rh.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/powershell-lts-7.6.4-osx-arm64.pkg" text="powershell-lts-7.6.4-osx-arm64.pkg" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/powershell-lts-7.6.4-osx-x64.pkg" text="powershell-lts-7.6.4-osx-x64.pkg" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/PowerShell-LTS-7.6.4.msixbundle" text="PowerShell-LTS-7.6.4.msixbundle" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/powershell-lts_7.6.4-1.deb_amd64.deb" text="powershell-lts_7.6.4-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/powershell_7.6.4-1.deb_amd64.deb" text="powershell_7.6.4-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+
+
+
+## v7.5.9
+
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.9/hashes.sha256" text="hashes.sha256" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.9/powershell-7.5.9-1.cm.aarch64.rpm" text="powershell-7.5.9-1.cm.aarch64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.9/powershell-7.5.9-1.cm.x86_64.rpm" text="powershell-7.5.9-1.cm.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.9/powershell-7.5.9-1.rh.x86_64.rpm" text="powershell-7.5.9-1.rh.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.9/powershell-7.5.9-linux-arm32.tar.gz" text="powershell-7.5.9-linux-arm32.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.9/powershell-7.5.9-linux-arm64.tar.gz" text="powershell-7.5.9-linux-arm64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.9/powershell-7.5.9-linux-musl-x64.tar.gz" text="powershell-7.5.9-linux-musl-x64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.9/powershell-7.5.9-linux-x64-fxdependent.tar.gz" text="powershell-7.5.9-linux-x64-fxdependent.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.9/powershell-7.5.9-linux-x64-musl-noopt-fxdependent.tar.gz" text="powershell-7.5.9-linux-x64-musl-noopt-fxdependent.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.9/powershell-7.5.9-linux-x64.tar.gz" text="powershell-7.5.9-linux-x64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.9/powershell-7.5.9-osx-arm64.pkg" text="powershell-7.5.9-osx-arm64.pkg" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.9/powershell-7.5.9-osx-arm64.tar.gz" text="powershell-7.5.9-osx-arm64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.9/powershell-7.5.9-osx-x64.pkg" text="powershell-7.5.9-osx-x64.pkg" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.9/powershell-7.5.9-osx-x64.tar.gz" text="powershell-7.5.9-osx-x64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.9/PowerShell-7.5.9-win-arm64.msi" text="PowerShell-7.5.9-win-arm64.msi" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.9/PowerShell-7.5.9-win-arm64.zip" text="PowerShell-7.5.9-win-arm64.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.9/PowerShell-7.5.9-win-fxdependent.zip" text="PowerShell-7.5.9-win-fxdependent.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.9/PowerShell-7.5.9-win-fxdependentWinDesktop.zip" text="PowerShell-7.5.9-win-fxdependentWinDesktop.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.9/PowerShell-7.5.9-win-x64.msi" text="PowerShell-7.5.9-win-x64.msi" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.9/PowerShell-7.5.9-win-x64.zip" text="PowerShell-7.5.9-win-x64.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.9/PowerShell-7.5.9-win-x86.msi" text="PowerShell-7.5.9-win-x86.msi" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.9/PowerShell-7.5.9-win-x86.zip" text="PowerShell-7.5.9-win-x86.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.9/PowerShell-7.5.9.msixbundle" text="PowerShell-7.5.9.msixbundle" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.9/powershell_7.5.9-1.deb_amd64.deb" text="powershell_7.5.9-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+
+
+
+## v7.4.18
+
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/hashes.sha256" text="hashes.sha256" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/powershell-7.4.18-1.cm.aarch64.rpm" text="powershell-7.4.18-1.cm.aarch64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/powershell-7.4.18-1.cm.x86_64.rpm" text="powershell-7.4.18-1.cm.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/powershell-7.4.18-1.rh.x86_64.rpm" text="powershell-7.4.18-1.rh.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/powershell-7.4.18-linux-arm32.tar.gz" text="powershell-7.4.18-linux-arm32.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/powershell-7.4.18-linux-arm64.tar.gz" text="powershell-7.4.18-linux-arm64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/powershell-7.4.18-linux-musl-x64.tar.gz" text="powershell-7.4.18-linux-musl-x64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/powershell-7.4.18-linux-x64-fxdependent.tar.gz" text="powershell-7.4.18-linux-x64-fxdependent.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/powershell-7.4.18-linux-x64-musl-noopt-fxdependent.tar.gz" text="powershell-7.4.18-linux-x64-musl-noopt-fxdependent.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/powershell-7.4.18-linux-x64.tar.gz" text="powershell-7.4.18-linux-x64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/powershell-7.4.18-osx-arm64.pkg" text="powershell-7.4.18-osx-arm64.pkg" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/powershell-7.4.18-osx-arm64.tar.gz" text="powershell-7.4.18-osx-arm64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/powershell-7.4.18-osx-x64.pkg" text="powershell-7.4.18-osx-x64.pkg" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/powershell-7.4.18-osx-x64.tar.gz" text="powershell-7.4.18-osx-x64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/PowerShell-7.4.18-win-arm64.msi" text="PowerShell-7.4.18-win-arm64.msi" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/PowerShell-7.4.18-win-arm64.zip" text="PowerShell-7.4.18-win-arm64.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/PowerShell-7.4.18-win-fxdependent.zip" text="PowerShell-7.4.18-win-fxdependent.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/PowerShell-7.4.18-win-fxdependentWinDesktop.zip" text="PowerShell-7.4.18-win-fxdependentWinDesktop.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/PowerShell-7.4.18-win-x64.msi" text="PowerShell-7.4.18-win-x64.msi" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/PowerShell-7.4.18-win-x64.zip" text="PowerShell-7.4.18-win-x64.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/PowerShell-7.4.18-win-x86.msi" text="PowerShell-7.4.18-win-x86.msi" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/PowerShell-7.4.18-win-x86.zip" text="PowerShell-7.4.18-win-x86.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/PowerShell-7.4.18.msixbundle" text="PowerShell-7.4.18.msixbundle" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/powershell-lts-7.4.18-1.cm.aarch64.rpm" text="powershell-lts-7.4.18-1.cm.aarch64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/powershell-lts-7.4.18-1.cm.x86_64.rpm" text="powershell-lts-7.4.18-1.cm.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/powershell-lts-7.4.18-1.rh.x86_64.rpm" text="powershell-lts-7.4.18-1.rh.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/powershell-lts-7.4.18-osx-arm64.pkg" text="powershell-lts-7.4.18-osx-arm64.pkg" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/powershell-lts-7.4.18-osx-x64.pkg" text="powershell-lts-7.4.18-osx-x64.pkg" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/PowerShell-LTS-7.4.18.msixbundle" text="PowerShell-LTS-7.4.18.msixbundle" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/powershell-lts_7.4.18-1.deb_amd64.deb" text="powershell-lts_7.4.18-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.18/powershell_7.4.18-1.deb_amd64.deb" text="powershell_7.4.18-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
+
+
+
 ## v7.6.3
 
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.3/hashes.sha256" text="hashes.sha256" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "displayName": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-Sw5SA", "status": "synced", "syncedAt": "2026-06-17T20:14:13.924Z", "source": "azure"}]} />
@@ -529,6 +657,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v7.5.4
 
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.4/hashes.sha256" text="hashes.sha256" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
@@ -648,8 +778,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.3/PowerShell-7.5.3-win-x86.zip" text="PowerShell-7.5.3-win-x86.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.3/PowerShell-7.5.3.msixbundle" text="PowerShell-7.5.3.msixbundle" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.3/powershell_7.5.3-1.deb_amd64.deb" text="powershell_7.5.3-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-
-
 
 
 
@@ -840,128 +968,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.4/powershell-preview-7.6.0_preview.4-1.cm.x86_64.rpm" text="powershell-preview-7.6.0_preview.4-1.cm.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.4/powershell-preview-7.6.0_preview.4-1.rh.x86_64.rpm" text="powershell-preview-7.6.0_preview.4-1.rh.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 - <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.4/powershell-preview_7.6.0-preview.4-1.deb_amd64.deb" text="powershell-preview_7.6.0-preview.4-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-
-
-
-## v7.6.0-preview.3
-
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.3/hashes.sha256" text="hashes.sha256" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.3/powershell-7.6.0-preview.3-linux-arm32.tar.gz" text="powershell-7.6.0-preview.3-linux-arm32.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.3/powershell-7.6.0-preview.3-linux-arm64.tar.gz" text="powershell-7.6.0-preview.3-linux-arm64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.3/powershell-7.6.0-preview.3-linux-musl-x64.tar.gz" text="powershell-7.6.0-preview.3-linux-musl-x64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.3/powershell-7.6.0-preview.3-linux-x64-fxdependent.tar.gz" text="powershell-7.6.0-preview.3-linux-x64-fxdependent.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.3/powershell-7.6.0-preview.3-linux-x64-musl-noopt-fxdependent.tar.gz" text="powershell-7.6.0-preview.3-linux-x64-musl-noopt-fxdependent.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.3/powershell-7.6.0-preview.3-linux-x64.tar.gz" text="powershell-7.6.0-preview.3-linux-x64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.3/powershell-7.6.0-preview.3-osx-arm64.pkg" text="powershell-7.6.0-preview.3-osx-arm64.pkg" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.3/powershell-7.6.0-preview.3-osx-arm64.tar.gz" text="powershell-7.6.0-preview.3-osx-arm64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.3/powershell-7.6.0-preview.3-osx-x64.pkg" text="powershell-7.6.0-preview.3-osx-x64.pkg" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.3/powershell-7.6.0-preview.3-osx-x64.tar.gz" text="powershell-7.6.0-preview.3-osx-x64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.3/PowerShell-7.6.0-preview.3-win-arm64.msi" text="PowerShell-7.6.0-preview.3-win-arm64.msi" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.3/PowerShell-7.6.0-preview.3-win-arm64.zip" text="PowerShell-7.6.0-preview.3-win-arm64.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.3/PowerShell-7.6.0-preview.3-win-fxdependent.zip" text="PowerShell-7.6.0-preview.3-win-fxdependent.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.3/PowerShell-7.6.0-preview.3-win-fxdependentWinDesktop.zip" text="PowerShell-7.6.0-preview.3-win-fxdependentWinDesktop.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.3/PowerShell-7.6.0-preview.3-win-x64.msi" text="PowerShell-7.6.0-preview.3-win-x64.msi" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.3/PowerShell-7.6.0-preview.3-win-x64.zip" text="PowerShell-7.6.0-preview.3-win-x64.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.3/PowerShell-7.6.0-preview.3-win-x86.msi" text="PowerShell-7.6.0-preview.3-win-x86.msi" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.3/PowerShell-7.6.0-preview.3-win-x86.zip" text="PowerShell-7.6.0-preview.3-win-x86.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.3/powershell-preview-7.6.0_preview.3-1.cm.aarch64.rpm" text="powershell-preview-7.6.0_preview.3-1.cm.aarch64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.3/powershell-preview-7.6.0_preview.3-1.cm.x86_64.rpm" text="powershell-preview-7.6.0_preview.3-1.cm.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.3/powershell-preview-7.6.0_preview.3-1.rh.x86_64.rpm" text="powershell-preview-7.6.0_preview.3-1.rh.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.3/powershell-preview_7.6.0-preview.3-1.deb_amd64.deb" text="powershell-preview_7.6.0-preview.3-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-
-
-
-## v7.5.0
-
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/hashes.sha256" text="hashes.sha256" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/powershell-7.5.0-1.cm.aarch64.rpm" text="powershell-7.5.0-1.cm.aarch64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/powershell-7.5.0-1.cm.x86_64.rpm" text="powershell-7.5.0-1.cm.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/powershell-7.5.0-1.rh.x86_64.rpm" text="powershell-7.5.0-1.rh.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/powershell-7.5.0-linux-arm32.tar.gz" text="powershell-7.5.0-linux-arm32.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/powershell-7.5.0-linux-arm64.tar.gz" text="powershell-7.5.0-linux-arm64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/powershell-7.5.0-linux-musl-x64.tar.gz" text="powershell-7.5.0-linux-musl-x64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/powershell-7.5.0-linux-x64-fxdependent.tar.gz" text="powershell-7.5.0-linux-x64-fxdependent.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/powershell-7.5.0-linux-x64-musl-noopt-fxdependent.tar.gz" text="powershell-7.5.0-linux-x64-musl-noopt-fxdependent.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/powershell-7.5.0-linux-x64.tar.gz" text="powershell-7.5.0-linux-x64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/powershell-7.5.0-osx-arm64.pkg" text="powershell-7.5.0-osx-arm64.pkg" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/powershell-7.5.0-osx-arm64.tar.gz" text="powershell-7.5.0-osx-arm64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/powershell-7.5.0-osx-x64.pkg" text="powershell-7.5.0-osx-x64.pkg" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/powershell-7.5.0-osx-x64.tar.gz" text="powershell-7.5.0-osx-x64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/PowerShell-7.5.0-win-arm64.msi" text="PowerShell-7.5.0-win-arm64.msi" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/PowerShell-7.5.0-win-arm64.zip" text="PowerShell-7.5.0-win-arm64.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/PowerShell-7.5.0-win-fxdependent.zip" text="PowerShell-7.5.0-win-fxdependent.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/PowerShell-7.5.0-win-fxdependentWinDesktop.zip" text="PowerShell-7.5.0-win-fxdependentWinDesktop.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/PowerShell-7.5.0-win-x64.msi" text="PowerShell-7.5.0-win-x64.msi" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/PowerShell-7.5.0-win-x64.zip" text="PowerShell-7.5.0-win-x64.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/PowerShell-7.5.0-win-x86.msi" text="PowerShell-7.5.0-win-x86.msi" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/PowerShell-7.5.0-win-x86.zip" text="PowerShell-7.5.0-win-x86.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/PowerShell-7.5.0-win.msixbundle" text="PowerShell-7.5.0-win.msixbundle" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.5.0/powershell_7.5.0-1.deb_amd64.deb" text="powershell_7.5.0-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-
-
-
-## v7.4.7
-
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/hashes.sha256" text="hashes.sha256" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/powershell-7.4.7-1.cm.aarch64.rpm" text="powershell-7.4.7-1.cm.aarch64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/powershell-7.4.7-1.cm.x86_64.rpm" text="powershell-7.4.7-1.cm.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/powershell-7.4.7-1.rh.x86_64.rpm" text="powershell-7.4.7-1.rh.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/powershell-7.4.7-linux-arm32.tar.gz" text="powershell-7.4.7-linux-arm32.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/powershell-7.4.7-linux-arm64.tar.gz" text="powershell-7.4.7-linux-arm64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/powershell-7.4.7-linux-musl-x64.tar.gz" text="powershell-7.4.7-linux-musl-x64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/powershell-7.4.7-linux-x64-fxdependent.tar.gz" text="powershell-7.4.7-linux-x64-fxdependent.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/powershell-7.4.7-linux-x64-musl-noopt-fxdependent.tar.gz" text="powershell-7.4.7-linux-x64-musl-noopt-fxdependent.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/powershell-7.4.7-linux-x64.tar.gz" text="powershell-7.4.7-linux-x64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/powershell-7.4.7-osx-arm64.pkg" text="powershell-7.4.7-osx-arm64.pkg" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/powershell-7.4.7-osx-arm64.tar.gz" text="powershell-7.4.7-osx-arm64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/powershell-7.4.7-osx-x64.pkg" text="powershell-7.4.7-osx-x64.pkg" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/powershell-7.4.7-osx-x64.tar.gz" text="powershell-7.4.7-osx-x64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/PowerShell-7.4.7-win-arm64.msi" text="PowerShell-7.4.7-win-arm64.msi" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/PowerShell-7.4.7-win-arm64.zip" text="PowerShell-7.4.7-win-arm64.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/PowerShell-7.4.7-win-fxdependent.zip" text="PowerShell-7.4.7-win-fxdependent.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/PowerShell-7.4.7-win-fxdependentWinDesktop.zip" text="PowerShell-7.4.7-win-fxdependentWinDesktop.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/PowerShell-7.4.7-win-x64.msi" text="PowerShell-7.4.7-win-x64.msi" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/PowerShell-7.4.7-win-x64.zip" text="PowerShell-7.4.7-win-x64.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/PowerShell-7.4.7-win-x86.msi" text="PowerShell-7.4.7-win-x86.msi" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/PowerShell-7.4.7-win-x86.zip" text="PowerShell-7.4.7-win-x86.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/powershell-lts-7.4.7-1.cm.aarch64.rpm" text="powershell-lts-7.4.7-1.cm.aarch64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/powershell-lts-7.4.7-1.cm.x86_64.rpm" text="powershell-lts-7.4.7-1.cm.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/powershell-lts-7.4.7-1.rh.x86_64.rpm" text="powershell-lts-7.4.7-1.rh.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/powershell-lts-7.4.7-osx-arm64.pkg" text="powershell-lts-7.4.7-osx-arm64.pkg" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/powershell-lts-7.4.7-osx-x64.pkg" text="powershell-lts-7.4.7-osx-x64.pkg" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/powershell-lts_7.4.7-1.deb_amd64.deb" text="powershell-lts_7.4.7-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.4.7/powershell_7.4.7-1.deb_amd64.deb" text="powershell_7.4.7-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-
-
-
-## v7.6.0-preview.2
-
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.2/hashes.sha256" text="hashes.sha256" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.2/powershell-7.6.0-preview.2-linux-arm32.tar.gz" text="powershell-7.6.0-preview.2-linux-arm32.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.2/powershell-7.6.0-preview.2-linux-arm64.tar.gz" text="powershell-7.6.0-preview.2-linux-arm64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.2/powershell-7.6.0-preview.2-linux-musl-x64.tar.gz" text="powershell-7.6.0-preview.2-linux-musl-x64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.2/powershell-7.6.0-preview.2-linux-x64-fxdependent.tar.gz" text="powershell-7.6.0-preview.2-linux-x64-fxdependent.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.2/powershell-7.6.0-preview.2-linux-x64-musl-noopt-fxdependent.tar.gz" text="powershell-7.6.0-preview.2-linux-x64-musl-noopt-fxdependent.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.2/powershell-7.6.0-preview.2-linux-x64.tar.gz" text="powershell-7.6.0-preview.2-linux-x64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.2/powershell-7.6.0-preview.2-osx-arm64.pkg" text="powershell-7.6.0-preview.2-osx-arm64.pkg" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.2/powershell-7.6.0-preview.2-osx-arm64.tar.gz" text="powershell-7.6.0-preview.2-osx-arm64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.2/powershell-7.6.0-preview.2-osx-x64.pkg" text="powershell-7.6.0-preview.2-osx-x64.pkg" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.2/powershell-7.6.0-preview.2-osx-x64.tar.gz" text="powershell-7.6.0-preview.2-osx-x64.tar.gz" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.2/PowerShell-7.6.0-preview.2-win-arm64.exe" text="PowerShell-7.6.0-preview.2-win-arm64.exe" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.2/PowerShell-7.6.0-preview.2-win-arm64.msi" text="PowerShell-7.6.0-preview.2-win-arm64.msi" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.2/PowerShell-7.6.0-preview.2-win-arm64.zip" text="PowerShell-7.6.0-preview.2-win-arm64.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.2/PowerShell-7.6.0-preview.2-win-fxdependent.zip" text="PowerShell-7.6.0-preview.2-win-fxdependent.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.2/PowerShell-7.6.0-preview.2-win-fxdependentWinDesktop.zip" text="PowerShell-7.6.0-preview.2-win-fxdependentWinDesktop.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.2/PowerShell-7.6.0-preview.2-win-x64.exe" text="PowerShell-7.6.0-preview.2-win-x64.exe" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.2/PowerShell-7.6.0-preview.2-win-x64.msi" text="PowerShell-7.6.0-preview.2-win-x64.msi" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.2/PowerShell-7.6.0-preview.2-win-x64.zip" text="PowerShell-7.6.0-preview.2-win-x64.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.2/PowerShell-7.6.0-preview.2-win-x86.exe" text="PowerShell-7.6.0-preview.2-win-x86.exe" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.2/PowerShell-7.6.0-preview.2-win-x86.msi" text="PowerShell-7.6.0-preview.2-win-x86.msi" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.2/PowerShell-7.6.0-preview.2-win-x86.zip" text="PowerShell-7.6.0-preview.2-win-x86.zip" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.2/powershell-preview-7.6.0_preview.2-1.cm.aarch64.rpm" text="powershell-preview-7.6.0_preview.2-1.cm.aarch64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.2/powershell-preview-7.6.0_preview.2-1.cm.x86_64.rpm" text="powershell-preview-7.6.0_preview.2-1.cm.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.2/powershell-preview-7.6.0_preview.2-1.rh.x86_64.rpm" text="powershell-preview-7.6.0_preview.2-1.rh.x86_64.rpm" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
-- <GithubMirrorLink link="https://github.com/PowerShell/PowerShell/releases/download/v7.6.0-preview.2/powershell-preview_7.6.0-preview.2-1.deb_amd64.deb" text="powershell-preview_7.6.0-preview.2-1.deb_amd64.deb" repositoryKey="PowerShell/PowerShell" preferredProviders={["123pan"]} />
 
 
 

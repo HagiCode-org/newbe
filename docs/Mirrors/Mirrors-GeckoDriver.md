@@ -248,6 +248,7 @@ GeckoDriver. 国内直接从官网 https://github.com/mozilla/geckodriver/releas
 ## 0.37
 
 - [v0.37.0](https://mirrors.huaweicloud.com/geckodriver/v0.37.0/)
+- [v0.37.1](https://mirrors.huaweicloud.com/geckodriver/v0.37.1/)
 
 
 
