@@ -354,10 +354,6 @@ Redis. 国内直接从官网 https://redis.io 下载比较困难，需要一些�
 
 
 
-
-
-
-
 ## 6.2
 
 - [redis-6.2-rc1.tar.gz](https://repo.huaweicloud.com/redis/redis-6.2-rc1.tar.gz)
@@ -384,6 +380,10 @@ Redis. 国内直接从官网 https://redis.io 下载比较困难，需要一些�
 - [redis-6.2.20.tar.gz](https://repo.huaweicloud.com/redis/redis-6.2.20.tar.gz)
 - [redis-6.2.21.tar.gz](https://repo.huaweicloud.com/redis/redis-6.2.21.tar.gz)
 - [redis-6.2.22.tar.gz](https://repo.huaweicloud.com/redis/redis-6.2.22.tar.gz)
+
+
+
+
 
 
 
@@ -503,6 +503,13 @@ Redis. 国内直接从官网 https://redis.io 下载比较困难，需要一些�
 
 - [redis-8.8-rc1.tar.gz](https://repo.huaweicloud.com/redis/redis-8.8-rc1.tar.gz)
 - [redis-8.8.0.tar.gz](https://repo.huaweicloud.com/redis/redis-8.8.0.tar.gz)
+
+
+
+## 8.10
+
+- [redis-8.10-rc1.tar.gz](https://repo.huaweicloud.com/redis/redis-8.10-rc1.tar.gz)
+- [redis-8.10-rc2.tar.gz](https://repo.huaweicloud.com/redis/redis-8.10-rc2.tar.gz)
 
 
 

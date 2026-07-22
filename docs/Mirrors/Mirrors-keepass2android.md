@@ -123,21 +123,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
-## v1.15-pre3
-
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre3/keepass2android.keepass2android-Signed-arm.apk" text="keepass2android.keepass2android-Signed-arm.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre3/keepass2android.keepass2android-Signed-arm64.apk" text="keepass2android.keepass2android-Signed-arm64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre3/keepass2android.keepass2android-Signed-x64.apk" text="keepass2android.keepass2android-Signed-x64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre3/keepass2android.keepass2android-Signed-x86.apk" text="keepass2android.keepass2android-Signed-x86.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre3/keepass2android.keepass2android-Signed.apk" text="keepass2android.keepass2android-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre3/keepass2android.keepass2android_nonet-Signed-arm.apk" text="keepass2android.keepass2android_nonet-Signed-arm.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre3/keepass2android.keepass2android_nonet-Signed-arm64.apk" text="keepass2android.keepass2android_nonet-Signed-arm64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre3/keepass2android.keepass2android_nonet-Signed-x64.apk" text="keepass2android.keepass2android_nonet-Signed-x64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre3/keepass2android.keepass2android_nonet-Signed-x86.apk" text="keepass2android.keepass2android_nonet-Signed-x86.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre3/keepass2android.keepass2android_nonet-Signed.apk" text="keepass2android.keepass2android_nonet-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-
-
-
 ## v1.14-r2
 
 - <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-r2/keepass2android.keepass2android-Signed-arm.apk" text="keepass2android.keepass2android-Signed-arm.apk" repositoryKey="PhilippC/keepass2android" />
@@ -150,6 +135,21 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-r2/keepass2android.keepass2android_nonet-Signed-x64.apk" text="keepass2android.keepass2android_nonet-Signed-x64.apk" repositoryKey="PhilippC/keepass2android" />
 - <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-r2/keepass2android.keepass2android_nonet-Signed-x86.apk" text="keepass2android.keepass2android_nonet-Signed-x86.apk" repositoryKey="PhilippC/keepass2android" />
 - <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-r2/keepass2android.keepass2android_nonet-Signed.apk" text="keepass2android.keepass2android_nonet-Signed.apk" repositoryKey="PhilippC/keepass2android" />
+
+
+
+## v1.15-pre3
+
+- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre3/keepass2android.keepass2android-Signed-arm.apk" text="keepass2android.keepass2android-Signed-arm.apk" repositoryKey="PhilippC/keepass2android" />
+- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre3/keepass2android.keepass2android-Signed-arm64.apk" text="keepass2android.keepass2android-Signed-arm64.apk" repositoryKey="PhilippC/keepass2android" />
+- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre3/keepass2android.keepass2android-Signed-x64.apk" text="keepass2android.keepass2android-Signed-x64.apk" repositoryKey="PhilippC/keepass2android" />
+- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre3/keepass2android.keepass2android-Signed-x86.apk" text="keepass2android.keepass2android-Signed-x86.apk" repositoryKey="PhilippC/keepass2android" />
+- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre3/keepass2android.keepass2android-Signed.apk" text="keepass2android.keepass2android-Signed.apk" repositoryKey="PhilippC/keepass2android" />
+- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre3/keepass2android.keepass2android_nonet-Signed-arm.apk" text="keepass2android.keepass2android_nonet-Signed-arm.apk" repositoryKey="PhilippC/keepass2android" />
+- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre3/keepass2android.keepass2android_nonet-Signed-arm64.apk" text="keepass2android.keepass2android_nonet-Signed-arm64.apk" repositoryKey="PhilippC/keepass2android" />
+- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre3/keepass2android.keepass2android_nonet-Signed-x64.apk" text="keepass2android.keepass2android_nonet-Signed-x64.apk" repositoryKey="PhilippC/keepass2android" />
+- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre3/keepass2android.keepass2android_nonet-Signed-x86.apk" text="keepass2android.keepass2android_nonet-Signed-x86.apk" repositoryKey="PhilippC/keepass2android" />
+- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre3/keepass2android.keepass2android_nonet-Signed.apk" text="keepass2android.keepass2android_nonet-Signed.apk" repositoryKey="PhilippC/keepass2android" />
 
 
 
@@ -167,234 +167,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre2/keepass2android.keepass2android_nonet-Signed.apk" text="keepass2android.keepass2android_nonet-Signed.apk" repositoryKey="PhilippC/keepass2android" />
 
 
-
-## v1.15-pre1
-
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre1/keepass2android.keepass2android-Signed-arm.apk" text="keepass2android.keepass2android-Signed-arm.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre1/keepass2android.keepass2android-Signed-arm64.apk" text="keepass2android.keepass2android-Signed-arm64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre1/keepass2android.keepass2android-Signed-x64.apk" text="keepass2android.keepass2android-Signed-x64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre1/keepass2android.keepass2android-Signed-x86.apk" text="keepass2android.keepass2android-Signed-x86.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre1/keepass2android.keepass2android-Signed.apk" text="keepass2android.keepass2android-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre1/keepass2android.keepass2android_nonet-Signed-arm.apk" text="keepass2android.keepass2android_nonet-Signed-arm.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre1/keepass2android.keepass2android_nonet-Signed-arm64.apk" text="keepass2android.keepass2android_nonet-Signed-arm64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre1/keepass2android.keepass2android_nonet-Signed-x64.apk" text="keepass2android.keepass2android_nonet-Signed-x64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre1/keepass2android.keepass2android_nonet-Signed-x86.apk" text="keepass2android.keepass2android_nonet-Signed-x86.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre1/keepass2android.keepass2android_nonet-Signed.apk" text="keepass2android.keepass2android_nonet-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-
-
-
-## v1.15-pre0
-
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre0/keepass2android.keepass2android-Signed-arm.apk" text="keepass2android.keepass2android-Signed-arm.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre0/keepass2android.keepass2android-Signed-arm64.apk" text="keepass2android.keepass2android-Signed-arm64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre0/keepass2android.keepass2android-Signed-x64.apk" text="keepass2android.keepass2android-Signed-x64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre0/keepass2android.keepass2android-Signed-x86.apk" text="keepass2android.keepass2android-Signed-x86.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre0/keepass2android.keepass2android-Signed.apk" text="keepass2android.keepass2android-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre0/keepass2android.keepass2android_nonet-Signed-arm.apk" text="keepass2android.keepass2android_nonet-Signed-arm.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre0/keepass2android.keepass2android_nonet-Signed-arm64.apk" text="keepass2android.keepass2android_nonet-Signed-arm64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre0/keepass2android.keepass2android_nonet-Signed-x64.apk" text="keepass2android.keepass2android_nonet-Signed-x64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre0/keepass2android.keepass2android_nonet-Signed-x86.apk" text="keepass2android.keepass2android_nonet-Signed-x86.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.15-pre0/keepass2android.keepass2android_nonet-Signed.apk" text="keepass2android.keepass2android_nonet-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-
-
-
-## v1.14-r1
-
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-r1/keepass2android.keepass2android-Signed-arm.apk" text="keepass2android.keepass2android-Signed-arm.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-r1/keepass2android.keepass2android-Signed-arm64.apk" text="keepass2android.keepass2android-Signed-arm64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-r1/keepass2android.keepass2android-Signed-x64.apk" text="keepass2android.keepass2android-Signed-x64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-r1/keepass2android.keepass2android-Signed-x86.apk" text="keepass2android.keepass2android-Signed-x86.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-r1/keepass2android.keepass2android-Signed.apk" text="keepass2android.keepass2android-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-r1/keepass2android.keepass2android_nonet-Signed-arm.apk" text="keepass2android.keepass2android_nonet-Signed-arm.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-r1/keepass2android.keepass2android_nonet-Signed-arm64.apk" text="keepass2android.keepass2android_nonet-Signed-arm64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-r1/keepass2android.keepass2android_nonet-Signed-x64.apk" text="keepass2android.keepass2android_nonet-Signed-x64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-r1/keepass2android.keepass2android_nonet-Signed-x86.apk" text="keepass2android.keepass2android_nonet-Signed-x86.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-r1/keepass2android.keepass2android_nonet-Signed.apk" text="keepass2android.keepass2android_nonet-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-
-
-
-## v1.14-r0
-
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-r0/keepass2android.keepass2android-Signed-arm.apk" text="keepass2android.keepass2android-Signed-arm.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-r0/keepass2android.keepass2android-Signed-arm64.apk" text="keepass2android.keepass2android-Signed-arm64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-r0/keepass2android.keepass2android-Signed-x64.apk" text="keepass2android.keepass2android-Signed-x64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-r0/keepass2android.keepass2android-Signed-x86.apk" text="keepass2android.keepass2android-Signed-x86.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-r0/keepass2android.keepass2android-Signed.apk" text="keepass2android.keepass2android-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-r0/keepass2android.keepass2android_nonet-Signed-arm.apk" text="keepass2android.keepass2android_nonet-Signed-arm.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-r0/keepass2android.keepass2android_nonet-Signed-arm64.apk" text="keepass2android.keepass2android_nonet-Signed-arm64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-r0/keepass2android.keepass2android_nonet-Signed-x64.apk" text="keepass2android.keepass2android_nonet-Signed-x64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-r0/keepass2android.keepass2android_nonet-Signed-x86.apk" text="keepass2android.keepass2android_nonet-Signed-x86.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-r0/keepass2android.keepass2android_nonet-Signed.apk" text="keepass2android.keepass2android_nonet-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-
-
-
-## v1.13-r3
-
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r3/keepass2android.keepass2android-Signed-arm.apk" text="keepass2android.keepass2android-Signed-arm.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r3/keepass2android.keepass2android-Signed-arm64.apk" text="keepass2android.keepass2android-Signed-arm64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r3/keepass2android.keepass2android-Signed-x64.apk" text="keepass2android.keepass2android-Signed-x64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r3/keepass2android.keepass2android-Signed-x86.apk" text="keepass2android.keepass2android-Signed-x86.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r3/keepass2android.keepass2android-Signed.apk" text="keepass2android.keepass2android-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r3/keepass2android.keepass2android_nonet-Signed-arm.apk" text="keepass2android.keepass2android_nonet-Signed-arm.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r3/keepass2android.keepass2android_nonet-Signed-arm64.apk" text="keepass2android.keepass2android_nonet-Signed-arm64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r3/keepass2android.keepass2android_nonet-Signed-x64.apk" text="keepass2android.keepass2android_nonet-Signed-x64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r3/keepass2android.keepass2android_nonet-Signed-x86.apk" text="keepass2android.keepass2android_nonet-Signed-x86.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r3/keepass2android.keepass2android_nonet-Signed.apk" text="keepass2android.keepass2android_nonet-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-
-
-
-## v1.13-r2
-
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r2/keepass2android.keepass2android-Signed-arm.apk" text="keepass2android.keepass2android-Signed-arm.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r2/keepass2android.keepass2android-Signed-arm64.apk" text="keepass2android.keepass2android-Signed-arm64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r2/keepass2android.keepass2android-Signed-x64.apk" text="keepass2android.keepass2android-Signed-x64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r2/keepass2android.keepass2android-Signed-x86.apk" text="keepass2android.keepass2android-Signed-x86.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r2/keepass2android.keepass2android-Signed.apk" text="keepass2android.keepass2android-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r2/keepass2android.keepass2android_nonet-Signed-arm.apk" text="keepass2android.keepass2android_nonet-Signed-arm.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r2/keepass2android.keepass2android_nonet-Signed-arm64.apk" text="keepass2android.keepass2android_nonet-Signed-arm64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r2/keepass2android.keepass2android_nonet-Signed-x64.apk" text="keepass2android.keepass2android_nonet-Signed-x64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r2/keepass2android.keepass2android_nonet-Signed-x86.apk" text="keepass2android.keepass2android_nonet-Signed-x86.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r2/keepass2android.keepass2android_nonet-Signed.apk" text="keepass2android.keepass2android_nonet-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-
-
-
-## v1.14-pre3
-
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-pre3/keepass2android.keepass2android-Signed-arm.apk" text="keepass2android.keepass2android-Signed-arm.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-pre3/keepass2android.keepass2android-Signed-arm64.apk" text="keepass2android.keepass2android-Signed-arm64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-pre3/keepass2android.keepass2android-Signed-x64.apk" text="keepass2android.keepass2android-Signed-x64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-pre3/keepass2android.keepass2android-Signed-x86.apk" text="keepass2android.keepass2android-Signed-x86.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-pre3/keepass2android.keepass2android-Signed.apk" text="keepass2android.keepass2android-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-pre3/keepass2android.keepass2android_nonet-Signed-arm.apk" text="keepass2android.keepass2android_nonet-Signed-arm.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-pre3/keepass2android.keepass2android_nonet-Signed-arm64.apk" text="keepass2android.keepass2android_nonet-Signed-arm64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-pre3/keepass2android.keepass2android_nonet-Signed-x64.apk" text="keepass2android.keepass2android_nonet-Signed-x64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-pre3/keepass2android.keepass2android_nonet-Signed-x86.apk" text="keepass2android.keepass2android_nonet-Signed-x86.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-pre3/keepass2android.keepass2android_nonet-Signed.apk" text="keepass2android.keepass2android_nonet-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-
-
-
-## v1.14-pre1
-
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-pre1/keepass2android.keepass2android-Signed-arm.apk" text="keepass2android.keepass2android-Signed-arm.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-pre1/keepass2android.keepass2android-Signed-arm64.apk" text="keepass2android.keepass2android-Signed-arm64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-pre1/keepass2android.keepass2android-Signed-x64.apk" text="keepass2android.keepass2android-Signed-x64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-pre1/keepass2android.keepass2android-Signed-x86.apk" text="keepass2android.keepass2android-Signed-x86.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-pre1/keepass2android.keepass2android-Signed.apk" text="keepass2android.keepass2android-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-pre1/keepass2android.keepass2android_nonet-Signed-arm.apk" text="keepass2android.keepass2android_nonet-Signed-arm.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-pre1/keepass2android.keepass2android_nonet-Signed-arm64.apk" text="keepass2android.keepass2android_nonet-Signed-arm64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-pre1/keepass2android.keepass2android_nonet-Signed-x64.apk" text="keepass2android.keepass2android_nonet-Signed-x64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-pre1/keepass2android.keepass2android_nonet-Signed-x86.apk" text="keepass2android.keepass2android_nonet-Signed-x86.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-pre1/keepass2android.keepass2android_nonet-Signed.apk" text="keepass2android.keepass2android_nonet-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-
-
-
-## v1.13-r1
-
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r1/keepass2android.keepass2android-Signed-arm.apk" text="keepass2android.keepass2android-Signed-arm.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r1/keepass2android.keepass2android-Signed-arm64.apk" text="keepass2android.keepass2android-Signed-arm64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r1/keepass2android.keepass2android-Signed-x64.apk" text="keepass2android.keepass2android-Signed-x64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r1/keepass2android.keepass2android-Signed-x86.apk" text="keepass2android.keepass2android-Signed-x86.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r1/keepass2android.keepass2android-Signed.apk" text="keepass2android.keepass2android-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r1/keepass2android.keepass2android_nonet-Signed-arm.apk" text="keepass2android.keepass2android_nonet-Signed-arm.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r1/keepass2android.keepass2android_nonet-Signed-arm64.apk" text="keepass2android.keepass2android_nonet-Signed-arm64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r1/keepass2android.keepass2android_nonet-Signed-x64.apk" text="keepass2android.keepass2android_nonet-Signed-x64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r1/keepass2android.keepass2android_nonet-Signed-x86.apk" text="keepass2android.keepass2android_nonet-Signed-x86.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r1/keepass2android.keepass2android_nonet-Signed.apk" text="keepass2android.keepass2android_nonet-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-
-
-
-## v1.14-pre0
-
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-pre0/keepass2android.keepass2android-Signed-arm.apk" text="keepass2android.keepass2android-Signed-arm.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-pre0/keepass2android.keepass2android-Signed-arm64.apk" text="keepass2android.keepass2android-Signed-arm64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-pre0/keepass2android.keepass2android-Signed-x64.apk" text="keepass2android.keepass2android-Signed-x64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-pre0/keepass2android.keepass2android-Signed-x86.apk" text="keepass2android.keepass2android-Signed-x86.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-pre0/keepass2android.keepass2android-Signed.apk" text="keepass2android.keepass2android-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-pre0/keepass2android.keepass2android_nonet-Signed-arm.apk" text="keepass2android.keepass2android_nonet-Signed-arm.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-pre0/keepass2android.keepass2android_nonet-Signed-arm64.apk" text="keepass2android.keepass2android_nonet-Signed-arm64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-pre0/keepass2android.keepass2android_nonet-Signed-x64.apk" text="keepass2android.keepass2android_nonet-Signed-x64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-pre0/keepass2android.keepass2android_nonet-Signed-x86.apk" text="keepass2android.keepass2android_nonet-Signed-x86.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.14-pre0/keepass2android.keepass2android_nonet-Signed.apk" text="keepass2android.keepass2android_nonet-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-
-
-
-
-
-## v1.13-r0
-
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r0/keepass2android.keepass2android-Signed-arm.apk" text="keepass2android.keepass2android-Signed-arm.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r0/keepass2android.keepass2android-Signed-arm64.apk" text="keepass2android.keepass2android-Signed-arm64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r0/keepass2android.keepass2android-Signed-x64.apk" text="keepass2android.keepass2android-Signed-x64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r0/keepass2android.keepass2android-Signed-x86.apk" text="keepass2android.keepass2android-Signed-x86.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r0/keepass2android.keepass2android-Signed.apk" text="keepass2android.keepass2android-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r0/keepass2android.keepass2android_nonet-Signed-arm.apk" text="keepass2android.keepass2android_nonet-Signed-arm.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r0/keepass2android.keepass2android_nonet-Signed-arm64.apk" text="keepass2android.keepass2android_nonet-Signed-arm64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r0/keepass2android.keepass2android_nonet-Signed-x64.apk" text="keepass2android.keepass2android_nonet-Signed-x64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r0/keepass2android.keepass2android_nonet-Signed-x86.apk" text="keepass2android.keepass2android_nonet-Signed-x86.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.13-r0/keepass2android.keepass2android_nonet-Signed.apk" text="keepass2android.keepass2android_nonet-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-
-
-
-## v1.12-r9d
-
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.12-r9d/keepass2android.keepass2android-Signed-arm.apk" text="keepass2android.keepass2android-Signed-arm.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.12-r9d/keepass2android.keepass2android-Signed-arm64.apk" text="keepass2android.keepass2android-Signed-arm64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.12-r9d/keepass2android.keepass2android-Signed-x64.apk" text="keepass2android.keepass2android-Signed-x64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.12-r9d/keepass2android.keepass2android-Signed-x86.apk" text="keepass2android.keepass2android-Signed-x86.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.12-r9d/keepass2android.keepass2android-Signed.apk" text="keepass2android.keepass2android-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.12-r9d/keepass2android.keepass2android_nonet-Signed-arm.apk" text="keepass2android.keepass2android_nonet-Signed-arm.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.12-r9d/keepass2android.keepass2android_nonet-Signed-arm64.apk" text="keepass2android.keepass2android_nonet-Signed-arm64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.12-r9d/keepass2android.keepass2android_nonet-Signed-x64.apk" text="keepass2android.keepass2android_nonet-Signed-x64.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.12-r9d/keepass2android.keepass2android_nonet-Signed-x86.apk" text="keepass2android.keepass2android_nonet-Signed-x86.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.12-r9d/keepass2android.keepass2android_nonet-Signed.apk" text="keepass2android.keepass2android_nonet-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-
-
-
-## v1.12-r9b
-
-
-
-
-## v1.12-r9
-
-
-
-
-## v1.12-r8c
-
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.12-r8c/keepass2android.keepass2android-Signed.apk" text="keepass2android.keepass2android-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.12-r8c/keepass2android.keepass2android_nonet-Signed.apk" text="keepass2android.keepass2android_nonet-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-
-
-
-## v1.12-r8b
-
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.12-r8b/keepass2android.keepass2android-Signed.apk" text="keepass2android.keepass2android-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.12-r8b/keepass2android.keepass2android_nonet-Signed.apk" text="keepass2android.keepass2android_nonet-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-
-
-
-## v1.12-r7
-
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.12-r7/keepass2android.keepass2android-Signed.apk" text="keepass2android.keepass2android-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-
-
-
-## v1.12-r6b
-
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.12-r6b/keepass2android.keepass2android-Signed.apk" text="keepass2android.keepass2android-Signed.apk" repositoryKey="PhilippC/keepass2android" />
-
-
-
-## v1.12-r5-test2901
-
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.12-r5-test2901/keepass2android.keepass2android-1.12-r5-test2901.apk" text="keepass2android.keepass2android-1.12-r5-test2901.apk" repositoryKey="PhilippC/keepass2android" />
-
-
-
-## v1.12-r5-test2848
-
-- <GithubMirrorLink link="https://github.com/PhilippC/keepass2android/releases/download/v1.12-r5-test2848/keepass2android.keepass2android-1.12-r5-test2848.apk" text="keepass2android.keepass2android-1.12-r5-test2848.apk" repositoryKey="PhilippC/keepass2android" />
 
 
 
