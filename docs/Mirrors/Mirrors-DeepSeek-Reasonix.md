@@ -17,6 +17,18 @@ DeepSeek-Reasonix. 国内直接从官网 https://github.com/esengine/DeepSeek-Re
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v1.18.0-preview.1
+
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.18.0-preview.1/reasonix-darwin-amd64.tar.gz" text="reasonix-darwin-amd64.tar.gz" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.18.0-preview.1/reasonix-darwin-arm64.tar.gz" text="reasonix-darwin-arm64.tar.gz" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.18.0-preview.1/reasonix-linux-amd64.tar.gz" text="reasonix-linux-amd64.tar.gz" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.18.0-preview.1/reasonix-linux-arm64.tar.gz" text="reasonix-linux-arm64.tar.gz" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.18.0-preview.1/reasonix-windows-amd64.zip" text="reasonix-windows-amd64.zip" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.18.0-preview.1/reasonix-windows-arm64.zip" text="reasonix-windows-arm64.zip" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.18.0-preview.1/SHA256SUMS" text="SHA256SUMS" repositoryKey="esengine/DeepSeek-Reasonix" />
+
+
+
 ## desktop-v1.17.21
 
 - <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.17.21/latest.json" text="latest.json" repositoryKey="esengine/DeepSeek-Reasonix" />
@@ -374,6 +386,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v1.17.12
 
 - <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.17.12/latest.json" text="latest.json" repositoryKey="esengine/DeepSeek-Reasonix" />
@@ -384,8 +398,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.17.12/reasonix-windows-amd64.zip" text="reasonix-windows-amd64.zip" repositoryKey="esengine/DeepSeek-Reasonix" />
 - <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.17.12/reasonix-windows-arm64.zip" text="reasonix-windows-arm64.zip" repositoryKey="esengine/DeepSeek-Reasonix" />
 - <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.17.12/SHA256SUMS" text="SHA256SUMS" repositoryKey="esengine/DeepSeek-Reasonix" />
-
-
 
 
 
@@ -547,19 +559,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.17.7/reasonix-windows-amd64.zip" text="reasonix-windows-amd64.zip" repositoryKey="esengine/DeepSeek-Reasonix" />
 - <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.17.7/reasonix-windows-arm64.zip" text="reasonix-windows-arm64.zip" repositoryKey="esengine/DeepSeek-Reasonix" />
 - <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.17.7/SHA256SUMS" text="SHA256SUMS" repositoryKey="esengine/DeepSeek-Reasonix" />
-
-
-
-## v1.17.6
-
-- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.17.6/latest.json" text="latest.json" repositoryKey="esengine/DeepSeek-Reasonix" />
-- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.17.6/reasonix-darwin-amd64.tar.gz" text="reasonix-darwin-amd64.tar.gz" repositoryKey="esengine/DeepSeek-Reasonix" />
-- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.17.6/reasonix-darwin-arm64.tar.gz" text="reasonix-darwin-arm64.tar.gz" repositoryKey="esengine/DeepSeek-Reasonix" />
-- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.17.6/reasonix-linux-amd64.tar.gz" text="reasonix-linux-amd64.tar.gz" repositoryKey="esengine/DeepSeek-Reasonix" />
-- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.17.6/reasonix-linux-arm64.tar.gz" text="reasonix-linux-arm64.tar.gz" repositoryKey="esengine/DeepSeek-Reasonix" />
-- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.17.6/reasonix-windows-amd64.zip" text="reasonix-windows-amd64.zip" repositoryKey="esengine/DeepSeek-Reasonix" />
-- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.17.6/reasonix-windows-arm64.zip" text="reasonix-windows-arm64.zip" repositoryKey="esengine/DeepSeek-Reasonix" />
-- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/v1.17.6/SHA256SUMS" text="SHA256SUMS" repositoryKey="esengine/DeepSeek-Reasonix" />
 
 
 

@@ -28,8 +28,10 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4013.1.0/inso-linux-x64-13.1.0.tar.xz" text="inso-linux-x64-13.1.0.tar.xz" repositoryKey="Kong/insomnia" />
 - <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4013.1.0/inso-macos-13.1.0.zip" text="inso-macos-13.1.0.zip" repositoryKey="Kong/insomnia" />
 - <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4013.1.0/inso-macos-latest-large-13.1.0.pkg" text="inso-macos-latest-large-13.1.0.pkg" repositoryKey="Kong/insomnia" />
+- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4013.1.0/inso-provenance.intoto.jsonl" text="inso-provenance.intoto.jsonl" repositoryKey="Kong/insomnia" />
 - <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4013.1.0/inso-windows-13.1.0.zip" text="inso-windows-13.1.0.zip" repositoryKey="Kong/insomnia" />
 - <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4013.1.0/insomnia-13.1.0-full.nupkg" text="insomnia-13.1.0-full.nupkg" repositoryKey="Kong/insomnia" />
+- <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4013.1.0/insomnia-provenance.intoto.jsonl" text="insomnia-provenance.intoto.jsonl" repositoryKey="Kong/insomnia" />
 - <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4013.1.0/Insomnia.Core-13.1.0.AppImage" text="Insomnia.Core-13.1.0.AppImage" repositoryKey="Kong/insomnia" />
 - <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4013.1.0/Insomnia.Core-13.1.0.deb" text="Insomnia.Core-13.1.0.deb" repositoryKey="Kong/insomnia" />
 - <GithubMirrorLink link="https://github.com/Kong/insomnia/releases/download/core%4013.1.0/Insomnia.Core-13.1.0.dmg" text="Insomnia.Core-13.1.0.dmg" repositoryKey="Kong/insomnia" />
