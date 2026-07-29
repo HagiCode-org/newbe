@@ -20,6 +20,32 @@ OpenHuman 是一个面向个人场景的开源 AI 助手，强调本地优先、
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v0.63.9
+
+- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.63.9/latest.json" text="latest.json" repositoryKey="tinyhumansai/openhuman" />
+- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.63.9/openhuman-core-0.63.9-aarch64-unknown-linux-gnu.tar.gz" text="openhuman-core-0.63.9-aarch64-unknown-linux-gnu.tar.gz" repositoryKey="tinyhumansai/openhuman" />
+- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.63.9/openhuman-core-0.63.9-aarch64-unknown-linux-gnu.tar.gz.sha256" text="openhuman-core-0.63.9-aarch64-unknown-linux-gnu.tar.gz.sha256" repositoryKey="tinyhumansai/openhuman" />
+- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.63.9/openhuman-core-0.63.9-x86_64-unknown-linux-gnu.tar.gz" text="openhuman-core-0.63.9-x86_64-unknown-linux-gnu.tar.gz" repositoryKey="tinyhumansai/openhuman" />
+- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.63.9/openhuman-core-0.63.9-x86_64-unknown-linux-gnu.tar.gz.sha256" text="openhuman-core-0.63.9-x86_64-unknown-linux-gnu.tar.gz.sha256" repositoryKey="tinyhumansai/openhuman" />
+- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.63.9/OpenHuman_0.63.9_aarch64-apple-darwin.app.tar.gz" text="OpenHuman_0.63.9_aarch64-apple-darwin.app.tar.gz" repositoryKey="tinyhumansai/openhuman" />
+- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.63.9/OpenHuman_0.63.9_aarch64-apple-darwin.app.tar.gz.sig" text="OpenHuman_0.63.9_aarch64-apple-darwin.app.tar.gz.sig" repositoryKey="tinyhumansai/openhuman" />
+- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.63.9/OpenHuman_0.63.9_aarch64.AppImage" text="OpenHuman_0.63.9_aarch64.AppImage" repositoryKey="tinyhumansai/openhuman" />
+- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.63.9/OpenHuman_0.63.9_aarch64.AppImage.sig" text="OpenHuman_0.63.9_aarch64.AppImage.sig" repositoryKey="tinyhumansai/openhuman" />
+- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.63.9/OpenHuman_0.63.9_aarch64.dmg" text="OpenHuman_0.63.9_aarch64.dmg" repositoryKey="tinyhumansai/openhuman" />
+- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.63.9/OpenHuman_0.63.9_amd64.AppImage" text="OpenHuman_0.63.9_amd64.AppImage" repositoryKey="tinyhumansai/openhuman" />
+- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.63.9/OpenHuman_0.63.9_amd64.AppImage.sig" text="OpenHuman_0.63.9_amd64.AppImage.sig" repositoryKey="tinyhumansai/openhuman" />
+- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.63.9/OpenHuman_0.63.9_amd64.deb" text="OpenHuman_0.63.9_amd64.deb" repositoryKey="tinyhumansai/openhuman" />
+- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.63.9/OpenHuman_0.63.9_arm64.deb" text="OpenHuman_0.63.9_arm64.deb" repositoryKey="tinyhumansai/openhuman" />
+- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.63.9/OpenHuman_0.63.9_x64-setup.exe" text="OpenHuman_0.63.9_x64-setup.exe" repositoryKey="tinyhumansai/openhuman" />
+- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.63.9/OpenHuman_0.63.9_x64-setup.exe.sig" text="OpenHuman_0.63.9_x64-setup.exe.sig" repositoryKey="tinyhumansai/openhuman" />
+- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.63.9/OpenHuman_0.63.9_x64.dmg" text="OpenHuman_0.63.9_x64.dmg" repositoryKey="tinyhumansai/openhuman" />
+- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.63.9/OpenHuman_0.63.9_x64_en-US.msi" text="OpenHuman_0.63.9_x64_en-US.msi" repositoryKey="tinyhumansai/openhuman" />
+- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.63.9/OpenHuman_0.63.9_x64_en-US.msi.sig" text="OpenHuman_0.63.9_x64_en-US.msi.sig" repositoryKey="tinyhumansai/openhuman" />
+- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.63.9/OpenHuman_0.63.9_x86_64-apple-darwin.app.tar.gz" text="OpenHuman_0.63.9_x86_64-apple-darwin.app.tar.gz" repositoryKey="tinyhumansai/openhuman" />
+- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.63.9/OpenHuman_0.63.9_x86_64-apple-darwin.app.tar.gz.sig" text="OpenHuman_0.63.9_x86_64-apple-darwin.app.tar.gz.sig" repositoryKey="tinyhumansai/openhuman" />
+
+
+
 ## v0.63.1
 
 - <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.63.1/latest.json" text="latest.json" repositoryKey="tinyhumansai/openhuman" />
@@ -505,6 +531,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v0.53.40
 
 - <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.53.40/latest.json" text="latest.json" repositoryKey="tinyhumansai/openhuman" />
@@ -525,8 +553,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.53.40/OpenHuman_0.53.40_x64_en-US.msi.sig" text="OpenHuman_0.53.40_x64_en-US.msi.sig" repositoryKey="tinyhumansai/openhuman" />
 - <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.53.40/OpenHuman_0.53.40_x86_64-apple-darwin.app.tar.gz" text="OpenHuman_0.53.40_x86_64-apple-darwin.app.tar.gz" repositoryKey="tinyhumansai/openhuman" />
 - <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.53.40/OpenHuman_0.53.40_x86_64-apple-darwin.app.tar.gz.sig" text="OpenHuman_0.53.40_x86_64-apple-darwin.app.tar.gz.sig" repositoryKey="tinyhumansai/openhuman" />
-
-
 
 
 
@@ -715,28 +741,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.52.26/OpenHuman_0.52.26_x64_en-US.msi.sig" text="OpenHuman_0.52.26_x64_en-US.msi.sig" repositoryKey="tinyhumansai/openhuman" />
 - <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.52.26/OpenHuman_0.52.26_x86_64-apple-darwin.app.tar.gz" text="OpenHuman_0.52.26_x86_64-apple-darwin.app.tar.gz" repositoryKey="tinyhumansai/openhuman" />
 - <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.52.26/OpenHuman_0.52.26_x86_64-apple-darwin.app.tar.gz.sig" text="OpenHuman_0.52.26_x86_64-apple-darwin.app.tar.gz.sig" repositoryKey="tinyhumansai/openhuman" />
-
-
-
-## v0.52.25
-
-- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.52.25/latest.json" text="latest.json" repositoryKey="tinyhumansai/openhuman" />
-- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.52.25/openhuman-core-0.52.25-aarch64-apple-darwin.tar.gz" text="openhuman-core-0.52.25-aarch64-apple-darwin.tar.gz" repositoryKey="tinyhumansai/openhuman" />
-- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.52.25/openhuman-core-0.52.25-aarch64-apple-darwin.tar.gz.sha256" text="openhuman-core-0.52.25-aarch64-apple-darwin.tar.gz.sha256" repositoryKey="tinyhumansai/openhuman" />
-- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.52.25/openhuman-core-0.52.25-x86_64-apple-darwin.tar.gz" text="openhuman-core-0.52.25-x86_64-apple-darwin.tar.gz" repositoryKey="tinyhumansai/openhuman" />
-- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.52.25/openhuman-core-0.52.25-x86_64-apple-darwin.tar.gz.sha256" text="openhuman-core-0.52.25-x86_64-apple-darwin.tar.gz.sha256" repositoryKey="tinyhumansai/openhuman" />
-- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.52.25/openhuman-core-0.52.25-x86_64-pc-windows-msvc.zip" text="openhuman-core-0.52.25-x86_64-pc-windows-msvc.zip" repositoryKey="tinyhumansai/openhuman" />
-- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.52.25/openhuman-core-0.52.25-x86_64-pc-windows-msvc.zip.sha256" text="openhuman-core-0.52.25-x86_64-pc-windows-msvc.zip.sha256" repositoryKey="tinyhumansai/openhuman" />
-- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.52.25/OpenHuman_0.52.25_aarch64-apple-darwin.app.tar.gz" text="OpenHuman_0.52.25_aarch64-apple-darwin.app.tar.gz" repositoryKey="tinyhumansai/openhuman" />
-- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.52.25/OpenHuman_0.52.25_aarch64-apple-darwin.app.tar.gz.sig" text="OpenHuman_0.52.25_aarch64-apple-darwin.app.tar.gz.sig" repositoryKey="tinyhumansai/openhuman" />
-- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.52.25/OpenHuman_0.52.25_aarch64.dmg" text="OpenHuman_0.52.25_aarch64.dmg" repositoryKey="tinyhumansai/openhuman" />
-- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.52.25/OpenHuman_0.52.25_x64-setup.exe" text="OpenHuman_0.52.25_x64-setup.exe" repositoryKey="tinyhumansai/openhuman" />
-- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.52.25/OpenHuman_0.52.25_x64-setup.exe.sig" text="OpenHuman_0.52.25_x64-setup.exe.sig" repositoryKey="tinyhumansai/openhuman" />
-- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.52.25/OpenHuman_0.52.25_x64.dmg" text="OpenHuman_0.52.25_x64.dmg" repositoryKey="tinyhumansai/openhuman" />
-- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.52.25/OpenHuman_0.52.25_x64_en-US.msi" text="OpenHuman_0.52.25_x64_en-US.msi" repositoryKey="tinyhumansai/openhuman" />
-- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.52.25/OpenHuman_0.52.25_x64_en-US.msi.sig" text="OpenHuman_0.52.25_x64_en-US.msi.sig" repositoryKey="tinyhumansai/openhuman" />
-- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.52.25/OpenHuman_0.52.25_x86_64-apple-darwin.app.tar.gz" text="OpenHuman_0.52.25_x86_64-apple-darwin.app.tar.gz" repositoryKey="tinyhumansai/openhuman" />
-- <GithubMirrorLink link="https://github.com/tinyhumansai/openhuman/releases/download/v0.52.25/OpenHuman_0.52.25_x86_64-apple-darwin.app.tar.gz.sig" text="OpenHuman_0.52.25_x86_64-apple-darwin.app.tar.gz.sig" repositoryKey="tinyhumansai/openhuman" />
 
 
 

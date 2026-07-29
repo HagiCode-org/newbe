@@ -17,6 +17,34 @@ ActivityWatch. 国内直接从官网 https://github.com/ActivityWatch/activitywa
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v0.14.0b3
+
+- <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.0b3/activitywatch-linux-x86_64.AppImage" text="activitywatch-linux-x86_64.AppImage" repositoryKey="ActivityWatch/activitywatch" />
+- <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.0b3/activitywatch-tauri-v0.14.0b3-linux-aarch64.AppImage" text="activitywatch-tauri-v0.14.0b3-linux-aarch64.AppImage" repositoryKey="ActivityWatch/activitywatch" />
+- <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.0b3/activitywatch-tauri-v0.14.0b3-linux-aarch64.deb" text="activitywatch-tauri-v0.14.0b3-linux-aarch64.deb" repositoryKey="ActivityWatch/activitywatch" />
+- <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.0b3/activitywatch-tauri-v0.14.0b3-linux-aarch64.rpm" text="activitywatch-tauri-v0.14.0b3-linux-aarch64.rpm" repositoryKey="ActivityWatch/activitywatch" />
+- <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.0b3/activitywatch-tauri-v0.14.0b3-linux-aarch64.zip" text="activitywatch-tauri-v0.14.0b3-linux-aarch64.zip" repositoryKey="ActivityWatch/activitywatch" />
+- <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.0b3/activitywatch-tauri-v0.14.0b3-linux-x86_64.AppImage" text="activitywatch-tauri-v0.14.0b3-linux-x86_64.AppImage" repositoryKey="ActivityWatch/activitywatch" />
+- <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.0b3/activitywatch-tauri-v0.14.0b3-linux-x86_64.deb" text="activitywatch-tauri-v0.14.0b3-linux-x86_64.deb" repositoryKey="ActivityWatch/activitywatch" />
+- <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.0b3/activitywatch-tauri-v0.14.0b3-linux-x86_64.rpm" text="activitywatch-tauri-v0.14.0b3-linux-x86_64.rpm" repositoryKey="ActivityWatch/activitywatch" />
+- <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.0b3/activitywatch-tauri-v0.14.0b3-linux-x86_64.zip" text="activitywatch-tauri-v0.14.0b3-linux-x86_64.zip" repositoryKey="ActivityWatch/activitywatch" />
+- <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.0b3/activitywatch-tauri-v0.14.0b3-macos-arm64.dmg" text="activitywatch-tauri-v0.14.0b3-macos-arm64.dmg" repositoryKey="ActivityWatch/activitywatch" />
+- <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.0b3/activitywatch-tauri-v0.14.0b3-macos-arm64.zip" text="activitywatch-tauri-v0.14.0b3-macos-arm64.zip" repositoryKey="ActivityWatch/activitywatch" />
+- <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.0b3/activitywatch-tauri-v0.14.0b3-macos-x86_64.dmg" text="activitywatch-tauri-v0.14.0b3-macos-x86_64.dmg" repositoryKey="ActivityWatch/activitywatch" />
+- <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.0b3/activitywatch-tauri-v0.14.0b3-macos-x86_64.zip" text="activitywatch-tauri-v0.14.0b3-macos-x86_64.zip" repositoryKey="ActivityWatch/activitywatch" />
+- <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.0b3/activitywatch-tauri-v0.14.0b3-windows-x86_64-setup.exe" text="activitywatch-tauri-v0.14.0b3-windows-x86_64-setup.exe" repositoryKey="ActivityWatch/activitywatch" />
+- <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.0b3/activitywatch-tauri-v0.14.0b3-windows-x86_64.zip" text="activitywatch-tauri-v0.14.0b3-windows-x86_64.zip" repositoryKey="ActivityWatch/activitywatch" />
+- <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.0b3/activitywatch-v0.14.0b3-linux-x86_64.deb" text="activitywatch-v0.14.0b3-linux-x86_64.deb" repositoryKey="ActivityWatch/activitywatch" />
+- <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.0b3/activitywatch-v0.14.0b3-linux-x86_64.zip" text="activitywatch-v0.14.0b3-linux-x86_64.zip" repositoryKey="ActivityWatch/activitywatch" />
+- <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.0b3/activitywatch-v0.14.0b3-macos-arm64.dmg" text="activitywatch-v0.14.0b3-macos-arm64.dmg" repositoryKey="ActivityWatch/activitywatch" />
+- <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.0b3/activitywatch-v0.14.0b3-macos-arm64.zip" text="activitywatch-v0.14.0b3-macos-arm64.zip" repositoryKey="ActivityWatch/activitywatch" />
+- <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.0b3/activitywatch-v0.14.0b3-macos-x86_64.dmg" text="activitywatch-v0.14.0b3-macos-x86_64.dmg" repositoryKey="ActivityWatch/activitywatch" />
+- <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.0b3/activitywatch-v0.14.0b3-macos-x86_64.zip" text="activitywatch-v0.14.0b3-macos-x86_64.zip" repositoryKey="ActivityWatch/activitywatch" />
+- <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.0b3/activitywatch-v0.14.0b3-windows-x86_64-setup.exe" text="activitywatch-v0.14.0b3-windows-x86_64-setup.exe" repositoryKey="ActivityWatch/activitywatch" />
+- <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.0b3/activitywatch-v0.14.0b3-windows-x86_64.zip" text="activitywatch-v0.14.0b3-windows-x86_64.zip" repositoryKey="ActivityWatch/activitywatch" />
+
+
+
 ## v0.14.0b2
 
 - <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.14.0b2/activitywatch-linux-x86_64.AppImage" text="activitywatch-linux-x86_64.AppImage" repositoryKey="ActivityWatch/activitywatch" />
@@ -267,6 +295,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v0.12.3b5
 
 - <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.12.3b5/activitywatch-linux-x86_64.AppImage" text="activitywatch-linux-x86_64.AppImage" repositoryKey="ActivityWatch/activitywatch" />
@@ -276,8 +306,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.12.3b5/activitywatch-v0.12.3b5-macos-x86_64.zip" text="activitywatch-v0.12.3b5-macos-x86_64.zip" repositoryKey="ActivityWatch/activitywatch" />
 - <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.12.3b5/activitywatch-v0.12.3b5-windows-x86_64-setup.exe" text="activitywatch-v0.12.3b5-windows-x86_64-setup.exe" repositoryKey="ActivityWatch/activitywatch" />
 - <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.12.3b5/activitywatch-v0.12.3b5-windows-x86_64.zip" text="activitywatch-v0.12.3b5-windows-x86_64.zip" repositoryKey="ActivityWatch/activitywatch" />
-
-
 
 
 
@@ -380,16 +408,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.12.0b3/activitywatch-v0.12.0b3-macos-x86_64.zip" text="activitywatch-v0.12.0b3-macos-x86_64.zip" repositoryKey="ActivityWatch/activitywatch" />
 - <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.12.0b3/activitywatch-v0.12.0b3-windows-x86_64-setup.exe" text="activitywatch-v0.12.0b3-windows-x86_64-setup.exe" repositoryKey="ActivityWatch/activitywatch" />
 - <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.12.0b3/activitywatch-v0.12.0b3-windows-x86_64.zip" text="activitywatch-v0.12.0b3-windows-x86_64.zip" repositoryKey="ActivityWatch/activitywatch" />
-
-
-
-## v0.12.0b2
-
-- <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.12.0b2/activitywatch-v0.12.0b2-linux-x86_64.zip" text="activitywatch-v0.12.0b2-linux-x86_64.zip" repositoryKey="ActivityWatch/activitywatch" />
-- <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.12.0b2/activitywatch-v0.12.0b2-macos-x86_64.dmg" text="activitywatch-v0.12.0b2-macos-x86_64.dmg" repositoryKey="ActivityWatch/activitywatch" />
-- <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.12.0b2/activitywatch-v0.12.0b2-macos-x86_64.zip" text="activitywatch-v0.12.0b2-macos-x86_64.zip" repositoryKey="ActivityWatch/activitywatch" />
-- <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.12.0b2/activitywatch-v0.12.0b2-windows-x86_64-setup.exe" text="activitywatch-v0.12.0b2-windows-x86_64-setup.exe" repositoryKey="ActivityWatch/activitywatch" />
-- <GithubMirrorLink link="https://github.com/ActivityWatch/activitywatch/releases/download/v0.12.0b2/activitywatch-v0.12.0b2-windows-x86_64.zip" text="activitywatch-v0.12.0b2-windows-x86_64.zip" repositoryKey="ActivityWatch/activitywatch" />
 
 
 

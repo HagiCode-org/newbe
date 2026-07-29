@@ -18,6 +18,26 @@ ScreenToGif. 国内直接从官网 https://github.com/NickeManarin/ScreenToGif/ 
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## 2.43.2
+
+- <GithubMirrorLink link="https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Light.Portable.Arm64.zip" text="ScreenToGif.2.43.2.Light.Portable.Arm64.zip" repositoryKey="NickeManarin/ScreenToGif" />
+- <GithubMirrorLink link="https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Light.Portable.x64.zip" text="ScreenToGif.2.43.2.Light.Portable.x64.zip" repositoryKey="NickeManarin/ScreenToGif" />
+- <GithubMirrorLink link="https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Light.Portable.x86.zip" text="ScreenToGif.2.43.2.Light.Portable.x86.zip" repositoryKey="NickeManarin/ScreenToGif" />
+- <GithubMirrorLink link="https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Light.Setup.Arm64.msi" text="ScreenToGif.2.43.2.Light.Setup.Arm64.msi" repositoryKey="NickeManarin/ScreenToGif" />
+- <GithubMirrorLink link="https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Light.Setup.x64.msi" text="ScreenToGif.2.43.2.Light.Setup.x64.msi" repositoryKey="NickeManarin/ScreenToGif" />
+- <GithubMirrorLink link="https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Light.Setup.x86.msi" text="ScreenToGif.2.43.2.Light.Setup.x86.msi" repositoryKey="NickeManarin/ScreenToGif" />
+- <GithubMirrorLink link="https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Package.arm64.msix" text="ScreenToGif.2.43.2.Package.arm64.msix" repositoryKey="NickeManarin/ScreenToGif" />
+- <GithubMirrorLink link="https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Package.x64.msix" text="ScreenToGif.2.43.2.Package.x64.msix" repositoryKey="NickeManarin/ScreenToGif" />
+- <GithubMirrorLink link="https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Package.x86.msix" text="ScreenToGif.2.43.2.Package.x86.msix" repositoryKey="NickeManarin/ScreenToGif" />
+- <GithubMirrorLink link="https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Portable.Arm64.zip" text="ScreenToGif.2.43.2.Portable.Arm64.zip" repositoryKey="NickeManarin/ScreenToGif" />
+- <GithubMirrorLink link="https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Portable.x64.zip" text="ScreenToGif.2.43.2.Portable.x64.zip" repositoryKey="NickeManarin/ScreenToGif" />
+- <GithubMirrorLink link="https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Portable.x86.zip" text="ScreenToGif.2.43.2.Portable.x86.zip" repositoryKey="NickeManarin/ScreenToGif" />
+- <GithubMirrorLink link="https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Setup.Arm64.msi" text="ScreenToGif.2.43.2.Setup.Arm64.msi" repositoryKey="NickeManarin/ScreenToGif" />
+- <GithubMirrorLink link="https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Setup.x64.msi" text="ScreenToGif.2.43.2.Setup.x64.msi" repositoryKey="NickeManarin/ScreenToGif" />
+- <GithubMirrorLink link="https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.2/ScreenToGif.2.43.2.Setup.x86.msi" text="ScreenToGif.2.43.2.Setup.x86.msi" repositoryKey="NickeManarin/ScreenToGif" />
+
+
+
 ## 2.43.1
 
 - <GithubMirrorLink link="https://github.com/NickeManarin/ScreenToGif/releases/download/2.43.1/ScreenToGif.2.43.1.Light.Portable.Arm64.zip" text="ScreenToGif.2.43.1.Light.Portable.Arm64.zip" repositoryKey="NickeManarin/ScreenToGif" />
@@ -398,6 +418,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## 2.35.4
 
 - <GithubMirrorLink link="https://github.com/NickeManarin/ScreenToGif/releases/download/2.35.4/ScreenToGif.2.35.4.Portable.Arm64.zip" text="ScreenToGif.2.35.4.Portable.Arm64.zip" repositoryKey="NickeManarin/ScreenToGif" />
@@ -406,8 +428,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/NickeManarin/ScreenToGif/releases/download/2.35.4/ScreenToGif.2.35.4.Setup.Arm64.msi" text="ScreenToGif.2.35.4.Setup.Arm64.msi" repositoryKey="NickeManarin/ScreenToGif" />
 - <GithubMirrorLink link="https://github.com/NickeManarin/ScreenToGif/releases/download/2.35.4/ScreenToGif.2.35.4.Setup.x64.msi" text="ScreenToGif.2.35.4.Setup.x64.msi" repositoryKey="NickeManarin/ScreenToGif" />
 - <GithubMirrorLink link="https://github.com/NickeManarin/ScreenToGif/releases/download/2.35.4/ScreenToGif.2.35.4.Setup.x86.msi" text="ScreenToGif.2.35.4.Setup.x86.msi" repositoryKey="NickeManarin/ScreenToGif" />
-
-
 
 
 
@@ -487,13 +507,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 - <GithubMirrorLink link="https://github.com/NickeManarin/ScreenToGif/releases/download/2.32.1/ScreenToGif.2.32.1.Portable.zip" text="ScreenToGif.2.32.1.Portable.zip" repositoryKey="NickeManarin/ScreenToGif" />
 - <GithubMirrorLink link="https://github.com/NickeManarin/ScreenToGif/releases/download/2.32.1/ScreenToGif.2.32.1.Setup.msi" text="ScreenToGif.2.32.1.Setup.msi" repositoryKey="NickeManarin/ScreenToGif" />
-
-
-
-## 2.32
-
-- <GithubMirrorLink link="https://github.com/NickeManarin/ScreenToGif/releases/download/2.32/ScreenToGif.2.32.Portable.zip" text="ScreenToGif.2.32.Portable.zip" repositoryKey="NickeManarin/ScreenToGif" />
-- <GithubMirrorLink link="https://github.com/NickeManarin/ScreenToGif/releases/download/2.32/ScreenToGif.2.32.Setup.msi" text="ScreenToGif.2.32.Setup.msi" repositoryKey="NickeManarin/ScreenToGif" />
 
 
 
