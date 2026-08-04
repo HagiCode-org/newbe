@@ -18,6 +18,12 @@ Hearthstone-Deck-Tracker. 国内直接从官网 https://github.com/HearthSim/Hea
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v1.54.3
+
+- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.54.3/Hearthstone.Deck.Tracker-v1.54.3.zip" text="Hearthstone.Deck.Tracker-v1.54.3.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
+
+
+
 ## v1.54.2
 
 - <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.54.2/Hearthstone.Deck.Tracker-v1.54.2.zip" text="Hearthstone.Deck.Tracker-v1.54.2.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
@@ -132,11 +138,11 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v1.52.22
 
 - <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.52.22/Hearthstone.Deck.Tracker-v1.52.22.zip" text="Hearthstone.Deck.Tracker-v1.52.22.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
-
-
 
 
 
@@ -191,12 +197,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 ## v1.52.10
 
 - <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.52.10/Hearthstone.Deck.Tracker-v1.52.10.zip" text="Hearthstone.Deck.Tracker-v1.52.10.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
-
-
-
-## v1.52.9
-
-- <GithubMirrorLink link="https://github.com/HearthSim/Hearthstone-Deck-Tracker/releases/download/v1.52.9/Hearthstone.Deck.Tracker-v1.52.9.zip" text="Hearthstone.Deck.Tracker-v1.52.9.zip" repositoryKey="HearthSim/Hearthstone-Deck-Tracker" />
 
 
 
