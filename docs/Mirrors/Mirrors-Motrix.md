@@ -351,6 +351,215 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+## v1.6.8
+
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.6.8/latest-linux.yml" text="latest-linux.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.6.8/latest-mac.yml" text="latest-mac.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.6.8/latest.yml" text="latest.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.6.8/Motrix-1.6.8-arm64-mac.zip" text="Motrix-1.6.8-arm64-mac.zip" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.6.8/Motrix-1.6.8-arm64.dmg" text="Motrix-1.6.8-arm64.dmg" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.6.8/Motrix-1.6.8-arm64.dmg.blockmap" text="Motrix-1.6.8-arm64.dmg.blockmap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.6.8/Motrix-1.6.8-ia32-win.zip" text="Motrix-1.6.8-ia32-win.zip" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.6.8/Motrix-1.6.8-mac.zip" text="Motrix-1.6.8-mac.zip" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.6.8/Motrix-1.6.8-win.zip" text="Motrix-1.6.8-win.zip" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.6.8/Motrix-1.6.8.AppImage" text="Motrix-1.6.8.AppImage" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.6.8/Motrix-1.6.8.dmg" text="Motrix-1.6.8.dmg" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.6.8/Motrix-1.6.8.dmg.blockmap" text="Motrix-1.6.8.dmg.blockmap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.6.8/Motrix-1.6.8.exe" text="Motrix-1.6.8.exe" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.6.8/Motrix-1.6.8.x86_64.rpm" text="Motrix-1.6.8.x86_64.rpm" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.6.8/Motrix-Setup-1.6.8.exe" text="Motrix-Setup-1.6.8.exe" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.6.8/Motrix-Setup-1.6.8.exe.blockmap" text="Motrix-Setup-1.6.8.exe.blockmap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.6.8/Motrix_1.6.8_amd64.deb" text="Motrix_1.6.8_amd64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.6.8/Motrix_1.6.8_amd64.snap" text="Motrix_1.6.8_amd64.snap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+
+
+
+
+
+## v1.5.15
+
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.15/latest-linux.yml" text="latest-linux.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.15/latest-mac.yml" text="latest-mac.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.15/latest.yml" text="latest.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.15/Motrix-1.5.15-ia32-win.zip" text="Motrix-1.5.15-ia32-win.zip" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.15/Motrix-1.5.15-mac.zip" text="Motrix-1.5.15-mac.zip" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.15/Motrix-1.5.15-win.zip" text="Motrix-1.5.15-win.zip" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.15/Motrix-1.5.15.AppImage" text="Motrix-1.5.15.AppImage" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.15/Motrix-1.5.15.dmg" text="Motrix-1.5.15.dmg" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.15/Motrix-1.5.15.dmg.blockmap" text="Motrix-1.5.15.dmg.blockmap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.15/Motrix-1.5.15.exe" text="Motrix-1.5.15.exe" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.15/Motrix-1.5.15.x86_64.rpm" text="Motrix-1.5.15.x86_64.rpm" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.15/Motrix-Setup-1.5.15.exe" text="Motrix-Setup-1.5.15.exe" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.15/Motrix-Setup-1.5.15.exe.blockmap" text="Motrix-Setup-1.5.15.exe.blockmap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.15/Motrix_1.5.15_amd64.deb" text="Motrix_1.5.15_amd64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.15/Motrix_1.5.15_amd64.snap" text="Motrix_1.5.15_amd64.snap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+
+
+
+## v1.5.13
+
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.13/latest-linux.yml" text="latest-linux.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.13/latest-mac.yml" text="latest-mac.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.13/latest.yml" text="latest.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.13/Motrix-1.5.13-ia32-win.zip" text="Motrix-1.5.13-ia32-win.zip" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.13/Motrix-1.5.13-mac.zip" text="Motrix-1.5.13-mac.zip" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.13/Motrix-1.5.13-win.zip" text="Motrix-1.5.13-win.zip" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.13/Motrix-1.5.13.AppImage" text="Motrix-1.5.13.AppImage" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.13/Motrix-1.5.13.dmg" text="Motrix-1.5.13.dmg" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.13/Motrix-1.5.13.dmg.blockmap" text="Motrix-1.5.13.dmg.blockmap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.13/Motrix-1.5.13.exe" text="Motrix-1.5.13.exe" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.13/Motrix-1.5.13.x86_64.rpm" text="Motrix-1.5.13.x86_64.rpm" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.13/Motrix-Setup-1.5.13.exe" text="Motrix-Setup-1.5.13.exe" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.13/Motrix-Setup-1.5.13.exe.blockmap" text="Motrix-Setup-1.5.13.exe.blockmap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.13/Motrix_1.5.13_amd64.deb" text="Motrix_1.5.13_amd64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.13/Motrix_1.5.13_amd64.snap" text="Motrix_1.5.13_amd64.snap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+
+
+
+## v1.5.12
+
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.12/latest-linux.yml" text="latest-linux.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.12/latest-mac.yml" text="latest-mac.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.12/latest.yml" text="latest.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.12/Motrix-1.5.12-ia32-win.zip" text="Motrix-1.5.12-ia32-win.zip" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.12/Motrix-1.5.12-mac.zip" text="Motrix-1.5.12-mac.zip" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.12/Motrix-1.5.12-win.zip" text="Motrix-1.5.12-win.zip" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.12/Motrix-1.5.12.AppImage" text="Motrix-1.5.12.AppImage" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.12/Motrix-1.5.12.dmg" text="Motrix-1.5.12.dmg" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.12/Motrix-1.5.12.dmg.blockmap" text="Motrix-1.5.12.dmg.blockmap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.12/Motrix-1.5.12.exe" text="Motrix-1.5.12.exe" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.12/Motrix-1.5.12.x86_64.rpm" text="Motrix-1.5.12.x86_64.rpm" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.12/Motrix-Setup-1.5.12.exe" text="Motrix-Setup-1.5.12.exe" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.12/Motrix-Setup-1.5.12.exe.blockmap" text="Motrix-Setup-1.5.12.exe.blockmap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.12/Motrix_1.5.12_amd64.deb" text="Motrix_1.5.12_amd64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.12/Motrix_1.5.12_amd64.snap" text="Motrix_1.5.12_amd64.snap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+
+
+
+## v1.5.10
+
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.10/latest-linux.yml" text="latest-linux.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.10/latest-mac.yml" text="latest-mac.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.10/latest.yml" text="latest.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.10/Motrix-1.5.10-ia32-win.zip" text="Motrix-1.5.10-ia32-win.zip" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.10/Motrix-1.5.10-mac.zip" text="Motrix-1.5.10-mac.zip" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.10/Motrix-1.5.10-win.zip" text="Motrix-1.5.10-win.zip" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.10/Motrix-1.5.10.AppImage" text="Motrix-1.5.10.AppImage" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.10/Motrix-1.5.10.dmg" text="Motrix-1.5.10.dmg" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.10/Motrix-1.5.10.dmg.blockmap" text="Motrix-1.5.10.dmg.blockmap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.10/Motrix-1.5.10.exe" text="Motrix-1.5.10.exe" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.10/Motrix-1.5.10.x86_64.rpm" text="Motrix-1.5.10.x86_64.rpm" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.10/Motrix-Setup-1.5.10.exe" text="Motrix-Setup-1.5.10.exe" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.10/Motrix-Setup-1.5.10.exe.blockmap" text="Motrix-Setup-1.5.10.exe.blockmap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.10/Motrix_1.5.10_amd64.deb" text="Motrix_1.5.10_amd64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.5.10/Motrix_1.5.10_amd64.snap" text="Motrix_1.5.10_amd64.snap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+
+
+
+## v1.4.1
+
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.4.1/latest-linux.yml" text="latest-linux.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.4.1/latest-mac.yml" text="latest-mac.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.4.1/latest.yml" text="latest.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.4.1/Motrix-1.4.1-ia32-win.zip" text="Motrix-1.4.1-ia32-win.zip" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.4.1/Motrix-1.4.1-mac.zip" text="Motrix-1.4.1-mac.zip" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.4.1/Motrix-1.4.1-win.zip" text="Motrix-1.4.1-win.zip" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.4.1/Motrix-1.4.1-x86_64.AppImage" text="Motrix-1.4.1-x86_64.AppImage" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.4.1/Motrix-1.4.1.dmg" text="Motrix-1.4.1.dmg" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.4.1/Motrix-1.4.1.dmg.blockmap" text="Motrix-1.4.1.dmg.blockmap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.4.1/Motrix-1.4.1.exe" text="Motrix-1.4.1.exe" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.4.1/Motrix-Setup-1.4.1.exe" text="Motrix-Setup-1.4.1.exe" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.4.1/Motrix-Setup-1.4.1.exe.blockmap" text="Motrix-Setup-1.4.1.exe.blockmap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.4.1/Motrix_1.4.1_amd64.deb" text="Motrix_1.4.1_amd64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.4.1/Motrix_1.4.1_amd64.snap" text="Motrix_1.4.1_amd64.snap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+
+
+
+## v1.3.8
+
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.3.8/latest-linux.yml" text="latest-linux.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.3.8/latest-mac.yml" text="latest-mac.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.3.8/latest.yml" text="latest.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.3.8/Motrix-1.3.8-ia32-win.zip" text="Motrix-1.3.8-ia32-win.zip" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.3.8/Motrix-1.3.8-mac.zip" text="Motrix-1.3.8-mac.zip" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.3.8/Motrix-1.3.8-win.zip" text="Motrix-1.3.8-win.zip" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.3.8/Motrix-1.3.8-x86_64.AppImage" text="Motrix-1.3.8-x86_64.AppImage" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.3.8/Motrix-1.3.8.dmg" text="Motrix-1.3.8.dmg" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.3.8/Motrix-1.3.8.dmg.blockmap" text="Motrix-1.3.8.dmg.blockmap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.3.8/Motrix-1.3.8.exe" text="Motrix-1.3.8.exe" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.3.8/Motrix-Setup-1.3.8.exe" text="Motrix-Setup-1.3.8.exe" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.3.8/Motrix-Setup-1.3.8.exe.blockmap" text="Motrix-Setup-1.3.8.exe.blockmap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.3.8/Motrix_1.3.8_amd64.deb" text="Motrix_1.3.8_amd64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.3.8/Motrix_1.3.8_amd64.snap" text="Motrix_1.3.8_amd64.snap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+
+
+
+## v1.2.2
+
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.2.2/latest-linux.yml" text="latest-linux.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.2.2/latest-mac.yml" text="latest-mac.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.2.2/latest.yml" text="latest.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.2.2/Motrix-1.2.2-ia32-win.zip" text="Motrix-1.2.2-ia32-win.zip" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.2.2/Motrix-1.2.2-mac.zip" text="Motrix-1.2.2-mac.zip" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.2.2/Motrix-1.2.2-win.zip" text="Motrix-1.2.2-win.zip" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.2.2/Motrix-1.2.2-x86_64.AppImage" text="Motrix-1.2.2-x86_64.AppImage" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.2.2/Motrix-1.2.2.dmg" text="Motrix-1.2.2.dmg" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.2.2/Motrix-1.2.2.dmg.blockmap" text="Motrix-1.2.2.dmg.blockmap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.2.2/Motrix-1.2.2.exe" text="Motrix-1.2.2.exe" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.2.2/Motrix-Setup-1.2.2.exe" text="Motrix-Setup-1.2.2.exe" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.2.2/Motrix-Setup-1.2.2.exe.blockmap" text="Motrix-Setup-1.2.2.exe.blockmap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.2.2/Motrix_1.2.2_amd64.deb" text="Motrix_1.2.2_amd64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.2.2/Motrix_1.2.2_amd64.snap" text="Motrix_1.2.2_amd64.snap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+
+
+
+## v1.1.3
+
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.1.3/latest-linux.yml" text="latest-linux.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.1.3/latest-mac.yml" text="latest-mac.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.1.3/latest.yml" text="latest.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.1.3/Motrix-1.1.3-mac.zip" text="Motrix-1.1.3-mac.zip" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.1.3/Motrix-1.1.3-win.zip" text="Motrix-1.1.3-win.zip" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.1.3/Motrix-1.1.3-x86_64.AppImage" text="Motrix-1.1.3-x86_64.AppImage" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.1.3/Motrix-1.1.3.dmg" text="Motrix-1.1.3.dmg" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.1.3/Motrix-1.1.3.dmg.blockmap" text="Motrix-1.1.3.dmg.blockmap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.1.3/Motrix-1.1.3.exe" text="Motrix-1.1.3.exe" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.1.3/Motrix-Setup-1.1.3.exe" text="Motrix-Setup-1.1.3.exe" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.1.3/Motrix-Setup-1.1.3.exe.blockmap" text="Motrix-Setup-1.1.3.exe.blockmap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.1.3/Motrix_1.1.3_amd64.deb" text="Motrix_1.1.3_amd64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.1.3/Motrix_1.1.3_amd64.snap" text="Motrix_1.1.3_amd64.snap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+
+
+
+## v1.0.10
+
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.0.10/latest-linux.yml" text="latest-linux.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.0.10/latest-mac.yml" text="latest-mac.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.0.10/latest.yml" text="latest.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.0.10/Motrix-1.0.10-x86_64.AppImage" text="Motrix-1.0.10-x86_64.AppImage" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.0.10/Motrix-1.0.10.dmg" text="Motrix-1.0.10.dmg" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.0.10/Motrix-1.0.10.dmg.blockmap" text="Motrix-1.0.10.dmg.blockmap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.0.10/Motrix-1.0.10.exe" text="Motrix-1.0.10.exe" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.0.10/Motrix-Setup-1.0.10.exe" text="Motrix-Setup-1.0.10.exe" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.0.10/Motrix-Setup-1.0.10.exe.blockmap" text="Motrix-Setup-1.0.10.exe.blockmap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.0.10/Motrix_1.0.10_amd64.deb" text="Motrix_1.0.10_amd64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+
+
+
+## v1.0.9
+
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.0.9/latest-linux.yml" text="latest-linux.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.0.9/latest-mac.yml" text="latest-mac.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.0.9/latest.yml" text="latest.yml" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.0.9/Motrix-1.0.9-mac.zip" text="Motrix-1.0.9-mac.zip" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.0.9/Motrix-1.0.9-x86_64.AppImage" text="Motrix-1.0.9-x86_64.AppImage" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.0.9/Motrix-1.0.9.dmg" text="Motrix-1.0.9.dmg" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.0.9/Motrix-1.0.9.dmg.blockmap" text="Motrix-1.0.9.dmg.blockmap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.0.9/Motrix-1.0.9.exe" text="Motrix-1.0.9.exe" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.0.9/Motrix-Setup-1.0.9.exe" text="Motrix-Setup-1.0.9.exe" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.0.9/Motrix-Setup-1.0.9.exe.blockmap" text="Motrix-Setup-1.0.9.exe.blockmap" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+- <GithubMirrorLink link="https://github.com/agalwood/Motrix/releases/download/v1.0.9/Motrix_1.0.9_amd64.deb" text="Motrix_1.0.9_amd64.deb" repositoryKey="agalwood/Motrix" preferredProviders={["123pan"]} />
+
 
 
 

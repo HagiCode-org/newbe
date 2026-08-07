@@ -52,6 +52,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v2.1.1
 
 - <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v2.1.1/Ollamac-2.1.1.dmg" text="Ollamac-2.1.1.dmg" repositoryKey="kevinhermawan/Ollamac" />
@@ -81,6 +83,34 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v1.1.1/Ollamac-1.1.1.dmg" text="Ollamac-1.1.1.dmg" repositoryKey="kevinhermawan/Ollamac" />
 
 
+
+## v1.1.0
+
+- <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v1.1.0/Ollamac-1.1.0.dmg" text="Ollamac-1.1.0.dmg" repositoryKey="kevinhermawan/Ollamac" />
+
+
+
+## v1.0.3
+
+- <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v1.0.3/Ollamac.dmg" text="Ollamac.dmg" repositoryKey="kevinhermawan/Ollamac" />
+
+
+
+## v1.0.2
+
+- <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v1.0.2/Ollamac.dmg" text="Ollamac.dmg" repositoryKey="kevinhermawan/Ollamac" />
+
+
+
+## v1.0.1
+
+- <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v1.0.1/Ollamac.dmg" text="Ollamac.dmg" repositoryKey="kevinhermawan/Ollamac" />
+
+
+
+## v1.0.0
+
+- <GithubMirrorLink link="https://github.com/kevinhermawan/Ollamac/releases/download/v1.0.0/Ollamac.dmg" text="Ollamac.dmg" repositoryKey="kevinhermawan/Ollamac" />
 
 
 

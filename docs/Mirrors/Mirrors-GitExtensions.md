@@ -100,6 +100,146 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+## v5.2
+
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v5.2/GitExtensions-Portable-x64-5.2.0.18047-718e2ee7d.zip" text="GitExtensions-Portable-x64-5.2.0.18047-718e2ee7d.zip" repositoryKey="gitextensions/gitextensions" />
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v5.2/GitExtensions-x64-5.2.0.18047-718e2ee7d.msi" text="GitExtensions-x64-5.2.0.18047-718e2ee7d.msi" repositoryKey="gitextensions/gitextensions" />
+
+
+
+## v5.2.1
+
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v5.2.1/GitExtensions-Portable-x64-5.2.1.18061-0d74cfdc3.zip" text="GitExtensions-Portable-x64-5.2.1.18061-0d74cfdc3.zip" repositoryKey="gitextensions/gitextensions" />
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v5.2.1/GitExtensions-x64-5.2.1.18061-0d74cfdc3.msi" text="GitExtensions-x64-5.2.1.18061-0d74cfdc3.msi" repositoryKey="gitextensions/gitextensions" />
+
+
+
+## v5.1.1
+
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v5.1.1/GitExtensions-Portable-x64-5.1.1.17970-939c0edba.zip" text="GitExtensions-Portable-x64-5.1.1.17970-939c0edba.zip" repositoryKey="gitextensions/gitextensions" />
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v5.1.1/GitExtensions-x64-5.1.1.17970-939c0edba.msi" text="GitExtensions-x64-5.1.1.17970-939c0edba.msi" repositoryKey="gitextensions/gitextensions" />
+
+
+
+## v5.1
+
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v5.1/GitExtensions-Portable-x64-5.1.0.17965-f9e558c2f.zip" text="GitExtensions-Portable-x64-5.1.0.17965-f9e558c2f.zip" repositoryKey="gitextensions/gitextensions" />
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v5.1/GitExtensions-x64-5.1.0.17965-f9e558c2f.msi" text="GitExtensions-x64-5.1.0.17965-f9e558c2f.msi" repositoryKey="gitextensions/gitextensions" />
+
+
+
+## v5.0
+
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v5.0/GitExtensions-Portable-x64-5.0.0.17897-2a3b78b86.zip" text="GitExtensions-Portable-x64-5.0.0.17897-2a3b78b86.zip" repositoryKey="gitextensions/gitextensions" />
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v5.0/GitExtensions-x64-5.0.0.17897-2a3b78b86.msi" text="GitExtensions-x64-5.0.0.17897-2a3b78b86.msi" repositoryKey="gitextensions/gitextensions" />
+
+
+
+## v4.2.1
+
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v4.2.1/GitExtensions-4.2.1.17611-b0c0b2848.msi" text="GitExtensions-4.2.1.17611-b0c0b2848.msi" repositoryKey="gitextensions/gitextensions" />
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v4.2.1/GitExtensions-Portable-4.2.1.17611-b0c0b2848.zip" text="GitExtensions-Portable-4.2.1.17611-b0c0b2848.zip" repositoryKey="gitextensions/gitextensions" />
+
+
+
+## v4.2
+
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v4.2/GitExtensions-4.2.0.17591-bf814d4f1.msi" text="GitExtensions-4.2.0.17591-bf814d4f1.msi" repositoryKey="gitextensions/gitextensions" />
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v4.2/GitExtensions-Portable-4.2.0.17591-bf814d4f1.zip" text="GitExtensions-Portable-4.2.0.17591-bf814d4f1.zip" repositoryKey="gitextensions/gitextensions" />
+
+
+
+## v4.2-rc1
+
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v4.2-rc1/GitExtensions-4.2.0.17539-d3b383c77.msi" text="GitExtensions-4.2.0.17539-d3b383c77.msi" repositoryKey="gitextensions/gitextensions" />
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v4.2-rc1/GitExtensions-Portable-4.2.0.17539-d3b383c77.zip" text="GitExtensions-Portable-4.2.0.17539-d3b383c77.zip" repositoryKey="gitextensions/gitextensions" />
+
+
+
+## v4.1
+
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v4.1/GitExtensions-4.1.0.16698-1fe52a137.msi" text="GitExtensions-4.1.0.16698-1fe52a137.msi" repositoryKey="gitextensions/gitextensions" />
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v4.1/GitExtensions-Portable-4.1.0.16698-1fe52a137.zip" text="GitExtensions-Portable-4.1.0.16698-1fe52a137.zip" repositoryKey="gitextensions/gitextensions" />
+
+
+
+## v4.0.2
+
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v4.0.2/GitExtensions-4.0.2.16100-25100ec1f.msi" text="GitExtensions-4.0.2.16100-25100ec1f.msi" repositoryKey="gitextensions/gitextensions" />
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v4.0.2/GitExtensions-Portable-4.0.2.16100-25100ec1f.zip" text="GitExtensions-Portable-4.0.2.16100-25100ec1f.zip" repositoryKey="gitextensions/gitextensions" />
+
+
+
+
+
+## v4.0.1
+
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v4.0.1/GitExtensions-4.0.1.15887-f2567dea2.msi" text="GitExtensions-4.0.1.15887-f2567dea2.msi" repositoryKey="gitextensions/gitextensions" />
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v4.0.1/GitExtensions-Portable-4.0.1.15887-f2567dea2.zip" text="GitExtensions-Portable-4.0.1.15887-f2567dea2.zip" repositoryKey="gitextensions/gitextensions" />
+
+
+
+## v4
+
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v4/GitExtensions-4.0.0-cba315df5.msi" text="GitExtensions-4.0.0-cba315df5.msi" repositoryKey="gitextensions/gitextensions" />
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v4/GitExtensions-Portable-4.0.0-cba315df5.zip" text="GitExtensions-Portable-4.0.0-cba315df5.zip" repositoryKey="gitextensions/gitextensions" />
+
+
+
+## v4-beta
+
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v4-beta/GitExtensions-4.0.0.15291-beta-8b80e54f1.msi" text="GitExtensions-4.0.0.15291-beta-8b80e54f1.msi" repositoryKey="gitextensions/gitextensions" />
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v4-beta/GitExtensions-Portable-4.0.0.15291-8b80e54f1.zip" text="GitExtensions-Portable-4.0.0.15291-8b80e54f1.zip" repositoryKey="gitextensions/gitextensions" />
+
+
+
+## v4-alpha1
+
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v4-alpha1/GitExtensions-4.0.0.15025-alpha-e8588e4c0.msi" text="GitExtensions-4.0.0.15025-alpha-e8588e4c0.msi" repositoryKey="gitextensions/gitextensions" />
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v4-alpha1/GitExtensions-Portable-4.0.0.15025-e8588e4c0.zip" text="GitExtensions-Portable-4.0.0.15025-e8588e4c0.zip" repositoryKey="gitextensions/gitextensions" />
+
+
+
+## v3.5.4
+
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v3.5.4/GitExtensions-3.5.4.12724-65f01f399.msi" text="GitExtensions-3.5.4.12724-65f01f399.msi" repositoryKey="gitextensions/gitextensions" />
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v3.5.4/GitExtensions-Portable-3.5.4.12724-65f01f399.zip" text="GitExtensions-Portable-3.5.4.12724-65f01f399.zip" repositoryKey="gitextensions/gitextensions" />
+
+
+
+## v3.5.3
+
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v3.5.3/GitExtensions-3.5.3.12551-00604a59a.msi" text="GitExtensions-3.5.3.12551-00604a59a.msi" repositoryKey="gitextensions/gitextensions" />
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v3.5.3/GitExtensions-Portable-3.5.3.12551-00604a59a.zip" text="GitExtensions-Portable-3.5.3.12551-00604a59a.zip" repositoryKey="gitextensions/gitextensions" />
+
+
+
+## v3.5.2
+
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v3.5.2/GitExtensions-3.5.2.12435-77413699a.msi" text="GitExtensions-3.5.2.12435-77413699a.msi" repositoryKey="gitextensions/gitextensions" />
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v3.5.2/GitExtensions-Portable-3.5.2.12435-77413699a.zip" text="GitExtensions-Portable-3.5.2.12435-77413699a.zip" repositoryKey="gitextensions/gitextensions" />
+
+
+
+## v3.5.1
+
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v3.5.1/GitExtensions-3.5.1.12196-9099a1e76.msi" text="GitExtensions-3.5.1.12196-9099a1e76.msi" repositoryKey="gitextensions/gitextensions" />
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v3.5.1/GitExtensions-Portable-3.5.1.12196-9099a1e76.zip" text="GitExtensions-Portable-3.5.1.12196-9099a1e76.zip" repositoryKey="gitextensions/gitextensions" />
+
+
+
+## v3.5
+
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v3.5/GitExtensions-3.5.0.11713-0a5ef9ca6.msi" text="GitExtensions-3.5.0.11713-0a5ef9ca6.msi" repositoryKey="gitextensions/gitextensions" />
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v3.5/GitExtensions-Portable-3.5.0.11713-0a5ef9ca6.zip" text="GitExtensions-Portable-3.5.0.11713-0a5ef9ca6.zip" repositoryKey="gitextensions/gitextensions" />
+
+
+
+## v3.4.3
+
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v3.4.3/GitExtensions-3.4.3.9999-d4b0f48bb.msi" text="GitExtensions-3.4.3.9999-d4b0f48bb.msi" repositoryKey="gitextensions/gitextensions" />
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v3.4.3/GitExtensions-Portable-3.4.3.9999-d4b0f48bb.zip" text="GitExtensions-Portable-3.4.3.9999-d4b0f48bb.zip" repositoryKey="gitextensions/gitextensions" />
+
 
 
 
