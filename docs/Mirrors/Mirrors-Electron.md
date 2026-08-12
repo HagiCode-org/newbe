@@ -2955,6 +2955,7 @@ Electron. 国内直接从官网 https://electronjs.org/ 下载比较困难，需
 - [44.0.0-alpha.9](https://mirrors.huaweicloud.com/electron/44.0.0-alpha.9/)
 - [44.0.0-beta.1](https://mirrors.huaweicloud.com/electron/44.0.0-beta.1/)
 - [44.0.0-beta.2](https://mirrors.huaweicloud.com/electron/44.0.0-beta.2/)
+- [44.0.0-beta.3](https://mirrors.huaweicloud.com/electron/44.0.0-beta.3/)
 
 
 
