@@ -123,13 +123,13 @@ POI. 国内直接从官网 https://poi.io 下载比较困难，需要一些技�
 
 
 
-
-
-
-
 ## 10.3
 
 - [v10.3.0](https://mirrors.huaweicloud.com/poi/v10.3.0/)
+
+
+
+
 
 
 
@@ -210,6 +210,12 @@ POI. 国内直接从官网 https://poi.io 下载比较困难，需要一些技�
 
 - [v11.1.0](https://mirrors.huaweicloud.com/poi/v11.1.0/)
 - [v11.1.0-win7](https://mirrors.huaweicloud.com/poi/v11.1.0-win7/)
+
+
+
+## 12.0
+
+- [v12.0.0-beta.0](https://mirrors.huaweicloud.com/poi/v12.0.0-beta.0/)
 
 
 

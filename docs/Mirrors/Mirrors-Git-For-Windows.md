@@ -508,6 +508,7 @@ Git for Windows. 国内直接从官网 http://git-scm.com/download/win 下载比
 - [v2.54.0-rc2.windows.1](https://mirrors.huaweicloud.com/git-for-windows/v2.54.0-rc2.windows.1/)
 - [v2.54.0.windows.1](https://mirrors.huaweicloud.com/git-for-windows/v2.54.0.windows.1/)
 - [v2.54.0.windows.2](https://mirrors.huaweicloud.com/git-for-windows/v2.54.0.windows.2/)
+- [v2.54.0.windows.3](https://mirrors.huaweicloud.com/git-for-windows/v2.54.0.windows.3/)
 
 
 
@@ -519,6 +520,7 @@ Git for Windows. 国内直接从官网 http://git-scm.com/download/win 下载比
 - [v2.55.0.windows.1](https://mirrors.huaweicloud.com/git-for-windows/v2.55.0.windows.1/)
 - [v2.55.0.windows.2](https://mirrors.huaweicloud.com/git-for-windows/v2.55.0.windows.2/)
 - [v2.55.0.windows.3](https://mirrors.huaweicloud.com/git-for-windows/v2.55.0.windows.3/)
+- [v2.55.0.windows.4](https://mirrors.huaweicloud.com/git-for-windows/v2.55.0.windows.4/)
 
 
 
