@@ -2907,6 +2907,7 @@ Electron. 国内直接从官网 https://electronjs.org/ 下载比较困难，需
 
 - [42.9.0](https://mirrors.huaweicloud.com/electron/42.9.0/)
 - [42.9.1](https://mirrors.huaweicloud.com/electron/42.9.1/)
+- [42.9.2](https://mirrors.huaweicloud.com/electron/42.9.2/)
 
 
 
