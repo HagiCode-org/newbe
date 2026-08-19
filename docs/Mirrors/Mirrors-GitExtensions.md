@@ -18,6 +18,15 @@ Git Extensions是一个独立的UI工具，用于管理git存储库。它还与W
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v7.2.1
+
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v7.2.1/GitExtensions-arm64-7.2.1.7-0aea2d6df.msi" text="GitExtensions-arm64-7.2.1.7-0aea2d6df.msi" repositoryKey="gitextensions/gitextensions" />
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v7.2.1/GitExtensions-Portable-arm64-7.2.1.7-0aea2d6df.zip" text="GitExtensions-Portable-arm64-7.2.1.7-0aea2d6df.zip" repositoryKey="gitextensions/gitextensions" />
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v7.2.1/GitExtensions-Portable-x64-7.2.1.7-0aea2d6df.zip" text="GitExtensions-Portable-x64-7.2.1.7-0aea2d6df.zip" repositoryKey="gitextensions/gitextensions" />
+- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v7.2.1/GitExtensions-x64-7.2.1.7-0aea2d6df.msi" text="GitExtensions-x64-7.2.1.7-0aea2d6df.msi" repositoryKey="gitextensions/gitextensions" />
+
+
+
 ## v7.2.0
 
 - <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v7.2.0/GitExtensions-arm64-7.2.0.92-501f831.msi" text="GitExtensions-arm64-7.2.0.92-501f831.msi" repositoryKey="gitextensions/gitextensions" />
@@ -163,12 +172,12 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v4.0.2
 
 - <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v4.0.2/GitExtensions-4.0.2.16100-25100ec1f.msi" text="GitExtensions-4.0.2.16100-25100ec1f.msi" repositoryKey="gitextensions/gitextensions" />
 - <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v4.0.2/GitExtensions-Portable-4.0.2.16100-25100ec1f.zip" text="GitExtensions-Portable-4.0.2.16100-25100ec1f.zip" repositoryKey="gitextensions/gitextensions" />
-
-
 
 
 
@@ -232,13 +241,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 - <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v3.5/GitExtensions-3.5.0.11713-0a5ef9ca6.msi" text="GitExtensions-3.5.0.11713-0a5ef9ca6.msi" repositoryKey="gitextensions/gitextensions" />
 - <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v3.5/GitExtensions-Portable-3.5.0.11713-0a5ef9ca6.zip" text="GitExtensions-Portable-3.5.0.11713-0a5ef9ca6.zip" repositoryKey="gitextensions/gitextensions" />
-
-
-
-## v3.4.3
-
-- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v3.4.3/GitExtensions-3.4.3.9999-d4b0f48bb.msi" text="GitExtensions-3.4.3.9999-d4b0f48bb.msi" repositoryKey="gitextensions/gitextensions" />
-- <GithubMirrorLink link="https://github.com/gitextensions/gitextensions/releases/download/v3.4.3/GitExtensions-Portable-3.4.3.9999-d4b0f48bb.zip" text="GitExtensions-Portable-3.4.3.9999-d4b0f48bb.zip" repositoryKey="gitextensions/gitextensions" />
 
 
 
