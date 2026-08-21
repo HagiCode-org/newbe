@@ -18,6 +18,27 @@ Dapr CLI允许你在本地开发机或Kubernetes集群上设置Dapr，提供调�
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v1.18.2
+
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.18.2/dapr.msi" text="dapr.msi" repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.18.2/dapr.msi.sha256" text="dapr.msi.sha256" repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.18.2/dapr.wixpdb" text="dapr.wixpdb" repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.18.2/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.18.2/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.18.2/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.18.2/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.18.2/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.18.2/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.18.2/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.18.2/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.18.2/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.18.2/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.18.2/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.18.2/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" repositoryKey="dapr/cli" />
+- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.18.2/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" repositoryKey="dapr/cli" />
+
+
+
 ## v1.18.1
 
 - <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.18.1/dapr.msi" text="dapr.msi" repositoryKey="dapr/cli" />
@@ -401,6 +422,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v1.15.0-rc.5
 
 - <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr.msi" text="dapr.msi" repositoryKey="dapr/cli" />
@@ -419,8 +442,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" repositoryKey="dapr/cli" />
 - <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" repositoryKey="dapr/cli" />
 - <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.15.0-rc.5/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" repositoryKey="dapr/cli" />
-
-
 
 
 
@@ -610,27 +631,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" repositoryKey="dapr/cli" />
 - <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" repositoryKey="dapr/cli" />
 - <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.6/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" repositoryKey="dapr/cli" />
-
-
-
-## v1.14.0-rc.5
-
-- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr.msi" text="dapr.msi" repositoryKey="dapr/cli" />
-- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr.msi.sha256" text="dapr.msi.sha256" repositoryKey="dapr/cli" />
-- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr.wixpdb" text="dapr.wixpdb" repositoryKey="dapr/cli" />
-- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr.wixpdb.sha256" text="dapr.wixpdb.sha256" repositoryKey="dapr/cli" />
-- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_darwin_amd64.tar.gz" text="dapr_darwin_amd64.tar.gz" repositoryKey="dapr/cli" />
-- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_darwin_amd64.tar.gz.sha256" text="dapr_darwin_amd64.tar.gz.sha256" repositoryKey="dapr/cli" />
-- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_darwin_arm64.tar.gz" text="dapr_darwin_arm64.tar.gz" repositoryKey="dapr/cli" />
-- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_darwin_arm64.tar.gz.sha256" text="dapr_darwin_arm64.tar.gz.sha256" repositoryKey="dapr/cli" />
-- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_linux_amd64.tar.gz" text="dapr_linux_amd64.tar.gz" repositoryKey="dapr/cli" />
-- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_linux_amd64.tar.gz.sha256" text="dapr_linux_amd64.tar.gz.sha256" repositoryKey="dapr/cli" />
-- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_linux_arm.tar.gz" text="dapr_linux_arm.tar.gz" repositoryKey="dapr/cli" />
-- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_linux_arm.tar.gz.sha256" text="dapr_linux_arm.tar.gz.sha256" repositoryKey="dapr/cli" />
-- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_linux_arm64.tar.gz" text="dapr_linux_arm64.tar.gz" repositoryKey="dapr/cli" />
-- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_linux_arm64.tar.gz.sha256" text="dapr_linux_arm64.tar.gz.sha256" repositoryKey="dapr/cli" />
-- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_windows_amd64.zip" text="dapr_windows_amd64.zip" repositoryKey="dapr/cli" />
-- <GithubMirrorLink link="https://github.com/dapr/cli/releases/download/v1.14.0-rc.5/dapr_windows_amd64.zip.sha256" text="dapr_windows_amd64.zip.sha256" repositoryKey="dapr/cli" />
 
 
 
