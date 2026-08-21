@@ -703,6 +703,7 @@ Filebeat. 国内直接从官网 https://www.elastic.co 下载比较困难，需�
 ## 9.5
 
 - [9.5.0](https://mirrors.huaweicloud.com/filebeat/9.5.0/)
+- [9.5.2](https://mirrors.huaweicloud.com/filebeat/9.5.2/)
 
 
 
