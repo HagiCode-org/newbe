@@ -9,6 +9,7 @@ on:
   workflow_dispatch:
 
 permissions:
+  actions: write
   contents: write
 
 concurrency:
@@ -17,8 +18,6 @@ concurrency:
 
 env:
   PUBLISH_BRANCH: main
-  INDEX_SYNC_REPOSITORY: HagiCode-org/index
-  INDEX_SYNC_WORKFLOW: index-file-sync.yml
 
 jobs:
   release:
@@ -98,7 +97,7 @@ jobs:
         id: publish
         if: steps.diff.outputs.changed == 'true'
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PATCH_FILE: ${{ steps.diff.outputs.patch_file }}
         shell: bash
         run: |
@@ -145,39 +144,11 @@ jobs:
             echo "- Result: delegated to main push"
             echo "- Trigger branch: $PUBLISH_BRANCH"
             echo "- Commit: \`${{ steps.publish.outputs.commit_sha }}\`"
-            echo "- Note: update-mirror does not dispatch release directly; the push to main triggers the normal release workflow."
+            echo "- Note: the gh-pages workflow is dispatched explicitly after the main push."
           } >> "$GITHUB_STEP_SUMMARY"
 
-      - name: Trigger index sync
-        id: index_sync
+      - name: Trigger gh-pages deployment workflow
         if: steps.publish.outputs.published == 'true'
-        working-directory: ${{ github.workspace }}/tools
         env:
-          GH_TOKEN: ${{ secrets.NEWBE_GITHUB_PAT }}
-        shell: bash
-        run: |
-          set -euo pipefail
-
-          if [ -z "${GH_TOKEN:-}" ]; then
-            {
-              echo "### Index sync"
-              echo "- Result: skipped"
-              echo "- Repository: $INDEX_SYNC_REPOSITORY"
-              echo "- Workflow: $INDEX_SYNC_WORKFLOW"
-              echo "- Ref: $PUBLISH_BRANCH"
-              echo "- Inputs: (none)"
-              echo "- Error: NEWBE_GITHUB_PAT is not configured, so cross-repository workflow dispatch was not attempted."
-            } >> "$GITHUB_STEP_SUMMARY"
-            echo "result=skipped" >> "$GITHUB_OUTPUT"
-            echo "dispatched=false" >> "$GITHUB_OUTPUT"
-            exit 0
-          fi
-
-          export PATH=/home/runner/.local/bin/:$PATH
-          pipenv run python dispatch_index_sync.py \
-            --repo "$INDEX_SYNC_REPOSITORY" \
-            --workflow "$INDEX_SYNC_WORKFLOW" \
-            --ref "$PUBLISH_BRANCH" \
-            --token "$GH_TOKEN" \
-            --summary-file "$GITHUB_STEP_SUMMARY" \
-            --github-output "$GITHUB_OUTPUT"
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run newbe-deploy-gh-pages.yml --ref "${PUBLISH_BRANCH}"

@@ -14,12 +14,11 @@
 
 1. Generate mirror content from the triggering ref.
 2. Detect whether the working tree contains a real diff.
-3. If no diff exists, exit successfully as a no-op and skip both the `main`-branch release trigger and index sync.
+3. If no diff exists, exit successfully as a no-op and skip the `main`-branch release trigger.
 4. If a diff exists, rebase the generated patch onto `main`, create one automation commit, and push it directly to `main` with `GITHUB_TOKEN`.
-5. The push to `main` is the release trigger. `mirror-update.yml` does not dispatch any same-repository release workflow itself.
-6. After the direct push succeeds, the workflow may continue to the optional `HagiCode-org/index` sync dispatch.
+5. After the push succeeds, explicitly dispatch `newbe-deploy-gh-pages.yml` with `GITHUB_TOKEN`.
 
-The workflow reports success when the direct publish succeeds. Index sync still remains optional because it depends on `NEWBE_GITHUB_PAT`.
+The workflow reports success when the direct publish succeeds.
 
 ## Release trigger
 
@@ -32,21 +31,17 @@ The workflow summary now distinguishes these states:
 - `Mirror publish: no-op`
 - `Mirror publish: published`
 - `Release follow-up: skipped (no-op publish)`
-- `Release follow-up: delegated to main push`
-- `Index sync: success` or `Index sync: skipped`
+- `Release follow-up: gh-pages workflow dispatched`
 
-This makes it clear whether a run ended before publication, after direct publish, or after the optional downstream index sync attempt.
+This makes it clear whether a run ended before publication or after direct publish.
 
 ## Secret and permission contract
 
-The in-repo publish path does not require a PAT:
+The in-repo publish and deployment-dispatch paths use the built-in `GITHUB_TOKEN`:
 
-- `mirror-update.yml` pushes `main` with the built-in `GITHUB_TOKEN`
-
-`NEWBE_GITHUB_PAT` remains optional only for the cross-repository `HagiCode-org/index` sync step:
-
-- it must be allowed to dispatch and read workflow runs in `HagiCode-org/index`
-- if the token is absent, the index sync step is reported as skipped
+- the workflow has `contents: write` permission to push `main`
+- the workflow has `actions: write` permission to dispatch the gh-pages workflow
+- explicit dispatch avoids relying on a `GITHUB_TOKEN` push to trigger another workflow
 
 ## Troubleshooting
 
