@@ -23,33 +23,23 @@ class Newbe123PanManifestTests(unittest.TestCase):
         tasks.MANIFEST_RECORD_CACHE.clear()
         self.source = {
             'repositoryKey': 'owner/repo',
-            'metadataOwner': 'metadata',
-            'metadataRepo': 'syncer-action',
-            'blobPrefix': 'release-sync',
-            'expectedVersion': 1,
+            'baseUrl': 'https://syncer.hagicode.com',
+            'indexPath': 'r2/index.json',
+            'manifestVersion': 1,
             'timeoutSeconds': 5,
         }
 
     def test_reads_root_index_and_draft_manifest_asset(self):
-        index = {
-            'version': 1,
-            'repositories': [{
-                'repositoryKey': 'owner/repo',
+        index = {'repositories': [{
+            'repositoryKey': 'owner/repo',
+            'releases': [{
                 'releaseTagName': 'v1',
-                'manifestPath': 'release-sync/owner/repo/manifest.json',
+                'manifestPath': 'manifests/v1.json',
                 'recordCount': 2,
                 'status': 'synced',
                 'lastSuccessfulAt': '2026-08-21T00:00:00Z',
-                'releases': [{
-                    'repositoryKey': 'owner/repo',
-                    'releaseTagName': 'v1',
-                    'manifestPath': 'release-sync/owner/repo/manifest.json',
-                    'recordCount': 2,
-                    'status': 'synced',
-                    'lastSuccessfulAt': '2026-08-21T00:00:00Z',
-                }],
             }],
-        }
+        }]}
         manifest = {
             'version': 1,
             'records': [{
@@ -69,24 +59,12 @@ class Newbe123PanManifestTests(unittest.TestCase):
                 'status': 'synced',
             }],
         }
-        responses = [
-            Response([{'id': 1, 'draft': True, 'created_at': '2026-08-21'}]),
-            Response([
-                {'name': 'release-sync__index.json', 'url': 'index-url'},
-                {'name': 'release-sync__owner__repo__manifest.json', 'url': 'manifest-url'},
-            ]),
-            Response(index),
-            Response(manifest),
-        ]
-        with patch.dict(os.environ, {'GITHUB_TOKEN': 'test-token'}), patch(
-            'tools.tasks.requests.get', side_effect=responses
-        ):
+        with patch('tools.tasks.requests.get', side_effect=[Response(index), Response(manifest)]):
             records = tasks.fetch_manifest_records(self.source, 'v1')
 
         self.assertEqual(records[0]['providerKey'], '123pan')
         self.assertEqual(records[0]['shareUrl'], 'https://www.123pan.com/s/example')
-        self.assertEqual(len(records), 2)
-        self.assertEqual(records[1]['shareUrl'], '')
+        self.assertEqual(len(records), 1)
 
     def test_mirror_section_keeps_direct_link_without_preferred_list(self):
         output = get_github_version_section(

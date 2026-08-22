@@ -20,6 +20,20 @@ def get_github_version_section(
         if repository_key:
             props.append(f'repositoryKey={json.dumps(repository_key, ensure_ascii=False)}')
         resolved_mirrors = resolved_mirrors_by_asset.get(asset["name"], [])
+        resolved_mirrors = sorted(
+            {
+                (record["providerKey"], record["shareUrl"]): record
+                for record in resolved_mirrors
+                if record.get("providerKey") and record.get("shareUrl")
+            }.values(),
+            key=lambda record: (
+                preferred_providers.index(record["providerKey"])
+                if record["providerKey"] in preferred_providers
+                else len(preferred_providers),
+                record["providerKey"],
+                record["shareUrl"],
+            ),
+        )
         if resolved_mirrors:
             resolved_payload = [
                 {
