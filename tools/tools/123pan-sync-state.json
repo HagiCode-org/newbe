@@ -1,22 +1,206 @@
 {
-  "generatedAt": "2026-08-22T08:45:23.733161+00:00",
-  "recordCount": 0,
-  "records": {},
+  "generatedAt": "2026-08-22T09:02:02.347937+00:00",
+  "recordCount": 37,
+  "records": {
+    "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.AppImage": {
+      "syncedAt": "2026-08-22T07:14:26.809Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-hadlA",
+      "status": "synced"
+    },
+    "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.deb": {
+      "syncedAt": "2026-08-22T07:17:55.231Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-Wn5SA",
+      "status": "synced"
+    },
+    "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.pacman": {
+      "syncedAt": "2026-08-22T07:22:08.745Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-YL8SA",
+      "status": "synced"
+    },
+    "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.rpm": {
+      "syncedAt": "2026-08-22T07:19:49.654Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-ks6cA",
+      "status": "synced"
+    },
+    "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.tar.gz": {
+      "syncedAt": "2026-08-22T07:15:21.931Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-CKbSA",
+      "status": "synced"
+    },
+    "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-armv7l.AppImage": {
+      "syncedAt": "2026-08-22T07:14:57.534Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-w5flA",
+      "status": "synced"
+    },
+    "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-armv7l.deb": {
+      "syncedAt": "2026-08-22T07:18:03.460Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-ruocA",
+      "status": "synced"
+    },
+    "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-armv7l.pacman": {
+      "syncedAt": "2026-08-22T07:20:40.967Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-qLflA",
+      "status": "synced"
+    },
+    "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-armv7l.rpm": {
+      "syncedAt": "2026-08-22T07:19:42.641Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-aAklA",
+      "status": "synced"
+    },
+    "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-armv7l.tar.gz": {
+      "syncedAt": "2026-08-22T07:16:17.562Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-RQeeA",
+      "status": "synced"
+    },
+    "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-x64.AppImage": {
+      "syncedAt": "2026-08-22T07:14:34.228Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-9s6cA",
+      "status": "synced"
+    },
+    "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-x64.deb": {
+      "syncedAt": "2026-08-22T07:17:29.764Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-lPfSA",
+      "status": "synced"
+    },
+    "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-x64.pacman": {
+      "syncedAt": "2026-08-22T07:21:43.677Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-kQmeA",
+      "status": "synced"
+    },
+    "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-x64.rpm": {
+      "syncedAt": "2026-08-22T07:20:15.557Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-efdlA",
+      "status": "synced"
+    },
+    "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-x64.tar.gz": {
+      "syncedAt": "2026-08-22T07:15:46.072Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-o5flA",
+      "status": "synced"
+    },
+    "Eugeny/tabby:v1.0.235:tabby-1.0.235-macos-arm64.dmg": {
+      "syncedAt": "2026-08-22T07:17:05.348Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-5LflA",
+      "status": "synced"
+    },
+    "Eugeny/tabby:v1.0.235:tabby-1.0.235-macos-arm64.dmg.blockmap": {
+      "syncedAt": "2026-08-22T07:16:39.659Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-hKbSA",
+      "status": "synced"
+    },
+    "Eugeny/tabby:v1.0.235:tabby-1.0.235-macos-arm64.zip": {
+      "syncedAt": "2026-08-22T07:16:10.106Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-LLflA",
+      "status": "synced"
+    },
+    "Eugeny/tabby:v1.0.235:tabby-1.0.235-macos-x86_64.dmg": {
+      "syncedAt": "2026-08-22T07:18:28.920Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-SuFlA",
+      "status": "synced"
+    },
+    "Eugeny/tabby:v1.0.235:tabby-1.0.235-macos-x86_64.dmg.blockmap": {
+      "syncedAt": "2026-08-22T07:18:51.133Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-SHklA",
+      "status": "synced"
+    },
+    "Eugeny/tabby:v1.0.235:tabby-1.0.235-macos-x86_64.zip": {
+      "syncedAt": "2026-08-22T07:19:17.293Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-VHklA",
+      "status": "synced"
+    },
+    "Eugeny/tabby:v1.0.235:tabby-1.0.235-portable-arm64.zip": {
+      "syncedAt": "2026-08-22T07:21:08.658Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-g5flA",
+      "status": "synced"
+    },
+    "Eugeny/tabby:v1.0.235:tabby-1.0.235-portable-x64.zip": {
+      "syncedAt": "2026-08-22T07:21:35.204Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-MhWSA",
+      "status": "synced"
+    },
+    "Eugeny/tabby:v1.0.235:tabby-1.0.235-setup-arm64.exe": {
+      "syncedAt": "2026-08-22T07:22:56.753Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-r5flA",
+      "status": "synced"
+    },
+    "Eugeny/tabby:v1.0.235:tabby-1.0.235-setup-arm64.exe.blockmap": {
+      "syncedAt": "2026-08-22T07:22:30.959Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-dL8SA",
+      "status": "synced"
+    },
+    "Eugeny/tabby:v1.0.235:tabby-1.0.235-setup-x64.exe": {
+      "syncedAt": "2026-08-22T07:23:26.776Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-G66eA",
+      "status": "synced"
+    },
+    "Eugeny/tabby:v1.0.235:tabby-1.0.235-setup-x64.exe.blockmap": {
+      "syncedAt": "2026-08-22T07:23:19.438Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-rLflA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.21:Motrix-2.0.0-beta.21-arm64.AppImage": {
+      "syncedAt": "2026-08-22T04:48:30.093Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-3s6cA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.21:Motrix-2.0.0-beta.21-arm64.dmg.blockmap": {
+      "syncedAt": "2026-08-22T05:04:15.731Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-9WNeA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.21:Motrix-2.0.0-beta.21-arm64.zip.blockmap": {
+      "syncedAt": "2026-08-22T05:20:01.241Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-QWNeA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.21:Motrix-2.0.0-beta.21-x64.dmg.blockmap": {
+      "syncedAt": "2026-08-22T05:50:38.401Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-EWNeA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.21:Motrix-2.0.0-beta.21-x64.zip": {
+      "syncedAt": "2026-08-22T05:50:44.787Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-B66eA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.21:Motrix-2.0.0-beta.21-x64.zip.blockmap": {
+      "syncedAt": "2026-08-22T05:50:58.765Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-eANcA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.21:Motrix-2.0.0-beta.21.x86_64.rpm": {
+      "syncedAt": "2026-08-22T06:21:33.110Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-J2BcA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.21:Motrix-Native-Host-2.0.0-beta.21-linux-arm64.tar.gz": {
+      "syncedAt": "2026-08-22T06:22:04.233Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-tANcA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.21:Motrix-Native-Host-2.0.0-beta.21-linux-x64.tar.gz": {
+      "syncedAt": "2026-08-22T06:22:43.437Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-I2BcA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.21:Motrix_2.0.0-beta.21_arm64.deb": {
+      "syncedAt": "2026-08-22T06:53:22.700Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-I66eA",
+      "status": "synced"
+    }
+  },
   "errors": [
-    "microsoft/azuredatastudio: request_failed (404 Client Error: Not Found for url: https://syncer.hagicode.com/r2/index.json)",
-    "OpenAgentPlatform/Dive: request_failed (404 Client Error: Not Found for url: https://syncer.hagicode.com/r2/index.json)",
-    "electron/fiddle: request_failed (404 Client Error: Not Found for url: https://syncer.hagicode.com/r2/index.json)",
-    "nomic-ai/gpt4all: request_failed (404 Client Error: Not Found for url: https://syncer.hagicode.com/r2/index.json)",
-    "desktop/desktop: request_failed (404 Client Error: Not Found for url: https://syncer.hagicode.com/r2/index.json)",
-    "go-gitea/gitea: request_failed (404 Client Error: Not Found for url: https://syncer.hagicode.com/r2/index.json)",
-    "mudler/LocalAI: request_failed (404 Client Error: Not Found for url: https://syncer.hagicode.com/r2/index.json)",
-    "marktext/marktext: request_failed (404 Client Error: Not Found for url: https://syncer.hagicode.com/r2/index.json)",
-    "agalwood/Motrix: request_failed (404 Client Error: Not Found for url: https://syncer.hagicode.com/r2/index.json)",
-    "PowerShell/PowerShell: request_failed (404 Client Error: Not Found for url: https://syncer.hagicode.com/r2/index.json)",
-    "microsoft/PowerToys: request_failed (404 Client Error: Not Found for url: https://syncer.hagicode.com/r2/index.json)",
-    "Eugeny/tabby: request_failed (404 Client Error: Not Found for url: https://syncer.hagicode.com/r2/index.json)",
-    "wez/wezterm: request_failed (404 Client Error: Not Found for url: https://syncer.hagicode.com/r2/index.json)",
-    "ggml-org/llama.cpp: request_failed (404 Client Error: Not Found for url: https://syncer.hagicode.com/r2/index.json)",
-    "ollama/ollama: request_failed (404 Client Error: Not Found for url: https://syncer.hagicode.com/r2/index.json)"
+    "microsoft/azuredatastudio: repository_missing (Root manifest index does not cover repository microsoft/azuredatastudio)",
+    "OpenAgentPlatform/Dive: repository_missing (Root manifest index does not cover repository OpenAgentPlatform/Dive)",
+    "electron/fiddle: repository_missing (Root manifest index does not cover repository electron/fiddle)",
+    "nomic-ai/gpt4all: repository_missing (Root manifest index does not cover repository nomic-ai/gpt4all)",
+    "desktop/desktop: repository_missing (Root manifest index does not cover repository desktop/desktop)",
+    "go-gitea/gitea: repository_missing (Root manifest index does not cover repository go-gitea/gitea)",
+    "mudler/LocalAI: repository_missing (Root manifest index does not cover repository mudler/LocalAI)",
+    "marktext/marktext: repository_missing (Root manifest index does not cover repository marktext/marktext)",
+    "PowerShell/PowerShell: repository_missing (Root manifest index does not cover repository PowerShell/PowerShell)",
+    "microsoft/PowerToys: repository_missing (Root manifest index does not cover repository microsoft/PowerToys)",
+    "wez/wezterm: repository_missing (Root manifest index does not cover repository wez/wezterm)",
+    "ggml-org/llama.cpp: repository_missing (Root manifest index does not cover repository ggml-org/llama.cpp)",
+    "ollama/ollama: repository_missing (Root manifest index does not cover repository ollama/ollama)"
   ]
 }
