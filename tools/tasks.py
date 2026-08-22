@@ -285,9 +285,14 @@ def fetch_root_manifest_index(manifest_source):
     )
 
     try:
+        token = os.getenv('GITHUB_TOKEN')
+        request_headers = {
+            **MANIFEST_REQUEST_HEADERS,
+            'Authorization': f'Bearer {token}',
+        } if token else MANIFEST_REQUEST_HEADERS
         response = requests.get(
             root_index_url,
-            headers=MANIFEST_REQUEST_HEADERS,
+            headers=request_headers,
             params={'per_page': 100},
             timeout=validated_source['timeoutSeconds'],
         )
@@ -302,7 +307,7 @@ def fetch_root_manifest_index(manifest_source):
         assets_url = f"{root_index_url}/{drafts[0]['id']}/assets"
         assets_response = requests.get(
             assets_url,
-            headers=MANIFEST_REQUEST_HEADERS,
+            headers=request_headers,
             params={'per_page': 100},
             timeout=validated_source['timeoutSeconds'],
         )
@@ -317,8 +322,7 @@ def fetch_root_manifest_index(manifest_source):
         payload_response = requests.get(
             index_asset['url'],
             headers={
-                **MANIFEST_REQUEST_HEADERS,
-                'Authorization': f'token {os.getenv("GITHUB_TOKEN")}',
+                **request_headers,
                 'Accept': 'application/octet-stream',
             },
             timeout=validated_source['timeoutSeconds'],
