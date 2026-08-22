@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-22T09:33:36.589223+00:00",
-  "recordCount": 37,
+  "generatedAt": "2026-08-22T09:49:41.271871+00:00",
+  "recordCount": 62,
   "records": {
     "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.AppImage": {
       "syncedAt": "2026-08-22T07:14:26.809Z",
@@ -186,6 +186,131 @@
       "syncedAt": "2026-08-22T06:53:22.700Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-I66eA",
       "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.1:SHA256SUMS.txt": {
+      "syncedAt": "2026-08-22T09:15:58.241Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-9uFlA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.1:marktext-linux-0.20.0-rc.1.AppImage": {
+      "syncedAt": "2026-08-22T09:08:19.981Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-K5flA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.1:marktext-linux-0.20.0-rc.1.deb": {
+      "syncedAt": "2026-08-22T09:08:27.179Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-R9NcA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.1:marktext-linux-0.20.0-rc.1.rpm": {
+      "syncedAt": "2026-08-22T09:08:54.039Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-kadlA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.1:marktext-linux-0.20.0-rc.1.snap": {
+      "syncedAt": "2026-08-22T09:09:25.228Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-tKbSA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.1:marktext-linux-0.20.0-rc.1.tar.gz": {
+      "syncedAt": "2026-08-22T09:09:55.625Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-wtflA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.1:marktext-mac-arm64-0.20.0-rc.1.dmg": {
+      "syncedAt": "2026-08-22T09:10:26.782Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-2dklA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.1:marktext-mac-arm64-0.20.0-rc.1.dmg.blockmap": {
+      "syncedAt": "2026-08-22T09:10:31.296Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-pUocA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.1:marktext-mac-arm64-0.20.0-rc.1.zip": {
+      "syncedAt": "2026-08-22T09:11:02.322Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-CzflA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.1:marktext-mac-arm64-0.20.0-rc.1.zip.blockmap": {
+      "syncedAt": "2026-08-22T09:11:29.471Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-JtflA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.1:marktext-mac-x64-0.20.0-rc.1.dmg": {
+      "syncedAt": "2026-08-22T09:11:59.217Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-Z8FlA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.1:marktext-mac-x64-0.20.0-rc.1.dmg.blockmap": {
+      "syncedAt": "2026-08-22T09:12:28.336Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-S8FlA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.1:marktext-mac-x64-0.20.0-rc.1.zip": {
+      "syncedAt": "2026-08-22T09:12:36.276Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-RQmeA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.1:marktext-mac-x64-0.20.0-rc.1.zip.blockmap": {
+      "syncedAt": "2026-08-22T09:13:03.009Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-B5flA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.1:marktext-win-arm64-0.20.0-rc.1-setup.exe": {
+      "syncedAt": "2026-08-22T09:13:33.230Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-mUFlA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.1:marktext-win-arm64-0.20.0-rc.1-setup.exe.blockmap": {
+      "syncedAt": "2026-08-22T09:14:00.953Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-AuFlA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.1:marktext-win-arm64-0.20.0-rc.1.zip": {
+      "syncedAt": "2026-08-22T09:14:29.539Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-u5flA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.1:marktext-win-x64-0.20.0-rc.1-setup.exe": {
+      "syncedAt": "2026-08-22T09:14:36.973Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-vsBcA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.1:marktext-win-x64-0.20.0-rc.1-setup.exe.blockmap": {
+      "syncedAt": "2026-08-22T09:15:02.925Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-v5flA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.1:marktext-win-x64-0.20.0-rc.1.zip": {
+      "syncedAt": "2026-08-22T09:15:31.624Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-c8FlA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.101.2323.0:GroupPolicyObjectFiles-0.101.2323.0.zip": {
+      "syncedAt": "2026-08-22T09:16:43.560Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-HJheA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.101.2323.0:PowerToysSetup-0.101.2323.0-arm64.exe": {
+      "syncedAt": "2026-08-22T09:16:52.491Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-iWNeA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.101.2323.0:PowerToysSetup-0.101.2323.0-x64.exe": {
+      "syncedAt": "2026-08-22T09:17:25.909Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-ds6cA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.101.2323.0:PowerToysUserSetup-0.101.2323.0-arm64.exe": {
+      "syncedAt": "2026-08-22T09:17:59.301Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-tJueA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.101.2323.0:PowerToysUserSetup-0.101.2323.0-x64.exe": {
+      "syncedAt": "2026-08-22T09:18:32.606Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-9JheA",
+      "status": "synced"
     }
   },
   "errors": [
@@ -196,9 +321,7 @@
     "desktop/desktop: repository_missing (Root manifest index does not cover repository desktop/desktop)",
     "go-gitea/gitea: repository_missing (Root manifest index does not cover repository go-gitea/gitea)",
     "mudler/LocalAI: repository_missing (Root manifest index does not cover repository mudler/LocalAI)",
-    "marktext/marktext: repository_missing (Root manifest index does not cover repository marktext/marktext)",
     "PowerShell/PowerShell: repository_missing (Root manifest index does not cover repository PowerShell/PowerShell)",
-    "microsoft/PowerToys: repository_missing (Root manifest index does not cover repository microsoft/PowerToys)",
     "wez/wezterm: repository_missing (Root manifest index does not cover repository wez/wezterm)",
     "ggml-org/llama.cpp: repository_missing (Root manifest index does not cover repository ggml-org/llama.cpp)",
     "ollama/ollama: repository_missing (Root manifest index does not cover repository ollama/ollama)"
