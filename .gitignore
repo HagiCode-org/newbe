@@ -250,3 +250,6 @@ modules.xml
 build/
 
 **/__pycache__/
+
+# Local 123pan sync-state baseline used by create-mirrors detection (not published)
+tools/123pan-sync-state.json
