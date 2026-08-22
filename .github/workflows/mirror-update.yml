@@ -18,6 +18,9 @@ concurrency:
 
 env:
   PUBLISH_BRANCH: main
+  # Snapshot of 123pan resource sync state, committed so each run can compare
+  # against the previous run's baseline.
+  SNAPSHOT_PATH: tools/123pan-sync-state.json
 
 jobs:
   release:
@@ -41,6 +44,62 @@ jobs:
           pip install --upgrade pip
           pip install pipenv
           pipenv install
+
+      # Capture the current 123pan resource state into the tracked snapshot path,
+      # keeping a copy of the previously committed baseline for comparison.
+      - name: Capture 123pan resource state
+        id: pan123
+        working-directory: ${{ github.workspace }}/tools
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          SNAPSHOT_PATH="${{ env.SNAPSHOT_PATH }}"
+          BASELINE_FILE="$RUNNER_TEMP/123pan-baseline.json"
+
+          # Preserve the previously committed snapshot as the baseline.
+          if [ -f "$SNAPSHOT_PATH" ]; then
+            cp "$SNAPSHOT_PATH" "$BASELINE_FILE"
+            echo "baseline_present=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "{}" > "$BASELINE_FILE"
+            echo "baseline_present=false" >> "$GITHUB_OUTPUT"
+          fi
+
+          # dump-123pan-snapshot exits non-zero when any manifest source is
+          # unavailable so we can record a diagnostic instead of masking it.
+          set +e
+          pipenv run invoke dump-123pan-snapshot --output "$SNAPSHOT_PATH"
+          SNAPSHOT_RC=$?
+          set -e
+
+          if [ "$SNAPSHOT_RC" -ne 0 ]; then
+            echo "status=unavailable" >> "$GITHUB_OUTPUT"
+            echo "diagnostic=123pan manifest source could not be read; see step logs" >> "$GITHUB_OUTPUT"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            {
+              echo "### 123pan resource state"
+              echo "- Result: unavailable"
+              echo "- Note: 123pan status could not be read this run. Source change judgment is used; the 123pan state is NOT treated as synced."
+            } >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+
+          echo "status=available" >> "$GITHUB_OUTPUT"
+
+          # Compare the freshly generated snapshot against the committed baseline.
+          if git diff --quiet --no-index "$BASELINE_FILE" "$SNAPSHOT_PATH" 2>/dev/null; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "diagnostic=123pan resource state matches previous baseline" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "diagnostic=123pan resource state differs from previous baseline" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Generate mirror content
+        working-directory: ${{ github.workspace }}/tools
+        run: |
+          export PATH=/home/runner/.local/bin/:$PATH
           pipenv run invoke create-mirrors
 
       - name: Capture mirror diff
@@ -53,25 +112,64 @@ jobs:
 
           git add -N .
 
-          if git diff --quiet -- .; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
+          # Source change = working-tree diff of managed content, excluding the
+          # 123pan state snapshot (which is tracked separately as its own signal).
+          if git diff --quiet -- . ':(exclude)${{ env.SNAPSHOT_PATH }}'; then
+            SOURCE_CHANGED="false"
+          else
+            SOURCE_CHANGED="true"
+          fi
+
+          PAN123_CHANGED="${{ steps.pan123.outputs.changed }}"
+          PAN123_STATUS="${{ steps.pan123.outputs.status }}"
+
+          # Combined change signal: either source or 123pan resource changed.
+          if [ "$SOURCE_CHANGED" = "true" ] || [ "$PAN123_CHANGED" = "true" ]; then
+            CHANGED="true"
+          else
+            CHANGED="false"
+          fi
+
+          # Resolve the change source label for the summary.
+          if [ "$SOURCE_CHANGED" = "true" ] && [ "$PAN123_CHANGED" = "true" ]; then
+            CHANGE_SOURCE="source+123pan"
+          elif [ "$SOURCE_CHANGED" = "true" ]; then
+            CHANGE_SOURCE="source"
+          elif [ "$PAN123_CHANGED" = "true" ]; then
+            CHANGE_SOURCE="123pan"
+          else
+            CHANGE_SOURCE="none"
+          fi
+
+          echo "source_changed=$SOURCE_CHANGED" >> "$GITHUB_OUTPUT"
+          echo "123pan_changed=$PAN123_CHANGED" >> "$GITHUB_OUTPUT"
+          echo "123pan_status=$PAN123_STATUS" >> "$GITHUB_OUTPUT"
+          echo "changed=$CHANGED" >> "$GITHUB_OUTPUT"
+          echo "change_source=$CHANGE_SOURCE" >> "$GITHUB_OUTPUT"
+
+          if [ "$CHANGED" != "true" ]; then
             {
               echo "### Mirror publish"
               echo "- Result: no-op"
+              echo "- Change source: none"
               echo "- Publish branch: $PUBLISH_BRANCH"
               echo "- Source ref: $GITHUB_REF_NAME"
+              echo "- 123pan status: $PAN123_STATUS"
             } >> "$GITHUB_STEP_SUMMARY"
             rm -f "$PATCH_FILE"
             exit 0
           fi
 
           git diff --binary --full-index -- . > "$PATCH_FILE"
-          echo "changed=true" >> "$GITHUB_OUTPUT"
           echo "patch_file=$PATCH_FILE" >> "$GITHUB_OUTPUT"
 
           {
             echo "### Mirror publish"
             echo "- Result: changes detected"
+            echo "- Change source: $CHANGE_SOURCE"
+            echo "- Source changed: $SOURCE_CHANGED"
+            echo "- 123pan changed: $PAN123_CHANGED"
+            echo "- 123pan status: $PAN123_STATUS"
             echo "- Publish branch: $PUBLISH_BRANCH"
             echo "- Source ref: $GITHUB_REF_NAME"
             echo "- Pending files:"
@@ -87,6 +185,7 @@ jobs:
           {
             echo "### Release follow-up"
             echo "- Result: skipped (no-op publish)"
+            echo "- Change source: ${{ steps.diff.outputs.change_source }}"
             echo "- Trigger branch: $PUBLISH_BRANCH"
             echo "- Note: no commit was pushed to main, so the main-branch release workflow was not triggered."
           } >> "$GITHUB_STEP_SUMMARY"
@@ -97,6 +196,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PATCH_FILE: ${{ steps.diff.outputs.patch_file }}
+          SNAPSHOT_PATH: ${{ env.SNAPSHOT_PATH }}
         shell: bash
         run: |
           set -euo pipefail
@@ -116,12 +216,22 @@ jobs:
           git checkout -B mirror-publish "origin/$PUBLISH_BRANCH"
           git apply --index --binary "$PATCH_FILE"
 
+          # Stage the updated 123pan state snapshot so the next run has a baseline.
+          if [ -f "$SNAPSHOT_PATH" ]; then
+            git add "$SNAPSHOT_PATH"
+          fi
+
           if git diff --cached --quiet; then
             echo "Mirror patch produced no staged changes on ${PUBLISH_BRANCH}." >&2
             exit 1
           fi
 
-          git commit -m "chore(mirror): update managed mirrors"
+          git commit -m "chore(mirror): update managed mirrors
+
+          change-source: ${{ steps.diff.outputs.change_source }}
+          source-changed: ${{ steps.diff.outputs.source_changed }}
+          123pan-changed: ${{ steps.diff.outputs.123pan_changed }}
+          123pan-status: ${{ steps.diff.outputs.123pan_status }}"
           git push origin HEAD:"$PUBLISH_BRANCH"
 
           COMMIT_SHA="$(git rev-parse HEAD)"
@@ -142,6 +252,7 @@ jobs:
             echo "- Result: delegated to main push"
             echo "- Trigger branch: $PUBLISH_BRANCH"
             echo "- Commit: \`${{ steps.publish.outputs.commit_sha }}\`"
+            echo "- Change source: ${{ steps.diff.outputs.change_source }}"
             echo "- Note: the gh-pages workflow is dispatched explicitly after the main push."
           } >> "$GITHUB_STEP_SUMMARY"
 
