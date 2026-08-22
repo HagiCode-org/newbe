@@ -1,0 +1,22 @@
+{
+  "generatedAt": "2026-08-22T08:45:23.733161+00:00",
+  "recordCount": 0,
+  "records": {},
+  "errors": [
+    "microsoft/azuredatastudio: request_failed (404 Client Error: Not Found for url: https://syncer.hagicode.com/r2/index.json)",
+    "OpenAgentPlatform/Dive: request_failed (404 Client Error: Not Found for url: https://syncer.hagicode.com/r2/index.json)",
+    "electron/fiddle: request_failed (404 Client Error: Not Found for url: https://syncer.hagicode.com/r2/index.json)",
+    "nomic-ai/gpt4all: request_failed (404 Client Error: Not Found for url: https://syncer.hagicode.com/r2/index.json)",
+    "desktop/desktop: request_failed (404 Client Error: Not Found for url: https://syncer.hagicode.com/r2/index.json)",
+    "go-gitea/gitea: request_failed (404 Client Error: Not Found for url: https://syncer.hagicode.com/r2/index.json)",
+    "mudler/LocalAI: request_failed (404 Client Error: Not Found for url: https://syncer.hagicode.com/r2/index.json)",
+    "marktext/marktext: request_failed (404 Client Error: Not Found for url: https://syncer.hagicode.com/r2/index.json)",
+    "agalwood/Motrix: request_failed (404 Client Error: Not Found for url: https://syncer.hagicode.com/r2/index.json)",
+    "PowerShell/PowerShell: request_failed (404 Client Error: Not Found for url: https://syncer.hagicode.com/r2/index.json)",
+    "microsoft/PowerToys: request_failed (404 Client Error: Not Found for url: https://syncer.hagicode.com/r2/index.json)",
+    "Eugeny/tabby: request_failed (404 Client Error: Not Found for url: https://syncer.hagicode.com/r2/index.json)",
+    "wez/wezterm: request_failed (404 Client Error: Not Found for url: https://syncer.hagicode.com/r2/index.json)",
+    "ggml-org/llama.cpp: request_failed (404 Client Error: Not Found for url: https://syncer.hagicode.com/r2/index.json)",
+    "ollama/ollama: request_failed (404 Client Error: Not Found for url: https://syncer.hagicode.com/r2/index.json)"
+  ]
+}
