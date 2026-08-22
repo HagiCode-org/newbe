@@ -96,8 +96,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
-
-
 ## 0.12.3
 
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.3/MD5SUMS" text="MD5SUMS" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
@@ -175,80 +173,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2.1/wkhtmltox-0.12.2.1_osx-cocoa-x86-64.pkg" text="wkhtmltox-0.12.2.1_osx-cocoa-x86-64.pkg" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
 
 
-
-## 0.12.2
-
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2/MD5SUMS" text="MD5SUMS" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2/SHA1SUMS" text="SHA1SUMS" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2/SHA256SUMS" text="SHA256SUMS" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2/wkhtmltox-0.12.2.tar.bz2" text="wkhtmltox-0.12.2.tar.bz2" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2/wkhtmltox-0.12.2_linux-centos5-amd64.rpm" text="wkhtmltox-0.12.2_linux-centos5-amd64.rpm" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2/wkhtmltox-0.12.2_linux-centos5-i386.rpm" text="wkhtmltox-0.12.2_linux-centos5-i386.rpm" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2/wkhtmltox-0.12.2_linux-centos6-amd64.rpm" text="wkhtmltox-0.12.2_linux-centos6-amd64.rpm" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2/wkhtmltox-0.12.2_linux-centos6-i386.rpm" text="wkhtmltox-0.12.2_linux-centos6-i386.rpm" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2/wkhtmltox-0.12.2_linux-centos7-amd64.rpm" text="wkhtmltox-0.12.2_linux-centos7-amd64.rpm" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2/wkhtmltox-0.12.2_linux-jessie-amd64.deb" text="wkhtmltox-0.12.2_linux-jessie-amd64.deb" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2/wkhtmltox-0.12.2_linux-jessie-i386.deb" text="wkhtmltox-0.12.2_linux-jessie-i386.deb" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2/wkhtmltox-0.12.2_linux-precise-amd64.deb" text="wkhtmltox-0.12.2_linux-precise-amd64.deb" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2/wkhtmltox-0.12.2_linux-precise-i386.deb" text="wkhtmltox-0.12.2_linux-precise-i386.deb" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2/wkhtmltox-0.12.2_linux-trusty-amd64.deb" text="wkhtmltox-0.12.2_linux-trusty-amd64.deb" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2/wkhtmltox-0.12.2_linux-trusty-i386.deb" text="wkhtmltox-0.12.2_linux-trusty-i386.deb" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2/wkhtmltox-0.12.2_linux-wheezy-amd64.deb" text="wkhtmltox-0.12.2_linux-wheezy-amd64.deb" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2/wkhtmltox-0.12.2_linux-wheezy-i386.deb" text="wkhtmltox-0.12.2_linux-wheezy-i386.deb" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2/wkhtmltox-0.12.2_mingw-w64-cross-win32.exe" text="wkhtmltox-0.12.2_mingw-w64-cross-win32.exe" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2/wkhtmltox-0.12.2_mingw-w64-cross-win64.exe" text="wkhtmltox-0.12.2_mingw-w64-cross-win64.exe" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2/wkhtmltox-0.12.2_msvc2013-win32.exe" text="wkhtmltox-0.12.2_msvc2013-win32.exe" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2/wkhtmltox-0.12.2_msvc2013-win64.exe" text="wkhtmltox-0.12.2_msvc2013-win64.exe" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2/wkhtmltox-0.12.2_osx-carbon-i386.pkg" text="wkhtmltox-0.12.2_osx-carbon-i386.pkg" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.2/wkhtmltox-0.12.2_osx-cocoa-x86-64.pkg" text="wkhtmltox-0.12.2_osx-cocoa-x86-64.pkg" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-
-
-
-## 0.12.1.2
-
-
-
-
-## 0.12.1.1
-
-
-
-
-## 0.12.1
-
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.1/MD5SUMS" text="MD5SUMS" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.1/SHA1SUMS" text="SHA1SUMS" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.1/SHA256SUMS" text="SHA256SUMS" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.1/wkhtmltox-0.12.1.2_mingw-w64-cross-win32.exe" text="wkhtmltox-0.12.1.2_mingw-w64-cross-win32.exe" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.1/wkhtmltox-0.12.1.2_mingw-w64-cross-win64.exe" text="wkhtmltox-0.12.1.2_mingw-w64-cross-win64.exe" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.1/wkhtmltox-0.12.1.2_msvc2013-win32.exe" text="wkhtmltox-0.12.1.2_msvc2013-win32.exe" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.1/wkhtmltox-0.12.1.2_msvc2013-win64.exe" text="wkhtmltox-0.12.1.2_msvc2013-win64.exe" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.1/wkhtmltox-0.12.1.tar.bz2" text="wkhtmltox-0.12.1.tar.bz2" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.1/wkhtmltox-0.12.1_linux-centos5-amd64.rpm" text="wkhtmltox-0.12.1_linux-centos5-amd64.rpm" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.1/wkhtmltox-0.12.1_linux-centos5-i386.rpm" text="wkhtmltox-0.12.1_linux-centos5-i386.rpm" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.1/wkhtmltox-0.12.1_linux-centos6-amd64.rpm" text="wkhtmltox-0.12.1_linux-centos6-amd64.rpm" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.1/wkhtmltox-0.12.1_linux-centos6-i386.rpm" text="wkhtmltox-0.12.1_linux-centos6-i386.rpm" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.1/wkhtmltox-0.12.1_linux-centos7-amd64.rpm" text="wkhtmltox-0.12.1_linux-centos7-amd64.rpm" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.1/wkhtmltox-0.12.1_linux-precise-amd64.deb" text="wkhtmltox-0.12.1_linux-precise-amd64.deb" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.1/wkhtmltox-0.12.1_linux-precise-i386.deb" text="wkhtmltox-0.12.1_linux-precise-i386.deb" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.1/wkhtmltox-0.12.1_linux-trusty-amd64.deb" text="wkhtmltox-0.12.1_linux-trusty-amd64.deb" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.1/wkhtmltox-0.12.1_linux-trusty-i386.deb" text="wkhtmltox-0.12.1_linux-trusty-i386.deb" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.1/wkhtmltox-0.12.1_linux-wheezy-amd64.deb" text="wkhtmltox-0.12.1_linux-wheezy-amd64.deb" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.1/wkhtmltox-0.12.1_linux-wheezy-i386.deb" text="wkhtmltox-0.12.1_linux-wheezy-i386.deb" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.1/wkhtmltox-0.12.1_osx-carbon-i386.pkg" text="wkhtmltox-0.12.1_osx-carbon-i386.pkg" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.1/wkhtmltox-0.12.1_osx-cocoa-x86-64.pkg" text="wkhtmltox-0.12.1_osx-cocoa-x86-64.pkg" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-
-
-
-## 0.12.0
-
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.0/MD5SUMS" text="MD5SUMS" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.0/SHA1SUMS" text="SHA1SUMS" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.0/SHA256SUMS" text="SHA256SUMS" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.0/wkhtmltox-linux-amd64_0.12.0-03c001d.tar.xz" text="wkhtmltox-linux-amd64_0.12.0-03c001d.tar.xz" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.0/wkhtmltox-linux-i386_0.12.0-03c001d.tar.xz" text="wkhtmltox-linux-i386_0.12.0-03c001d.tar.xz" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.0/wkhtmltox-win32_0.12.0-03c001d.exe" text="wkhtmltox-win32_0.12.0-03c001d.exe" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
-- <GithubMirrorLink link="https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.0/wkhtmltox-win64_0.12.0-03c001d.exe" text="wkhtmltox-win64_0.12.0-03c001d.exe" repositoryKey="wkhtmltopdf/wkhtmltopdf" />
 
 
 
