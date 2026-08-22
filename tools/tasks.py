@@ -662,6 +662,19 @@ def create_mirrors(c):
     mirrors_def = load_mirrors_def()
     total = len(mirrors_def['mirrors'])
     logger.info("Starting mirror update run with %s mirror definitions", total)
+
+    # Detect 123pan resource changes from the r2 index/manifest before
+    # regenerating content. The resulting doc diff (after generation) is what
+    # triggers a publish; this detection makes the 123pan signal explicit and
+    # ensures an unavailable 123pan source is diagnosed rather than masked.
+    pan123 = detect_123pan_changes(mirrors_def)
+    logger.info(
+        "123pan change signal: changed=%s status=%s source=%s",
+        pan123['changed'],
+        pan123['status'],
+        pan123['diagnostic'],
+    )
+
     index = 1
     failed_mirrors = []
     for mirror in mirrors_def['mirrors']:
@@ -694,13 +707,35 @@ def create_mirrors(c):
         logger.info("All mirrors created successfully!")
 
 
-def build_123pan_snapshot(mirrors_def):
-    """Collect 123pan resource sync state across all configured manifest sources.
+def _resolve_repository_key(mirror):
+    """Derive the manifest repositoryKey the same way create_github_mirror does.
 
-    Returns ``(payload, errors)`` where ``payload`` is the snapshot dict and
-    ``errors`` lists manifest sources that could not be read. A non-empty
-    ``errors`` list means the 123pan state is only partially known and must not
-    be silently treated as unchanged by callers.
+    This keeps 123pan detection aligned with the manifest actually fetched
+    during mirror generation.
+    """
+    manifest_source = mirror.get('manifestSource')
+    if not manifest_source:
+        return None
+    repository_key = mirror.get('repositoryKey')
+    if not repository_key:
+        official_site = mirror.get('officialSite', '')
+        match = re.search(r'github.com/([^/]+)/([^/]+)', official_site)
+        if match:
+            repository_key = f'{match.group(1)}/{match.group(2)}'
+    return repository_key
+
+
+def build_123pan_snapshot(mirrors_def):
+    """Collect 123pan resource sync state from the r2 index/manifest.
+
+    Walks every configured mirror with a manifest source, reads the r2 root
+    index and the per-release manifest the same way ``create_mirrors`` does,
+    and collects the 123pan records (keyed by ``repositoryKey:releaseTagName:assetName``)
+    with their latest ``syncedAt`` and resolved ``shareUrl``.
+
+    Returns ``(payload, errors)``. A non-empty ``errors`` list means one or more
+    manifest sources could not be read, so the 123pan state is only partially
+    known and must NOT be silently treated as unchanged by callers.
     """
     snapshot = {}
     errors = []
@@ -710,11 +745,13 @@ def build_123pan_snapshot(mirrors_def):
         if not manifest_source:
             continue
         try:
-            validated_source = validate_manifest_source(manifest_source)
+            repository_key = _resolve_repository_key(mirror)
+            source_with_key = {**manifest_source, 'repositoryKey': repository_key}
+            validated_source = validate_manifest_source(source_with_key)
             catalog = get_repository_root_manifest_catalog(validated_source)
             if catalog['state'] != 'guided':
                 errors.append(
-                    f"{validated_source['repositoryKey']}: {catalog.get('reason')} "
+                    f"{repository_key}: {catalog.get('reason')} "
                     f"({catalog.get('diagnostic')})"
                 )
                 continue
@@ -735,11 +772,7 @@ def build_123pan_snapshot(mirrors_def):
                         'status': record.get('status'),
                     }
         except Exception as exc:  # noqa: BLE001 - surface as diagnostic, never mask as synced
-            repository_key = (
-                validate_manifest_source(manifest_source).get('repositoryKey')
-                if manifest_source else 'unknown'
-            )
-            errors.append(f"{repository_key}: {exc}")
+            errors.append(f"{_resolve_repository_key(mirror) or 'unknown'}: {exc}")
 
     payload = {
         'generatedAt': datetime.now(timezone.utc).isoformat(),
@@ -750,38 +783,77 @@ def build_123pan_snapshot(mirrors_def):
     return payload, errors
 
 
-@task
-def dump_123pan_snapshot(c, output="tools/123pan-sync-state.json"):
-    """Write a deterministic snapshot of 123pan resource sync state.
+def detect_123pan_changes(mirrors_def, baseline_path="tools/123pan-sync-state.json"):
+    """Detect whether the 123pan resource state changed since the last run.
 
-    The snapshot is used by the mirror-update workflow to detect 123pan
-    resource changes that happen independently of the source repository. Each
-    record is keyed by ``repositoryKey:releaseTagName:assetName`` and carries
-    the latest ``syncedAt`` timestamp plus the resolved ``shareUrl``.
+    Compares the freshly built 123pan snapshot (from the r2 index/manifest)
+    against a previously persisted baseline file. Returns a dict with:
 
-    Exits non-zero when any configured manifest source cannot be read, so the
-    workflow can record an explicit "unavailable" diagnostic instead of
-    silently treating the 123pan state as unchanged.
+    - ``changed``: ``True`` when the snapshot differs from the baseline, the
+      baseline is missing, or a source was unavailable (never silently synced).
+    - ``status``: ``available`` or ``unavailable``.
+    - ``diagnostic``: human-readable reason.
+    - ``record_count``: number of 123pan records observed this run.
+
+    The updated snapshot is written to ``baseline_path`` so the next run can
+    compare against it.
     """
-    mirrors_def = load_mirrors_def()
     payload, errors = build_123pan_snapshot(mirrors_def)
 
-    os.makedirs(os.path.dirname(output), exist_ok=True) if os.path.dirname(output) else None
-    with open(output, 'w', encoding='utf-8') as fh:
+    if errors:
+        diagnostic = (
+            "123pan manifest source unavailable; 123pan change detection "
+            f"could not complete: {'; '.join(errors)}"
+        )
+        logger.warning("123pan resource state %s", diagnostic)
+        # Persist the partial snapshot so the failure is visible, then report
+        # that 123pan state is unavailable (NOT treated as unchanged/synced).
+        _write_123pan_snapshot(payload, baseline_path)
+        return {
+            'changed': True,
+            'status': 'unavailable',
+            'diagnostic': diagnostic,
+            'record_count': payload['recordCount'],
+        }
+
+    new_records = payload['records']
+    previous = _read_123pan_baseline(baseline_path)
+    changed = previous != new_records
+
+    _write_123pan_snapshot(payload, baseline_path)
+
+    if changed:
+        if previous is None:
+            diagnostic = "123pan baseline missing; treating current state as the first observed snapshot"
+        else:
+            diagnostic = "123pan resource state differs from previous baseline"
+    else:
+        diagnostic = "123pan resource state matches previous baseline"
+
+    logger.info("123pan resource state: %s (%s records)", diagnostic, payload['recordCount'])
+    return {
+        'changed': changed,
+        'status': 'available',
+        'diagnostic': diagnostic,
+        'record_count': payload['recordCount'],
+    }
+
+
+def _read_123pan_baseline(baseline_path):
+    try:
+        with open(baseline_path, encoding='utf-8') as fh:
+            return json.load(fh).get('records', {})
+    except (FileNotFoundError, json.JSONDecodeError):
+        return None
+
+
+def _write_123pan_snapshot(payload, baseline_path):
+    directory = os.path.dirname(baseline_path)
+    if directory:
+        os.makedirs(directory, exist_ok=True)
+    with open(baseline_path, 'w', encoding='utf-8') as fh:
         json.dump(payload, fh, ensure_ascii=False, indent=2)
         fh.write('\n')
-
-    if errors:
-        logger.warning(
-            "123pan snapshot completed with %s source error(s); state treated as unavailable: %s",
-            len(errors),
-            '; '.join(errors),
-        )
-        # Non-zero exit so the workflow records a diagnostic instead of masking
-        # the failure as "no change".
-        raise SystemExit(1)
-
-    logger.info("123pan snapshot written to %s (%s records)", output, len(snapshot))
 
 
 def create_huawei_mirror(mirror):
