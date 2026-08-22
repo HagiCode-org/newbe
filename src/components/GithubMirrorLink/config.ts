@@ -125,7 +125,7 @@ const directMirrorDescriptors: Record<string, MirrorDescriptor> = {
     priority: 'backup',
     recommendationTier: 'primary',
     description: '直连分享页 · 已同步到国内网盘',
-    source: 'azure',
+    source: 'syncer-action',
     order: 0,
   },
 };
