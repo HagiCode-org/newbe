@@ -20,7 +20,7 @@ def get_github_version_section(
         if repository_key:
             props.append(f'repositoryKey={json.dumps(repository_key, ensure_ascii=False)}')
         resolved_mirrors = resolved_mirrors_by_asset.get(asset["name"], [])
-        if preferred_providers and resolved_mirrors:
+        if resolved_mirrors:
             resolved_payload = [
                 {
                     "providerKey": record["providerKey"],
@@ -32,7 +32,8 @@ def get_github_version_section(
                 }
                 for record in resolved_mirrors
             ]
-            props.append(f'preferredProviders={{{json.dumps(preferred_providers, ensure_ascii=False)}}}')
+            if preferred_providers:
+                props.append(f'preferredProviders={{{json.dumps(preferred_providers, ensure_ascii=False)}}}')
             props.append(f'resolvedMirrors={{{json.dumps(resolved_payload, ensure_ascii=False)}}}')
 
         content += f"- <GithubMirrorLink {' '.join(props)} />\n"

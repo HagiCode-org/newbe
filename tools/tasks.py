@@ -143,6 +143,10 @@ def build_manifest_url(manifest_source, release_tag_name):
     return build_root_manifest_index_url(manifest_source)
 
 
+def manifest_asset_name(manifest_path):
+    return str(manifest_path or '').strip().replace('/', '__')
+
+
 def normalize_root_manifest_release_summary(repository_key, release_summary):
     if not isinstance(release_summary, dict):
         raise ValueError('Root manifest release summary must be an object')
@@ -284,14 +288,50 @@ def fetch_root_manifest_index(manifest_source):
         response = requests.get(
             root_index_url,
             headers=MANIFEST_REQUEST_HEADERS,
+            params={'per_page': 100},
             timeout=validated_source['timeoutSeconds'],
         )
         response.raise_for_status()
-        payload = response.json()
+        releases = response.json()
+        if not isinstance(releases, list):
+            raise ValueError('Metadata releases response must be an array')
+        drafts = [release for release in releases if release.get('draft') is True]
+        drafts.sort(key=lambda release: release.get('created_at', ''), reverse=True)
+        if not drafts:
+            raise ValueError('No Draft Release is available in the metadata repository')
+        assets_url = f"{root_index_url}/{drafts[0]['id']}/assets"
+        assets_response = requests.get(
+            assets_url,
+            headers=MANIFEST_REQUEST_HEADERS,
+            params={'per_page': 100},
+            timeout=validated_source['timeoutSeconds'],
+        )
+        assets_response.raise_for_status()
+        index_name = f"{validated_source['blobPrefix']}/index.json".replace('/', '__')
+        index_asset = next(
+            (asset for asset in assets_response.json() if asset.get('name') == index_name),
+            None,
+        )
+        if not index_asset:
+            raise ValueError(f'Metadata Draft Release does not contain {index_name}')
+        payload_response = requests.get(
+            index_asset['url'],
+            headers={
+                **MANIFEST_REQUEST_HEADERS,
+                'Authorization': f'token {os.getenv("GITHUB_TOKEN")}',
+                'Accept': 'application/octet-stream',
+            },
+            timeout=validated_source['timeoutSeconds'],
+        )
+        payload_response.raise_for_status()
+        payload = payload_response.json()
         normalized_payload = normalize_root_manifest_index(payload)
         result = {
             'state': 'ready',
             'rootIndexUrl': root_index_url,
+            'draftReleaseId': drafts[0].get('id'),
+            'assetsUrl': assets_url,
+            'assets': assets_response.json(),
             'repositories': normalized_payload['repositories'],
             'repositoriesByKey': normalized_payload['repositoriesByKey'],
         }
@@ -443,6 +483,7 @@ def normalize_manifest_records(payload, manifest_source):
         provider_key = normalize_provider_key(record.get('providerName') or record.get('providerKey'))
         release_tag_name = record.get('releaseTagName')
         asset_name = record.get('assetName')
+        # shareUrl from this syncer-action manifest is the public 123pan entry point.
         share_url = (record.get('shareUrl') or '').strip()
         status = str(record.get('status') or '').strip().lower() or 'unknown'
         synced_at = (
@@ -492,6 +533,7 @@ def fetch_manifest_records(manifest_source, release_tag_name=None):
         validated_source['metadataRepo'],
         validated_source['repositoryKey'],
         validated_source.get('expectedVersion'),
+        str(release_tag_name or '').strip().lower(),
     )
     if cache_key in MANIFEST_RECORD_CACHE:
         logger.debug(
@@ -510,30 +552,22 @@ def fetch_manifest_records(manifest_source, release_tag_name=None):
     )
 
     try:
-        headers = {**MANIFEST_REQUEST_HEADERS, 'Authorization': f'Bearer {token}'}
-        response = requests.get(
-            manifest_url,
-            headers=headers,
-            params={'per_page': 100},
-            timeout=validated_source['timeoutSeconds'],
-        )
-        response.raise_for_status()
-        drafts = [release for release in response.json() if release.get('draft') is True]
-        drafts.sort(key=lambda release: release.get('created_at', ''), reverse=True)
-        if not drafts:
+        root_index = fetch_root_manifest_index(validated_source)
+        repository = root_index.get('repositoriesByKey', {}).get(validated_source['repositoryKey'])
+        if not repository:
+            logger.info("No syncer-action root index entry for %s @ %s", validated_source['repositoryKey'], release_tag_name)
             return []
-        assets_url = f"{manifest_url}/{drafts[0]['id']}/assets"
-        assets_response = requests.get(
-            assets_url,
-            headers=MANIFEST_REQUEST_HEADERS,
-            params={'per_page': 100},
-            timeout=validated_source['timeoutSeconds'],
-        )
-        assets_response.raise_for_status()
-        asset_name = f"{validated_source['blobPrefix']}/{validated_source['repositoryKey']}/manifest.json".replace('/', '__')
-        asset = next((item for item in assets_response.json() if item.get('name') == asset_name), None)
+        release_summary = repository.get('releaseSummariesByTag', {}).get(str(release_tag_name or '').strip().lower()) if release_tag_name else None
+        if release_tag_name and not release_summary:
+            logger.info("No syncer-action manifest release entry for %s @ %s", validated_source['repositoryKey'], release_tag_name)
+            return []
+        manifest_path = (release_summary or {}).get('manifestPath') or repository.get('releases', [{}])[0].get('manifestPath')
+        asset_name = manifest_asset_name(manifest_path)
+        asset = next((item for item in root_index.get('assets', []) if item.get('name') == asset_name), None)
         if not asset:
+            logger.warning("syncer-action manifest asset missing for %s @ %s: %s", validated_source['repositoryKey'], release_tag_name, asset_name)
             return []
+        headers = {**MANIFEST_REQUEST_HEADERS, 'Authorization': f'Bearer {token}'}
         payload_response = requests.get(
             asset['url'],
             headers={**headers, 'Accept': 'application/octet-stream'},
@@ -967,15 +1001,27 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
             if should_fetch_manifest
             else []
         )
+        matching_records = [
+            record for record in resolved_records
+            if record.get('repositoryKey') == repository_key
+            and str(record.get('releaseTagName', '')).strip().lower() == release_tag_name.lower()
+        ]
         records_by_asset = {}
-        for record in resolved_records:
+        for record in matching_records:
             if (
-                record.get('repositoryKey') == repository_key
-                and str(record.get('releaseTagName', '')).strip().lower() == release_tag_name.lower()
-                and record.get('status') == 'synced'
+                record.get('status') == 'synced'
                 and record.get('shareUrl')
             ):
                 records_by_asset.setdefault(record['assetName'], []).append(record)
+        used_count = sum(len(records) for records in records_by_asset.values())
+        logger.info(
+            "syncer-action 123pan manifest summary for %s @ %s: discovered=%s used=%s skipped=%s",
+            repository_key,
+            release_tag_name,
+            len(matching_records),
+            used_count,
+            len(matching_records) - used_count,
+        )
         post += get_github_version_section(
             release,
             repository_key=repository_key,

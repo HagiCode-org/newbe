@@ -270,7 +270,7 @@ export function buildMirrorSections({
   const defaultMirrors = createDefaultMirrorLinks(githubLink);
   const directMirrors = dedupeMirrors(
     resolvedMirrors
-      .filter((mirror) => mirror?.providerKey && mirror?.fullUrl)
+      .filter((mirror) => mirror?.providerKey?.trim() && mirror?.fullUrl?.trim())
       .map((mirror) => resolveDirectMirror(mirror, normalizedPreferredProviders)),
   );
 
