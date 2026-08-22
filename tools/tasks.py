@@ -5,6 +5,7 @@ import json
 import logging
 import os
 import re
+from datetime import datetime, timezone
 from urllib.parse import quote, unquote, urljoin
 
 import requests
@@ -693,6 +694,96 @@ def create_mirrors(c):
         logger.info("All mirrors created successfully!")
 
 
+def build_123pan_snapshot(mirrors_def):
+    """Collect 123pan resource sync state across all configured manifest sources.
+
+    Returns ``(payload, errors)`` where ``payload`` is the snapshot dict and
+    ``errors`` lists manifest sources that could not be read. A non-empty
+    ``errors`` list means the 123pan state is only partially known and must not
+    be silently treated as unchanged by callers.
+    """
+    snapshot = {}
+    errors = []
+
+    for mirror in mirrors_def['mirrors']:
+        manifest_source = mirror.get('manifestSource')
+        if not manifest_source:
+            continue
+        try:
+            validated_source = validate_manifest_source(manifest_source)
+            catalog = get_repository_root_manifest_catalog(validated_source)
+            if catalog['state'] != 'guided':
+                errors.append(
+                    f"{validated_source['repositoryKey']}: {catalog.get('reason')} "
+                    f"({catalog.get('diagnostic')})"
+                )
+                continue
+            release_summaries = catalog.get('releaseSummariesByTag', {})
+            for release_tag in release_summaries:
+                records = fetch_manifest_records(validated_source, release_tag)
+                for record in records:
+                    if record.get('providerKey') != '123pan':
+                        continue
+                    key = ':'.join([
+                        record.get('repositoryKey', ''),
+                        record.get('releaseTagName', ''),
+                        record.get('assetName', ''),
+                    ])
+                    snapshot[key] = {
+                        'syncedAt': record.get('syncedAt'),
+                        'shareUrl': record.get('shareUrl'),
+                        'status': record.get('status'),
+                    }
+        except Exception as exc:  # noqa: BLE001 - surface as diagnostic, never mask as synced
+            repository_key = (
+                validate_manifest_source(manifest_source).get('repositoryKey')
+                if manifest_source else 'unknown'
+            )
+            errors.append(f"{repository_key}: {exc}")
+
+    payload = {
+        'generatedAt': datetime.now(timezone.utc).isoformat(),
+        'recordCount': len(snapshot),
+        'records': dict(sorted(snapshot.items())),
+        'errors': errors,
+    }
+    return payload, errors
+
+
+@task
+def dump_123pan_snapshot(c, output="tools/123pan-sync-state.json"):
+    """Write a deterministic snapshot of 123pan resource sync state.
+
+    The snapshot is used by the mirror-update workflow to detect 123pan
+    resource changes that happen independently of the source repository. Each
+    record is keyed by ``repositoryKey:releaseTagName:assetName`` and carries
+    the latest ``syncedAt`` timestamp plus the resolved ``shareUrl``.
+
+    Exits non-zero when any configured manifest source cannot be read, so the
+    workflow can record an explicit "unavailable" diagnostic instead of
+    silently treating the 123pan state as unchanged.
+    """
+    mirrors_def = load_mirrors_def()
+    payload, errors = build_123pan_snapshot(mirrors_def)
+
+    os.makedirs(os.path.dirname(output), exist_ok=True) if os.path.dirname(output) else None
+    with open(output, 'w', encoding='utf-8') as fh:
+        json.dump(payload, fh, ensure_ascii=False, indent=2)
+        fh.write('\n')
+
+    if errors:
+        logger.warning(
+            "123pan snapshot completed with %s source error(s); state treated as unavailable: %s",
+            len(errors),
+            '; '.join(errors),
+        )
+        # Non-zero exit so the workflow records a diagnostic instead of masking
+        # the failure as "no change".
+        raise SystemExit(1)
+
+    logger.info("123pan snapshot written to %s (%s records)", output, len(snapshot))
+
+
 def create_huawei_mirror(mirror):
     software_name = mirror['softwareName']
     official_site = mirror['officialSite']
@@ -717,8 +808,6 @@ top: -99
 {software_name}. 国内直接从官网 {official_site} 下载比较困难，需要一些技术手段。这里提供一个国内的镜像下载地址列表，方便网友下载。
 
 {desc_section}
-
-### [点击此处，您也可以部署自己专属的免费 Github 资源加速站点](https://rg.newbe.pro/docs/turbohub/quick-start)
 
 <!-- more -->
 
@@ -748,8 +837,6 @@ top: -99
         post += get_huawei_version_section(huawei_mirror_url, g[1], g[0])
         if section_index == version_count - offset:
             post += f"""
-
-### [点击此处，您也可以部署自己专属的免费 Github 资源加速站点](https://rg.newbe.pro/docs/turbohub/quick-start)
 
 <img src='/images/weixin_public.png' alt='微信' />
 
@@ -791,8 +878,6 @@ top: -99
 {software_name}. 国内直接从官网 {official_site} 下载比较困难，需要一些技术手段。这里提供一个国内的镜像下载地址列表，方便网友下载。
 
 {desc_section}
-
-### [点击此处，您也可以部署自己专属的免费 Github 资源加速站点](https://rg.newbe.pro/docs/turbohub/quick-start)
 
 <img src='/images/weixin_public.png' alt='微信' />
 
