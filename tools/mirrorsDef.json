@@ -80,11 +80,10 @@
       "repositoryKey": "ollama/ollama",
       "preferredProviders": ["123pan"],
       "manifestSource": {
-        "source": "syncer-action",
-        "metadataOwner": "newbe-pro",
-        "metadataRepo": "syncer-action",
-        "blobPrefix": "release-sync",
-        "expectedVersion": 1,
+        "source": "syncer-r2",
+        "baseUrl": "https://syncer.hagicode.com",
+        "indexPath": "r2/index.json",
+        "manifestVersion": 1,
         "timeoutSeconds": 10
       },
       "markdownFilename": "Mirrors-ollama.md",
@@ -161,7 +160,7 @@
       "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
       "repositoryKey": "PowerShell/PowerShell",
       "preferredProviders": ["123pan"],
-      "manifestSource": {"source": "syncer-action", "metadataOwner": "newbe-pro", "metadataRepo": "syncer-action", "blobPrefix": "release-sync", "expectedVersion": 1, "timeoutSeconds": 10},
+      "manifestSource": {"source": "syncer-r2", "baseUrl": "https://syncer.hagicode.com", "indexPath": "r2/index.json", "manifestVersion": 1, "timeoutSeconds": 10},
       "markdownFilename": "Mirrors-PowerShell.md",
       "createDate": "2021-05-22"
     },
@@ -340,7 +339,7 @@
       "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
       "repositoryKey": "microsoft/PowerToys",
       "preferredProviders": ["123pan"],
-      "manifestSource": {"source": "syncer-action", "metadataOwner": "newbe-pro", "metadataRepo": "syncer-action", "blobPrefix": "release-sync", "expectedVersion": 1, "timeoutSeconds": 10},
+      "manifestSource": {"source": "syncer-r2", "baseUrl": "https://syncer.hagicode.com", "indexPath": "r2/index.json", "manifestVersion": 1, "timeoutSeconds": 10},
       "markdownFilename": "Mirrors-PowerToys.md",
       "createDate": "2021-04-26"
     },
@@ -391,7 +390,7 @@
       "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
       "repositoryKey": "microsoft/azuredatastudio",
       "preferredProviders": ["123pan"],
-      "manifestSource": {"source": "syncer-action", "metadataOwner": "newbe-pro", "metadataRepo": "syncer-action", "blobPrefix": "release-sync", "expectedVersion": 1, "timeoutSeconds": 10},
+      "manifestSource": {"source": "syncer-r2", "baseUrl": "https://syncer.hagicode.com", "indexPath": "r2/index.json", "manifestVersion": 1, "timeoutSeconds": 10},
       "markdownFilename": "Mirrors-Azure-Data-Studio.md",
       "createDate": "2026-04-10"
     },
@@ -402,7 +401,7 @@
       "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
       "repositoryKey": "Eugeny/tabby",
       "preferredProviders": ["123pan"],
-      "manifestSource": {"source": "syncer-action", "metadataOwner": "newbe-pro", "metadataRepo": "syncer-action", "blobPrefix": "release-sync", "expectedVersion": 1, "timeoutSeconds": 10},
+      "manifestSource": {"source": "syncer-r2", "baseUrl": "https://syncer.hagicode.com", "indexPath": "r2/index.json", "manifestVersion": 1, "timeoutSeconds": 10},
       "markdownFilename": "Mirrors-Tabby.md",
       "createDate": "2026-04-10"
     },
@@ -413,7 +412,7 @@
       "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
       "repositoryKey": "agalwood/Motrix",
       "preferredProviders": ["123pan"],
-      "manifestSource": {"source": "syncer-action", "metadataOwner": "newbe-pro", "metadataRepo": "syncer-action", "blobPrefix": "release-sync", "expectedVersion": 1, "timeoutSeconds": 10},
+      "manifestSource": {"source": "syncer-r2", "baseUrl": "https://syncer.hagicode.com", "indexPath": "r2/index.json", "manifestVersion": 1, "timeoutSeconds": 10},
       "markdownFilename": "Mirrors-Motrix.md",
       "createDate": "2026-04-10"
     },
@@ -424,7 +423,7 @@
       "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
       "repositoryKey": "marktext/marktext",
       "preferredProviders": ["123pan"],
-      "manifestSource": {"source": "syncer-action", "metadataOwner": "newbe-pro", "metadataRepo": "syncer-action", "blobPrefix": "release-sync", "expectedVersion": 1, "timeoutSeconds": 10},
+      "manifestSource": {"source": "syncer-r2", "baseUrl": "https://syncer.hagicode.com", "indexPath": "r2/index.json", "manifestVersion": 1, "timeoutSeconds": 10},
       "markdownFilename": "Mirrors-MarkText.md",
       "createDate": "2026-04-10"
     },
@@ -435,7 +434,7 @@
       "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
       "repositoryKey": "electron/fiddle",
       "preferredProviders": ["123pan"],
-      "manifestSource": {"source": "syncer-action", "metadataOwner": "newbe-pro", "metadataRepo": "syncer-action", "blobPrefix": "release-sync", "expectedVersion": 1, "timeoutSeconds": 10},
+      "manifestSource": {"source": "syncer-r2", "baseUrl": "https://syncer.hagicode.com", "indexPath": "r2/index.json", "manifestVersion": 1, "timeoutSeconds": 10},
       "markdownFilename": "Mirrors-Electron-Fiddle.md",
       "createDate": "2026-04-10"
     },
@@ -446,7 +445,7 @@
       "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
       "repositoryKey": "go-gitea/gitea",
       "preferredProviders": ["123pan"],
-      "manifestSource": {"source": "syncer-action", "metadataOwner": "newbe-pro", "metadataRepo": "syncer-action", "blobPrefix": "release-sync", "expectedVersion": 1, "timeoutSeconds": 10},
+      "manifestSource": {"source": "syncer-r2", "baseUrl": "https://syncer.hagicode.com", "indexPath": "r2/index.json", "manifestVersion": 1, "timeoutSeconds": 10},
       "markdownFilename": "Mirrors-Gitea.md",
       "createDate": "2026-04-10"
     },
@@ -457,7 +456,7 @@
       "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
       "repositoryKey": "desktop/desktop",
       "preferredProviders": ["123pan"],
-      "manifestSource": {"source": "syncer-action", "metadataOwner": "newbe-pro", "metadataRepo": "syncer-action", "blobPrefix": "release-sync", "expectedVersion": 1, "timeoutSeconds": 10},
+      "manifestSource": {"source": "syncer-r2", "baseUrl": "https://syncer.hagicode.com", "indexPath": "r2/index.json", "manifestVersion": 1, "timeoutSeconds": 10},
       "markdownFilename": "Mirrors-GitHub-Desktop.md",
       "createDate": "2026-04-10"
     },
@@ -468,7 +467,7 @@
       "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
       "repositoryKey": "wez/wezterm",
       "preferredProviders": ["123pan"],
-      "manifestSource": {"source": "syncer-action", "metadataOwner": "newbe-pro", "metadataRepo": "syncer-action", "blobPrefix": "release-sync", "expectedVersion": 1, "timeoutSeconds": 10},
+      "manifestSource": {"source": "syncer-r2", "baseUrl": "https://syncer.hagicode.com", "indexPath": "r2/index.json", "manifestVersion": 1, "timeoutSeconds": 10},
       "markdownFilename": "Mirrors-WezTerm.md",
       "createDate": "2026-04-10"
     },
@@ -479,7 +478,7 @@
       "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
       "repositoryKey": "ggml-org/llama.cpp",
       "preferredProviders": ["123pan"],
-      "manifestSource": {"source": "syncer-action", "metadataOwner": "newbe-pro", "metadataRepo": "syncer-action", "blobPrefix": "release-sync", "expectedVersion": 1, "timeoutSeconds": 10},
+      "manifestSource": {"source": "syncer-r2", "baseUrl": "https://syncer.hagicode.com", "indexPath": "r2/index.json", "manifestVersion": 1, "timeoutSeconds": 10},
       "markdownFilename": "Mirrors-llama-cpp.md",
       "createDate": "2026-04-10"
     },
@@ -490,7 +489,7 @@
       "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
       "repositoryKey": "mudler/LocalAI",
       "preferredProviders": ["123pan"],
-      "manifestSource": {"source": "syncer-action", "metadataOwner": "newbe-pro", "metadataRepo": "syncer-action", "blobPrefix": "release-sync", "expectedVersion": 1, "timeoutSeconds": 10},
+      "manifestSource": {"source": "syncer-r2", "baseUrl": "https://syncer.hagicode.com", "indexPath": "r2/index.json", "manifestVersion": 1, "timeoutSeconds": 10},
       "markdownFilename": "Mirrors-LocalAI.md",
       "createDate": "2026-04-10"
     },
@@ -501,7 +500,7 @@
       "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
       "repositoryKey": "nomic-ai/gpt4all",
       "preferredProviders": ["123pan"],
-      "manifestSource": {"source": "syncer-action", "metadataOwner": "newbe-pro", "metadataRepo": "syncer-action", "blobPrefix": "release-sync", "expectedVersion": 1, "timeoutSeconds": 10},
+      "manifestSource": {"source": "syncer-r2", "baseUrl": "https://syncer.hagicode.com", "indexPath": "r2/index.json", "manifestVersion": 1, "timeoutSeconds": 10},
       "markdownFilename": "Mirrors-GPT4All.md",
       "createDate": "2026-04-10"
     },
@@ -512,7 +511,7 @@
       "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
       "repositoryKey": "OpenAgentPlatform/Dive",
       "preferredProviders": ["123pan"],
-      "manifestSource": {"source": "syncer-action", "metadataOwner": "newbe-pro", "metadataRepo": "syncer-action", "blobPrefix": "release-sync", "expectedVersion": 1, "timeoutSeconds": 10},
+      "manifestSource": {"source": "syncer-r2", "baseUrl": "https://syncer.hagicode.com", "indexPath": "r2/index.json", "manifestVersion": 1, "timeoutSeconds": 10},
       "markdownFilename": "Mirrors-Dive.md",
       "createDate": "2026-04-10"
     },
