@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-22T09:49:41.271871+00:00",
-  "recordCount": 62,
+  "generatedAt": "2026-08-22T15:31:01.479188+00:00",
+  "recordCount": 131,
   "records": {
     "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.AppImage": {
       "syncedAt": "2026-08-22T07:14:26.809Z",
@@ -137,6 +137,126 @@
       "shareUrl": "https://www.123pan.com/s/zsClvd-rLflA",
       "status": "synced"
     },
+    "PowerShell/PowerShell:v7.5.10:PowerShell-7.5.10-win-arm64.msi": {
+      "syncedAt": "2026-08-22T12:26:28.813Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-AKocA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.5.10:PowerShell-7.5.10-win-arm64.zip": {
+      "syncedAt": "2026-08-22T12:26:34.442Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-fy6eA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.5.10:PowerShell-7.5.10-win-fxdependent.zip": {
+      "syncedAt": "2026-08-22T12:27:04.495Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-9KocA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.5.10:PowerShell-7.5.10-win-fxdependentWinDesktop.zip": {
+      "syncedAt": "2026-08-22T12:27:36.049Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-QKocA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.5.10:PowerShell-7.5.10-win-x64.msi": {
+      "syncedAt": "2026-08-22T12:28:07.567Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-vnBcA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.5.10:PowerShell-7.5.10-win-x64.zip": {
+      "syncedAt": "2026-08-22T12:28:39.050Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-dnBcA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.5.10:PowerShell-7.5.10-win-x86.msi": {
+      "syncedAt": "2026-08-22T12:28:44.067Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-uQmeA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.5.10:PowerShell-7.5.10-win-x86.zip": {
+      "syncedAt": "2026-08-22T12:29:15.371Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-MuccA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.5.10:PowerShell-7.5.10.msixbundle": {
+      "syncedAt": "2026-08-22T12:29:48.950Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-NHNcA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.5.10:hashes.sha256": {
+      "syncedAt": "2026-08-22T12:20:10.988Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-WIueA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.5.10:powershell-7.5.10-1.cm.aarch64.rpm": {
+      "syncedAt": "2026-08-22T12:20:41.581Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-E26cA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.5.10:powershell-7.5.10-1.cm.x86_64.rpm": {
+      "syncedAt": "2026-08-22T12:21:13.496Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-HBheA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.5.10:powershell-7.5.10-1.rh.x86_64.rpm": {
+      "syncedAt": "2026-08-22T12:21:45.305Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-Ez3cA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.5.10:powershell-7.5.10-linux-arm32.tar.gz": {
+      "syncedAt": "2026-08-22T12:22:16.029Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-k26cA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.5.10:powershell-7.5.10-linux-arm64.tar.gz": {
+      "syncedAt": "2026-08-22T12:22:21.403Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-hsBcA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.5.10:powershell-7.5.10-linux-musl-x64.tar.gz": {
+      "syncedAt": "2026-08-22T12:22:51.751Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-hKocA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.5.10:powershell-7.5.10-linux-x64-fxdependent.tar.gz": {
+      "syncedAt": "2026-08-22T12:23:21.582Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-o26cA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.5.10:powershell-7.5.10-linux-x64-musl-noopt-fxdependent.tar.gz": {
+      "syncedAt": "2026-08-22T12:23:51.444Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-ABheA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.5.10:powershell-7.5.10-linux-x64.tar.gz": {
+      "syncedAt": "2026-08-22T12:24:21.974Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-HKocA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.5.10:powershell-7.5.10-osx-arm64.pkg": {
+      "syncedAt": "2026-08-22T12:24:26.766Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-py6eA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.5.10:powershell-7.5.10-osx-arm64.tar.gz": {
+      "syncedAt": "2026-08-22T12:24:57.004Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-IuccA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.5.10:powershell-7.5.10-osx-x64.pkg": {
+      "syncedAt": "2026-08-22T12:25:27.518Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-m26cA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.5.10:powershell-7.5.10-osx-x64.tar.gz": {
+      "syncedAt": "2026-08-22T12:25:58.251Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-jXBcA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.5.10:powershell_7.5.10-1.deb_amd64.deb": {
+      "syncedAt": "2026-08-22T12:30:20.264Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-wuccA",
+      "status": "synced"
+    },
     "agalwood/Motrix:v2.0.0-beta.21:Motrix-2.0.0-beta.21-arm64.AppImage": {
       "syncedAt": "2026-08-22T04:48:30.093Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-3s6cA",
@@ -147,9 +267,19 @@
       "shareUrl": "https://www.123pan.com/s/zsClvd-9WNeA",
       "status": "synced"
     },
+    "agalwood/Motrix:v2.0.0-beta.21:Motrix-2.0.0-beta.21-arm64.zip": {
+      "syncedAt": "2026-08-22T13:12:39.137Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-tQmeA",
+      "status": "synced"
+    },
     "agalwood/Motrix:v2.0.0-beta.21:Motrix-2.0.0-beta.21-arm64.zip.blockmap": {
       "syncedAt": "2026-08-22T05:20:01.241Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-QWNeA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.21:Motrix-2.0.0-beta.21-win.zip": {
+      "syncedAt": "2026-08-22T13:12:49.020Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-ECNeA",
       "status": "synced"
     },
     "agalwood/Motrix:v2.0.0-beta.21:Motrix-2.0.0-beta.21-x64.dmg.blockmap": {
@@ -287,29 +417,244 @@
       "shareUrl": "https://www.123pan.com/s/zsClvd-c8FlA",
       "status": "synced"
     },
-    "microsoft/PowerToys:v0.101.2323.0:GroupPolicyObjectFiles-0.101.2323.0.zip": {
-      "syncedAt": "2026-08-22T09:16:43.560Z",
-      "shareUrl": "https://www.123pan.com/s/zsClvd-HJheA",
+    "ollama/ollama:v0.33.0-rc2:ollama-linux-amd64-rocm.tar.zst": {
+      "syncedAt": "2026-08-22T10:09:48.586Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-my6eA",
       "status": "synced"
     },
-    "microsoft/PowerToys:v0.101.2323.0:PowerToysSetup-0.101.2323.0-arm64.exe": {
-      "syncedAt": "2026-08-22T09:16:52.491Z",
-      "shareUrl": "https://www.123pan.com/s/zsClvd-iWNeA",
+    "ollama/ollama:v0.33.0-rc2:ollama-linux-arm64-jetpack5.tar.zst": {
+      "syncedAt": "2026-08-22T10:25:20.055Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-1y6eA",
       "status": "synced"
     },
-    "microsoft/PowerToys:v0.101.2323.0:PowerToysSetup-0.101.2323.0-x64.exe": {
-      "syncedAt": "2026-08-22T09:17:25.909Z",
-      "shareUrl": "https://www.123pan.com/s/zsClvd-ds6cA",
+    "ollama/ollama:v0.33.0-rc2:ollama-linux-arm64-jetpack6.tar.zst": {
+      "syncedAt": "2026-08-22T10:25:26.020Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-4EeeA",
       "status": "synced"
     },
-    "microsoft/PowerToys:v0.101.2323.0:PowerToysUserSetup-0.101.2323.0-arm64.exe": {
-      "syncedAt": "2026-08-22T09:17:59.301Z",
-      "shareUrl": "https://www.123pan.com/s/zsClvd-tJueA",
+    "ollama/ollama:v0.33.0-rc2:sha256sum.txt": {
+      "syncedAt": "2026-08-22T12:12:55.192Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-4y6eA",
       "status": "synced"
     },
-    "microsoft/PowerToys:v0.101.2323.0:PowerToysUserSetup-0.101.2323.0-x64.exe": {
-      "syncedAt": "2026-08-22T09:18:32.606Z",
-      "shareUrl": "https://www.123pan.com/s/zsClvd-9JheA",
+    "wez/wezterm:20240203-110809-5046fc22:WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage": {
+      "syncedAt": "2026-08-22T12:41:48.204Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-XadlA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage.sha256": {
+      "syncedAt": "2026-08-22T12:41:52.383Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-osBcA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage.zsync": {
+      "syncedAt": "2026-08-22T12:42:19.361Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-DX5SA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage.zsync.sha256": {
+      "syncedAt": "2026-08-22T12:42:45.893Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-5fFSA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:WezTerm-20240203-110809-5046fc22-setup.exe": {
+      "syncedAt": "2026-08-22T12:39:59.789Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-cs6cA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:WezTerm-20240203-110809-5046fc22-setup.exe.sha256": {
+      "syncedAt": "2026-08-22T12:40:25.950Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-NpFSA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:WezTerm-macos-20240203-110809-5046fc22.zip": {
+      "syncedAt": "2026-08-22T12:55:09.247Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-Gy6eA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:WezTerm-macos-20240203-110809-5046fc22.zip.sha256": {
+      "syncedAt": "2026-08-22T12:55:35.156Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-JX5SA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:WezTerm-windows-20240203-110809-5046fc22.zip": {
+      "syncedAt": "2026-08-22T12:56:01.692Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-wAklA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:WezTerm-windows-20240203-110809-5046fc22.zip.sha256": {
+      "syncedAt": "2026-08-22T12:56:27.738Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-u0bSA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203-110809-5046fc22-src.tar.gz": {
+      "syncedAt": "2026-08-22T12:40:53.357Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-cL8SA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203-110809-5046fc22-src.tar.gz.sha256": {
+      "syncedAt": "2026-08-22T12:41:20.085Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-fGfSA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203-110809-5046fc22.Debian10.deb": {
+      "syncedAt": "2026-08-22T12:43:13.562Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-BLflA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203-110809-5046fc22.Debian10.deb.sha256": {
+      "syncedAt": "2026-08-22T12:43:39.842Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-TadlA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203-110809-5046fc22.Debian10.tar.xz": {
+      "syncedAt": "2026-08-22T12:43:44.896Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-i9NcA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203-110809-5046fc22.Debian10.tar.xz.sha256": {
+      "syncedAt": "2026-08-22T12:44:11.169Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-ELflA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203-110809-5046fc22.Debian11.deb": {
+      "syncedAt": "2026-08-22T12:44:39.638Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-K0bSA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203-110809-5046fc22.Debian11.deb.sha256": {
+      "syncedAt": "2026-08-22T12:45:05.380Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-eX5SA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203-110809-5046fc22.Debian11.tar.xz": {
+      "syncedAt": "2026-08-22T12:45:33.046Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-UuFlA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203-110809-5046fc22.Debian11.tar.xz.sha256": {
+      "syncedAt": "2026-08-22T12:45:38.360Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-GUocA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203-110809-5046fc22.Debian12.arm64.deb": {
+      "syncedAt": "2026-08-22T12:46:06.288Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-x0bSA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203-110809-5046fc22.Debian12.deb": {
+      "syncedAt": "2026-08-22T12:46:34.138Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-xUFlA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203-110809-5046fc22.Debian12.deb.sha256": {
+      "syncedAt": "2026-08-22T12:47:02.135Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-EuFlA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203-110809-5046fc22.Debian12.tar.xz": {
+      "syncedAt": "2026-08-22T12:47:29.958Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-H5flA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203-110809-5046fc22.Debian12.tar.xz.sha256": {
+      "syncedAt": "2026-08-22T12:47:34.151Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-ZQmeA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203-110809-5046fc22.Ubuntu20.04.deb": {
+      "syncedAt": "2026-08-22T12:48:02.020Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-PP5SA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203-110809-5046fc22.Ubuntu20.04.deb.sha256": {
+      "syncedAt": "2026-08-22T12:48:28.945Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-pUFlA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203-110809-5046fc22.Ubuntu20.04.tar.xz": {
+      "syncedAt": "2026-08-22T12:48:56.644Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-GfdlA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203-110809-5046fc22.Ubuntu20.04.tar.xz.sha256": {
+      "syncedAt": "2026-08-22T12:49:23.672Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-b5flA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203-110809-5046fc22.Ubuntu22.04.arm64.deb": {
+      "syncedAt": "2026-08-22T12:49:28.427Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-qJheA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203-110809-5046fc22.Ubuntu22.04.deb": {
+      "syncedAt": "2026-08-22T12:49:54.561Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-AHklA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203-110809-5046fc22.Ubuntu22.04.deb.sha256": {
+      "syncedAt": "2026-08-22T12:50:20.286Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-zhklA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203-110809-5046fc22.Ubuntu22.04.tar.xz": {
+      "syncedAt": "2026-08-22T12:50:49.678Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-mzflA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203-110809-5046fc22.Ubuntu22.04.tar.xz.sha256": {
+      "syncedAt": "2026-08-22T12:51:16.559Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-2KbSA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203_110809_5046fc22-1.centos8.x86_64.rpm": {
+      "syncedAt": "2026-08-22T12:51:22.921Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-Fy6eA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203_110809_5046fc22-1.centos8.x86_64.rpm.sha256": {
+      "syncedAt": "2026-08-22T12:51:49.827Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-tGfSA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203_110809_5046fc22-1.centos9.x86_64.rpm": {
+      "syncedAt": "2026-08-22T12:52:16.775Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-rX5SA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203_110809_5046fc22-1.centos9.x86_64.rpm.sha256": {
+      "syncedAt": "2026-08-22T12:52:44.157Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-kuFlA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203_110809_5046fc22-1.fedora37.x86_64.rpm": {
+      "syncedAt": "2026-08-22T12:53:11.992Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-0HklA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203_110809_5046fc22-1.fedora37.x86_64.rpm.sha256": {
+      "syncedAt": "2026-08-22T12:53:16.214Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-59NcA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203_110809_5046fc22-1.fedora38.x86_64.rpm": {
+      "syncedAt": "2026-08-22T12:53:43.647Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-n0bSA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203_110809_5046fc22-1.fedora38.x86_64.rpm.sha256": {
+      "syncedAt": "2026-08-22T12:54:10.143Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-N5flA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203_110809_5046fc22-1.fedora39.x86_64.rpm": {
+      "syncedAt": "2026-08-22T12:54:37.469Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-JLflA",
+      "status": "synced"
+    },
+    "wez/wezterm:20240203-110809-5046fc22:wezterm-20240203_110809_5046fc22-1.fedora39.x86_64.rpm.sha256": {
+      "syncedAt": "2026-08-22T12:55:03.230Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-4zflA",
       "status": "synced"
     }
   },
@@ -321,9 +666,7 @@
     "desktop/desktop: repository_missing (Root manifest index does not cover repository desktop/desktop)",
     "go-gitea/gitea: repository_missing (Root manifest index does not cover repository go-gitea/gitea)",
     "mudler/LocalAI: repository_missing (Root manifest index does not cover repository mudler/LocalAI)",
-    "PowerShell/PowerShell: repository_missing (Root manifest index does not cover repository PowerShell/PowerShell)",
-    "wez/wezterm: repository_missing (Root manifest index does not cover repository wez/wezterm)",
-    "ggml-org/llama.cpp: repository_missing (Root manifest index does not cover repository ggml-org/llama.cpp)",
-    "ollama/ollama: repository_missing (Root manifest index does not cover repository ollama/ollama)"
+    "microsoft/PowerToys: repository_missing (Root manifest index does not cover repository microsoft/PowerToys)",
+    "ggml-org/llama.cpp: repository_missing (Root manifest index does not cover repository ggml-org/llama.cpp)"
   ]
 }
