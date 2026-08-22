@@ -142,8 +142,8 @@ jobs:
           fi
 
           echo "source_changed=$SOURCE_CHANGED" >> "$GITHUB_OUTPUT"
-          echo "123pan_changed=$PAN123_CHANGED" >> "$GITHUB_OUTPUT"
-          echo "123pan_status=$PAN123_STATUS" >> "$GITHUB_OUTPUT"
+          echo "pan123_changed=$PAN123_CHANGED" >> "$GITHUB_OUTPUT"
+          echo "pan123_status=$PAN123_STATUS" >> "$GITHUB_OUTPUT"
           echo "changed=$CHANGED" >> "$GITHUB_OUTPUT"
           echo "change_source=$CHANGE_SOURCE" >> "$GITHUB_OUTPUT"
 
@@ -230,8 +230,8 @@ jobs:
 
           change-source: ${{ steps.diff.outputs.change_source }}
           source-changed: ${{ steps.diff.outputs.source_changed }}
-          123pan-changed: ${{ steps.diff.outputs.123pan_changed }}
-          123pan-status: ${{ steps.diff.outputs.123pan_status }}"
+          123pan-changed: ${{ steps.diff.outputs.pan123_changed }}
+          123pan-status: ${{ steps.diff.outputs.pan123_status }}"
           git push origin HEAD:"$PUBLISH_BRANCH"
 
           COMMIT_SHA="$(git rev-parse HEAD)"
