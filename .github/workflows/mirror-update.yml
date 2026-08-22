@@ -18,6 +18,7 @@ concurrency:
 
 env:
   PUBLISH_BRANCH: main
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
   release:
@@ -36,8 +37,6 @@ jobs:
 
       - name: Init Pipenv CLI and run
         working-directory: ${{ github.workspace }}/tools
-        env:
-          AZURE_STORAGE_BLOB_SAS_URL: ${{ secrets.AZURE_STORAGE_BLOB_SAS_URL }}
         run: |
           export PATH=/home/runner/.local/bin/:$PATH
           pip install --upgrade pip
