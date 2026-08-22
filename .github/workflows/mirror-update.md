@@ -10,6 +10,11 @@
 
 `push` to `main` is intentionally excluded. The workflow writes back to `main`, so re-listening to `main` would create a self-reinforcing publish loop.
 
+When starting the workflow manually, set the optional `full_refresh` input to
+`true` to remove all generated files under `docs/Mirrors/` and the
+`tools/tools/123pan-sync-state.json` baseline before rebuilding from GitHub
+releases and the manifest source.
+
 ## Publish behavior
 
 1. Generate mirror content from the triggering ref.
