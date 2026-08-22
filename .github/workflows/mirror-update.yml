@@ -18,7 +18,6 @@ concurrency:
 
 env:
   PUBLISH_BRANCH: main
-  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
   release:
