@@ -20,8 +20,6 @@ ChromeDriver 通过添加特定于 Chromium 的功能来扩展 WebDriver。它�
 
 ChromeDriver 可用于 Android 上的 Chrome 和桌面版 Chrome（Mac、Linux、Windows 和 ChromeOS）。
 
-### [点击此处，您也可以部署自己专属的免费 Github 资源加速站点](https://rg.newbe.pro/docs/turbohub/quick-start)
-
 <img src='/images/weixin_public.png' alt='微信' />
 
 <!-- more -->

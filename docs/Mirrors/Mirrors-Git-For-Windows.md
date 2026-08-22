@@ -14,8 +14,6 @@ Git for Windows. 国内直接从官网 http://git-scm.com/download/win 下载比
 
  
 
-### [点击此处，您也可以部署自己专属的免费 Github 资源加速站点](https://rg.newbe.pro/docs/turbohub/quick-start)
-
 <img src='/images/weixin_public.png' alt='微信' />
 
 <!-- more -->
