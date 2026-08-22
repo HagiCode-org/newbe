@@ -7,6 +7,12 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+    inputs:
+      full_refresh:
+        description: "Delete existing mirror results and sync state before rebuilding"
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   actions: write
@@ -36,7 +42,14 @@ jobs:
 
       - name: Init Pipenv CLI and run
         working-directory: ${{ github.workspace }}/tools
+        env:
+          FULL_REFRESH: ${{ inputs.full_refresh || false }}
         run: |
+          if [ "$FULL_REFRESH" = "true" ]; then
+            echo "Running full mirror refresh from GitHub releases and manifests."
+            rm -f "$GITHUB_WORKSPACE"/docs/Mirrors/*.md
+            rm -f "$GITHUB_WORKSPACE"/tools/tools/123pan-sync-state.json
+          fi
           export PATH=/home/runner/.local/bin/:$PATH
           pip install --upgrade pip
           pip install pipenv
