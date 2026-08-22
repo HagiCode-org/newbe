@@ -24,7 +24,7 @@ class Newbe123PanManifestTests(unittest.TestCase):
         self.source = {
             'repositoryKey': 'owner/repo',
             'baseUrl': 'https://syncer.hagicode.com',
-            'indexPath': 'r2/index.json',
+            'indexPath': 'release-sync/index.json',
             'manifestVersion': 1,
             'timeoutSeconds': 5,
         }

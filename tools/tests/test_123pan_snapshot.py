@@ -24,7 +24,7 @@ MIRRORS_DEF = {
             'repositoryKey': 'owner/repo',
             'manifestSource': {
                 'baseUrl': 'https://syncer.hagicode.com',
-                'indexPath': 'r2/index.json',
+                'indexPath': 'release-sync/index.json',
                 'manifestVersion': 1,
                 'timeoutSeconds': 5,
             },
@@ -90,7 +90,7 @@ class Build123PanSnapshotTests(unittest.TestCase):
                 'repositoryKey': 'owner/repo',
                 'manifestSource': {
                     'baseUrl': 'https://syncer.hagicode.com',
-                    'indexPath': 'r2/index.json',
+                    'indexPath': 'release-sync/index.json',
                     'manifestVersion': 1,
                     'timeoutSeconds': 5,
                 },

@@ -59,7 +59,7 @@ MANIFEST_REQUEST_HEADERS = {
 ROOT_MANIFEST_INDEX_CACHE = {}
 MANIFEST_RECORD_CACHE = {}
 DEFAULT_R2_BASE_URL = 'https://syncer.hagicode.com/'
-DEFAULT_R2_INDEX_PATH = 'r2/index.json'
+DEFAULT_R2_INDEX_PATH = 'release-sync/index.json'
 HAGICODE_PROMO_IMPORT = "import HagicodeRecommendation from '../../src/components/HagicodeRecommendation';"
 HAGICODE_PROMO_BLOCK = "<HagicodeRecommendation layout=\"page\" />"
 
