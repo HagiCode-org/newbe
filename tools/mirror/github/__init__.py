@@ -6,6 +6,7 @@ def get_github_version_section(
     repository_key=None,
     preferred_providers=None,
     resolved_mirrors_by_asset=None,
+    is_latest=False,
 ):
     content = ""
     preferred_providers = preferred_providers or []
@@ -38,7 +39,9 @@ def get_github_version_section(
             resolved_payload = [
                 {
                     "providerKey": record["providerKey"],
-                    "fullUrl": record["shareUrl"],
+                    "fullUrl": record.get("paidShareUrl") if is_latest and record.get("paidShareUrl") else record["shareUrl"],
+                    "paidShareUrl": record.get("paidShareUrl"),
+                    "isLatest": is_latest,
                     "displayName": record["displayName"],
                     "source": record["source"],
                     "status": record["status"],

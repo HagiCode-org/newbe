@@ -84,6 +84,70 @@ class Newbe123PanManifestTests(unittest.TestCase):
         self.assertIn('https://www.123pan.com/s/example', output)
         self.assertNotIn('releases/download', output.split('resolvedMirrors=', 1)[1])
 
+    def test_normalize_manifest_records_preserves_paid_share_url_variants(self):
+        records = tasks.normalize_manifest_records({
+            'version': 1,
+            'records': [
+                {
+                    'repositoryKey': 'owner/repo',
+                    'releaseTagName': 'v1',
+                    'assetName': 'with-paid.zip',
+                    'providerName': '123pan',
+                    'shareUrl': 'https://example.test/original',
+                    'paidShareUrl': ' https://example.test/paid ',
+                    'status': 'synced',
+                },
+                {
+                    'repositoryKey': 'owner/repo',
+                    'releaseTagName': 'v1',
+                    'assetName': 'missing-paid.zip',
+                    'providerName': '123pan',
+                    'shareUrl': 'https://example.test/missing',
+                    'status': 'synced',
+                },
+                {
+                    'repositoryKey': 'owner/repo',
+                    'releaseTagName': 'v1',
+                    'assetName': 'empty-paid.zip',
+                    'providerName': '123pan',
+                    'shareUrl': 'https://example.test/empty',
+                    'paidShareUrl': ' ',
+                    'status': 'synced',
+                },
+            ],
+        }, self.source)
+
+        self.assertEqual(records[0]['paidShareUrl'], 'https://example.test/paid')
+        self.assertIsNone(records[1]['paidShareUrl'])
+        self.assertIsNone(records[2]['paidShareUrl'])
+
+    def test_mirror_section_uses_paid_link_only_for_latest_release(self):
+        release = {'tag_name': 'v1', 'assets': [{
+            'name': 'app.zip',
+            'browser_download_url': 'https://github.com/owner/repo/releases/download/v1/app.zip',
+        }]}
+        record = {
+            'providerKey': '123pan',
+            'shareUrl': 'https://www.123pan.com/s/original',
+            'paidShareUrl': 'https://www.123pan.com/s/paid',
+            'displayName': '123pan',
+            'source': 'syncer-action',
+            'status': 'synced',
+            'syncedAt': '2026-08-21T00:00:00Z',
+        }
+
+        latest_output = get_github_version_section(
+            release, resolved_mirrors_by_asset={'app.zip': [record]}, is_latest=True,
+        )
+        historical_output = get_github_version_section(
+            release, resolved_mirrors_by_asset={'app.zip': [record]}, is_latest=False,
+        )
+
+        self.assertIn('https://www.123pan.com/s/paid', latest_output)
+        self.assertIn('https://www.123pan.com/s/original', historical_output)
+        self.assertIn('"fullUrl": "https://www.123pan.com/s/original"', historical_output)
+        self.assertIn('"isLatest": false', historical_output)
+
 
 if __name__ == '__main__':
     unittest.main()

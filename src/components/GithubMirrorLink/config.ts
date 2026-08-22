@@ -13,6 +13,8 @@ export const PRIMARY_RECOMMENDATION_BADGES = ['推荐', '优先线路'] as const
 export interface ResolvedMirrorInput {
   providerKey: string;
   fullUrl: string;
+  paidShareUrl?: string | null;
+  isLatest?: boolean;
   displayName?: string;
   description?: string;
   source?: string;
@@ -35,6 +37,8 @@ export interface MirrorDescriptor {
 
 export interface ResolvedMirrorLink extends MirrorDescriptor {
   fullUrl: string;
+  paidShareUrl?: string | null;
+  isLatest?: boolean;
   recommended: boolean;
   recommendationTier: MirrorRecommendationTier;
   sourceLabel: string;
@@ -186,7 +190,7 @@ function createDefaultMirrorLinks(githubLink: string): MirrorSectionLinks {
   };
 }
 
-function resolveDirectMirror(
+export function resolveDirectMirror(
   input: ResolvedMirrorInput,
   preferredProviders: string[],
 ): ResolvedMirrorLink {
@@ -204,7 +208,11 @@ function resolveDirectMirror(
     };
   const recommended = preferredProviders.includes(providerKey);
 
-  return createResolvedMirror(descriptor, input.fullUrl, {
+  const fullUrl = input.isLatest && input.paidShareUrl?.trim()
+    ? input.paidShareUrl
+    : input.fullUrl;
+
+  return createResolvedMirror(descriptor, fullUrl, {
     providerKey,
     name: input.displayName || descriptor.name,
     description: input.description || descriptor.description,
@@ -214,6 +222,8 @@ function resolveDirectMirror(
     sourceLabel: getSourceLabel(input.source || descriptor.source),
     status: input.status,
     syncedAt: input.syncedAt,
+    paidShareUrl: input.paidShareUrl,
+    isLatest: input.isLatest,
   });
 }
 

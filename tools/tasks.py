@@ -463,6 +463,7 @@ def normalize_manifest_records(payload, manifest_source):
         release_tag_name = str(record.get('releaseTagName') or record.get('release') or '').strip()
         asset_name = str(record.get('assetName') or record.get('asset') or '').strip()
         share_url = str(record.get('shareUrl') or record.get('share_url') or record.get('publicUrl') or '').strip()
+        paid_share_url = str(record.get('paidShareUrl') or record.get('paid_share_url') or '').strip() or None
         status = str(record.get('status') or '').strip().lower() or 'unknown'
         synced_at = (
             record.get('syncedAt')
@@ -488,6 +489,7 @@ def normalize_manifest_records(payload, manifest_source):
             'providerKey': provider_key,
             'displayName': display_name,
             'shareUrl': share_url,
+            'paidShareUrl': paid_share_url,
             'status': status,
             'syncedAt': synced_at,
             'source': manifest_source.get('source', 'syncer-r2'),
@@ -1112,16 +1114,14 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
                 remove_hagicode_promo_from_existing_doc(markdown_path)
                 return
             raise RuntimeError(f"Unable to fetch releases for {owner}/{repo} from API or HTML fallback")
-    elif releases and 'published_at' in releases[0]:
-        # sort desc
-        releases = sorted(releases, key=lambda item: item['published_at'], reverse=True)
+    if releases:
+        releases = sorted(releases, key=lambda item: item.get('published_at') or '', reverse=True)
 
     version_count = len(releases)
     section_index = 0
     offset = 10 if version_count > 10 else 0
     total_assets = 0
-    for release in releases:
-        section_index += 1
+    for section_index, release in enumerate(releases, start=1):
         release_tag_name = str(release.get('tag_name') or '').strip()
         release_assets = release.get('assets', [])
         total_assets += len(release_assets)
@@ -1163,6 +1163,7 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
             repository_key=repository_key,
             preferred_providers=preferred_providers,
             resolved_mirrors_by_asset=records_by_asset,
+            is_latest=section_index == 1,
         )
         if section_index == version_count - offset:
             post += f"""
