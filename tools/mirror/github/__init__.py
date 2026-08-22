@@ -5,11 +5,11 @@ def get_github_version_section(
     release,
     repository_key=None,
     preferred_providers=None,
-    provider_links_by_asset=None,
+    resolved_mirrors_by_asset=None,
 ):
     content = ""
     preferred_providers = preferred_providers or []
-    provider_links_by_asset = provider_links_by_asset or {}
+    resolved_mirrors_by_asset = resolved_mirrors_by_asset or {}
 
     for asset in release['assets']:
         props = [
@@ -19,12 +19,21 @@ def get_github_version_section(
 
         if repository_key:
             props.append(f'repositoryKey={json.dumps(repository_key, ensure_ascii=False)}')
-        if preferred_providers:
+        resolved_mirrors = resolved_mirrors_by_asset.get(asset["name"], [])
+        if preferred_providers and resolved_mirrors:
+            resolved_payload = [
+                {
+                    "providerKey": record["providerKey"],
+                    "fullUrl": record["shareUrl"],
+                    "displayName": record["displayName"],
+                    "source": record["source"],
+                    "status": record["status"],
+                    "syncedAt": record["syncedAt"],
+                }
+                for record in resolved_mirrors
+            ]
             props.append(f'preferredProviders={{{json.dumps(preferred_providers, ensure_ascii=False)}}}')
-
-        matched_provider_links = provider_links_by_asset.get(asset['name']) or []
-        if matched_provider_links:
-            props.append(f'resolvedMirrors={{{json.dumps(matched_provider_links, ensure_ascii=False)}}}')
+            props.append(f'resolvedMirrors={{{json.dumps(resolved_payload, ensure_ascii=False)}}}')
 
         content += f"- <GithubMirrorLink {' '.join(props)} />\n"
 

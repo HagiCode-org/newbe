@@ -5,7 +5,7 @@ import json
 import logging
 import os
 import re
-from urllib.parse import quote, unquote, urlsplit, urlunsplit
+from urllib.parse import quote, unquote
 
 import requests
 try:
@@ -53,12 +53,11 @@ GITHUB_REQUEST_HEADERS = {
 }
 MANIFEST_REQUEST_HEADERS = {
     "User-Agent": "HagiCode-Mirror-Manifest/1.0",
-    "Accept": "application/json",
+    "Accept": "application/vnd.github+json",
 }
-MANIFEST_RECORD_CACHE = {}
 ROOT_MANIFEST_INDEX_CACHE = {}
+MANIFEST_RECORD_CACHE = {}
 DEFAULT_MANIFEST_BLOB_PREFIX = 'release-sync'
-
 HAGICODE_PROMO_IMPORT = "import HagicodeRecommendation from '../../src/components/HagicodeRecommendation';"
 HAGICODE_PROMO_BLOCK = "<HagicodeRecommendation layout=\"page\" />"
 
@@ -87,10 +86,10 @@ def load_mirrors_def():
     return mirrors_def
 
 
-def normalize_provider_key(provider_name):
-    if not provider_name:
+def normalize_provider_key(provider_key):
+    if not provider_key:
         return None
-    normalized = str(provider_name).strip().lower()
+    normalized = str(provider_key).strip().lower()
     if normalized in {'pan123', '123 pan', '123-pan', '123_pan'}:
         return '123pan'
     return normalized
@@ -104,141 +103,44 @@ def summarize_provider_counts(records):
     return provider_counts
 
 
-def summarize_matched_provider_counts(provider_links_by_asset):
-    provider_counts = {}
-    for matched_links in (provider_links_by_asset or {}).values():
-        for link in matched_links:
-            provider_key = link.get('providerKey') or 'unknown'
-            provider_counts[provider_key] = provider_counts.get(provider_key, 0) + 1
-    return provider_counts
-
-
-def split_repository_key(repository_key):
-    normalized_repository_key = str(repository_key or '').strip().strip('/')
-    owner_repo = [segment for segment in normalized_repository_key.split('/') if segment]
-    if len(owner_repo) != 2:
-        raise ValueError('manifestSource.repositoryKey must use the "<owner>/<repo>" format')
-    return owner_repo[0], owner_repo[1]
-
-
-def normalize_manifest_blob_prefix(prefix):
-    normalized_prefix = str(prefix or DEFAULT_MANIFEST_BLOB_PREFIX).strip().strip('/')
-    return normalized_prefix or DEFAULT_MANIFEST_BLOB_PREFIX
-
-
-def resolve_manifest_container_sas_url(manifest_source):
-    if not manifest_source:
-        return None
-    direct_url = manifest_source.get('containerSasUrl')
-    if direct_url:
-        return str(direct_url).strip()
-    url_env = manifest_source.get('containerSasUrlEnv')
-    if not url_env:
-        return None
-    resolved_url = os.getenv(url_env)
-    return resolved_url.strip() if resolved_url else None
-
-
-def build_release_sync_manifest_blob_name(repository_key, release_tag_name, prefix=DEFAULT_MANIFEST_BLOB_PREFIX):
-    if not release_tag_name or not str(release_tag_name).strip():
-        return None
-
-    owner, repo = split_repository_key(repository_key)
-    segments = [
-        *normalize_manifest_blob_prefix(prefix).split('/'),
-        owner,
-        repo,
-        str(release_tag_name).strip(),
-        'manifest.json',
-    ]
-    return '/'.join(segments)
-
-
-def build_root_manifest_index_blob_name(prefix=DEFAULT_MANIFEST_BLOB_PREFIX):
-    segments = [
-        *normalize_manifest_blob_prefix(prefix).split('/'),
-        'index.json',
-    ]
-    return '/'.join(segments)
-
-
-def build_blob_url(container_sas_url, blob_name):
-    parsed_url = urlsplit(container_sas_url)
-    if not parsed_url.scheme or not parsed_url.netloc:
-        raise ValueError('manifestSource.containerSasUrl must be an absolute URL')
-
-    encoded_blob_name = '/'.join(quote(segment, safe='') for segment in blob_name.split('/'))
-    blob_path = f"{parsed_url.path.rstrip('/')}/{encoded_blob_name}"
-
-    return urlunsplit((
-        parsed_url.scheme,
-        parsed_url.netloc,
-        blob_path,
-        parsed_url.query,
-        parsed_url.fragment,
-    ))
-
-
-def build_manifest_url(manifest_source, release_tag_name):
-    container_sas_url = manifest_source.get('containerSasUrl')
-    if not container_sas_url:
-        return None
-
-    blob_name = build_release_sync_manifest_blob_name(
-        manifest_source['repositoryKey'],
-        release_tag_name,
-        manifest_source.get('blobPrefix', DEFAULT_MANIFEST_BLOB_PREFIX),
-    )
-    if not blob_name:
-        return None
-
-    return build_blob_url(container_sas_url, blob_name)
-
-
-def build_root_manifest_index_url(manifest_source):
-    container_sas_url = manifest_source.get('containerSasUrl')
-    if not container_sas_url:
-        return None
-    return build_blob_url(
-        container_sas_url,
-        build_root_manifest_index_blob_name(
-            manifest_source.get('blobPrefix', DEFAULT_MANIFEST_BLOB_PREFIX),
-        ),
-    )
-
-
 def validate_manifest_source(manifest_source):
     if not manifest_source:
         return None
-
     repository_key = manifest_source.get('repositoryKey')
     if not repository_key:
         raise ValueError('manifestSource.repositoryKey is required when manifestSource is configured')
-    split_repository_key(repository_key)
-
     expected_version = manifest_source.get('expectedVersion')
     if expected_version is not None and not isinstance(expected_version, int):
         raise ValueError('manifestSource.expectedVersion must be an integer when provided')
-
     timeout_seconds = manifest_source.get('timeoutSeconds', 15)
     if not isinstance(timeout_seconds, int) or timeout_seconds <= 0:
         raise ValueError('manifestSource.timeoutSeconds must be a positive integer when provided')
-
-    container_sas_url = resolve_manifest_container_sas_url(manifest_source)
-    if not container_sas_url and not (
-        manifest_source.get('containerSasUrl') or manifest_source.get('containerSasUrlEnv')
-    ):
-        raise ValueError('manifestSource must define containerSasUrl or containerSasUrlEnv')
+    metadata_owner = str(manifest_source.get('metadataOwner') or '').strip()
+    metadata_repo = str(manifest_source.get('metadataRepo') or '').strip()
+    if not metadata_owner or not metadata_repo:
+        raise ValueError('manifestSource must define metadataOwner and metadataRepo')
 
     return {
+        **manifest_source,
         'repositoryKey': repository_key,
         'expectedVersion': expected_version,
         'timeoutSeconds': timeout_seconds,
-        'source': manifest_source.get('source', 'azure'),
-        'blobPrefix': normalize_manifest_blob_prefix(manifest_source.get('blobPrefix')),
-        'containerSasUrl': container_sas_url,
-        'containerSasUrlEnv': manifest_source.get('containerSasUrlEnv'),
+        'source': manifest_source.get('source', 'syncer-action'),
+        'blobPrefix': str(manifest_source.get('blobPrefix', DEFAULT_MANIFEST_BLOB_PREFIX)).strip('/') or DEFAULT_MANIFEST_BLOB_PREFIX,
+        'metadataOwner': metadata_owner,
+        'metadataRepo': metadata_repo,
     }
+
+
+def build_root_manifest_index_url(manifest_source):
+    return (
+        f"https://api.github.com/repos/{manifest_source['metadataOwner']}/"
+        f"{manifest_source['metadataRepo']}/releases"
+    )
+
+
+def build_manifest_url(manifest_source, release_tag_name):
+    return build_root_manifest_index_url(manifest_source)
 
 
 def normalize_root_manifest_release_summary(repository_key, release_summary):
@@ -356,7 +258,7 @@ def fetch_root_manifest_index(manifest_source):
     if not root_index_url:
         diagnostic = (
             f"Manifest container SAS URL is not configured for {validated_source['repositoryKey']}. "
-            f"Set {validated_source.get('containerSasUrlEnv') or 'manifestSource.containerSasUrl'} to enable root index discovery."
+            "Configure GitHub access for syncer-action draft-release metadata to enable manifest discovery."
         )
         return {
             'state': 'fallback',
@@ -568,7 +470,7 @@ def normalize_manifest_records(payload, manifest_source):
             'shareUrl': share_url,
             'status': status,
             'syncedAt': synced_at,
-            'source': manifest_source.get('source', 'azure'),
+            'source': manifest_source.get('source', 'syncer-action'),
         })
 
     return normalized_records
@@ -579,25 +481,15 @@ def fetch_manifest_records(manifest_source, release_tag_name=None):
     if not validated_source:
         return []
 
-    container_sas_url = validated_source.get('containerSasUrl')
-    if not container_sas_url:
-        logger.warning(
-            "Manifest container SAS URL is not configured for %s. Set %s to enable provider links.",
-            validated_source['repositoryKey'],
-            validated_source.get('containerSasUrlEnv') or 'manifestSource.containerSasUrl',
-        )
+    token = os.getenv('GITHUB_TOKEN')
+    if not token:
+        logger.warning("GITHUB_TOKEN is not configured; skipping syncer-action manifest for %s.", validated_source['repositoryKey'])
         return []
 
     manifest_url = build_manifest_url(validated_source, release_tag_name)
-    if not manifest_url:
-        logger.warning(
-            "Manifest URL could not be derived for %s because release tag is missing.",
-            validated_source['repositoryKey'],
-        )
-        return []
-
     cache_key = (
-        manifest_url,
+        validated_source['metadataOwner'],
+        validated_source['metadataRepo'],
         validated_source['repositoryKey'],
         validated_source.get('expectedVersion'),
     )
@@ -618,14 +510,43 @@ def fetch_manifest_records(manifest_source, release_tag_name=None):
     )
 
     try:
+        headers = {**MANIFEST_REQUEST_HEADERS, 'Authorization': f'Bearer {token}'}
         response = requests.get(
             manifest_url,
-            headers=MANIFEST_REQUEST_HEADERS,
+            headers=headers,
+            params={'per_page': 100},
             timeout=validated_source['timeoutSeconds'],
         )
         response.raise_for_status()
-        payload = response.json()
+        drafts = [release for release in response.json() if release.get('draft') is True]
+        drafts.sort(key=lambda release: release.get('created_at', ''), reverse=True)
+        if not drafts:
+            return []
+        assets_url = f"{manifest_url}/{drafts[0]['id']}/assets"
+        assets_response = requests.get(
+            assets_url,
+            headers=MANIFEST_REQUEST_HEADERS,
+            params={'per_page': 100},
+            timeout=validated_source['timeoutSeconds'],
+        )
+        assets_response.raise_for_status()
+        asset_name = f"{validated_source['blobPrefix']}/{validated_source['repositoryKey']}/manifest.json".replace('/', '__')
+        asset = next((item for item in assets_response.json() if item.get('name') == asset_name), None)
+        if not asset:
+            return []
+        payload_response = requests.get(
+            asset['url'],
+            headers={**headers, 'Accept': 'application/octet-stream'},
+            timeout=validated_source['timeoutSeconds'],
+        )
+        payload_response.raise_for_status()
+        payload = payload_response.json()
         normalized_records = normalize_manifest_records(payload, validated_source)
+        if release_tag_name:
+            normalized_records = [
+                record for record in normalized_records
+                if str(record['releaseTagName']).strip().lower() == str(release_tag_name).strip().lower()
+            ]
         logger.debug(
             "Manifest records ready for %s @ %s: %s records across providers %s",
             validated_source['repositoryKey'],
@@ -668,56 +589,6 @@ def fetch_manifest_records(manifest_source, release_tag_name=None):
 
     MANIFEST_RECORD_CACHE[cache_key] = normalized_records
     return normalized_records
-
-
-def build_provider_links_by_asset(release, mirror, manifest_records):
-    # Provider links must match the exact repository + release tag + asset name.
-    # This prevents stale or cross-product share links from leaking into Ollama.
-    manifest_source = mirror.get('manifestSource') or {}
-    repository_key = (
-        mirror.get('repositoryKey')
-        or manifest_source.get('repositoryKey')
-        or re.search(r'github.com/([^/]+)/([^/]+)', mirror['officialSite']).group(1) + '/' +
-        re.search(r'github.com/([^/]+)/([^/]+)', mirror['officialSite']).group(2)
-    )
-    normalized_repository_key = repository_key.strip().strip('/')
-    normalized_release_tag = str(release.get('tag_name') or '').strip().lower()
-
-    if not normalized_release_tag:
-        return {}
-
-    provider_links_by_asset = {}
-    for asset in release.get('assets', []):
-        asset_name = str(asset.get('name') or '').strip()
-        if not asset_name:
-            continue
-
-        matched_links = []
-        for record in manifest_records:
-            if record['repositoryKey'].strip().strip('/') != normalized_repository_key:
-                continue
-            if str(record['releaseTagName']).strip().lower() != normalized_release_tag:
-                continue
-            if str(record['assetName']).strip() != asset_name:
-                continue
-            if record.get('status') != 'synced':
-                continue
-            share_url = (record.get('shareUrl') or '').strip()
-            if not share_url:
-                continue
-            matched_links.append({
-                'providerKey': record['providerKey'],
-                'displayName': record['displayName'],
-                'fullUrl': share_url,
-                'status': record.get('status'),
-                'syncedAt': record.get('syncedAt'),
-                'source': record.get('source', 'azure'),
-            })
-
-        if matched_links:
-            provider_links_by_asset[asset_name] = matched_links
-
-    return provider_links_by_asset
 
 
 def load_github_releases_from_html(owner, repo):
@@ -1010,14 +881,25 @@ def create_github_mirror(mirror):
     markdown_filename = mirror['markdownFilename']
     create_date = mirror['createDate']
     repository_key = mirror.get('repositoryKey', f'{owner}/{repo}')
-    preferred_providers = mirror.get('preferredProviders', [])
+    preferred_providers = [
+        normalize_provider_key(provider)
+        for provider in mirror.get('preferredProviders', [])
+        if str(provider).strip()
+    ]
+    manifest_source = {
+        **mirror.get('manifestSource', {}),
+        'repositoryKey': repository_key,
+    } if mirror.get('manifestSource') else None
+    manifest_catalog = (
+        get_repository_root_manifest_catalog(manifest_source)
+        if manifest_source
+        else None
+    )
     desc_section = load_description(software_name)
     logger.debug(
-        "Starting GitHub mirror generation for %s (%s); preferred providers=%s; manifest enabled=%s",
+        "Starting GitHub mirror generation for %s (%s)",
         software_name,
         repository_key,
-        preferred_providers,
-        bool(mirror.get('manifestSource')),
     )
 
     post = f"""---
@@ -1064,72 +946,41 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
         # sort desc
         releases = sorted(releases, key=lambda item: item['published_at'], reverse=True)
 
-    manifest_source = mirror.get('manifestSource')
-    manifest_catalog = get_repository_root_manifest_catalog(manifest_source) if manifest_source else {
-        'state': 'legacy',
-        'reason': 'manifest_source_missing',
-        'diagnostic': 'manifestSource is not configured',
-        'releaseSummariesByTag': {},
-        'candidateReleaseTags': set(),
-    }
-    if manifest_source and manifest_catalog['state'] == 'legacy':
-        logger.info(
-            "Root manifest index fallback for %s: %s (%s)",
-            repository_key,
-            manifest_catalog.get('reason'),
-            manifest_catalog.get('diagnostic'),
-        )
-
     version_count = len(releases)
     section_index = 0
     offset = 10 if version_count > 10 else 0
     total_assets = 0
-    total_manifest_records = 0
-    total_matched_assets = 0
-    total_matched_links = 0
-    aggregate_provider_counts = {}
     for release in releases:
         section_index += 1
         release_tag_name = str(release.get('tag_name') or '').strip()
-        normalized_release_tag = release_tag_name.lower()
-        manifest_records = []
         release_assets = release.get('assets', [])
         total_assets += len(release_assets)
-        if manifest_source:
-            if manifest_catalog['state'] == 'guided':
-                if normalized_release_tag in manifest_catalog['candidateReleaseTags']:
-                    manifest_records = fetch_manifest_records(manifest_source, release_tag_name)
-                else:
-                    logger.debug(
-                        "Skipping manifest fetch for %s @ %s because the root manifest index has no sync evidence.",
-                        repository_key,
-                        release_tag_name,
-                    )
-            else:
-                manifest_records = fetch_manifest_records(manifest_source, release_tag_name)
-        provider_links_by_asset = build_provider_links_by_asset(release, mirror, manifest_records)
-        matched_links_count = sum(len(matched_links) for matched_links in provider_links_by_asset.values())
-        matched_provider_counts = summarize_matched_provider_counts(provider_links_by_asset)
-        total_manifest_records += len(manifest_records)
-        total_matched_assets += len(provider_links_by_asset)
-        total_matched_links += matched_links_count
-        for provider_key, count in matched_provider_counts.items():
-            aggregate_provider_counts[provider_key] = aggregate_provider_counts.get(provider_key, 0) + count
-        logger.debug(
-            "Release %s for %s: assets=%s, manifest_records=%s, matched_assets=%s, matched_links=%s, matched_providers=%s",
-            release_tag_name or '<missing-tag>',
-            repository_key,
-            len(release_assets),
-            len(manifest_records),
-            len(provider_links_by_asset),
-            matched_links_count,
-            matched_provider_counts,
+        should_fetch_manifest = (
+            manifest_source
+            and (
+                manifest_catalog['state'] != 'guided'
+                or release_tag_name.lower() in manifest_catalog['candidateReleaseTags']
+            )
         )
+        resolved_records = (
+            fetch_manifest_records(manifest_source, release_tag_name)
+            if should_fetch_manifest
+            else []
+        )
+        records_by_asset = {}
+        for record in resolved_records:
+            if (
+                record.get('repositoryKey') == repository_key
+                and str(record.get('releaseTagName', '')).strip().lower() == release_tag_name.lower()
+                and record.get('status') == 'synced'
+                and record.get('shareUrl')
+            ):
+                records_by_asset.setdefault(record['assetName'], []).append(record)
         post += get_github_version_section(
             release,
             repository_key=repository_key,
             preferred_providers=preferred_providers,
-            provider_links_by_asset=provider_links_by_asset,
+            resolved_mirrors_by_asset=records_by_asset,
         )
         if section_index == version_count - offset:
             post += f"""
@@ -1147,15 +998,11 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
     with open(markdown_path, 'w', encoding='utf8') as f:
         f.write(post)
     logger.info(
-        "Finished GitHub mirror generation for %s (%s): releases=%s, assets=%s, manifest_records=%s, matched_assets=%s, matched_links=%s, provider_totals=%s, output=%s",
+        "Finished GitHub mirror generation for %s (%s): releases=%s, assets=%s, output=%s",
         software_name,
         repository_key,
         version_count,
         total_assets,
-        total_manifest_records,
-        total_matched_assets,
-        total_matched_links,
-        aggregate_provider_counts,
         markdown_path,
     )
 
