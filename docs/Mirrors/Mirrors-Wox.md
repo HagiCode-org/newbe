@@ -18,6 +18,18 @@ WoX是一个适用于Windows的启动器，可以简单地工作。它是Alfred�
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v2.4.0
+
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.4.0/wox-linux-amd64" text="wox-linux-amd64" repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.4.0/wox-linux-amd64.AppImage" text="wox-linux-amd64.AppImage" repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.4.0/wox-linux-amd64.deb" text="wox-linux-amd64.deb" repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.4.0/wox-linux-amd64.rpm" text="wox-linux-amd64.rpm" repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.4.0/wox-mac-amd64.dmg" text="wox-mac-amd64.dmg" repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.4.0/wox-mac-arm64.dmg" text="wox-mac-arm64.dmg" repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.4.0/wox-windows-amd64.exe" text="wox-windows-amd64.exe" repositoryKey="Wox-launcher/Wox" />
+
+
+
 ## v2.4.0-beta.3
 
 - <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.4.0-beta.3/wox-linux-amd64" text="wox-linux-amd64" repositoryKey="Wox-launcher/Wox" />
@@ -204,14 +216,14 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v2.0.0-beta.4
 
 - <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.4/wox-linux-amd64" text="wox-linux-amd64" repositoryKey="Wox-launcher/Wox" />
 - <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.4/wox-mac-amd64.dmg" text="wox-mac-amd64.dmg" repositoryKey="Wox-launcher/Wox" />
 - <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.4/wox-mac-arm64.dmg" text="wox-mac-arm64.dmg" repositoryKey="Wox-launcher/Wox" />
 - <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.4/wox-windows-amd64.exe" text="wox-windows-amd64.exe" repositoryKey="Wox-launcher/Wox" />
-
-
 
 
 
@@ -312,17 +324,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1064/Wox-1.3.1064.zip" text="Wox-1.3.1064.zip" repositoryKey="Wox-launcher/Wox" />
 - <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1064/Wox-Full-Installer.1.3.1064.exe" text="Wox-Full-Installer.1.3.1064.exe" repositoryKey="Wox-launcher/Wox" />
 - <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1064/Wox.1.3.1064.nupkg" text="Wox.1.3.1064.nupkg" repositoryKey="Wox-launcher/Wox" />
-
-
-
-## v1.3.1039
-
-- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1039/Everything-1.4.1.969.x64-Setup.exe" text="Everything-1.4.1.969.x64-Setup.exe" repositoryKey="Wox-launcher/Wox" />
-- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1039/Wox-1.3.1039-full.nupkg" text="Wox-1.3.1039-full.nupkg" repositoryKey="Wox-launcher/Wox" />
-- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1039/Wox-1.3.1039.exe" text="Wox-1.3.1039.exe" repositoryKey="Wox-launcher/Wox" />
-- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1039/Wox-1.3.1039.zip" text="Wox-1.3.1039.zip" repositoryKey="Wox-launcher/Wox" />
-- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1039/Wox-Full-Installer.1.3.1039.exe" text="Wox-Full-Installer.1.3.1039.exe" repositoryKey="Wox-launcher/Wox" />
-- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v1.3.1039/Wox.1.3.1039.nupkg" text="Wox.1.3.1039.nupkg" repositoryKey="Wox-launcher/Wox" />
 
 
 
