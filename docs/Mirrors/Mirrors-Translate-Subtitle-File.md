@@ -18,6 +18,13 @@ Translate-Subtitle-File. 国内直接从官网 https://github.com/1c7/Translate-
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v5.5.26
+
+- <GithubMirrorLink link="https://github.com/1c7/Translate-Subtitle-File/releases/download/v5.5.26/Zimoo-darwin-arm64-5.5.26.zip" text="Zimoo-darwin-arm64-5.5.26.zip" repositoryKey="1c7/Translate-Subtitle-File" />
+- <GithubMirrorLink link="https://github.com/1c7/Translate-Subtitle-File/releases/download/v5.5.26/Zimoo-win32-x64-5.5.26.zip" text="Zimoo-win32-x64-5.5.26.zip" repositoryKey="1c7/Translate-Subtitle-File" />
+
+
+
 ## v5.5.23
 
 - <GithubMirrorLink link="https://github.com/1c7/Translate-Subtitle-File/releases/download/v5.5.23/Zimoo-darwin-arm64-5.5.23.zip" text="Zimoo-darwin-arm64-5.5.23.zip" repositoryKey="1c7/Translate-Subtitle-File" />
@@ -151,12 +158,12 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v5.5.2
 
 - <GithubMirrorLink link="https://github.com/1c7/Translate-Subtitle-File/releases/download/v5.5.2/Zimoo-darwin-arm64-5.5.2.zip" text="Zimoo-darwin-arm64-5.5.2.zip" repositoryKey="1c7/Translate-Subtitle-File" />
 - <GithubMirrorLink link="https://github.com/1c7/Translate-Subtitle-File/releases/download/v5.5.2/Zimoo-win32-x64-5.5.2.zip" text="Zimoo-win32-x64-5.5.2.zip" repositoryKey="1c7/Translate-Subtitle-File" />
-
-
 
 
 
@@ -219,13 +226,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 - <GithubMirrorLink link="https://github.com/1c7/Translate-Subtitle-File/releases/download/3.9.0/Tern_macOS_3.9.0.dmg" text="Tern_macOS_3.9.0.dmg" repositoryKey="1c7/Translate-Subtitle-File" />
 - <GithubMirrorLink link="https://github.com/1c7/Translate-Subtitle-File/releases/download/3.9.0/Tern_Windows_3.9.0.zip" text="Tern_Windows_3.9.0.zip" repositoryKey="1c7/Translate-Subtitle-File" />
-
-
-
-## 3.8.0
-
-- <GithubMirrorLink link="https://github.com/1c7/Translate-Subtitle-File/releases/download/3.8.0/Tern_macOS_3.8.0.dmg" text="Tern_macOS_3.8.0.dmg" repositoryKey="1c7/Translate-Subtitle-File" />
-- <GithubMirrorLink link="https://github.com/1c7/Translate-Subtitle-File/releases/download/3.8.0/Tern_Windows_3.8.0.zip" text="Tern_Windows_3.8.0.zip" repositoryKey="1c7/Translate-Subtitle-File" />
 
 
 

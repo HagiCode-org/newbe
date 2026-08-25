@@ -29,6 +29,18 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+## v1.29.290
+
+- <GithubMirrorLink link="https://github.com/microsoft/winget-cli/releases/download/v1.29.290/DesktopAppInstallerPolicies.zip" text="DesktopAppInstallerPolicies.zip" repositoryKey="microsoft/winget-cli" />
+- <GithubMirrorLink link="https://github.com/microsoft/winget-cli/releases/download/v1.29.290/DesktopAppInstaller_Dependencies.json" text="DesktopAppInstaller_Dependencies.json" repositoryKey="microsoft/winget-cli" />
+- <GithubMirrorLink link="https://github.com/microsoft/winget-cli/releases/download/v1.29.290/DesktopAppInstaller_Dependencies.txt" text="DesktopAppInstaller_Dependencies.txt" repositoryKey="microsoft/winget-cli" />
+- <GithubMirrorLink link="https://github.com/microsoft/winget-cli/releases/download/v1.29.290/DesktopAppInstaller_Dependencies.zip" text="DesktopAppInstaller_Dependencies.zip" repositoryKey="microsoft/winget-cli" />
+- <GithubMirrorLink link="https://github.com/microsoft/winget-cli/releases/download/v1.29.290/e53e159d00e04f729cc2180cffd1c02e_License1.xml" text="e53e159d00e04f729cc2180cffd1c02e_License1.xml" repositoryKey="microsoft/winget-cli" />
+- <GithubMirrorLink link="https://github.com/microsoft/winget-cli/releases/download/v1.29.290/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle" text="Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle" repositoryKey="microsoft/winget-cli" />
+- <GithubMirrorLink link="https://github.com/microsoft/winget-cli/releases/download/v1.29.290/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.txt" text="Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.txt" repositoryKey="microsoft/winget-cli" />
+
+
+
 ## v1.30.90-preview
 
 - <GithubMirrorLink link="https://github.com/microsoft/winget-cli/releases/download/v1.30.90-preview/DesktopAppInstallerPolicies.zip" text="DesktopAppInstallerPolicies.zip" repositoryKey="microsoft/winget-cli" />
@@ -122,18 +134,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/microsoft/winget-cli/releases/download/v1.29.170-preview/e53e159d00e04f729cc2180cffd1c02e_License1.xml" text="e53e159d00e04f729cc2180cffd1c02e_License1.xml" repositoryKey="microsoft/winget-cli" />
 - <GithubMirrorLink link="https://github.com/microsoft/winget-cli/releases/download/v1.29.170-preview/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle" text="Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle" repositoryKey="microsoft/winget-cli" />
 - <GithubMirrorLink link="https://github.com/microsoft/winget-cli/releases/download/v1.29.170-preview/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.txt" text="Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.txt" repositoryKey="microsoft/winget-cli" />
-
-
-
-## v1.29.160-preview
-
-- <GithubMirrorLink link="https://github.com/microsoft/winget-cli/releases/download/v1.29.160-preview/DesktopAppInstallerPolicies.zip" text="DesktopAppInstallerPolicies.zip" repositoryKey="microsoft/winget-cli" />
-- <GithubMirrorLink link="https://github.com/microsoft/winget-cli/releases/download/v1.29.160-preview/DesktopAppInstaller_Dependencies.json" text="DesktopAppInstaller_Dependencies.json" repositoryKey="microsoft/winget-cli" />
-- <GithubMirrorLink link="https://github.com/microsoft/winget-cli/releases/download/v1.29.160-preview/DesktopAppInstaller_Dependencies.txt" text="DesktopAppInstaller_Dependencies.txt" repositoryKey="microsoft/winget-cli" />
-- <GithubMirrorLink link="https://github.com/microsoft/winget-cli/releases/download/v1.29.160-preview/DesktopAppInstaller_Dependencies.zip" text="DesktopAppInstaller_Dependencies.zip" repositoryKey="microsoft/winget-cli" />
-- <GithubMirrorLink link="https://github.com/microsoft/winget-cli/releases/download/v1.29.160-preview/e53e159d00e04f729cc2180cffd1c02e_License1.xml" text="e53e159d00e04f729cc2180cffd1c02e_License1.xml" repositoryKey="microsoft/winget-cli" />
-- <GithubMirrorLink link="https://github.com/microsoft/winget-cli/releases/download/v1.29.160-preview/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle" text="Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle" repositoryKey="microsoft/winget-cli" />
-- <GithubMirrorLink link="https://github.com/microsoft/winget-cli/releases/download/v1.29.160-preview/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.txt" text="Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.txt" repositoryKey="microsoft/winget-cli" />
 
 
 
