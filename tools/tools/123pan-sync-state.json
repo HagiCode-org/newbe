@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-27T06:49:51.654660+00:00",
-  "recordCount": 219,
+  "generatedAt": "2026-08-28T08:37:36.078828+00:00",
+  "recordCount": 237,
   "records": {
     "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.AppImage": {
       "syncedAt": "2026-08-22T07:14:26.809Z",
@@ -587,6 +587,36 @@
       "shareUrl": "https://www.123pan.com/s/zsClvd-tCNeA",
       "status": "synced"
     },
+    "agalwood/Motrix:v2.0.0-beta.27:Motrix-2.0.0-beta.27-arm64.AppImage.zsync": {
+      "syncedAt": "2026-08-27T22:15:51.037Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-nSocA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.27:Motrix-2.0.0-beta.27-x86_64.AppImage.zsync": {
+      "syncedAt": "2026-08-27T22:18:37.481Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-xkeeA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.27:Motrix-2.0.0-beta.27.aarch64.rpm": {
+      "syncedAt": "2026-08-27T22:18:58.318Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-ZQNcA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.27:Motrix-2.0.0-beta.27.x86_64.rpm": {
+      "syncedAt": "2026-08-27T22:19:20.488Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-pkeeA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.27:Motrix-Native-Host-2.0.0-beta.27-linux-arm64.tar.gz": {
+      "syncedAt": "2026-08-27T22:19:26.555Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-yIheA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.27:Motrix-Native-Host-2.0.0-beta.27-linux-x64.tar.gz": {
+      "syncedAt": "2026-08-27T22:19:32.568Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-1V6eA",
+      "status": "synced"
+    },
     "marktext/marktext:v0.20.0-rc.1:SHA256SUMS.txt": {
       "syncedAt": "2026-08-22T09:15:58.241Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-9uFlA",
@@ -737,6 +767,31 @@
       "shareUrl": "https://www.123pan.com/s/zsClvd-PQNcA",
       "status": "synced"
     },
+    "microsoft/PowerToys:v0.101.2373.0:GroupPolicyObjectFiles-0.101.2373.0.zip": {
+      "syncedAt": "2026-08-26T20:07:43.387Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-dNNeA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.101.2373.0:PowerToysSetup-0.101.2373.0-arm64.exe": {
+      "syncedAt": "2026-08-27T11:24:29.379Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-GSocA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.101.2373.0:PowerToysSetup-0.101.2373.0-x64.exe": {
+      "syncedAt": "2026-08-27T11:25:05.304Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-nMueA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.101.2373.0:PowerToysUserSetup-0.101.2373.0-arm64.exe": {
+      "syncedAt": "2026-08-27T11:25:40.884Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-uW6cA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.101.2373.0:PowerToysUserSetup-0.101.2373.0-x64.exe": {
+      "syncedAt": "2026-08-26T20:10:18.839Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-uQNcA",
+      "status": "synced"
+    },
     "ollama/ollama:v0.33.0-rc2:Ollama-darwin.zip": {
       "syncedAt": "2026-08-22T20:21:22.266Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-aQeeA",
@@ -875,6 +930,41 @@
     "ollama/ollama:v0.33.1-rc1:sha256sum.txt": {
       "syncedAt": "2026-08-26T20:40:02.190Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-UQNcA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.33.1:ollama-linux-amd64-rocm.tar.zst": {
+      "syncedAt": "2026-08-27T12:13:01.886Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-UW6cA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.33.1:ollama-linux-amd64.tar.zst": {
+      "syncedAt": "2026-08-27T12:13:16.413Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-SW6cA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.33.1:ollama-linux-arm64-jetpack5.tar.zst": {
+      "syncedAt": "2026-08-27T12:13:30.582Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-kV6eA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.33.1:ollama-linux-arm64-jetpack6.tar.zst": {
+      "syncedAt": "2026-08-27T12:13:39.575Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-lW6cA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.33.1:sha256sum.txt": {
+      "syncedAt": "2026-08-27T14:01:38.861Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-rEmeA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.33.2-rc1:ollama-linux-amd64-rocm.tar.zst": {
+      "syncedAt": "2026-08-27T22:31:53.862Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-oNNeA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.33.2-rc1:sha256sum.txt": {
+      "syncedAt": "2026-08-27T22:53:16.100Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-xV6eA",
       "status": "synced"
     },
     "wez/wezterm:20240203-110809-5046fc22:WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage": {
