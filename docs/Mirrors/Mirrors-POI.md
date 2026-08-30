@@ -219,6 +219,7 @@ POI. 国内直接从官网 https://poi.io 下载比较困难，需要一些技�
 - [v12.0.0-beta.2](https://mirrors.huaweicloud.com/poi/v12.0.0-beta.2/)
 - [v12.0.0-beta.3](https://mirrors.huaweicloud.com/poi/v12.0.0-beta.3/)
 - [v12.0.0-beta.4](https://mirrors.huaweicloud.com/poi/v12.0.0-beta.4/)
+- [v12.0.1](https://mirrors.huaweicloud.com/poi/v12.0.1/)
 
 
 
