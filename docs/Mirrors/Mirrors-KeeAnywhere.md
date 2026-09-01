@@ -60,6 +60,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v1.5.0
 
 - <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.5.0/KeeAnywhere-1.5.0.plgx" text="KeeAnywhere-1.5.0.plgx" repositoryKey="Kyrodan/KeeAnywhere" />
@@ -87,6 +89,45 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.3.1/KeeAnywhere-1.3.1.zip" text="KeeAnywhere-1.3.1.zip" repositoryKey="Kyrodan/KeeAnywhere" />
 
 
+
+## v1.3.0
+
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.3.0/KeeAnywhere-1.3.0.plgx" text="KeeAnywhere-1.3.0.plgx" repositoryKey="Kyrodan/KeeAnywhere" />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.3.0/KeeAnywhere-1.3.0.zip" text="KeeAnywhere-1.3.0.zip" repositoryKey="Kyrodan/KeeAnywhere" />
+
+
+
+## v1.2.0
+
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.2.0/KeeAnywhere-1.2.0.plgx" text="KeeAnywhere-1.2.0.plgx" repositoryKey="Kyrodan/KeeAnywhere" />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.2.0/KeeAnywhere-1.2.0.zip" text="KeeAnywhere-1.2.0.zip" repositoryKey="Kyrodan/KeeAnywhere" />
+
+
+
+## v1.1.0
+
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.1.0/KeeAnywhere-1.1.0.plgx" text="KeeAnywhere-1.1.0.plgx" repositoryKey="Kyrodan/KeeAnywhere" />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.1.0/KeeAnywhere-1.1.0.zip" text="KeeAnywhere-1.1.0.zip" repositoryKey="Kyrodan/KeeAnywhere" />
+
+
+
+## v1.0.0
+
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.0.0/KeeAnywhere-1.0.0.plgx" text="KeeAnywhere-1.0.0.plgx" repositoryKey="Kyrodan/KeeAnywhere" />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v1.0.0/KeeAnywhere-1.0.0.zip" text="KeeAnywhere-1.0.0.zip" repositoryKey="Kyrodan/KeeAnywhere" />
+
+
+
+## v0.2.0-alpha
+
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v0.2.0-alpha/KeeAnywhere-0.2.0-alpha.plgx" text="KeeAnywhere-0.2.0-alpha.plgx" repositoryKey="Kyrodan/KeeAnywhere" />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v0.2.0-alpha/KeeAnywhere-0.2.0-alpha.zip" text="KeeAnywhere-0.2.0-alpha.zip" repositoryKey="Kyrodan/KeeAnywhere" />
+
+
+
+## v0.1.0-alpha
+
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v0.1.0-alpha/KeeAnywhere-0.1.0-alpha.zip" text="KeeAnywhere-0.1.0-alpha.zip" repositoryKey="Kyrodan/KeeAnywhere" />
 
 
 
