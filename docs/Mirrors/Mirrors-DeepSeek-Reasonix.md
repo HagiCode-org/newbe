@@ -17,6 +17,22 @@ DeepSeek-Reasonix. 国内直接从官网 https://github.com/esengine/DeepSeek-Re
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## studio-v2.11.0
+
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.11.0/latest.json" text="latest.json" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.11.0/ReasonixStudio-darwin-arm64.dmg" text="ReasonixStudio-darwin-arm64.dmg" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.11.0/ReasonixStudio-darwin-arm64.dmg.minisig" text="ReasonixStudio-darwin-arm64.dmg.minisig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.11.0/ReasonixStudio-darwin-arm64.zip" text="ReasonixStudio-darwin-arm64.zip" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.11.0/ReasonixStudio-darwin-arm64.zip.minisig" text="ReasonixStudio-darwin-arm64.zip.minisig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.11.0/ReasonixStudio-linux-amd64.deb" text="ReasonixStudio-linux-amd64.deb" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.11.0/ReasonixStudio-linux-amd64.deb.minisig" text="ReasonixStudio-linux-amd64.deb.minisig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.11.0/ReasonixStudio-windows-amd64-installer.exe" text="ReasonixStudio-windows-amd64-installer.exe" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.11.0/ReasonixStudio-windows-amd64-installer.exe.minisig" text="ReasonixStudio-windows-amd64-installer.exe.minisig" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.11.0/ReasonixStudio-windows-amd64.zip" text="ReasonixStudio-windows-amd64.zip" repositoryKey="esengine/DeepSeek-Reasonix" />
+- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.11.0/ReasonixStudio-windows-amd64.zip.minisig" text="ReasonixStudio-windows-amd64.zip.minisig" repositoryKey="esengine/DeepSeek-Reasonix" />
+
+
+
 ## desktop-v1.35.0
 
 - <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.35.0/latest.json" text="latest.json" repositoryKey="esengine/DeepSeek-Reasonix" />
@@ -371,6 +387,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## desktop-v1.31.3
 
 - <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.31.3/latest.json" text="latest.json" repositoryKey="esengine/DeepSeek-Reasonix" />
@@ -392,8 +410,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.31.3/Reasonix-windows-arm64-installer.exe.minisig" text="Reasonix-windows-arm64-installer.exe.minisig" repositoryKey="esengine/DeepSeek-Reasonix" />
 - <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.31.3/Reasonix-windows-arm64.zip" text="Reasonix-windows-arm64.zip" repositoryKey="esengine/DeepSeek-Reasonix" />
 - <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.31.3/Reasonix-windows-arm64.zip.minisig" text="Reasonix-windows-arm64.zip.minisig" repositoryKey="esengine/DeepSeek-Reasonix" />
-
-
 
 
 
@@ -520,30 +536,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.2.0/ReasonixStudio-windows-amd64-installer.exe.minisig" text="ReasonixStudio-windows-amd64-installer.exe.minisig" repositoryKey="esengine/DeepSeek-Reasonix" />
 - <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.2.0/ReasonixStudio-windows-amd64.zip" text="ReasonixStudio-windows-amd64.zip" repositoryKey="esengine/DeepSeek-Reasonix" />
 - <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/studio-v2.2.0/ReasonixStudio-windows-amd64.zip.minisig" text="ReasonixStudio-windows-amd64.zip.minisig" repositoryKey="esengine/DeepSeek-Reasonix" />
-
-
-
-## desktop-v1.31.0
-
-- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.31.0/latest.json" text="latest.json" repositoryKey="esengine/DeepSeek-Reasonix" />
-- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.31.0/Reasonix-darwin-amd64.zip" text="Reasonix-darwin-amd64.zip" repositoryKey="esengine/DeepSeek-Reasonix" />
-- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.31.0/Reasonix-darwin-amd64.zip.minisig" text="Reasonix-darwin-amd64.zip.minisig" repositoryKey="esengine/DeepSeek-Reasonix" />
-- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.31.0/Reasonix-darwin-arm64.zip" text="Reasonix-darwin-arm64.zip" repositoryKey="esengine/DeepSeek-Reasonix" />
-- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.31.0/Reasonix-darwin-arm64.zip.minisig" text="Reasonix-darwin-arm64.zip.minisig" repositoryKey="esengine/DeepSeek-Reasonix" />
-- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.31.0/Reasonix-darwin-universal.dmg" text="Reasonix-darwin-universal.dmg" repositoryKey="esengine/DeepSeek-Reasonix" />
-- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.31.0/Reasonix-darwin-universal.dmg.minisig" text="Reasonix-darwin-universal.dmg.minisig" repositoryKey="esengine/DeepSeek-Reasonix" />
-- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.31.0/Reasonix-linux-amd64.deb" text="Reasonix-linux-amd64.deb" repositoryKey="esengine/DeepSeek-Reasonix" />
-- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.31.0/Reasonix-linux-amd64.deb.minisig" text="Reasonix-linux-amd64.deb.minisig" repositoryKey="esengine/DeepSeek-Reasonix" />
-- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.31.0/Reasonix-linux-amd64.tar.gz" text="Reasonix-linux-amd64.tar.gz" repositoryKey="esengine/DeepSeek-Reasonix" />
-- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.31.0/Reasonix-linux-amd64.tar.gz.minisig" text="Reasonix-linux-amd64.tar.gz.minisig" repositoryKey="esengine/DeepSeek-Reasonix" />
-- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.31.0/Reasonix-windows-amd64-installer.exe" text="Reasonix-windows-amd64-installer.exe" repositoryKey="esengine/DeepSeek-Reasonix" />
-- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.31.0/Reasonix-windows-amd64-installer.exe.minisig" text="Reasonix-windows-amd64-installer.exe.minisig" repositoryKey="esengine/DeepSeek-Reasonix" />
-- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.31.0/Reasonix-windows-amd64.zip" text="Reasonix-windows-amd64.zip" repositoryKey="esengine/DeepSeek-Reasonix" />
-- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.31.0/Reasonix-windows-amd64.zip.minisig" text="Reasonix-windows-amd64.zip.minisig" repositoryKey="esengine/DeepSeek-Reasonix" />
-- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.31.0/Reasonix-windows-arm64-installer.exe" text="Reasonix-windows-arm64-installer.exe" repositoryKey="esengine/DeepSeek-Reasonix" />
-- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.31.0/Reasonix-windows-arm64-installer.exe.minisig" text="Reasonix-windows-arm64-installer.exe.minisig" repositoryKey="esengine/DeepSeek-Reasonix" />
-- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.31.0/Reasonix-windows-arm64.zip" text="Reasonix-windows-arm64.zip" repositoryKey="esengine/DeepSeek-Reasonix" />
-- <GithubMirrorLink link="https://github.com/esengine/DeepSeek-Reasonix/releases/download/desktop-v1.31.0/Reasonix-windows-arm64.zip.minisig" text="Reasonix-windows-arm64.zip.minisig" repositoryKey="esengine/DeepSeek-Reasonix" />
 
 
 

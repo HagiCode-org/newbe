@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01T03:09:51.918262+00:00",
-  "recordCount": 653,
+  "generatedAt": "2026-09-02T02:29:05.140790+00:00",
+  "recordCount": 680,
   "records": {
     "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.AppImage": {
       "syncedAt": "2026-08-22T07:14:26.809Z",
@@ -255,6 +255,116 @@
     "PowerShell/PowerShell:v7.5.10:powershell_7.5.10-1.deb_amd64.deb": {
       "syncedAt": "2026-08-22T12:30:20.264Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-wuccA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.7.0-preview.4:PowerShell-7.7.0-preview.4-win-arm64.zip": {
+      "syncedAt": "2026-09-01T18:08:38.444Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-ewueA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.7.0-preview.4:PowerShell-7.7.0-preview.4-win-fxdependent.zip": {
+      "syncedAt": "2026-09-01T18:09:04.018Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-hkNcA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.7.0-preview.4:PowerShell-7.7.0-preview.4-win-fxdependentWinDesktop.zip": {
+      "syncedAt": "2026-09-01T18:09:17.699Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-MoeeA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.7.0-preview.4:PowerShell-7.7.0-preview.4-win-x64.zip": {
+      "syncedAt": "2026-09-01T18:09:46.272Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-woeeA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.7.0-preview.4:PowerShell-7.7.0-preview.4-win-x86.zip": {
+      "syncedAt": "2026-09-01T18:10:16.966Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-tlocA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.7.0-preview.4:PowerShellPreview-7.7.0-preview.4.msixbundle": {
+      "syncedAt": "2026-09-01T21:12:35.119Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-mONeA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.7.0-preview.4:hashes.sha256": {
+      "syncedAt": "2026-09-01T05:13:03.421Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-UlocA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.7.0-preview.4:powershell-7.7.0-preview.4-linux-arm32.tar.gz": {
+      "syncedAt": "2026-09-01T18:05:01.058Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-llocA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.7.0-preview.4:powershell-7.7.0-preview.4-linux-arm64.tar.gz": {
+      "syncedAt": "2026-09-01T18:05:24.012Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-JoeeA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.7.0-preview.4:powershell-7.7.0-preview.4-linux-musl-x64.tar.gz": {
+      "syncedAt": "2026-09-01T18:05:46.392Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-vkNcA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.7.0-preview.4:powershell-7.7.0-preview.4-linux-x64-fxdependent.tar.gz": {
+      "syncedAt": "2026-09-01T18:05:59.443Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-IoeeA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.7.0-preview.4:powershell-7.7.0-preview.4-linux-x64-musl-noopt-fxdependent.tar.gz": {
+      "syncedAt": "2026-09-01T18:06:27.809Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-aCBcA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.7.0-preview.4:powershell-7.7.0-preview.4-linux-x64.tar.gz": {
+      "syncedAt": "2026-09-01T18:06:48.787Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-7locA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.7.0-preview.4:powershell-7.7.0-preview.4-osx-arm64.pkg": {
+      "syncedAt": "2026-09-01T18:07:09.545Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-blocA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.7.0-preview.4:powershell-7.7.0-preview.4-osx-arm64.tar.gz": {
+      "syncedAt": "2026-09-01T18:07:29.566Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-cwueA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.7.0-preview.4:powershell-7.7.0-preview.4-osx-x64.pkg": {
+      "syncedAt": "2026-09-01T18:07:50.854Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-oONeA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.7.0-preview.4:powershell-7.7.0-preview.4-osx-x64.tar.gz": {
+      "syncedAt": "2026-09-01T18:08:12.054Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-BCBcA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.7.0-preview.4:powershell-preview-7.7.0_preview.4-1.cm.aarch64.rpm": {
+      "syncedAt": "2026-09-01T18:10:34.828Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-9N6cA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.7.0-preview.4:powershell-preview-7.7.0_preview.4-1.cm.x86_64.rpm": {
+      "syncedAt": "2026-09-01T18:10:50.882Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-nwheA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.7.0-preview.4:powershell-preview-7.7.0_preview.4-1.rh.x86_64.rpm": {
+      "syncedAt": "2026-09-01T18:11:13.575Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-EN6cA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.7.0-preview.4:powershell-preview_7.7.0-preview.4-1.deb_amd64.deb": {
+      "syncedAt": "2026-09-01T16:32:17.626Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-Xj6eA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.7.0-preview.4:powershell-preview_7.7.0-preview.4-1.deb_arm64.deb": {
+      "syncedAt": "2026-09-01T21:12:26.503Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-kN6cA",
       "status": "synced"
     },
     "agalwood/Motrix:v2.0.0-beta.21:Motrix-2.0.0-beta.21-arm64.AppImage": {
@@ -2730,6 +2840,31 @@
     "microsoft/PowerToys:v0.101.2373.0:PowerToysUserSetup-0.101.2373.0-x64.exe": {
       "syncedAt": "2026-08-26T20:10:18.839Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-uQNcA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.101.2432.0:GroupPolicyObjectFiles-0.101.2432.0.zip": {
+      "syncedAt": "2026-09-01T21:08:29.968Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-ckmeA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.101.2432.0:PowerToysSetup-0.101.2432.0-arm64.exe": {
+      "syncedAt": "2026-09-01T21:08:44.360Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-AkNcA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.101.2432.0:PowerToysSetup-0.101.2432.0-x64.exe": {
+      "syncedAt": "2026-09-01T21:09:16.164Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-ilocA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.101.2432.0:PowerToysUserSetup-0.101.2432.0-arm64.exe": {
+      "syncedAt": "2026-09-01T21:09:53.576Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-CwheA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.101.2432.0:PowerToysUserSetup-0.101.2432.0-x64.exe": {
+      "syncedAt": "2026-09-01T21:10:25.018Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-FoeeA",
       "status": "synced"
     },
     "ollama/ollama:v0.33.0-rc2:Ollama-darwin.zip": {
