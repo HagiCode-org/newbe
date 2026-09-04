@@ -758,6 +758,7 @@ Kibana. 国内直接从官网 https://www.elastic.co 下载比较困难，需要
 
 - [9.5.0](https://mirrors.huaweicloud.com/kibana/9.5.0/)
 - [9.5.2](https://mirrors.huaweicloud.com/kibana/9.5.2/)
+- [9.5.3](https://mirrors.huaweicloud.com/kibana/9.5.3/)
 
 
 
