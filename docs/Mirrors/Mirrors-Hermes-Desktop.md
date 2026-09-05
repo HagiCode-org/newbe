@@ -20,6 +20,50 @@ Hermes Desktop 是 Hermes Agent 的桌面伴侣应用，面向需要图形界面
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v0.7.7
+
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7-arm64-mac.zip" text="hermes-desktop-0.7.7-arm64-mac.zip" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7-arm64-mac.zip.blockmap" text="hermes-desktop-0.7.7-arm64-mac.zip.blockmap" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7-arm64.AppImage" text="hermes-desktop-0.7.7-arm64.AppImage" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7-arm64.dmg" text="hermes-desktop-0.7.7-arm64.dmg" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7-arm64.dmg.blockmap" text="hermes-desktop-0.7.7-arm64.dmg.blockmap" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7-portable.exe" text="hermes-desktop-0.7.7-portable.exe" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7-setup.exe" text="hermes-desktop-0.7.7-setup.exe" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7-setup.exe.blockmap" text="hermes-desktop-0.7.7-setup.exe.blockmap" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7-x64-mac.zip" text="hermes-desktop-0.7.7-x64-mac.zip" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7-x64-mac.zip.blockmap" text="hermes-desktop-0.7.7-x64-mac.zip.blockmap" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7-x64.dmg" text="hermes-desktop-0.7.7-x64.dmg" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7-x64.dmg.blockmap" text="hermes-desktop-0.7.7-x64.dmg.blockmap" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7-x86_64.AppImage" text="hermes-desktop-0.7.7-x86_64.AppImage" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop-0.7.7.rpm" text="hermes-desktop-0.7.7.rpm" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/hermes-desktop_0.7.7_amd64.deb" text="hermes-desktop_0.7.7_amd64.deb" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/latest-linux.yml" text="latest-linux.yml" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/latest-mac.yml" text="latest-mac.yml" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7/latest.yml" text="latest.yml" repositoryKey="fathah/hermes-desktop" />
+
+
+
+## v0.7.7-beta.5
+
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7-beta.5/beta-mac.yml" text="beta-mac.yml" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7-beta.5/hermes-desktop-0.7.7-beta.5-arm64-mac.zip" text="hermes-desktop-0.7.7-beta.5-arm64-mac.zip" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7-beta.5/hermes-desktop-0.7.7-beta.5-arm64-mac.zip.blockmap" text="hermes-desktop-0.7.7-beta.5-arm64-mac.zip.blockmap" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7-beta.5/hermes-desktop-0.7.7-beta.5-arm64.AppImage" text="hermes-desktop-0.7.7-beta.5-arm64.AppImage" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7-beta.5/hermes-desktop-0.7.7-beta.5-arm64.dmg" text="hermes-desktop-0.7.7-beta.5-arm64.dmg" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7-beta.5/hermes-desktop-0.7.7-beta.5-arm64.dmg.blockmap" text="hermes-desktop-0.7.7-beta.5-arm64.dmg.blockmap" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7-beta.5/hermes-desktop-0.7.7-beta.5-portable.exe" text="hermes-desktop-0.7.7-beta.5-portable.exe" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7-beta.5/hermes-desktop-0.7.7-beta.5-setup.exe" text="hermes-desktop-0.7.7-beta.5-setup.exe" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7-beta.5/hermes-desktop-0.7.7-beta.5-setup.exe.blockmap" text="hermes-desktop-0.7.7-beta.5-setup.exe.blockmap" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7-beta.5/hermes-desktop-0.7.7-beta.5-x64-mac.zip" text="hermes-desktop-0.7.7-beta.5-x64-mac.zip" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7-beta.5/hermes-desktop-0.7.7-beta.5-x64-mac.zip.blockmap" text="hermes-desktop-0.7.7-beta.5-x64-mac.zip.blockmap" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7-beta.5/hermes-desktop-0.7.7-beta.5-x64.dmg" text="hermes-desktop-0.7.7-beta.5-x64.dmg" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7-beta.5/hermes-desktop-0.7.7-beta.5-x64.dmg.blockmap" text="hermes-desktop-0.7.7-beta.5-x64.dmg.blockmap" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7-beta.5/hermes-desktop-0.7.7-beta.5-x86_64.AppImage" text="hermes-desktop-0.7.7-beta.5-x86_64.AppImage" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7-beta.5/hermes-desktop-0.7.7-beta.5.rpm" text="hermes-desktop-0.7.7-beta.5.rpm" repositoryKey="fathah/hermes-desktop" />
+- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.7-beta.5/hermes-desktop_0.7.7-beta.5_amd64.deb" text="hermes-desktop_0.7.7-beta.5_amd64.deb" repositoryKey="fathah/hermes-desktop" />
+
+
+
 ## v0.7.6
 
 - <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.7.6/hermes-desktop-0.7.6-arm64-mac.zip" text="hermes-desktop-0.7.6-arm64-mac.zip" repositoryKey="fathah/hermes-desktop" />
@@ -408,6 +452,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v0.5.4
 
 - <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.5.4/hermes-desktop-0.5.4-arm64-mac.zip" text="hermes-desktop-0.5.4-arm64-mac.zip" repositoryKey="fathah/hermes-desktop" />
@@ -449,8 +495,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.5.3/latest-linux.yml" text="latest-linux.yml" repositoryKey="fathah/hermes-desktop" />
 - <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.5.3/latest-mac.yml" text="latest-mac.yml" repositoryKey="fathah/hermes-desktop" />
 - <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.5.3/latest.yml" text="latest.yml" repositoryKey="fathah/hermes-desktop" />
-
-
 
 
 
@@ -622,44 +666,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.4.1/latest-linux.yml" text="latest-linux.yml" repositoryKey="fathah/hermes-desktop" />
 - <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.4.1/latest-mac.yml" text="latest-mac.yml" repositoryKey="fathah/hermes-desktop" />
 - <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.4.1/latest.yml" text="latest.yml" repositoryKey="fathah/hermes-desktop" />
-
-
-
-## v0.4.0
-
-- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.4.0/hermes-desktop-0.4.0-setup.exe" text="hermes-desktop-0.4.0-setup.exe" repositoryKey="fathah/hermes-desktop" />
-- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.4.0/hermes-desktop-0.4.0-setup.exe.blockmap" text="hermes-desktop-0.4.0-setup.exe.blockmap" repositoryKey="fathah/hermes-desktop" />
-- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.4.0/hermes-desktop-0.4.0.AppImage" text="hermes-desktop-0.4.0.AppImage" repositoryKey="fathah/hermes-desktop" />
-- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.4.0/hermes-desktop-0.4.0.dmg" text="hermes-desktop-0.4.0.dmg" repositoryKey="fathah/hermes-desktop" />
-- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.4.0/hermes-desktop-0.4.0.dmg.blockmap" text="hermes-desktop-0.4.0.dmg.blockmap" repositoryKey="fathah/hermes-desktop" />
-- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.4.0/hermes-desktop-0.4.0.rpm" text="hermes-desktop-0.4.0.rpm" repositoryKey="fathah/hermes-desktop" />
-- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.4.0/hermes-desktop_0.4.0_amd64.deb" text="hermes-desktop_0.4.0_amd64.deb" repositoryKey="fathah/hermes-desktop" />
-- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.4.0/Hermes.Agent-0.4.0-arm64-mac.zip" text="Hermes.Agent-0.4.0-arm64-mac.zip" repositoryKey="fathah/hermes-desktop" />
-- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.4.0/Hermes.Agent-0.4.0-arm64-mac.zip.blockmap" text="Hermes.Agent-0.4.0-arm64-mac.zip.blockmap" repositoryKey="fathah/hermes-desktop" />
-- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.4.0/Hermes.Agent-0.4.0-mac.zip" text="Hermes.Agent-0.4.0-mac.zip" repositoryKey="fathah/hermes-desktop" />
-- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.4.0/Hermes.Agent-0.4.0-mac.zip.blockmap" text="Hermes.Agent-0.4.0-mac.zip.blockmap" repositoryKey="fathah/hermes-desktop" />
-- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.4.0/latest-linux.yml" text="latest-linux.yml" repositoryKey="fathah/hermes-desktop" />
-- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.4.0/latest-mac.yml" text="latest-mac.yml" repositoryKey="fathah/hermes-desktop" />
-- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.4.0/latest.yml" text="latest.yml" repositoryKey="fathah/hermes-desktop" />
-
-
-
-## v0.3.7
-
-- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.3.7/hermes-desktop-0.3.7-setup.exe" text="hermes-desktop-0.3.7-setup.exe" repositoryKey="fathah/hermes-desktop" />
-- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.3.7/hermes-desktop-0.3.7-setup.exe.blockmap" text="hermes-desktop-0.3.7-setup.exe.blockmap" repositoryKey="fathah/hermes-desktop" />
-- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.3.7/hermes-desktop-0.3.7.AppImage" text="hermes-desktop-0.3.7.AppImage" repositoryKey="fathah/hermes-desktop" />
-- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.3.7/hermes-desktop-0.3.7.dmg" text="hermes-desktop-0.3.7.dmg" repositoryKey="fathah/hermes-desktop" />
-- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.3.7/hermes-desktop-0.3.7.dmg.blockmap" text="hermes-desktop-0.3.7.dmg.blockmap" repositoryKey="fathah/hermes-desktop" />
-- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.3.7/hermes-desktop-0.3.7.rpm" text="hermes-desktop-0.3.7.rpm" repositoryKey="fathah/hermes-desktop" />
-- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.3.7/hermes-desktop_0.3.7_amd64.deb" text="hermes-desktop_0.3.7_amd64.deb" repositoryKey="fathah/hermes-desktop" />
-- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.3.7/Hermes.Agent-0.3.7-arm64-mac.zip" text="Hermes.Agent-0.3.7-arm64-mac.zip" repositoryKey="fathah/hermes-desktop" />
-- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.3.7/Hermes.Agent-0.3.7-arm64-mac.zip.blockmap" text="Hermes.Agent-0.3.7-arm64-mac.zip.blockmap" repositoryKey="fathah/hermes-desktop" />
-- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.3.7/Hermes.Agent-0.3.7-mac.zip" text="Hermes.Agent-0.3.7-mac.zip" repositoryKey="fathah/hermes-desktop" />
-- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.3.7/Hermes.Agent-0.3.7-mac.zip.blockmap" text="Hermes.Agent-0.3.7-mac.zip.blockmap" repositoryKey="fathah/hermes-desktop" />
-- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.3.7/latest-linux.yml" text="latest-linux.yml" repositoryKey="fathah/hermes-desktop" />
-- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.3.7/latest-mac.yml" text="latest-mac.yml" repositoryKey="fathah/hermes-desktop" />
-- <GithubMirrorLink link="https://github.com/fathah/hermes-desktop/releases/download/v0.3.7/latest.yml" text="latest.yml" repositoryKey="fathah/hermes-desktop" />
 
 
 

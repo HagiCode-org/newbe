@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-04T02:32:32.783588+00:00",
-  "recordCount": 755,
+  "generatedAt": "2026-09-05T02:33:30.221340+00:00",
+  "recordCount": 794,
   "records": {
     "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.AppImage": {
       "syncedAt": "2026-08-22T07:14:26.809Z",
@@ -927,6 +927,86 @@
       "shareUrl": "https://www.123pan.com/s/zsClvd-gONeA",
       "status": "synced"
     },
+    "agalwood/Motrix:v2.0.0-beta.31:Motrix-2.0.0-beta.31-arm64.AppImage": {
+      "syncedAt": "2026-09-04T20:45:39.052Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-GgueA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.31:Motrix-2.0.0-beta.31-arm64.AppImage.zsync": {
+      "syncedAt": "2026-09-04T18:09:39.752Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-7CBcA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.31:Motrix-2.0.0-beta.31-arm64.dmg": {
+      "syncedAt": "2026-09-04T20:46:13.170Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-tCBcA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.31:Motrix-2.0.0-beta.31-arm64.zip": {
+      "syncedAt": "2026-09-04T20:46:22.228Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-a7ocA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.31:Motrix-2.0.0-beta.31-win.zip": {
+      "syncedAt": "2026-09-04T20:46:55.813Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-iCBcA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.31:Motrix-2.0.0-beta.31-x64.dmg": {
+      "syncedAt": "2026-09-04T20:47:31.077Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-8ONeA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.31:Motrix-2.0.0-beta.31-x64.zip": {
+      "syncedAt": "2026-09-04T20:48:04.790Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-PgueA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.31:Motrix-2.0.0-beta.31-x86_64.AppImage": {
+      "syncedAt": "2026-09-04T20:48:40.606Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-LCBcA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.31:Motrix-2.0.0-beta.31-x86_64.AppImage.zsync": {
+      "syncedAt": "2026-09-04T20:48:46.239Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-vgheA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.31:Motrix-2.0.0-beta.31.aarch64.rpm": {
+      "syncedAt": "2026-09-04T20:49:18.658Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-0ONeA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.31:Motrix-2.0.0-beta.31.x86_64.rpm": {
+      "syncedAt": "2026-09-04T20:49:53.263Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-eoeeA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.31:Motrix-Native-Host-2.0.0-beta.31-linux-arm64.tar.gz": {
+      "syncedAt": "2026-09-04T18:21:00.027Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-FgueA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.31:Motrix-Native-Host-2.0.0-beta.31-linux-x64.tar.gz": {
+      "syncedAt": "2026-09-04T18:21:06.532Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-CkNcA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.31:Motrix-Setup-2.0.0-beta.31.exe": {
+      "syncedAt": "2026-09-04T20:50:26.946Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-pomeA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.31:Motrix_2.0.0-beta.31_amd64.deb": {
+      "syncedAt": "2026-09-04T20:51:00.674Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-dgheA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.31:Motrix_2.0.0-beta.31_arm64.deb": {
+      "syncedAt": "2026-09-04T20:51:08.778Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-8kNcA",
+      "status": "synced"
+    },
     "desktop/desktop:release-3.6.5-beta1:GitHub.Desktop-3.6.5-beta1-checksums.txt": {
       "syncedAt": "2026-08-22T06:54:06.830Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-gh6ZA",
@@ -1034,6 +1114,41 @@
     },
     "desktop/desktop:release-3.6.5-beta2:GitHubDesktopSetup-x64.msi": {
       "syncedAt": "2026-09-02T21:13:15.523Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-ttYZA",
+      "status": "synced"
+    },
+    "desktop/desktop:release-3.6.5:GitHub.Desktop-3.6.5-checksums.txt": {
+      "syncedAt": "2026-09-04T11:19:52.452Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-CONeA",
+      "status": "synced"
+    },
+    "desktop/desktop:release-3.6.5:GitHub.Desktop-arm64.zip": {
+      "syncedAt": "2026-09-04T20:52:05.375Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-qFYbA",
+      "status": "synced"
+    },
+    "desktop/desktop:release-3.6.5:GitHub.Desktop-x64.zip": {
+      "syncedAt": "2026-09-04T20:52:42.065Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-r8CZA",
+      "status": "synced"
+    },
+    "desktop/desktop:release-3.6.5:GitHubDesktop-3.6.5-x64-delta.nupkg": {
+      "syncedAt": "2026-09-04T11:51:47.057Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-RN6cA",
+      "status": "synced"
+    },
+    "desktop/desktop:release-3.6.5:GitHubDesktop-3.6.5-x64-full.nupkg": {
+      "syncedAt": "2026-09-04T20:53:17.238Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-aomeA",
+      "status": "synced"
+    },
+    "desktop/desktop:release-3.6.5:GitHubDesktopSetup-x64.exe": {
+      "syncedAt": "2026-09-04T12:07:05.887Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-XkNcA",
+      "status": "synced"
+    },
+    "desktop/desktop:release-3.6.5:GitHubDesktopSetup-x64.msi": {
+      "syncedAt": "2026-09-04T20:53:53.106Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-ttYZA",
       "status": "synced"
     },
@@ -3097,6 +3212,31 @@
       "shareUrl": "https://www.123pan.com/s/zsClvd-FoeeA",
       "status": "synced"
     },
+    "microsoft/PowerToys:v0.101.2453.0:GroupPolicyObjectFiles-0.101.2453.0.zip": {
+      "syncedAt": "2026-09-04T17:34:46.069Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-lCBcA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.101.2453.0:PowerToysSetup-0.101.2453.0-arm64.exe": {
+      "syncedAt": "2026-09-04T18:39:53.214Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-xomeA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.101.2453.0:PowerToysSetup-0.101.2453.0-x64.exe": {
+      "syncedAt": "2026-09-04T21:05:13.910Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-TNBcA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.101.2453.0:PowerToysUserSetup-0.101.2453.0-arm64.exe": {
+      "syncedAt": "2026-09-04T18:41:16.198Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-RkNcA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.101.2453.0:PowerToysUserSetup-0.101.2453.0-x64.exe": {
+      "syncedAt": "2026-09-04T18:41:47.269Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-RONeA",
+      "status": "synced"
+    },
     "ollama/ollama:v0.33.0-rc2:Ollama-darwin.zip": {
       "syncedAt": "2026-08-22T20:21:22.266Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-aQeeA",
@@ -3537,9 +3677,39 @@
       "shareUrl": "https://www.123pan.com/s/zsClvd-gV6eA",
       "status": "synced"
     },
+    "ollama/ollama:v0.33.3:Ollama-darwin.zip": {
+      "syncedAt": "2026-09-04T10:42:42.318Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-aQeeA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.33.3:Ollama.dmg": {
+      "syncedAt": "2026-09-04T10:47:12.580Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-EomeA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.33.3:OllamaSetup.exe": {
+      "syncedAt": "2026-09-04T10:47:48.627Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-H66eA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.33.3:ollama-darwin.tgz": {
+      "syncedAt": "2026-09-04T10:42:12.081Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-s26cA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.33.3:ollama-linux-amd64-mlx.tar.zst": {
+      "syncedAt": "2026-09-04T10:43:45.385Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-d9meA",
+      "status": "synced"
+    },
     "ollama/ollama:v0.33.3:ollama-linux-amd64-rocm.tar.zst": {
       "syncedAt": "2026-09-03T21:10:56.839Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-cwheA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.33.3:ollama-linux-amd64.tar.zst": {
+      "syncedAt": "2026-09-04T10:44:20.565Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-LBheA",
       "status": "synced"
     },
     "ollama/ollama:v0.33.3:ollama-linux-arm64-jetpack5.tar.zst": {
@@ -3550,6 +3720,31 @@
     "ollama/ollama:v0.33.3:ollama-linux-arm64-jetpack6.tar.zst": {
       "syncedAt": "2026-09-03T21:14:44.300Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-6j6eA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.33.3:ollama-linux-arm64.tar.zst": {
+      "syncedAt": "2026-09-04T10:44:45.139Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-0CBcA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.33.3:ollama-windows-amd64-mlx.zip": {
+      "syncedAt": "2026-09-04T10:45:27.521Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-JQeeA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.33.3:ollama-windows-amd64-rocm.zip": {
+      "syncedAt": "2026-09-04T10:45:58.973Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-UUGeA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.33.3:ollama-windows-amd64.zip": {
+      "syncedAt": "2026-09-04T10:46:33.707Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-ZsNeA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.33.3:ollama-windows-arm64.zip": {
+      "syncedAt": "2026-09-04T10:47:04.948Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-5BheA",
       "status": "synced"
     },
     "ollama/ollama:v0.33.3:sha256sum.txt": {
