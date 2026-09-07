@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-06T02:30:15.928634+00:00",
-  "recordCount": 810,
+  "generatedAt": "2026-09-07T02:27:28.357005+00:00",
+  "recordCount": 818,
   "records": {
     "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.AppImage": {
       "syncedAt": "2026-08-22T07:14:26.809Z",
@@ -3830,6 +3830,46 @@
     "ollama/ollama:v0.33.3:sha256sum.txt": {
       "syncedAt": "2026-09-03T21:32:33.661Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-twheA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.34.0-rc1:Ollama.dmg": {
+      "syncedAt": "2026-09-06T21:02:38.982Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-bIueA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.34.0-rc1:OllamaSetup.exe": {
+      "syncedAt": "2026-09-06T21:03:06.305Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-eomeA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.34.0-rc1:ollama-linux-amd64-rocm.tar.zst": {
+      "syncedAt": "2026-09-06T05:29:39.174Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-1meeA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.34.0-rc1:ollama-linux-arm64-jetpack6.tar.zst": {
+      "syncedAt": "2026-09-06T06:01:00.109Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-6ONeA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.34.0-rc1:ollama-windows-amd64-rocm.zip": {
+      "syncedAt": "2026-09-06T21:00:42.955Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-UUGeA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.34.0-rc1:ollama-windows-amd64.zip": {
+      "syncedAt": "2026-09-06T21:01:27.802Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-ZsNeA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.34.0-rc1:ollama-windows-arm64.zip": {
+      "syncedAt": "2026-09-06T21:02:02.931Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-5BheA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.34.0-rc1:sha256sum.txt": {
+      "syncedAt": "2026-09-06T07:50:28.207Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-mNBcA",
       "status": "synced"
     },
     "wez/wezterm:20240203-110809-5046fc22:WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage": {
