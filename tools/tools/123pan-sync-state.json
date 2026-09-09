@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-09T02:40:38.398919+00:00",
-  "recordCount": 893,
+  "generatedAt": "2026-09-09T17:59:33.244183+00:00",
+  "recordCount": 905,
   "records": {
     "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.AppImage": {
       "syncedAt": "2026-08-22T07:14:26.809Z",
@@ -162,9 +162,29 @@
       "shareUrl": "https://www.123pan.com/s/zsClvd-lO6cA",
       "status": "synced"
     },
+    "PowerShell/PowerShell:v7.4.20:PowerShell-7.4.20-win-x64.zip": {
+      "syncedAt": "2026-09-09T09:55:26.419Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-sRNeA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.4.20:PowerShell-7.4.20-win-x86.msi": {
+      "syncedAt": "2026-09-09T09:55:57.404Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-ONBcA",
+      "status": "synced"
+    },
     "PowerShell/PowerShell:v7.4.20:PowerShell-7.4.20-win-x86.zip": {
       "syncedAt": "2026-09-08T21:34:33.996Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-QbocA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.4.20:PowerShell-7.4.20.msixbundle": {
+      "syncedAt": "2026-09-09T09:56:05.150Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-DoNcA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.4.20:PowerShell-LTS-7.4.20.msixbundle": {
+      "syncedAt": "2026-09-09T09:57:35.824Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-gmmeA",
       "status": "synced"
     },
     "PowerShell/PowerShell:v7.4.20:hashes.sha256": {
@@ -180,6 +200,11 @@
     "PowerShell/PowerShell:v7.4.20:powershell-7.4.20-1.cm.x86_64.rpm": {
       "syncedAt": "2026-09-08T21:28:41.015Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-xmmeA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.4.20:powershell-7.4.20-1.rh.x86_64.rpm": {
+      "syncedAt": "2026-09-09T09:54:25.721Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-2RNeA",
       "status": "synced"
     },
     "PowerShell/PowerShell:v7.4.20:powershell-7.4.20-linux-arm32.tar.gz": {
@@ -207,6 +232,11 @@
       "shareUrl": "https://www.123pan.com/s/zsClvd-3bocA",
       "status": "synced"
     },
+    "PowerShell/PowerShell:v7.4.20:powershell-7.4.20-linux-x64.tar.gz": {
+      "syncedAt": "2026-09-09T09:54:55.604Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-GFueA",
+      "status": "synced"
+    },
     "PowerShell/PowerShell:v7.4.20:powershell-7.4.20-osx-arm64.pkg": {
       "syncedAt": "2026-09-08T21:30:51.218Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-gFueA",
@@ -232,6 +262,16 @@
       "shareUrl": "https://www.123pan.com/s/zsClvd-NoNcA",
       "status": "synced"
     },
+    "PowerShell/PowerShell:v7.4.20:powershell-lts-7.4.20-1.cm.x86_64.rpm": {
+      "syncedAt": "2026-09-09T09:56:34.699Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-bO6cA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.4.20:powershell-lts-7.4.20-1.rh.x86_64.rpm": {
+      "syncedAt": "2026-09-09T09:57:04.612Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-WRNeA",
+      "status": "synced"
+    },
     "PowerShell/PowerShell:v7.4.20:powershell-lts-7.4.20-osx-arm64.pkg": {
       "syncedAt": "2026-09-08T21:36:37.627Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-UmeeA",
@@ -240,6 +280,11 @@
     "PowerShell/PowerShell:v7.4.20:powershell-lts-7.4.20-osx-x64.pkg": {
       "syncedAt": "2026-09-08T21:36:56.435Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-OoNcA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.4.20:powershell-lts_7.4.20-1.deb_amd64.deb": {
+      "syncedAt": "2026-09-09T09:58:05.765Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-lmeeA",
       "status": "synced"
     },
     "PowerShell/PowerShell:v7.4.20:powershell_7.4.20-1.deb_amd64.deb": {
@@ -1320,6 +1365,11 @@
     "agalwood/Motrix:v2.0.0-beta.35:Motrix-2.0.0-beta.35-aarch64.pacman": {
       "syncedAt": "2026-09-08T21:09:27.761Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-rmeeA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.35:Motrix-2.0.0-beta.35-arm64.AppImage": {
+      "syncedAt": "2026-09-09T04:41:21.435Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-EbocA",
       "status": "synced"
     },
     "agalwood/Motrix:v2.0.0-beta.35:Motrix-2.0.0-beta.35-arm64.AppImage.zsync": {
@@ -3657,6 +3707,11 @@
       "shareUrl": "https://www.123pan.com/s/zsClvd-DTyeA",
       "status": "synced"
     },
+    "microsoft/PowerToys:v0.101.2512.0:GroupPolicyObjectFiles-0.101.2512.0.zip": {
+      "syncedAt": "2026-09-09T12:57:00.602Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-5gheA",
+      "status": "synced"
+    },
     "ollama/ollama:v0.33.0-rc2:Ollama-darwin.zip": {
       "syncedAt": "2026-08-22T20:21:22.266Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-aQeeA",
@@ -4245,6 +4300,11 @@
     "ollama/ollama:v0.34.0-rc1:sha256sum.txt": {
       "syncedAt": "2026-09-06T07:50:28.207Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-mNBcA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.34.0-rc3:sha256sum.txt": {
+      "syncedAt": "2026-09-09T17:41:39.572Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-gV6eA",
       "status": "synced"
     },
     "wez/wezterm:20240203-110809-5046fc22:WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage": {
