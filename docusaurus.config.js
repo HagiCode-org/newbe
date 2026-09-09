@@ -142,7 +142,7 @@ ${is51LADebug ? `console.log('[51LA Analytics] Enabled:', true, 'id:', '***${la5
           customCss: require.resolve('./src/css/custom.css'),
         },
         gtag: {
-          trackingID: 'G-V1E9RK7C36',
+          trackingID: 'G-EN03FMT2Q4',
           anonymizeIP: true,
         },
         sitemap: {
