@@ -18,6 +18,15 @@ mRemoteNG. 国内直接从官网 https://github.com/mRemoteNG/mRemoteNG/ 下载�
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## 20260911-v1.78.2-NB-(3694)
+
+- <GithubMirrorLink link="https://github.com/mRemoteNG/mRemoteNG/releases/download/20260911-v1.78.2-NB-%283694%29/mRemoteNG-20260911-v1.78.2-NB-3695-arm64-FD.zip" text="mRemoteNG-20260911-v1.78.2-NB-3695-arm64-FD.zip" repositoryKey="mRemoteNG/mRemoteNG" />
+- <GithubMirrorLink link="https://github.com/mRemoteNG/mRemoteNG/releases/download/20260911-v1.78.2-NB-%283694%29/mRemoteNG-20260911-v1.78.2-NB-3695-arm64-SC.zip" text="mRemoteNG-20260911-v1.78.2-NB-3695-arm64-SC.zip" repositoryKey="mRemoteNG/mRemoteNG" />
+- <GithubMirrorLink link="https://github.com/mRemoteNG/mRemoteNG/releases/download/20260911-v1.78.2-NB-%283694%29/mRemoteNG-20260911-v1.78.2-NB-3695-x64-FD.zip" text="mRemoteNG-20260911-v1.78.2-NB-3695-x64-FD.zip" repositoryKey="mRemoteNG/mRemoteNG" />
+- <GithubMirrorLink link="https://github.com/mRemoteNG/mRemoteNG/releases/download/20260911-v1.78.2-NB-%283694%29/mRemoteNG-20260911-v1.78.2-NB-3695-x64-SC.zip" text="mRemoteNG-20260911-v1.78.2-NB-3695-x64-SC.zip" repositoryKey="mRemoteNG/mRemoteNG" />
+
+
+
 ## 20260222-v1.78.2-NB-(3405)
 
 - <GithubMirrorLink link="https://github.com/mRemoteNG/mRemoteNG/releases/download/20260222-v1.78.2-NB-%283405%29/mRemoteNG-20260222-v1.78.2-NB-3405-x64-SC.rar" text="mRemoteNG-20260222-v1.78.2-NB-3405-x64-SC.rar" repositoryKey="mRemoteNG/mRemoteNG" />
@@ -167,14 +176,14 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v1.76.12
 
 - <GithubMirrorLink link="https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76.12/mRemoteNG-Installer-1.76.12.38511.msi" text="mRemoteNG-Installer-1.76.12.38511.msi" repositoryKey="mRemoteNG/mRemoteNG" />
 - <GithubMirrorLink link="https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76.12/mRemoteNG-Portable-1.76.12.38568.zip" text="mRemoteNG-Portable-1.76.12.38568.zip" repositoryKey="mRemoteNG/mRemoteNG" />
 - <GithubMirrorLink link="https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76.12/mRemoteNG-Portable-symbols-1.76.12.38568.zip" text="mRemoteNG-Portable-symbols-1.76.12.38568.zip" repositoryKey="mRemoteNG/mRemoteNG" />
 - <GithubMirrorLink link="https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76.12/mRemoteNG-symbols-1.76.12.38511.zip" text="mRemoteNG-symbols-1.76.12.38511.zip" repositoryKey="mRemoteNG/mRemoteNG" />
-
-
 
 
 
@@ -252,13 +261,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 - <GithubMirrorLink link="https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76Alpha5/mRemoteNG-Installer-1.76.3.32942.msi" text="mRemoteNG-Installer-1.76.3.32942.msi" repositoryKey="mRemoteNG/mRemoteNG" />
 - <GithubMirrorLink link="https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76Alpha5/mRemoteNG-Portable-1.76.3.32991.zip" text="mRemoteNG-Portable-1.76.3.32991.zip" repositoryKey="mRemoteNG/mRemoteNG" />
-
-
-
-## v1.76Alpha4
-
-- <GithubMirrorLink link="https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76Alpha4/mRemoteNG-Installer-1.76.2.14923.msi" text="mRemoteNG-Installer-1.76.2.14923.msi" repositoryKey="mRemoteNG/mRemoteNG" />
-- <GithubMirrorLink link="https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76Alpha4/mRemoteNG-Portable-1.76.2.14965.zip" text="mRemoteNG-Portable-1.76.2.14965.zip" repositoryKey="mRemoteNG/mRemoteNG" />
 
 
 
