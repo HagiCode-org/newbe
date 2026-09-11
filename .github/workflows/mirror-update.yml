@@ -44,6 +44,9 @@ jobs:
         working-directory: ${{ github.workspace }}/tools
         env:
           FULL_REFRESH: ${{ inputs.full_refresh || false }}
+          # Authenticate the GitHub API so the unauthenticated 60/hr rate limit
+          # no longer truncates/blanks generated mirror docs mid-run.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           if [ "$FULL_REFRESH" = "true" ]; then
             echo "Running full mirror refresh from GitHub releases and manifests."
