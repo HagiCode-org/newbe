@@ -52,6 +52,21 @@ MIRROR_DEF_JSON_PATH = "mirrorsDef.json"
 GITHUB_REQUEST_HEADERS = {
     "User-Agent": "HagiCode-Mirror-Generator/1.0",
 }
+
+
+def github_api_headers():
+    """Headers for the GitHub releases API, authenticated when a token exists.
+
+    When GITHUB_TOKEN is provided (e.g. by the mirror-update workflow), the
+    request uses the 5000/hr authenticated budget instead of the 60/hr
+    unauthenticated one, so a long mirror run no longer trips rate limits and
+    falls back to the degraded HTML scrape.
+    """
+    headers = dict(GITHUB_REQUEST_HEADERS)
+    token = os.environ.get("GITHUB_TOKEN")
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+    return headers
 MANIFEST_REQUEST_HEADERS = {
     "User-Agent": "HagiCode-Mirror-Manifest/1.0",
     "Accept": "application/json",
@@ -1096,7 +1111,7 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
     github_api_url = f"https://api.github.com/repos/{owner}/{repo}/releases"
     resp = requests.get(
         github_api_url,
-        headers=GITHUB_REQUEST_HEADERS,
+        headers=github_api_headers(),
         timeout=30,
     )
     releases = resp.json()
@@ -1108,12 +1123,35 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
             owner,
             repo,
         )
+        # The GitHub API call failed (e.g. rate limit / auth error). The HTML
+        # scrape is a degraded fallback: it only sees the first releases page and
+        # frequently extracts zero assets, so it must never overwrite a doc that
+        # already has good content. Keep the previous version instead of
+        # blanking or truncating it.
+        if os.path.exists(markdown_path):
+            logger.warning(
+                "GitHub API unavailable for %s/%s; preserving existing %s instead of overwriting with degraded HTML scrape",
+                owner,
+                repo,
+                markdown_path,
+            )
+            remove_hagicode_promo_from_existing_doc(markdown_path)
+            return
         releases = load_github_releases_from_html(owner, repo)
         if not releases:
-            if os.path.exists(markdown_path):
-                remove_hagicode_promo_from_existing_doc(markdown_path)
-                return
             raise RuntimeError(f"Unable to fetch releases for {owner}/{repo} from API or HTML fallback")
+    elif not releases:
+        # GitHub API returned an empty list; never blank an existing doc.
+        if os.path.exists(markdown_path):
+            logger.warning(
+                "GitHub API returned an empty release list for %s/%s; preserving existing %s",
+                owner,
+                repo,
+                markdown_path,
+            )
+            remove_hagicode_promo_from_existing_doc(markdown_path)
+            return
+        raise RuntimeError(f"GitHub API returned no releases for {owner}/{repo}")
     if releases:
         releases = sorted(releases, key=lambda item: item.get('published_at') or '', reverse=True)
 
