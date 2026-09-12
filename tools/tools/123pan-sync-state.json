@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-11T18:31:52.851184+00:00",
-  "recordCount": 967,
+  "generatedAt": "2026-09-12T02:45:13.301829+00:00",
+  "recordCount": 975,
   "records": {
     "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.AppImage": {
       "syncedAt": "2026-08-22T07:14:26.809Z",
@@ -1467,14 +1467,29 @@
       "shareUrl": "https://www.123pan.com/s/zsClvd-hvyeA",
       "status": "synced"
     },
+    "agalwood/Motrix:v2.0.0-beta.36:Motrix-2.0.0-beta.36-arm64.zip": {
+      "syncedAt": "2026-09-11T20:58:53.890Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-SNBcA",
+      "status": "synced"
+    },
     "agalwood/Motrix:v2.0.0-beta.36:Motrix-2.0.0-beta.36-win.zip": {
       "syncedAt": "2026-09-11T16:59:29.865Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-0NBcA",
       "status": "synced"
     },
+    "agalwood/Motrix:v2.0.0-beta.36:Motrix-2.0.0-beta.36-x64.dmg": {
+      "syncedAt": "2026-09-11T20:59:29.894Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-lNBcA",
+      "status": "synced"
+    },
     "agalwood/Motrix:v2.0.0-beta.36:Motrix-2.0.0-beta.36-x64.pacman": {
       "syncedAt": "2026-09-11T17:00:25.899Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-YbocA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.36:Motrix-2.0.0-beta.36-x64.zip": {
+      "syncedAt": "2026-09-11T21:00:05.872Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-7NBcA",
       "status": "synced"
     },
     "agalwood/Motrix:v2.0.0-beta.36:Motrix-2.0.0-beta.36-x86_64.AppImage": {
@@ -1492,9 +1507,29 @@
       "shareUrl": "https://www.123pan.com/s/zsClvd-dFheA",
       "status": "synced"
     },
+    "agalwood/Motrix:v2.0.0-beta.36:Motrix-2.0.0-beta.36.x86_64.rpm": {
+      "syncedAt": "2026-09-11T21:00:43.079Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-DmmeA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.36:Motrix-Native-Host-2.0.0-beta.36-linux-arm64.tar.gz": {
+      "syncedAt": "2026-09-11T21:01:18.758Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-zoNcA",
+      "status": "synced"
+    },
     "agalwood/Motrix:v2.0.0-beta.36:Motrix-Native-Host-2.0.0-beta.36-linux-x64.tar.gz": {
       "syncedAt": "2026-09-11T17:12:41.779Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-KNBcA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.36:Motrix-Setup-2.0.0-beta.36.exe": {
+      "syncedAt": "2026-09-11T21:01:23.918Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-EvyeA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.36:Motrix_2.0.0-beta.36_amd64.deb": {
+      "syncedAt": "2026-09-11T21:02:00.858Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-vR6cA",
       "status": "synced"
     },
     "agalwood/Motrix:v2.0.0-beta.36:Motrix_2.0.0-beta.36_arm64.deb": {
@@ -3660,6 +3695,11 @@
     "marktext/marktext:v0.20.0-rc.2:marktext-win-arm64-0.20.0-rc.2-setup.exe": {
       "syncedAt": "2026-09-11T12:03:42.236Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-NmmeA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.2:marktext-win-arm64-0.20.0-rc.2.zip": {
+      "syncedAt": "2026-09-11T21:07:04.393Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-LRNeA",
       "status": "synced"
     },
     "marktext/marktext:v0.20.0-rc.2:marktext-win-x64-0.20.0-rc.2-setup.exe": {
