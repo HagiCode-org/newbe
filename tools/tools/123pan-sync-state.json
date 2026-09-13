@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-12T02:45:13.301829+00:00",
-  "recordCount": 975,
+  "generatedAt": "2026-09-13T02:43:43.181946+00:00",
+  "recordCount": 976,
   "records": {
     "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.AppImage": {
       "syncedAt": "2026-08-22T07:14:26.809Z",
@@ -1465,6 +1465,11 @@
     "agalwood/Motrix:v2.0.0-beta.36:Motrix-2.0.0-beta.36-arm64.AppImage.zsync": {
       "syncedAt": "2026-09-11T16:28:27.526Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-hvyeA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.36:Motrix-2.0.0-beta.36-arm64.dmg": {
+      "syncedAt": "2026-09-12T04:33:33.993Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-5RNeA",
       "status": "synced"
     },
     "agalwood/Motrix:v2.0.0-beta.36:Motrix-2.0.0-beta.36-arm64.zip": {

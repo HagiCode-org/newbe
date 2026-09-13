@@ -18,6 +18,12 @@ QTTabBar是一款可以让你在Windows资源管理器中使用Tab多标签功�
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v1.6.2
+
+- <GithubMirrorLink link="https://github.com/indiff/qttabbar/releases/download/v1.6.2/QTTabBar.Setup.1.6.2.exe" text="QTTabBar.Setup.1.6.2.exe" repositoryKey="indiff/qttabbar" />
+
+
+
 ## v1.6.1
 
 - <GithubMirrorLink link="https://github.com/indiff/qttabbar/releases/download/v1.6.1/QTTabBar.Setup.1.6.1.exe" text="QTTabBar.Setup.1.6.1.exe" repositoryKey="indiff/qttabbar" />
