@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-13T02:43:43.181946+00:00",
-  "recordCount": 976,
+  "generatedAt": "2026-09-14T02:58:20.293743+00:00",
+  "recordCount": 994,
   "records": {
     "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.AppImage": {
       "syncedAt": "2026-08-22T07:14:26.809Z",
@@ -1540,6 +1540,96 @@
     "agalwood/Motrix:v2.0.0-beta.36:Motrix_2.0.0-beta.36_arm64.deb": {
       "syncedAt": "2026-09-11T17:14:09.019Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-jO6cA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.38:Motrix-2.0.0-beta.38-aarch64.pacman": {
+      "syncedAt": "2026-09-13T16:16:19.827Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-fvyeA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.38:Motrix-2.0.0-beta.38-arm64.AppImage": {
+      "syncedAt": "2026-09-13T16:16:51.756Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-RbocA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.38:Motrix-2.0.0-beta.38-arm64.AppImage.zsync": {
+      "syncedAt": "2026-09-13T12:21:07.087Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-m1eeA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.38:Motrix-2.0.0-beta.38-arm64.dmg": {
+      "syncedAt": "2026-09-13T16:16:58.247Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-SmmeA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.38:Motrix-2.0.0-beta.38-arm64.zip": {
+      "syncedAt": "2026-09-13T16:17:35.217Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-EFheA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.38:Motrix-2.0.0-beta.38-win.zip": {
+      "syncedAt": "2026-09-13T16:19:16.141Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-DbocA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.38:Motrix-2.0.0-beta.38-x64.dmg": {
+      "syncedAt": "2026-09-13T16:20:23.098Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-lmmeA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.38:Motrix-2.0.0-beta.38-x64.pacman": {
+      "syncedAt": "2026-09-13T13:07:15.092Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-vmNcA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.38:Motrix-2.0.0-beta.38-x64.zip": {
+      "syncedAt": "2026-09-13T13:07:39.367Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-KFueA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.38:Motrix-2.0.0-beta.38-x86_64.AppImage": {
+      "syncedAt": "2026-09-13T13:08:06.553Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-4vyeA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.38:Motrix-2.0.0-beta.38-x86_64.AppImage.zsync": {
+      "syncedAt": "2026-09-13T13:08:11.791Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-dmNcA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.38:Motrix-2.0.0-beta.38.aarch64.rpm": {
+      "syncedAt": "2026-09-13T13:08:33.076Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-xvyeA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.38:Motrix-2.0.0-beta.38.x86_64.rpm": {
+      "syncedAt": "2026-09-13T13:08:54.189Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-pvyeA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.38:Motrix-Native-Host-2.0.0-beta.38-linux-arm64.tar.gz": {
+      "syncedAt": "2026-09-13T13:08:59.409Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-uFueA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.38:Motrix-Native-Host-2.0.0-beta.38-linux-x64.tar.gz": {
+      "syncedAt": "2026-09-13T13:09:06.587Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-NbocA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.38:Motrix-Setup-2.0.0-beta.38.exe": {
+      "syncedAt": "2026-09-13T13:09:33.174Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-11eeA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.38:Motrix_2.0.0-beta.38_amd64.deb": {
+      "syncedAt": "2026-09-13T13:09:56.513Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-tNBcA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.38:Motrix_2.0.0-beta.38_arm64.deb": {
+      "syncedAt": "2026-09-13T13:11:19.913Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-iNBcA",
       "status": "synced"
     },
     "desktop/desktop:release-3.6.5-beta1:GitHub.Desktop-3.6.5-beta1-checksums.txt": {
