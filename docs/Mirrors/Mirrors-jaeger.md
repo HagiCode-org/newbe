@@ -44,6 +44,7 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.21.0/jaeger-2.21.0-windows-amd64.zip" text="jaeger-2.21.0-windows-amd64.zip" repositoryKey="jaegertracing/jaeger" />
 - <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.21.0/jaeger-2.21.0-windows-amd64.zip.asc" text="jaeger-2.21.0-windows-amd64.zip.asc" repositoryKey="jaegertracing/jaeger" />
 - <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.21.0/jaeger-2.21.0.sha256sum.txt" text="jaeger-2.21.0.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.21.0/jaeger-SBOM.spdx.json" text="jaeger-SBOM.spdx.json" repositoryKey="jaegertracing/jaeger" />
 - <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.21.0/jaeger-tools-2.21.0-darwin-amd64.sha256sum.txt" text="jaeger-tools-2.21.0-darwin-amd64.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
 - <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.21.0/jaeger-tools-2.21.0-darwin-amd64.tar.gz" text="jaeger-tools-2.21.0-darwin-amd64.tar.gz" repositoryKey="jaegertracing/jaeger" />
 - <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.21.0/jaeger-tools-2.21.0-darwin-amd64.tar.gz.asc" text="jaeger-tools-2.21.0-darwin-amd64.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
