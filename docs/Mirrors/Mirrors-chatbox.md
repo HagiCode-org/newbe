@@ -21,6 +21,11 @@ chatbox. 国内直接从官网 https://github.com/Bin-Huang/chatbox/ 下载比�
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v1.23.3
+
+
+
+
 ## v1.23.2
 
 
@@ -179,6 +184,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v0.10.1
 
 - <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.10.1/Chatbox.CE-0.10.1-amd64.deb" text="Chatbox.CE-0.10.1-amd64.deb" repositoryKey="Bin-Huang/chatbox" />
@@ -199,8 +206,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.10.1/latest-linux.yml" text="latest-linux.yml" repositoryKey="Bin-Huang/chatbox" />
 - <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.10.1/latest-mac.yml" text="latest-mac.yml" repositoryKey="Bin-Huang/chatbox" />
 - <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.10.1/latest.yml" text="latest.yml" repositoryKey="Bin-Huang/chatbox" />
-
-
 
 
 
@@ -381,25 +386,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.5.2/chatbox_x64.app.tar.gz" text="chatbox_x64.app.tar.gz" repositoryKey="Bin-Huang/chatbox" />
 - <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.5.2/chatbox_x64.app.tar.gz.sig" text="chatbox_x64.app.tar.gz.sig" repositoryKey="Bin-Huang/chatbox" />
 - <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.5.2/latest.json" text="latest.json" repositoryKey="Bin-Huang/chatbox" />
-
-
-
-## v0.5.1
-
-- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.5.1/chatbox_0.5.1_aarch64.dmg" text="chatbox_0.5.1_aarch64.dmg" repositoryKey="Bin-Huang/chatbox" />
-- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.5.1/chatbox_0.5.1_amd64.AppImage" text="chatbox_0.5.1_amd64.AppImage" repositoryKey="Bin-Huang/chatbox" />
-- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.5.1/chatbox_0.5.1_amd64.AppImage.tar.gz" text="chatbox_0.5.1_amd64.AppImage.tar.gz" repositoryKey="Bin-Huang/chatbox" />
-- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.5.1/chatbox_0.5.1_amd64.AppImage.tar.gz.sig" text="chatbox_0.5.1_amd64.AppImage.tar.gz.sig" repositoryKey="Bin-Huang/chatbox" />
-- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.5.1/chatbox_0.5.1_amd64.deb" text="chatbox_0.5.1_amd64.deb" repositoryKey="Bin-Huang/chatbox" />
-- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.5.1/chatbox_0.5.1_x64.dmg" text="chatbox_0.5.1_x64.dmg" repositoryKey="Bin-Huang/chatbox" />
-- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.5.1/chatbox_0.5.1_x64_en-US.msi" text="chatbox_0.5.1_x64_en-US.msi" repositoryKey="Bin-Huang/chatbox" />
-- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.5.1/chatbox_0.5.1_x64_en-US.msi.zip" text="chatbox_0.5.1_x64_en-US.msi.zip" repositoryKey="Bin-Huang/chatbox" />
-- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.5.1/chatbox_0.5.1_x64_en-US.msi.zip.sig" text="chatbox_0.5.1_x64_en-US.msi.zip.sig" repositoryKey="Bin-Huang/chatbox" />
-- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.5.1/chatbox_aarch64.app.tar.gz" text="chatbox_aarch64.app.tar.gz" repositoryKey="Bin-Huang/chatbox" />
-- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.5.1/chatbox_aarch64.app.tar.gz.sig" text="chatbox_aarch64.app.tar.gz.sig" repositoryKey="Bin-Huang/chatbox" />
-- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.5.1/chatbox_x64.app.tar.gz" text="chatbox_x64.app.tar.gz" repositoryKey="Bin-Huang/chatbox" />
-- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.5.1/chatbox_x64.app.tar.gz.sig" text="chatbox_x64.app.tar.gz.sig" repositoryKey="Bin-Huang/chatbox" />
-- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.5.1/latest.json" text="latest.json" repositoryKey="Bin-Huang/chatbox" />
 
 
 

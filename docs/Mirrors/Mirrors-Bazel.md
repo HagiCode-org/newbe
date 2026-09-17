@@ -565,10 +565,6 @@ Bazel. 国内直接从官网 https://bazel.build 下载比较困难，需要一�
 
 
 
-
-
-
-
 ## 8.3
 
 - [8.3.0](https://mirrors.huaweicloud.com/bazel/8.3.0/)
@@ -578,6 +574,10 @@ Bazel. 国内直接从官网 https://bazel.build 下载比较困难，需要一�
 - [8.3.1](https://mirrors.huaweicloud.com/bazel/8.3.1/)
 - [8.3.1rc1](https://mirrors.huaweicloud.com/bazel/8.3.1rc1/)
 - [8.3.1rc2](https://mirrors.huaweicloud.com/bazel/8.3.1rc2/)
+
+
+
+
 
 
 
@@ -669,6 +669,12 @@ Bazel. 国内直接从官网 https://bazel.build 下载比较困难，需要一�
 - [9.2.0](https://mirrors.huaweicloud.com/bazel/9.2.0/)
 - [9.2.0rc1](https://mirrors.huaweicloud.com/bazel/9.2.0rc1/)
 - [9.2.0rc2](https://mirrors.huaweicloud.com/bazel/9.2.0rc2/)
+
+
+
+## 9.3
+
+- [9.3.0rc1](https://mirrors.huaweicloud.com/bazel/9.3.0rc1/)
 
 
 
