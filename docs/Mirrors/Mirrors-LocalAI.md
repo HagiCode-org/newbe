@@ -20,15 +20,27 @@ LocalAI 是一个开源 AI 引擎，目标是在本地硬件上运行大语言�
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v4.10.0
+
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.10.0/local-ai-launcher-linux.tar.xz" text="local-ai-launcher-linux.tar.xz" repositoryKey="mudler/LocalAI" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-4YueA", "paidShareUrl": null, "isLatest": true, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-09-17T21:37:25.007Z"}]} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.10.0/local-ai-v4.10.0-darwin-arm64" text="local-ai-v4.10.0-darwin-arm64" repositoryKey="mudler/LocalAI" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-x1meA", "paidShareUrl": null, "isLatest": true, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-09-17T21:38:01.577Z"}]} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.10.0/local-ai-v4.10.0-linux-amd64" text="local-ai-v4.10.0-linux-amd64" repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.10.0/local-ai-v4.10.0-linux-arm64" text="local-ai-v4.10.0-linux-arm64" repositoryKey="mudler/LocalAI" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-DR6cA", "paidShareUrl": null, "isLatest": true, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-09-17T21:40:55.129Z"}]} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.10.0/LocalAI-v4.10.0-checksums.txt" text="LocalAI-v4.10.0-checksums.txt" repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.10.0/LocalAI-v4.10.0-source.tar.gz" text="LocalAI-v4.10.0-source.tar.gz" repositoryKey="mudler/LocalAI" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-ElhtA", "paidShareUrl": null, "isLatest": true, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-09-17T21:41:16.060Z"}]} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.10.0/LocalAI.dmg" text="LocalAI.dmg" repositoryKey="mudler/LocalAI" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-IDNeA", "paidShareUrl": null, "isLatest": true, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-09-17T21:41:28.277Z"}]} />
+
+
+
 ## v4.9.0
 
-- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.9.0/local-ai-launcher-linux.tar.xz" text="local-ai-launcher-linux.tar.xz" repositoryKey="mudler/LocalAI" />
-- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.9.0/local-ai-v4.9.0-darwin-arm64" text="local-ai-v4.9.0-darwin-arm64" repositoryKey="mudler/LocalAI" />
-- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.9.0/local-ai-v4.9.0-linux-amd64" text="local-ai-v4.9.0-linux-amd64" repositoryKey="mudler/LocalAI" />
-- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.9.0/local-ai-v4.9.0-linux-arm64" text="local-ai-v4.9.0-linux-arm64" repositoryKey="mudler/LocalAI" />
-- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.9.0/LocalAI-v4.9.0-checksums.txt" text="LocalAI-v4.9.0-checksums.txt" repositoryKey="mudler/LocalAI" />
-- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.9.0/LocalAI-v4.9.0-source.tar.gz" text="LocalAI-v4.9.0-source.tar.gz" repositoryKey="mudler/LocalAI" />
-- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.9.0/LocalAI.dmg" text="LocalAI.dmg" repositoryKey="mudler/LocalAI" />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.9.0/local-ai-launcher-linux.tar.xz" text="local-ai-launcher-linux.tar.xz" repositoryKey="mudler/LocalAI" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-bJueA", "paidShareUrl": "https://1858137822.share.123pan.cn/123pan/zsClvd-GIueA", "isLatest": false, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-08-22T09:19:13.807Z"}]} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.9.0/local-ai-v4.9.0-darwin-arm64" text="local-ai-v4.9.0-darwin-arm64" repositoryKey="mudler/LocalAI" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-PIueA", "paidShareUrl": "https://1858137822.share.123pan.cn/123pan/zsClvd-ky6eA", "isLatest": false, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-08-22T09:19:20.938Z"}]} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.9.0/local-ai-v4.9.0-linux-amd64" text="local-ai-v4.9.0-linux-amd64" repositoryKey="mudler/LocalAI" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-fQeeA", "paidShareUrl": "https://1858137822.share.123pan.cn/123pan/zsClvd-LWNeA", "isLatest": false, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-08-22T09:19:47.549Z"}]} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.9.0/local-ai-v4.9.0-linux-arm64" text="local-ai-v4.9.0-linux-arm64" repositoryKey="mudler/LocalAI" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-H2BcA", "paidShareUrl": "https://1858137822.share.123pan.cn/123pan/zsClvd-5WNeA", "isLatest": false, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-08-22T09:20:14.261Z"}]} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.9.0/LocalAI-v4.9.0-checksums.txt" text="LocalAI-v4.9.0-checksums.txt" repositoryKey="mudler/LocalAI" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-e9meA", "paidShareUrl": "https://1858137822.share.123pan.cn/123pan/zsClvd-bJheA", "isLatest": false, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-08-22T09:20:38.794Z"}]} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.9.0/LocalAI-v4.9.0-source.tar.gz" text="LocalAI-v4.9.0-source.tar.gz" repositoryKey="mudler/LocalAI" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-j26cA", "paidShareUrl": "https://1858137822.share.123pan.cn/123pan/zsClvd-DQmeA", "isLatest": false, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-08-22T09:21:03.449Z"}]} />
+- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.9.0/LocalAI.dmg" text="LocalAI.dmg" repositoryKey="mudler/LocalAI" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-dsBcA", "paidShareUrl": "https://1858137822.share.123pan.cn/123pan/zsClvd-fUocA", "isLatest": false, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-08-22T09:21:07.965Z"}]} />
 
 
 
@@ -242,6 +254,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v4.3.6
 
 - <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.3.6/local-ai-launcher-linux.tar.xz" text="local-ai-launcher-linux.tar.xz" repositoryKey="mudler/LocalAI" />
@@ -251,8 +265,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.3.6/LocalAI-v4.3.6-checksums.txt" text="LocalAI-v4.3.6-checksums.txt" repositoryKey="mudler/LocalAI" />
 - <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.3.6/LocalAI-v4.3.6-source.tar.gz" text="LocalAI-v4.3.6-source.tar.gz" repositoryKey="mudler/LocalAI" />
 - <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.3.6/LocalAI.dmg" text="LocalAI.dmg" repositoryKey="mudler/LocalAI" />
-
-
 
 
 
@@ -356,18 +368,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.2.4/LocalAI-v4.2.4-checksums.txt" text="LocalAI-v4.2.4-checksums.txt" repositoryKey="mudler/LocalAI" />
 - <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.2.4/LocalAI-v4.2.4-source.tar.gz" text="LocalAI-v4.2.4-source.tar.gz" repositoryKey="mudler/LocalAI" />
 - <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.2.4/LocalAI.dmg" text="LocalAI.dmg" repositoryKey="mudler/LocalAI" />
-
-
-
-## v4.2.3
-
-- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.2.3/local-ai-launcher-linux.tar.xz" text="local-ai-launcher-linux.tar.xz" repositoryKey="mudler/LocalAI" />
-- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.2.3/local-ai-v4.2.3-darwin-arm64" text="local-ai-v4.2.3-darwin-arm64" repositoryKey="mudler/LocalAI" />
-- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.2.3/local-ai-v4.2.3-linux-amd64" text="local-ai-v4.2.3-linux-amd64" repositoryKey="mudler/LocalAI" />
-- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.2.3/local-ai-v4.2.3-linux-arm64" text="local-ai-v4.2.3-linux-arm64" repositoryKey="mudler/LocalAI" />
-- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.2.3/LocalAI-v4.2.3-checksums.txt" text="LocalAI-v4.2.3-checksums.txt" repositoryKey="mudler/LocalAI" />
-- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.2.3/LocalAI-v4.2.3-source.tar.gz" text="LocalAI-v4.2.3-source.tar.gz" repositoryKey="mudler/LocalAI" />
-- <GithubMirrorLink link="https://github.com/mudler/LocalAI/releases/download/v4.2.3/LocalAI.dmg" text="LocalAI.dmg" repositoryKey="mudler/LocalAI" />
 
 
 
