@@ -675,6 +675,7 @@ Bazel. 国内直接从官网 https://bazel.build 下载比较困难，需要一�
 ## 9.3
 
 - [9.3.0rc1](https://mirrors.huaweicloud.com/bazel/9.3.0rc1/)
+- [9.3.0rc2](https://mirrors.huaweicloud.com/bazel/9.3.0rc2/)
 
 
 

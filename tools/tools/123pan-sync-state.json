@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-18T02:47:53.772831+00:00",
-  "recordCount": 1126,
+  "generatedAt": "2026-09-19T02:46:37.234882+00:00",
+  "recordCount": 1146,
   "records": {
     "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.AppImage": {
       "syncedAt": "2026-08-22T07:14:26.809Z",
@@ -2030,6 +2030,21 @@
     "desktop/desktop:release-3.6.7-beta1:GitHubDesktopSetup-x64.msi": {
       "syncedAt": "2026-09-16T17:05:51.390Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-dYueA",
+      "status": "synced"
+    },
+    "desktop/desktop:release-3.6.7-beta2:GitHub.Desktop-arm64.zip": {
+      "syncedAt": "2026-09-18T20:54:48.510Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-aOBcA",
+      "status": "synced"
+    },
+    "desktop/desktop:release-3.6.7-beta2:GitHub.Desktop-x64.zip": {
+      "syncedAt": "2026-09-18T20:55:55.542Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-YDNeA",
+      "status": "synced"
+    },
+    "desktop/desktop:release-3.6.7-beta2:GitHubDesktop-3.6.7-beta2-x64-delta.nupkg": {
+      "syncedAt": "2026-09-18T20:57:22.985Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-mlhtA",
       "status": "synced"
     },
     "go-gitea/gitea:v1.27.2:gitea-1.27.2-darwin-10.12-amd64": {
@@ -4332,6 +4347,41 @@
       "shareUrl": "https://www.123pan.com/s/zsClvd-ygheA",
       "status": "synced"
     },
+    "microsoft/PowerToys:v0.101.2572.0:GroupPolicyObjectFiles-0.101.2572.0.zip": {
+      "syncedAt": "2026-09-15T17:29:37.917Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-EOBcA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.101.2572.0:PowerToysSetup-0.101.2572.0-arm64.exe": {
+      "syncedAt": "2026-09-15T21:33:03.615Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-31meA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.101.2572.0:PowerToysSetup-0.101.2572.0-x64.exe": {
+      "syncedAt": "2026-09-15T21:33:37.087Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-qShtA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.101.2572.0:PowerToysUserSetup-0.101.2572.0-arm64.exe": {
+      "syncedAt": "2026-09-15T21:34:13.031Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-6ShtA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.101.2572.0:PowerToysUserSetup-0.101.2572.0-x64.exe": {
+      "syncedAt": "2026-09-15T21:34:44.065Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-BmNcA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.101.2601.0:GroupPolicyObjectFiles-0.101.2601.0.zip": {
+      "syncedAt": "2026-09-18T17:02:41.509Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-FDNeA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v4.10.0:LocalAI-v4.10.0-checksums.txt": {
+      "syncedAt": "2026-09-18T05:23:56.864Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-klhtA",
+      "status": "synced"
+    },
     "mudler/LocalAI:v4.10.0:LocalAI-v4.10.0-source.tar.gz": {
       "syncedAt": "2026-09-17T21:41:16.060Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-ElhtA",
@@ -4350,6 +4400,11 @@
     "mudler/LocalAI:v4.10.0:local-ai-v4.10.0-darwin-arm64": {
       "syncedAt": "2026-09-17T21:38:01.577Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-x1meA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v4.10.0:local-ai-v4.10.0-linux-amd64": {
+      "syncedAt": "2026-09-18T05:23:29.380Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-B1meA",
       "status": "synced"
     },
     "mudler/LocalAI:v4.10.0:local-ai-v4.10.0-linux-arm64": {
@@ -5410,6 +5465,51 @@
     "ollama/ollama:v0.34.2-rc3:ollama-linux-arm64-jetpack6.tar.zst": {
       "syncedAt": "2026-09-17T21:51:53.732Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-CFheA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.34.2:Ollama-darwin.zip": {
+      "syncedAt": "2026-09-18T21:34:44.696Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-rFheA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.34.2:Ollama.dmg": {
+      "syncedAt": "2026-09-18T22:03:28.061Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-PDNeA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.34.2:OllamaSetup.exe": {
+      "syncedAt": "2026-09-18T05:58:24.692Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-OFheA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.34.2:ollama-darwin.tgz": {
+      "syncedAt": "2026-09-18T21:31:12.619Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-fYueA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.34.2:ollama-linux-amd64-rocm.tar.zst": {
+      "syncedAt": "2026-09-18T05:34:40.701Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-CmNcA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.34.2:ollama-linux-arm64-jetpack5.tar.zst": {
+      "syncedAt": "2026-09-18T05:38:09.574Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-6bocA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.34.2:ollama-linux-arm64-jetpack6.tar.zst": {
+      "syncedAt": "2026-09-18T05:38:15.464Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-NmNcA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.34.2:ollama-windows-arm64.zip": {
+      "syncedAt": "2026-09-18T21:59:20.012Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-VbocA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.34.2:sha256sum.txt": {
+      "syncedAt": "2026-09-18T12:27:32.548Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-gV6eA",
       "status": "synced"
     },
     "wez/wezterm:20240203-110809-5046fc22:WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage": {
