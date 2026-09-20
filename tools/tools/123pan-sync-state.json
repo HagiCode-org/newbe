@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-19T02:46:37.234882+00:00",
-  "recordCount": 1146,
+  "generatedAt": "2026-09-20T02:58:34.462669+00:00",
+  "recordCount": 1185,
   "records": {
     "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.AppImage": {
       "syncedAt": "2026-08-22T07:14:26.809Z",
@@ -2032,6 +2032,11 @@
       "shareUrl": "https://www.123pan.com/s/zsClvd-dYueA",
       "status": "synced"
     },
+    "desktop/desktop:release-3.6.7-beta2:GitHub.Desktop-3.6.7-beta2-checksums.txt": {
+      "syncedAt": "2026-09-19T04:37:02.614Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-XDNeA",
+      "status": "synced"
+    },
     "desktop/desktop:release-3.6.7-beta2:GitHub.Desktop-arm64.zip": {
       "syncedAt": "2026-09-18T20:54:48.510Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-aOBcA",
@@ -2042,9 +2047,44 @@
       "shareUrl": "https://www.123pan.com/s/zsClvd-YDNeA",
       "status": "synced"
     },
+    "desktop/desktop:release-3.6.7-beta2:GitHubDesktop-3.6.7-beta2-arm64-delta.nupkg": {
+      "syncedAt": "2026-09-19T04:37:38.716Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-uR6cA",
+      "status": "synced"
+    },
+    "desktop/desktop:release-3.6.7-beta2:GitHubDesktop-3.6.7-beta2-arm64-full.nupkg": {
+      "syncedAt": "2026-09-19T04:38:14.428Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-jbocA",
+      "status": "synced"
+    },
     "desktop/desktop:release-3.6.7-beta2:GitHubDesktop-3.6.7-beta2-x64-delta.nupkg": {
       "syncedAt": "2026-09-18T20:57:22.985Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-mlhtA",
+      "status": "synced"
+    },
+    "desktop/desktop:release-3.6.7-beta2:GitHubDesktop-3.6.7-beta2-x64-full.nupkg": {
+      "syncedAt": "2026-09-19T04:38:50.059Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-TZocA",
+      "status": "synced"
+    },
+    "desktop/desktop:release-3.6.7-beta2:GitHubDesktopSetup-arm64.exe": {
+      "syncedAt": "2026-09-19T04:38:55.768Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-IOBcA",
+      "status": "synced"
+    },
+    "desktop/desktop:release-3.6.7-beta2:GitHubDesktopSetup-arm64.msi": {
+      "syncedAt": "2026-09-19T04:39:31.503Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-cbocA",
+      "status": "synced"
+    },
+    "desktop/desktop:release-3.6.7-beta2:GitHubDesktopSetup-x64.exe": {
+      "syncedAt": "2026-09-19T04:40:07.638Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-WQeeA",
+      "status": "synced"
+    },
+    "desktop/desktop:release-3.6.7-beta2:GitHubDesktopSetup-x64.msi": {
+      "syncedAt": "2026-09-19T04:40:43.216Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-dYueA",
       "status": "synced"
     },
     "go-gitea/gitea:v1.27.2:gitea-1.27.2-darwin-10.12-amd64": {
@@ -4147,6 +4187,126 @@
       "shareUrl": "https://www.123pan.com/s/zsClvd-LFueA",
       "status": "synced"
     },
+    "marktext/marktext:v0.20.0-rc.4:SHA256SUMS.txt": {
+      "syncedAt": "2026-09-17T18:00:26.660Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-4FheA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.4:marktext-linux-0.20.0-rc.4.AppImage": {
+      "syncedAt": "2026-09-17T21:35:23.132Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-RR6cA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.4:marktext-linux-0.20.0-rc.4.deb": {
+      "syncedAt": "2026-09-17T17:44:34.151Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-21eeA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.4:marktext-linux-0.20.0-rc.4.rpm": {
+      "syncedAt": "2026-09-17T17:47:01.910Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-PFheA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.4:marktext-linux-0.20.0-rc.4.snap": {
+      "syncedAt": "2026-09-17T17:47:31.886Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-XFheA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.4:marktext-linux-0.20.0-rc.4.tar.gz": {
+      "syncedAt": "2026-09-17T21:36:00.105Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-2mNcA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.4:marktext-mac-arm64-0.20.0-rc.4.dmg": {
+      "syncedAt": "2026-09-17T21:36:33.579Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-sFheA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.4:marktext-mac-arm64-0.20.0-rc.4.zip": {
+      "syncedAt": "2026-09-17T17:53:50.322Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-nFheA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.4:marktext-mac-x64-0.20.0-rc.4.dmg": {
+      "syncedAt": "2026-09-17T17:54:21.333Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-o1meA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.4:marktext-mac-x64-0.20.0-rc.4.zip": {
+      "syncedAt": "2026-09-17T17:56:51.080Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-mYueA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.4:marktext-win-arm64-0.20.0-rc.4-setup.exe": {
+      "syncedAt": "2026-09-17T17:57:19.336Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-XmNcA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.4:marktext-win-arm64-0.20.0-rc.4.zip": {
+      "syncedAt": "2026-09-17T17:58:53.107Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-fOBcA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.4:marktext-win-x64-0.20.0-rc.4-setup.exe": {
+      "syncedAt": "2026-09-17T17:59:20.316Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-m1meA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.4:marktext-win-x64-0.20.0-rc.4.zip": {
+      "syncedAt": "2026-09-17T17:59:52.500Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-2FheA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.5:marktext-linux-0.20.0-rc.5.AppImage": {
+      "syncedAt": "2026-09-19T20:45:28.063Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-sDNeA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.5:marktext-linux-0.20.0-rc.5.deb": {
+      "syncedAt": "2026-09-19T20:45:55.893Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-DmNcA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.5:marktext-linux-0.20.0-rc.5.rpm": {
+      "syncedAt": "2026-09-19T20:46:17.482Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-w1meA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.5:marktext-linux-0.20.0-rc.5.snap": {
+      "syncedAt": "2026-09-19T20:46:48.444Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-g1meA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.5:marktext-linux-0.20.0-rc.5.tar.gz": {
+      "syncedAt": "2026-09-19T20:47:22.251Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-UR6cA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.5:marktext-mac-arm64-0.20.0-rc.5.dmg": {
+      "syncedAt": "2026-09-19T20:47:49.220Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-0FheA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.5:marktext-mac-x64-0.20.0-rc.5.dmg": {
+      "syncedAt": "2026-09-19T20:48:50.661Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-1lhtA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.5:marktext-mac-x64-0.20.0-rc.5.zip": {
+      "syncedAt": "2026-09-19T20:49:19.593Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-WDNeA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.5:marktext-win-arm64-0.20.0-rc.5-setup.exe": {
+      "syncedAt": "2026-09-19T20:49:45.911Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-CDNeA",
+      "status": "synced"
+    },
+    "marktext/marktext:v0.20.0-rc.5:marktext-win-x64-0.20.0-rc.5.zip": {
+      "syncedAt": "2026-09-19T20:51:19.604Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-MOBcA",
+      "status": "synced"
+    },
     "microsoft/PowerToys:v0.101.2323.0:GroupPolicyObjectFiles-0.101.2323.0.zip": {
       "syncedAt": "2026-08-22T09:16:43.560Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-HJheA",
@@ -4375,6 +4535,26 @@
     "microsoft/PowerToys:v0.101.2601.0:GroupPolicyObjectFiles-0.101.2601.0.zip": {
       "syncedAt": "2026-09-18T17:02:41.509Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-FDNeA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.101.2601.0:PowerToysSetup-0.101.2601.0-arm64.exe": {
+      "syncedAt": "2026-09-19T04:47:35.994Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-r1eeA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.101.2601.0:PowerToysSetup-0.101.2601.0-x64.exe": {
+      "syncedAt": "2026-09-19T04:48:10.188Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-nDNeA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.101.2601.0:PowerToysUserSetup-0.101.2601.0-arm64.exe": {
+      "syncedAt": "2026-09-19T04:48:44.246Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-2DNeA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.101.2601.0:PowerToysUserSetup-0.101.2601.0-x64.exe": {
+      "syncedAt": "2026-09-19T04:49:17.790Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-81eeA",
       "status": "synced"
     },
     "mudler/LocalAI:v4.10.0:LocalAI-v4.10.0-checksums.txt": {
@@ -5510,6 +5690,21 @@
     "ollama/ollama:v0.34.2:sha256sum.txt": {
       "syncedAt": "2026-09-18T12:27:32.548Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-gV6eA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.34.3-rc1:ollama-linux-amd64-rocm.tar.zst": {
+      "syncedAt": "2026-09-19T05:00:07.116Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-8FheA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.34.3-rc1:ollama-linux-arm64-jetpack6.tar.zst": {
+      "syncedAt": "2026-09-19T05:06:53.491Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-M1meA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.34.3-rc1:sha256sum.txt": {
+      "syncedAt": "2026-09-19T05:30:17.398Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-01eeA",
       "status": "synced"
     },
     "wez/wezterm:20240203-110809-5046fc22:WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage": {
