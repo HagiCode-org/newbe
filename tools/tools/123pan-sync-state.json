@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-21T02:55:47.903585+00:00",
-  "recordCount": 1215,
+  "generatedAt": "2026-09-22T02:56:27.187705+00:00",
+  "recordCount": 1225,
   "records": {
     "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.AppImage": {
       "syncedAt": "2026-08-22T07:14:26.809Z",
@@ -1722,6 +1722,16 @@
       "shareUrl": "https://www.123pan.com/s/zsClvd-AOBcA",
       "status": "synced"
     },
+    "agalwood/Motrix:v2.0.0-beta.40:Motrix-2.0.0-beta.40-aarch64.flatpak": {
+      "syncedAt": "2026-09-21T04:54:48.189Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-SmNcA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.40:Motrix-2.0.0-beta.40-aarch64.pacman": {
+      "syncedAt": "2026-09-21T04:55:20.221Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-Y1meA",
+      "status": "synced"
+    },
     "agalwood/Motrix:v2.0.0-beta.40:Motrix-2.0.0-beta.40-arm64.AppImage": {
       "syncedAt": "2026-09-20T20:49:38.607Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-dZocA",
@@ -1730,6 +1740,11 @@
     "agalwood/Motrix:v2.0.0-beta.40:Motrix-2.0.0-beta.40-arm64.AppImage.zsync": {
       "syncedAt": "2026-09-20T20:49:44.969Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-RDNeA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.40:Motrix-2.0.0-beta.40-arm64.dmg": {
+      "syncedAt": "2026-09-21T04:55:53.026Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-MYueA",
       "status": "synced"
     },
     "agalwood/Motrix:v2.0.0-beta.40:Motrix-2.0.0-beta.40-arm64.zip": {
@@ -1745,6 +1760,11 @@
     "agalwood/Motrix:v2.0.0-beta.40:Motrix-2.0.0-beta.40-x64.dmg": {
       "syncedAt": "2026-09-20T20:52:03.553Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-DDNeA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.40:Motrix-2.0.0-beta.40-x64.pacman": {
+      "syncedAt": "2026-09-21T04:56:27.144Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-GOBcA",
       "status": "synced"
     },
     "agalwood/Motrix:v2.0.0-beta.40:Motrix-2.0.0-beta.40-x64.zip": {
@@ -1777,9 +1797,19 @@
       "shareUrl": "https://www.123pan.com/s/zsClvd-u1eeA",
       "status": "synced"
     },
+    "agalwood/Motrix:v2.0.0-beta.40:Motrix-Native-Host-2.0.0-beta.40-linux-arm64.tar.gz": {
+      "syncedAt": "2026-09-21T04:56:30.897Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-0DNeA",
+      "status": "synced"
+    },
     "agalwood/Motrix:v2.0.0-beta.40:Motrix-Native-Host-2.0.0-beta.40-linux-x64.tar.gz": {
       "syncedAt": "2026-09-20T20:55:16.045Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-UmNcA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.0.0-beta.40:Motrix-Setup-2.0.0-beta.40.exe": {
+      "syncedAt": "2026-09-21T04:57:01.062Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-wYueA",
       "status": "synced"
     },
     "agalwood/Motrix:v2.0.0-beta.40:Motrix_2.0.0-beta.40_amd64.deb": {
@@ -2045,6 +2075,21 @@
     "desktop/desktop:release-3.6.6-beta2:GitHubDesktopSetup-x64.msi": {
       "syncedAt": "2026-09-16T04:49:38.668Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-ttYZA",
+      "status": "synced"
+    },
+    "desktop/desktop:release-3.6.6:GitHub.Desktop-3.6.6-checksums.txt": {
+      "syncedAt": "2026-09-21T12:47:52.632Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-9ZocA",
+      "status": "synced"
+    },
+    "desktop/desktop:release-3.6.6:GitHubDesktop-3.6.6-x64-delta.nupkg": {
+      "syncedAt": "2026-09-21T12:57:56.037Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-PYueA",
+      "status": "synced"
+    },
+    "desktop/desktop:release-3.6.6:GitHubDesktopSetup-x64.exe": {
+      "syncedAt": "2026-09-21T13:01:33.401Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-b1eeA",
       "status": "synced"
     },
     "desktop/desktop:release-3.6.7-beta1:GitHub.Desktop-3.6.7-beta1-checksums.txt": {
@@ -4645,6 +4690,11 @@
     "microsoft/PowerToys:v0.101.2601.0:PowerToysUserSetup-0.101.2601.0-x64.exe": {
       "syncedAt": "2026-09-19T04:49:17.790Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-81eeA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.101.2632.0:GroupPolicyObjectFiles-0.101.2632.0.zip": {
+      "syncedAt": "2026-09-21T13:10:14.353Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-QZocA",
       "status": "synced"
     },
     "mudler/LocalAI:v4.10.0:LocalAI-v4.10.0-checksums.txt": {
