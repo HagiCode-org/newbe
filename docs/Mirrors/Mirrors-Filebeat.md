@@ -626,6 +626,7 @@ Filebeat. 国内直接从官网 https://www.elastic.co 下载比较困难，需�
 - [8.19.18](https://mirrors.huaweicloud.com/filebeat/8.19.18/)
 - [8.19.19](https://mirrors.huaweicloud.com/filebeat/8.19.19/)
 - [8.19.21](https://mirrors.huaweicloud.com/filebeat/8.19.21/)
+- [8.19.22](https://mirrors.huaweicloud.com/filebeat/8.19.22/)
 
 
 
