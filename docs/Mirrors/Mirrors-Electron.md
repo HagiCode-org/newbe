@@ -3060,6 +3060,7 @@ Electron. 国内直接从官网 https://electronjs.org/ 下载比较困难，需
 - [45.0.0-alpha.1](https://mirrors.huaweicloud.com/electron/45.0.0-alpha.1/)
 - [45.0.0-alpha.10](https://mirrors.huaweicloud.com/electron/45.0.0-alpha.10/)
 - [45.0.0-alpha.11](https://mirrors.huaweicloud.com/electron/45.0.0-alpha.11/)
+- [45.0.0-alpha.12](https://mirrors.huaweicloud.com/electron/45.0.0-alpha.12/)
 - [45.0.0-alpha.2](https://mirrors.huaweicloud.com/electron/45.0.0-alpha.2/)
 - [45.0.0-alpha.3](https://mirrors.huaweicloud.com/electron/45.0.0-alpha.3/)
 - [45.0.0-alpha.4](https://mirrors.huaweicloud.com/electron/45.0.0-alpha.4/)
