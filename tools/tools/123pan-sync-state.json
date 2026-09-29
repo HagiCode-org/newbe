@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-28T03:10:40.858148+00:00",
-  "recordCount": 1392,
+  "generatedAt": "2026-09-29T03:49:01.602614+00:00",
+  "recordCount": 1394,
   "records": {
     "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.AppImage": {
       "syncedAt": "2026-08-22T07:14:26.809Z",
@@ -6665,6 +6665,16 @@
     "ollama/ollama:v0.34.4:sha256sum.txt": {
       "syncedAt": "2026-09-24T06:56:45.889Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-d1NcA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.35.0-rc1:ollama-darwin.tgz": {
+      "syncedAt": "2026-09-28T23:25:58.487Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-x4meA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.35.0-rc1:sha256sum.txt": {
+      "syncedAt": "2026-09-28T23:59:28.534Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-aYheA",
       "status": "synced"
     },
     "ollama/ollama:v0.40.0-rc0:Ollama-darwin.zip": {
