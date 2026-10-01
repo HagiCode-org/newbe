@@ -25,6 +25,90 @@ K3s 是一个完全符合标准的、可投入生产的 Kubernetes 发行版，�
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v1.37.1+k3s1
+
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.37.1%2Bk3s1/k3s" text="k3s" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.37.1%2Bk3s1/k3s-airgap-images-amd64.tar" text="k3s-airgap-images-amd64.tar" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.37.1%2Bk3s1/k3s-airgap-images-amd64.tar.gz" text="k3s-airgap-images-amd64.tar.gz" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.37.1%2Bk3s1/k3s-airgap-images-amd64.tar.zst" text="k3s-airgap-images-amd64.tar.zst" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.37.1%2Bk3s1/k3s-airgap-images-arm.tar" text="k3s-airgap-images-arm.tar" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.37.1%2Bk3s1/k3s-airgap-images-arm.tar.gz" text="k3s-airgap-images-arm.tar.gz" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.37.1%2Bk3s1/k3s-airgap-images-arm.tar.zst" text="k3s-airgap-images-arm.tar.zst" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.37.1%2Bk3s1/k3s-airgap-images-arm64.tar" text="k3s-airgap-images-arm64.tar" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.37.1%2Bk3s1/k3s-airgap-images-arm64.tar.gz" text="k3s-airgap-images-arm64.tar.gz" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.37.1%2Bk3s1/k3s-airgap-images-arm64.tar.zst" text="k3s-airgap-images-arm64.tar.zst" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.37.1%2Bk3s1/k3s-arm64" text="k3s-arm64" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.37.1%2Bk3s1/k3s-armhf" text="k3s-armhf" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.37.1%2Bk3s1/k3s-images.txt" text="k3s-images.txt" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.37.1%2Bk3s1/sha256sum-amd64.txt" text="sha256sum-amd64.txt" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.37.1%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.37.1%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
+
+
+
+## v1.36.5+k3s1
+
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.5%2Bk3s1/k3s" text="k3s" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.5%2Bk3s1/k3s-airgap-images-amd64.tar" text="k3s-airgap-images-amd64.tar" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.5%2Bk3s1/k3s-airgap-images-amd64.tar.gz" text="k3s-airgap-images-amd64.tar.gz" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.5%2Bk3s1/k3s-airgap-images-amd64.tar.zst" text="k3s-airgap-images-amd64.tar.zst" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.5%2Bk3s1/k3s-airgap-images-arm.tar" text="k3s-airgap-images-arm.tar" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.5%2Bk3s1/k3s-airgap-images-arm.tar.gz" text="k3s-airgap-images-arm.tar.gz" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.5%2Bk3s1/k3s-airgap-images-arm.tar.zst" text="k3s-airgap-images-arm.tar.zst" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.5%2Bk3s1/k3s-airgap-images-arm64.tar" text="k3s-airgap-images-arm64.tar" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.5%2Bk3s1/k3s-airgap-images-arm64.tar.gz" text="k3s-airgap-images-arm64.tar.gz" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.5%2Bk3s1/k3s-airgap-images-arm64.tar.zst" text="k3s-airgap-images-arm64.tar.zst" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.5%2Bk3s1/k3s-arm64" text="k3s-arm64" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.5%2Bk3s1/k3s-armhf" text="k3s-armhf" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.5%2Bk3s1/k3s-images.txt" text="k3s-images.txt" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.5%2Bk3s1/sha256sum-amd64.txt" text="sha256sum-amd64.txt" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.5%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.5%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
+
+
+
+## v1.34.12+k3s1
+
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.12%2Bk3s1/k3s" text="k3s" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.12%2Bk3s1/k3s-airgap-images-amd64.tar" text="k3s-airgap-images-amd64.tar" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.12%2Bk3s1/k3s-airgap-images-amd64.tar.gz" text="k3s-airgap-images-amd64.tar.gz" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.12%2Bk3s1/k3s-airgap-images-amd64.tar.zst" text="k3s-airgap-images-amd64.tar.zst" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.12%2Bk3s1/k3s-airgap-images-arm.tar" text="k3s-airgap-images-arm.tar" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.12%2Bk3s1/k3s-airgap-images-arm.tar.gz" text="k3s-airgap-images-arm.tar.gz" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.12%2Bk3s1/k3s-airgap-images-arm.tar.zst" text="k3s-airgap-images-arm.tar.zst" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.12%2Bk3s1/k3s-airgap-images-arm64.tar" text="k3s-airgap-images-arm64.tar" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.12%2Bk3s1/k3s-airgap-images-arm64.tar.gz" text="k3s-airgap-images-arm64.tar.gz" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.12%2Bk3s1/k3s-airgap-images-arm64.tar.zst" text="k3s-airgap-images-arm64.tar.zst" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.12%2Bk3s1/k3s-arm64" text="k3s-arm64" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.12%2Bk3s1/k3s-armhf" text="k3s-armhf" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.12%2Bk3s1/k3s-images.txt" text="k3s-images.txt" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.12%2Bk3s1/sha256sum-amd64.txt" text="sha256sum-amd64.txt" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.12%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.12%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
+
+
+
+## v1.35.9+k3s1
+
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.9%2Bk3s1/k3s" text="k3s" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.9%2Bk3s1/k3s-airgap-images-amd64.tar" text="k3s-airgap-images-amd64.tar" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.9%2Bk3s1/k3s-airgap-images-amd64.tar.gz" text="k3s-airgap-images-amd64.tar.gz" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.9%2Bk3s1/k3s-airgap-images-amd64.tar.zst" text="k3s-airgap-images-amd64.tar.zst" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.9%2Bk3s1/k3s-airgap-images-arm.tar" text="k3s-airgap-images-arm.tar" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.9%2Bk3s1/k3s-airgap-images-arm.tar.gz" text="k3s-airgap-images-arm.tar.gz" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.9%2Bk3s1/k3s-airgap-images-arm.tar.zst" text="k3s-airgap-images-arm.tar.zst" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.9%2Bk3s1/k3s-airgap-images-arm64.tar" text="k3s-airgap-images-arm64.tar" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.9%2Bk3s1/k3s-airgap-images-arm64.tar.gz" text="k3s-airgap-images-arm64.tar.gz" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.9%2Bk3s1/k3s-airgap-images-arm64.tar.zst" text="k3s-airgap-images-arm64.tar.zst" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.9%2Bk3s1/k3s-arm64" text="k3s-arm64" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.9%2Bk3s1/k3s-armhf" text="k3s-armhf" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.9%2Bk3s1/k3s-images.txt" text="k3s-images.txt" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.9%2Bk3s1/sha256sum-amd64.txt" text="sha256sum-amd64.txt" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.9%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
+- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.9%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
+
+
+
 ## v1.37.1-rc2+k3s1
 
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.37.1-rc2%2Bk3s1/k3s" text="k3s" repositoryKey="k3s-io/k3s" />
@@ -361,6 +445,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v1.34.11+k3s1
 
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.11%2Bk3s1/k3s" text="k3s" repositoryKey="k3s-io/k3s" />
@@ -445,8 +531,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
-
-
 ## v1.36.3+k3s1
 
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.3%2Bk3s1/k3s" text="k3s" repositoryKey="k3s-io/k3s" />
@@ -489,27 +573,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
-## v1.33.13+k3s2
-
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13%2Bk3s2/k3s" text="k3s" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13%2Bk3s2/k3s-airgap-images-amd64.tar" text="k3s-airgap-images-amd64.tar" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13%2Bk3s2/k3s-airgap-images-amd64.tar.gz" text="k3s-airgap-images-amd64.tar.gz" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13%2Bk3s2/k3s-airgap-images-amd64.tar.zst" text="k3s-airgap-images-amd64.tar.zst" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13%2Bk3s2/k3s-airgap-images-arm.tar" text="k3s-airgap-images-arm.tar" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13%2Bk3s2/k3s-airgap-images-arm.tar.gz" text="k3s-airgap-images-arm.tar.gz" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13%2Bk3s2/k3s-airgap-images-arm.tar.zst" text="k3s-airgap-images-arm.tar.zst" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13%2Bk3s2/k3s-airgap-images-arm64.tar" text="k3s-airgap-images-arm64.tar" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13%2Bk3s2/k3s-airgap-images-arm64.tar.gz" text="k3s-airgap-images-arm64.tar.gz" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13%2Bk3s2/k3s-airgap-images-arm64.tar.zst" text="k3s-airgap-images-arm64.tar.zst" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13%2Bk3s2/k3s-arm64" text="k3s-arm64" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13%2Bk3s2/k3s-armhf" text="k3s-armhf" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13%2Bk3s2/k3s-images.txt" text="k3s-images.txt" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13%2Bk3s2/sha256sum-amd64.txt" text="sha256sum-amd64.txt" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13%2Bk3s2/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13%2Bk3s2/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
-
-
-
 ## v1.34.10+k3s1
 
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.10%2Bk3s1/k3s" text="k3s" repositoryKey="k3s-io/k3s" />
@@ -528,27 +591,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.10%2Bk3s1/sha256sum-amd64.txt" text="sha256sum-amd64.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.10%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.10%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
-
-
-
-## v1.33.13-rc2+k3s2
-
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13-rc2%2Bk3s2/k3s" text="k3s" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13-rc2%2Bk3s2/k3s-airgap-images-amd64.tar" text="k3s-airgap-images-amd64.tar" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13-rc2%2Bk3s2/k3s-airgap-images-amd64.tar.gz" text="k3s-airgap-images-amd64.tar.gz" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13-rc2%2Bk3s2/k3s-airgap-images-amd64.tar.zst" text="k3s-airgap-images-amd64.tar.zst" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13-rc2%2Bk3s2/k3s-airgap-images-arm.tar" text="k3s-airgap-images-arm.tar" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13-rc2%2Bk3s2/k3s-airgap-images-arm.tar.gz" text="k3s-airgap-images-arm.tar.gz" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13-rc2%2Bk3s2/k3s-airgap-images-arm.tar.zst" text="k3s-airgap-images-arm.tar.zst" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13-rc2%2Bk3s2/k3s-airgap-images-arm64.tar" text="k3s-airgap-images-arm64.tar" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13-rc2%2Bk3s2/k3s-airgap-images-arm64.tar.gz" text="k3s-airgap-images-arm64.tar.gz" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13-rc2%2Bk3s2/k3s-airgap-images-arm64.tar.zst" text="k3s-airgap-images-arm64.tar.zst" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13-rc2%2Bk3s2/k3s-arm64" text="k3s-arm64" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13-rc2%2Bk3s2/k3s-armhf" text="k3s-armhf" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13-rc2%2Bk3s2/k3s-images.txt" text="k3s-images.txt" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13-rc2%2Bk3s2/sha256sum-amd64.txt" text="sha256sum-amd64.txt" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13-rc2%2Bk3s2/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.33.13-rc2%2Bk3s2/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
 
 
 
@@ -612,48 +654,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.10-rc2%2Bk3s1/sha256sum-amd64.txt" text="sha256sum-amd64.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.10-rc2%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
 - <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.34.10-rc2%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
-
-
-
-## v1.36.3-rc1+k3s1
-
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.3-rc1%2Bk3s1/k3s" text="k3s" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.3-rc1%2Bk3s1/k3s-airgap-images-amd64.tar" text="k3s-airgap-images-amd64.tar" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.3-rc1%2Bk3s1/k3s-airgap-images-amd64.tar.gz" text="k3s-airgap-images-amd64.tar.gz" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.3-rc1%2Bk3s1/k3s-airgap-images-amd64.tar.zst" text="k3s-airgap-images-amd64.tar.zst" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.3-rc1%2Bk3s1/k3s-airgap-images-arm.tar" text="k3s-airgap-images-arm.tar" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.3-rc1%2Bk3s1/k3s-airgap-images-arm.tar.gz" text="k3s-airgap-images-arm.tar.gz" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.3-rc1%2Bk3s1/k3s-airgap-images-arm.tar.zst" text="k3s-airgap-images-arm.tar.zst" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.3-rc1%2Bk3s1/k3s-airgap-images-arm64.tar" text="k3s-airgap-images-arm64.tar" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.3-rc1%2Bk3s1/k3s-airgap-images-arm64.tar.gz" text="k3s-airgap-images-arm64.tar.gz" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.3-rc1%2Bk3s1/k3s-airgap-images-arm64.tar.zst" text="k3s-airgap-images-arm64.tar.zst" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.3-rc1%2Bk3s1/k3s-arm64" text="k3s-arm64" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.3-rc1%2Bk3s1/k3s-armhf" text="k3s-armhf" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.3-rc1%2Bk3s1/k3s-images.txt" text="k3s-images.txt" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.3-rc1%2Bk3s1/sha256sum-amd64.txt" text="sha256sum-amd64.txt" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.3-rc1%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.36.3-rc1%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
-
-
-
-## v1.35.7-rc1+k3s1
-
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.7-rc1%2Bk3s1/k3s" text="k3s" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.7-rc1%2Bk3s1/k3s-airgap-images-amd64.tar" text="k3s-airgap-images-amd64.tar" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.7-rc1%2Bk3s1/k3s-airgap-images-amd64.tar.gz" text="k3s-airgap-images-amd64.tar.gz" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.7-rc1%2Bk3s1/k3s-airgap-images-amd64.tar.zst" text="k3s-airgap-images-amd64.tar.zst" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.7-rc1%2Bk3s1/k3s-airgap-images-arm.tar" text="k3s-airgap-images-arm.tar" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.7-rc1%2Bk3s1/k3s-airgap-images-arm.tar.gz" text="k3s-airgap-images-arm.tar.gz" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.7-rc1%2Bk3s1/k3s-airgap-images-arm.tar.zst" text="k3s-airgap-images-arm.tar.zst" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.7-rc1%2Bk3s1/k3s-airgap-images-arm64.tar" text="k3s-airgap-images-arm64.tar" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.7-rc1%2Bk3s1/k3s-airgap-images-arm64.tar.gz" text="k3s-airgap-images-arm64.tar.gz" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.7-rc1%2Bk3s1/k3s-airgap-images-arm64.tar.zst" text="k3s-airgap-images-arm64.tar.zst" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.7-rc1%2Bk3s1/k3s-arm64" text="k3s-arm64" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.7-rc1%2Bk3s1/k3s-armhf" text="k3s-armhf" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.7-rc1%2Bk3s1/k3s-images.txt" text="k3s-images.txt" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.7-rc1%2Bk3s1/sha256sum-amd64.txt" text="sha256sum-amd64.txt" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.7-rc1%2Bk3s1/sha256sum-arm.txt" text="sha256sum-arm.txt" repositoryKey="k3s-io/k3s" />
-- <GithubMirrorLink link="https://github.com/k3s-io/k3s/releases/download/v1.35.7-rc1%2Bk3s1/sha256sum-arm64.txt" text="sha256sum-arm64.txt" repositoryKey="k3s-io/k3s" />
 
 
 
