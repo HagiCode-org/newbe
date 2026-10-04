@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-03T03:26:20.575389+00:00",
-  "recordCount": 1633,
+  "generatedAt": "2026-10-04T03:53:32.987458+00:00",
+  "recordCount": 1639,
   "records": {
     "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.AppImage": {
       "syncedAt": "2026-08-22T07:14:26.809Z",
@@ -6347,9 +6347,39 @@
       "shareUrl": "https://www.123pan.com/s/zsClvd-DR6cA",
       "status": "synced"
     },
+    "mudler/LocalAI:v4.11.0:LocalAI-v4.11.0-checksums.txt": {
+      "syncedAt": "2026-10-03T12:29:24.560Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-i4meA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v4.11.0:LocalAI-v4.11.0-source.tar.gz": {
+      "syncedAt": "2026-10-03T17:25:22.174Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-WxeeA",
+      "status": "synced"
+    },
     "mudler/LocalAI:v4.11.0:LocalAI.dmg": {
       "syncedAt": "2026-10-02T22:20:20.418Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-5YheA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v4.11.0:local-ai-launcher-linux.tar.xz": {
+      "syncedAt": "2026-10-03T21:17:21.588Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-scocA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v4.11.0:local-ai-v4.11.0-darwin-arm64": {
+      "syncedAt": "2026-10-03T21:18:00.706Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-eRBcA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v4.11.0:local-ai-v4.11.0-linux-amd64": {
+      "syncedAt": "2026-10-03T21:18:43.373Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-CxeeA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v4.11.0:local-ai-v4.11.0-linux-arm64": {
+      "syncedAt": "2026-10-03T21:19:22.220Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-I4NcA",
       "status": "synced"
     },
     "mudler/LocalAI:v4.9.0:LocalAI-v4.9.0-checksums.txt": {
