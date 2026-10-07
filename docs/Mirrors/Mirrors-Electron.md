@@ -3074,6 +3074,7 @@ Electron. 国内直接从官网 https://electronjs.org/ 下载比较困难，需
 - [45.0.0-alpha.12](https://mirrors.huaweicloud.com/electron/45.0.0-alpha.12/)
 - [45.0.0-alpha.13](https://mirrors.huaweicloud.com/electron/45.0.0-alpha.13/)
 - [45.0.0-alpha.14](https://mirrors.huaweicloud.com/electron/45.0.0-alpha.14/)
+- [45.0.0-alpha.15](https://mirrors.huaweicloud.com/electron/45.0.0-alpha.15/)
 - [45.0.0-alpha.2](https://mirrors.huaweicloud.com/electron/45.0.0-alpha.2/)
 - [45.0.0-alpha.3](https://mirrors.huaweicloud.com/electron/45.0.0-alpha.3/)
 - [45.0.0-alpha.4](https://mirrors.huaweicloud.com/electron/45.0.0-alpha.4/)
