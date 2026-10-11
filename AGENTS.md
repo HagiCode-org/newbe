@@ -25,7 +25,6 @@ npm run typecheck
 
 - `docs/`: Docusaurus content
 - `src/`: site customizations
-- `scripts/`: footer site snapshot sync
 - `docusaurus.config.ts`: Docusaurus configuration
 
 ## Agent Guidelines

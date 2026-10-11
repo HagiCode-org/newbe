@@ -5,11 +5,10 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "dev": "docusaurus start --no-open",
-    "build": "export NODE_ENV=\"${NODE_ENV:-production}\"; npm run sync:footer-sites && docusaurus build",
+    "build": "export NODE_ENV=\"${NODE_ENV:-production}\"; docusaurus build",
     "swizzle": "docusaurus swizzle",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
-    "sync:footer-sites": "node ./scripts/fetch-sites-snapshot.mjs",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
     "typecheck": "tsc"
