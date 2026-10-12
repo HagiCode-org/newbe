@@ -28,3 +28,8 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* White CTA text on the light dark-mode primary is about 2.3:1; use the page background colour instead. */
+[data-theme='dark'] .hagilight-promoto {
+  --hagilight-promoto-cta-text: var(--ifm-background-color);
+}
