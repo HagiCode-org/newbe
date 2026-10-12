@@ -1,19 +1,11 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer').themes.github;
-const darkCodeTheme = require('prism-react-renderer').themes.dracula;
+import { themes } from 'prism-react-renderer';
+import { hagilightDocusaurus } from '@hagicode/hagilight-docusaurus';
 
-const default51LAId = 'L6b88a5yK4h2Xnci';
-const la51Id = process.env.LI_51LA_ID || default51LAId;
-const resolvedNodeEnv = process.env.NODE_ENV ?? (process.argv.includes('build') ? 'production' : 'development');
-const isProduction = resolvedNodeEnv === 'production';
-const is51LAEnabled =
-  process.env.LI_51LA_ENABLED !== 'false' &&
-  process.env.LI_51LA_ENABLED !== '0' &&
-  isProduction;
-const is51LADebug =
-  process.env.LI_51LA_DEBUG === 'true' || process.env.LI_51LA_DEBUG === '1';
+const lightCodeTheme = themes.github;
+const darkCodeTheme = themes.dracula;
 
 // Reverse the sidebar items ordering (including nested category items)
 /**
@@ -72,7 +64,7 @@ const config = {
   themes: [
     // ... Your other themes.
     [
-      require.resolve("@easyops-cn/docusaurus-search-local"),
+      "@easyops-cn/docusaurus-search-local",
       // /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
       ({
         // ... Your options.
@@ -89,28 +81,68 @@ const config = {
     ],
   ],
 
-  headTags: is51LAEnabled
-    ? [
-        {
-          tagName: 'script',
-          attributes: {
-            charset: 'UTF-8',
-            id: 'LA_COLLECT',
-            src: '//sdk.51.la/js-sdk-pro.min.js',
-          },
+  plugins: [
+    hagilightDocusaurus({
+      links: {
+        siteId: 'newbe-blog',
+        extraLinks: {
+          quick: [
+            { id: 'newbe-home', label: 'Newbe 博客', href: '/', external: false },
+            { id: 'newbe-focus', label: '重点关注', href: '/links', external: false },
+            { id: 'newbe-privacy', label: '隐私策略', href: '/privacy', external: false },
+          ],
+          community: [
+            { id: 'steam', label: 'Steam', href: 'https://store.steampowered.com/app/4625540/Hagicode/', external: true },
+          ],
+          relatedSites: [
+            { id: 'masuit', name: '懒得勤快', url: 'https://masuit.org' },
+            { id: 'whuanle', name: '面向云技术架构 - 痴者工良', url: 'https://www.whuanle.cn/' },
+            { id: 'eventhorizon', name: '黑洞视界', url: 'https://www.cnblogs.com/eventhorizon/' },
+            { id: 'alexinea', name: 'Alex Lewis', url: 'https://alexinea.com/' },
+          ],
         },
-        {
-          tagName: 'script',
-          attributes: {},
-          innerHTML: `
-if (typeof LA !== 'undefined' && typeof LA.init === 'function') {
-  LA.init({id:'${la51Id}',ck:'${la51Id}',autoTrack:true,hashMode:true,screenRecord:true});
-}
-${is51LADebug ? `console.log('[51LA Analytics] Enabled:', true, 'id:', '***${la51Id.slice(-4)}');` : ''}
-          `.trim(),
-        },
-      ]
-    : [],
+      },
+      languageSelector: { enabled: false },
+    }),
+  ],
+
+  scripts: [
+    {
+      src: 'https://sdk.jinrishici.com/v2/browser/jinrishici.js',
+      charset: 'utf-8',
+    },
+    {
+      src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4138796439241260',
+      async: true,
+      crossorigin: 'anonymous',
+    },
+  ],
+
+  headTags: [
+    {
+      tagName: 'script',
+      attributes: {},
+      innerHTML: `
+var _mtac = {};
+(function () {
+  var mta = document.createElement('script');
+  mta.src = '//pingjs.qq.com/h5/stats.js?v2.0.4';
+  mta.setAttribute('name', 'MTAH5');
+  mta.setAttribute('sid', '500724123');
+
+  var s = document.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(mta, s);
+})();
+
+
+(function(c,l,a,r,i,t,y){
+  c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+  t=l.createElement(r);t.async=1;t.src='https://www.clarity.ms/tag/'+i;
+  y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+})(window, document, 'clarity', 'script', 'j15shshi6c');
+      `,
+    },
+  ],
 
   presets: [
     [
@@ -118,7 +150,7 @@ ${is51LADebug ? `console.log('[51LA Analytics] Enabled:', true, 'id:', '***${la5
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: './sidebars.js',
           routeBasePath: '/',
           async sidebarItemsGenerator({defaultSidebarItemsGenerator, ...args}) {
             const sidebarItems = await defaultSidebarItemsGenerator(args);
@@ -138,11 +170,7 @@ ${is51LADebug ? `console.log('[51LA Analytics] Enabled:', true, 'id:', '***${la5
         //   //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         // },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
-        },
-        gtag: {
-          trackingID: 'G-EN03FMT2Q4',
-          anonymizeIP: true,
+          customCss: './src/css/custom.css',
         },
         sitemap: {
           changefreq: 'weekly',
@@ -184,71 +212,6 @@ ${is51LADebug ? `console.log('[51LA Analytics] Enabled:', true, 'id:', '***${la5
           },
         ],
       },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: '博客',
-                to: '/',
-              },
-              {
-                label: '重点关注',
-                to: '/links',
-              },
-              {
-                label: '隐私策略',
-                to: '/privacy',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'QQ 群 610394020',
-                href: 'https://jq.qq.com/?_wv=1027&k=3PUr2L5i',
-              },
-              {
-                label: 'Steam',
-                href: 'https://store.steampowered.com/app/4625540/Hagicode/',
-              },
-              // {
-              //   label: 'Discord',
-              //   href: 'https://discordapp.com/invite/docusaurus',
-              // },
-              // {
-              //   label: 'Twitter',
-              //   href: 'https://twitter.com/docusaurus',
-              // },
-            ],
-          },
-          {
-            title: '友情链接',
-            items: [
-              {
-                label: '懒得勤快',
-                to: 'https://masuit.org'
-              },
-              {
-                label: '面向云技术架构 - 痴者工良',
-                to: 'https://www.whuanle.cn/'
-              },
-              {
-                label: '黑洞视界',
-                to: 'https://www.cnblogs.com/eventhorizon/'
-              },
-              {
-                label: 'Alex Lewis',
-                to: 'https://alexinea.com/'
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} newbe36524, Built with Docusaurus.`,
-      },
       prism: {
         additionalLanguages: ['powershell','csharp','java','sql'],
         theme: darkCodeTheme,
@@ -257,4 +220,4 @@ ${is51LADebug ? `console.log('[51LA Analytics] Enabled:', true, 'id:', '***${la5
     }),
 };
 
-module.exports = config;
+export default config;
