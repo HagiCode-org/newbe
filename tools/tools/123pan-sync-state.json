@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-12T03:55:20.870581+00:00",
-  "recordCount": 1897,
+  "generatedAt": "2026-10-13T05:05:31.483409+00:00",
+  "recordCount": 1905,
   "records": {
     "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.AppImage": {
       "syncedAt": "2026-08-22T07:14:26.809Z",
@@ -7427,6 +7427,31 @@
       "shareUrl": "https://www.123pan.com/s/zsClvd-cDBcA",
       "status": "synced"
     },
+    "microsoft/PowerToys:v0.102.2851.0:GroupPolicyObjectFiles-0.102.2851.0.zip": {
+      "syncedAt": "2026-10-12T17:54:04.403Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-wxNcA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.102.2851.0:PowerToysSetup-0.102.2851.0-arm64.exe": {
+      "syncedAt": "2026-10-13T00:44:33.729Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-iWmtA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.102.2851.0:PowerToysSetup-0.102.2851.0-x64.exe": {
+      "syncedAt": "2026-10-13T00:45:16.914Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-uIJtA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.102.2851.0:PowerToysUserSetup-0.102.2851.0-arm64.exe": {
+      "syncedAt": "2026-10-13T00:46:06.212Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-zWmtA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.102.2851.0:PowerToysUserSetup-0.102.2851.0-x64.exe": {
+      "syncedAt": "2026-10-13T00:46:51.632Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-AXueA",
+      "status": "synced"
+    },
     "mudler/LocalAI:v4.10.0:LocalAI-v4.10.0-checksums.txt": {
       "syncedAt": "2026-09-18T05:23:56.864Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-klhtA",
@@ -9265,6 +9290,21 @@
     "ollama/ollama:v0.40.3:sha256sum.txt": {
       "syncedAt": "2026-10-11T10:25:43.319Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-vrBcA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.40.4-rc0:Ollama-darwin.zip": {
+      "syncedAt": "2026-10-13T01:10:59.689Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-1PheA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.40.4-rc0:ollama-windows-amd64-rocm.zip": {
+      "syncedAt": "2026-10-13T03:37:12.638Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-9XueA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.40.4-rc0:sha256sum.txt": {
+      "syncedAt": "2026-10-13T04:38:49.280Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-eeocA",
       "status": "synced"
     },
     "wez/wezterm:20240203-110809-5046fc22:WezTerm-20240203-110809-5046fc22-Ubuntu20.04.AppImage": {
