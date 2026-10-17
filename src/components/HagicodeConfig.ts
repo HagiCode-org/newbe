@@ -69,7 +69,7 @@ export const HAGICODE_CONFIG: HagicodeConfig = {
   },
   showcase: {
     title: '三大核心特性',
-    subtitle: '把智能提案、并行执行与 Hero Dungeon 工作流压缩到同一块产品展示里',
+    subtitle: '把智能提案、并行执行与场景工作流压缩到同一块产品展示里',
     items: [
       {
         id: 'smart',
@@ -95,11 +95,11 @@ export const HAGICODE_CONFIG: HagicodeConfig = {
         id: 'interesting',
         badge: 'INTERESTING',
         title: '有趣',
-        subtitle: 'Hero Dungeon 让协作、训练与战报更像一场冒险',
-        description: '用英雄副本、队长编组和战报反馈把日常 AI 开发做成可推进、可复盘的体验。',
+        subtitle: 'Hero 场景让协作、训练与战报更像一场冒险',
+        description: '用英雄场景、队长编组和战报反馈把日常 AI 开发做成可推进、可复盘的体验。',
         statValue: 'Lv.27',
         statLabel: 'Hero Battle',
-        highlights: ['英雄副本', '队长编组', '战报反馈'],
+        highlights: ['英雄场景', '队长编组', '战报反馈'],
       },
     ],
   },

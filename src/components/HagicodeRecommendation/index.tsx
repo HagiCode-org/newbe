@@ -72,9 +72,9 @@ const HERO_FILES = [
 
 const heroSrc = (file: string) => `/img/hagicode-heroes/${file}`;
 
-/** Illustrative demo values for the Hero Dungeon report, matched to the highlights by position. */
+/** Illustrative demo values for the Hero scenario report, matched to the highlights by position. */
 const REPORT_VALUES: Array<{ value?: string; unit?: string; team?: boolean }> = [
-  { value: '4', unit: '副本推进' },
+  { value: '4', unit: '场景推进' },
   { team: true },
   { value: '12.8M', unit: '今日 XP' },
 ];
@@ -97,7 +97,7 @@ const LOOP_HOLD_MS = 2600;
 const STAGE_META: Record<string, StageMeta> = {
   smart: { label: 'SMART', path: 'openspec / proposal', status: '已归档', statusAt: 3.1, playMs: 4200, loop: true },
   efficient: { label: 'EFFICIENT', path: 'cli / parallel', status: '并行完成', statusAt: 3.5, playMs: 5000 },
-  interesting: { label: 'INTERESTING', path: 'hero dungeon / 战报', status: '战报生成', statusAt: 1.5, playMs: 3200 },
+  interesting: { label: 'INTERESTING', path: 'hero scenario / 战报', status: '战报生成', statusAt: 1.5, playMs: 3200 },
 };
 
 const FALLBACK_META: StageMeta = STAGE_META.smart;
