@@ -20,6 +20,34 @@ cc-switch 是一个面向 Claude Code、Codex、OpenCode、Gemini CLI 等工具�
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v4.0.14
+
+- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v4.0.14/CC-Switch-v4.0.14-Linux-arm64.AppImage" text="CC-Switch-v4.0.14-Linux-arm64.AppImage" repositoryKey="farion1231/cc-switch" />
+- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v4.0.14/CC-Switch-v4.0.14-Linux-arm64.AppImage.sig" text="CC-Switch-v4.0.14-Linux-arm64.AppImage.sig" repositoryKey="farion1231/cc-switch" />
+- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v4.0.14/CC-Switch-v4.0.14-Linux-arm64.deb" text="CC-Switch-v4.0.14-Linux-arm64.deb" repositoryKey="farion1231/cc-switch" />
+- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v4.0.14/CC-Switch-v4.0.14-Linux-arm64.deb.sig" text="CC-Switch-v4.0.14-Linux-arm64.deb.sig" repositoryKey="farion1231/cc-switch" />
+- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v4.0.14/CC-Switch-v4.0.14-Linux-arm64.rpm" text="CC-Switch-v4.0.14-Linux-arm64.rpm" repositoryKey="farion1231/cc-switch" />
+- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v4.0.14/CC-Switch-v4.0.14-Linux-arm64.rpm.sig" text="CC-Switch-v4.0.14-Linux-arm64.rpm.sig" repositoryKey="farion1231/cc-switch" />
+- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v4.0.14/CC-Switch-v4.0.14-Linux-x86_64.AppImage" text="CC-Switch-v4.0.14-Linux-x86_64.AppImage" repositoryKey="farion1231/cc-switch" />
+- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v4.0.14/CC-Switch-v4.0.14-Linux-x86_64.AppImage.sig" text="CC-Switch-v4.0.14-Linux-x86_64.AppImage.sig" repositoryKey="farion1231/cc-switch" />
+- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v4.0.14/CC-Switch-v4.0.14-Linux-x86_64.deb" text="CC-Switch-v4.0.14-Linux-x86_64.deb" repositoryKey="farion1231/cc-switch" />
+- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v4.0.14/CC-Switch-v4.0.14-Linux-x86_64.deb.sig" text="CC-Switch-v4.0.14-Linux-x86_64.deb.sig" repositoryKey="farion1231/cc-switch" />
+- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v4.0.14/CC-Switch-v4.0.14-Linux-x86_64.rpm" text="CC-Switch-v4.0.14-Linux-x86_64.rpm" repositoryKey="farion1231/cc-switch" />
+- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v4.0.14/CC-Switch-v4.0.14-Linux-x86_64.rpm.sig" text="CC-Switch-v4.0.14-Linux-x86_64.rpm.sig" repositoryKey="farion1231/cc-switch" />
+- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v4.0.14/CC-Switch-v4.0.14-macOS.dmg" text="CC-Switch-v4.0.14-macOS.dmg" repositoryKey="farion1231/cc-switch" />
+- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v4.0.14/CC-Switch-v4.0.14-macOS.tar.gz" text="CC-Switch-v4.0.14-macOS.tar.gz" repositoryKey="farion1231/cc-switch" />
+- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v4.0.14/CC-Switch-v4.0.14-macOS.tar.gz.sig" text="CC-Switch-v4.0.14-macOS.tar.gz.sig" repositoryKey="farion1231/cc-switch" />
+- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v4.0.14/CC-Switch-v4.0.14-macOS.zip" text="CC-Switch-v4.0.14-macOS.zip" repositoryKey="farion1231/cc-switch" />
+- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v4.0.14/CC-Switch-v4.0.14-Windows-arm64-Portable.zip" text="CC-Switch-v4.0.14-Windows-arm64-Portable.zip" repositoryKey="farion1231/cc-switch" />
+- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v4.0.14/CC-Switch-v4.0.14-Windows-arm64.msi" text="CC-Switch-v4.0.14-Windows-arm64.msi" repositoryKey="farion1231/cc-switch" />
+- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v4.0.14/CC-Switch-v4.0.14-Windows-arm64.msi.sig" text="CC-Switch-v4.0.14-Windows-arm64.msi.sig" repositoryKey="farion1231/cc-switch" />
+- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v4.0.14/CC-Switch-v4.0.14-Windows-Portable.zip" text="CC-Switch-v4.0.14-Windows-Portable.zip" repositoryKey="farion1231/cc-switch" />
+- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v4.0.14/CC-Switch-v4.0.14-Windows.msi" text="CC-Switch-v4.0.14-Windows.msi" repositoryKey="farion1231/cc-switch" />
+- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v4.0.14/CC-Switch-v4.0.14-Windows.msi.sig" text="CC-Switch-v4.0.14-Windows.msi.sig" repositoryKey="farion1231/cc-switch" />
+- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v4.0.14/latest.json" text="latest.json" repositoryKey="farion1231/cc-switch" />
+
+
+
 ## v4.0.13
 
 - <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v4.0.13/CC-Switch-v4.0.13-Linux-arm64.AppImage" text="CC-Switch-v4.0.13-Linux-arm64.AppImage" repositoryKey="farion1231/cc-switch" />
@@ -512,6 +540,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v3.19.2
 
 - <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v3.19.2/CC-Switch-v3.19.2-Linux-arm64.AppImage" text="CC-Switch-v3.19.2-Linux-arm64.AppImage" repositoryKey="farion1231/cc-switch" />
@@ -533,8 +563,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v3.19.2/CC-Switch-v3.19.2-Windows.msi" text="CC-Switch-v3.19.2-Windows.msi" repositoryKey="farion1231/cc-switch" />
 - <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v3.19.2/CC-Switch-v3.19.2-Windows.msi.sig" text="CC-Switch-v3.19.2-Windows.msi.sig" repositoryKey="farion1231/cc-switch" />
 - <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v3.19.2/latest.json" text="latest.json" repositoryKey="farion1231/cc-switch" />
-
-
 
 
 
@@ -742,27 +770,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v3.16.1/CC-Switch-v3.16.1-Windows.msi" text="CC-Switch-v3.16.1-Windows.msi" repositoryKey="farion1231/cc-switch" />
 - <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v3.16.1/CC-Switch-v3.16.1-Windows.msi.sig" text="CC-Switch-v3.16.1-Windows.msi.sig" repositoryKey="farion1231/cc-switch" />
 - <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v3.16.1/latest.json" text="latest.json" repositoryKey="farion1231/cc-switch" />
-
-
-
-## v3.16.0
-
-- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v3.16.0/CC-Switch-v3.16.0-Linux-arm64.AppImage" text="CC-Switch-v3.16.0-Linux-arm64.AppImage" repositoryKey="farion1231/cc-switch" />
-- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v3.16.0/CC-Switch-v3.16.0-Linux-arm64.AppImage.sig" text="CC-Switch-v3.16.0-Linux-arm64.AppImage.sig" repositoryKey="farion1231/cc-switch" />
-- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v3.16.0/CC-Switch-v3.16.0-Linux-arm64.deb" text="CC-Switch-v3.16.0-Linux-arm64.deb" repositoryKey="farion1231/cc-switch" />
-- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v3.16.0/CC-Switch-v3.16.0-Linux-arm64.rpm" text="CC-Switch-v3.16.0-Linux-arm64.rpm" repositoryKey="farion1231/cc-switch" />
-- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v3.16.0/CC-Switch-v3.16.0-Linux-x86_64.AppImage" text="CC-Switch-v3.16.0-Linux-x86_64.AppImage" repositoryKey="farion1231/cc-switch" />
-- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v3.16.0/CC-Switch-v3.16.0-Linux-x86_64.AppImage.sig" text="CC-Switch-v3.16.0-Linux-x86_64.AppImage.sig" repositoryKey="farion1231/cc-switch" />
-- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v3.16.0/CC-Switch-v3.16.0-Linux-x86_64.deb" text="CC-Switch-v3.16.0-Linux-x86_64.deb" repositoryKey="farion1231/cc-switch" />
-- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v3.16.0/CC-Switch-v3.16.0-Linux-x86_64.rpm" text="CC-Switch-v3.16.0-Linux-x86_64.rpm" repositoryKey="farion1231/cc-switch" />
-- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v3.16.0/CC-Switch-v3.16.0-macOS.dmg" text="CC-Switch-v3.16.0-macOS.dmg" repositoryKey="farion1231/cc-switch" />
-- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v3.16.0/CC-Switch-v3.16.0-macOS.tar.gz" text="CC-Switch-v3.16.0-macOS.tar.gz" repositoryKey="farion1231/cc-switch" />
-- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v3.16.0/CC-Switch-v3.16.0-macOS.tar.gz.sig" text="CC-Switch-v3.16.0-macOS.tar.gz.sig" repositoryKey="farion1231/cc-switch" />
-- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v3.16.0/CC-Switch-v3.16.0-macOS.zip" text="CC-Switch-v3.16.0-macOS.zip" repositoryKey="farion1231/cc-switch" />
-- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v3.16.0/CC-Switch-v3.16.0-Windows-Portable.zip" text="CC-Switch-v3.16.0-Windows-Portable.zip" repositoryKey="farion1231/cc-switch" />
-- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v3.16.0/CC-Switch-v3.16.0-Windows.msi" text="CC-Switch-v3.16.0-Windows.msi" repositoryKey="farion1231/cc-switch" />
-- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v3.16.0/CC-Switch-v3.16.0-Windows.msi.sig" text="CC-Switch-v3.16.0-Windows.msi.sig" repositoryKey="farion1231/cc-switch" />
-- <GithubMirrorLink link="https://github.com/farion1231/cc-switch/releases/download/v3.16.0/latest.json" text="latest.json" repositoryKey="farion1231/cc-switch" />
 
 
 
