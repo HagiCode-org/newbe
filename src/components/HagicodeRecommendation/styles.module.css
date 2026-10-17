@@ -1,101 +1,125 @@
+/*
+ * HagicodeRecommendation
+ *
+ * Three showcase cards, each topped by a dark "stage" that performs the feature once
+ * when the card scrolls into view. Without JavaScript, with reduced motion, or before
+ * hydration the stages simply show their finished state (data-phase="static").
+ *
+ * Motion model: base styles ARE the finished state. [data-phase='pre'] rewinds a stage
+ * to its start, [data-phase='play'] runs keyframes whose missing `to` frame is the base.
+ */
+
+@property --count {
+  syntax: '<integer>';
+  inherits: false;
+  initial-value: 0;
+}
+
 .promo {
-  --promo-border: rgba(14, 116, 144, 0.22);
-  --promo-shadow: rgba(14, 116, 144, 0.12);
-  --promo-surface: linear-gradient(135deg, rgba(8, 145, 178, 0.08), rgba(249, 115, 22, 0.08));
-  --promo-text-muted: var(--ifm-color-emphasis-700);
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --spring: cubic-bezier(0.34, 1.45, 0.64, 1);
+
+  --promo-bg: oklch(0.975 0.009 200);
+  --promo-line: oklch(0.89 0.012 215);
+  --card-bg: oklch(1 0 0);
+  --ink: oklch(0.24 0.02 250);
+  --ink-muted: oklch(0.46 0.02 250);
+  --brand: oklch(0.42 0.1 185);
+  --brand-on: oklch(0.99 0.005 185);
+
+  container: promo / inline-size;
   position: relative;
   margin: 1rem 0 1.5rem;
-  padding: 1.1rem 1.25rem;
-  border: 1px solid var(--promo-border);
-  border-radius: 18px;
-  background:
-    radial-gradient(circle at top right, rgba(14, 165, 233, 0.16), transparent 36%),
-    radial-gradient(circle at bottom left, rgba(249, 115, 22, 0.12), transparent 40%),
-    var(--promo-surface);
-  box-shadow: 0 18px 40px -30px var(--promo-shadow);
-  overflow: hidden;
+  padding: 1.25rem;
+  border: 1px solid var(--promo-line);
+  border-radius: 16px;
+  background: var(--promo-bg);
+  color: var(--ink);
 }
 
-.promo::after {
-  content: '';
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(120deg, rgba(255, 255, 255, 0.24), transparent 42%);
-  pointer-events: none;
+:global([data-theme='dark']) .promo {
+  --promo-bg: oklch(0.245 0.012 215);
+  --promo-line: oklch(0.36 0.02 215);
+  --card-bg: oklch(0.285 0.014 230);
+  --ink: oklch(0.96 0.008 250);
+  --ink-muted: oklch(0.8 0.02 250);
+  --brand: oklch(0.8 0.12 185);
+  --brand-on: oklch(0.2 0.03 185);
 }
 
-.eyebrow {
-  position: relative;
-  z-index: 1;
-  display: inline-flex;
-  align-items: center;
-  gap: 0.35rem;
-  margin-bottom: 0.75rem;
-  padding: 0.2rem 0.6rem;
-  font-size: 0.78rem;
-  font-weight: 700;
-  letter-spacing: 0.04em;
-  color: #0f766e;
-  background: rgba(255, 255, 255, 0.72);
-  border-radius: 999px;
+.promo,
+.promo *,
+.promo *::before,
+.promo *::after {
+  box-sizing: border-box;
 }
+
+@supports (transition-timing-function: linear(0, 1)) {
+  .promo {
+    --spring: linear(
+      0, 0.009, 0.035 2.1%, 0.141, 0.281 6.7%, 0.723 12.9%, 0.938 16.7%, 1.017, 1.077, 1.121,
+      1.149 24.3%, 1.159, 1.163, 1.161, 1.154 29.9%, 1.129 32.8%, 1.051 39.6%, 1.017 43.1%,
+      0.991, 0.977 51%, 0.974 53.8%, 0.975 57.1%, 0.997 69.8%, 1.003 76.9%, 1.004 83.8%, 1
+    );
+  }
+}
+
+/* ============================================
+   Header: product name, pitch, calls to action
+   ============================================ */
 
 .inner {
-  position: relative;
-  z-index: 1;
   display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  gap: 1.25rem;
+  flex-direction: column;
+  gap: 1rem;
 }
 
 .copy {
-  flex: 1 1 auto;
   min-width: 0;
 }
 
-.title {
+.promo .title {
   margin: 0;
-  font-size: clamp(1.15rem, 2vw, 1.45rem);
-  line-height: 1.15;
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  font-weight: 800;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
 }
 
-.tagline {
-  margin: 0.35rem 0 0;
-  font-size: 1rem;
+.promo .tagline {
+  margin: 0.4rem 0 0;
+  font-size: 1.05rem;
   font-weight: 700;
-  color: #155e75;
+  color: var(--brand);
 }
 
-.description {
-  margin: 0.65rem 0 0;
-  max-width: 48rem;
+.promo .description {
+  margin: 0.55rem 0 0;
+  max-width: 44rem;
   font-size: 0.95rem;
   line-height: 1.7;
-  color: var(--promo-text-muted);
+  color: var(--ink-muted);
+  text-wrap: pretty;
 }
 
 .actions {
   display: flex;
-  flex: 0 0 auto;
   flex-wrap: wrap;
-  align-items: center;
-  gap: 0.75rem;
-  min-width: min(100%, 14rem);
+  gap: 0.6rem;
 }
 
 .ctaButton {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  min-height: 2.7rem;
-  padding: 0.75rem 1rem;
+  min-height: 2.75rem;
+  padding: 0.6rem 1.15rem;
   font-size: 0.92rem;
   font-weight: 700;
   text-decoration: none;
-  border-radius: 999px;
+  border-radius: 10px;
   border: 1px solid transparent;
-  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+  transition: transform 0.2s var(--ease-out), box-shadow 0.2s var(--ease-out), border-color 0.2s;
 }
 
 .ctaButton:hover {
@@ -103,703 +127,1046 @@
   text-decoration: none;
 }
 
+.ctaButton:active {
+  transform: translateY(0);
+}
+
 .ctaButton:focus-visible {
-  outline: 2px solid var(--ifm-color-primary);
+  outline: 2px solid var(--brand);
   outline-offset: 2px;
 }
 
 .ctaPrimary {
-  color: #fff;
-  background: linear-gradient(135deg, #0f766e, #0ea5a4);
-  box-shadow: 0 14px 26px -18px rgba(15, 118, 110, 0.7);
+  color: var(--brand-on);
+  background: var(--brand);
+  box-shadow: 0 6px 14px -8px oklch(0.3 0.08 185 / 0.55);
 }
 
 .ctaPrimary:hover {
-  color: #fff;
-  box-shadow: 0 18px 30px -18px rgba(15, 118, 110, 0.85);
+  color: var(--brand-on);
+  box-shadow: 0 10px 20px -10px oklch(0.3 0.08 185 / 0.6);
 }
 
 .ctaSecondary {
-  color: #0f172a;
-  background: rgba(255, 255, 255, 0.82);
-  border-color: rgba(148, 163, 184, 0.28);
+  color: var(--ink);
+  background: var(--card-bg);
+  border-color: var(--promo-line);
 }
 
 .ctaSecondary:hover {
-  color: #0f172a;
-  border-color: rgba(14, 116, 144, 0.35);
+  color: var(--ink);
+  border-color: var(--brand);
 }
 
 .page .actions {
   flex-direction: column;
+  flex-wrap: nowrap;
   align-items: stretch;
+}
+
+.ctaButton {
+  flex: 1 1 auto;
+}
+
+@container promo (min-width: 40rem) {
+  .inner {
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1.5rem;
+  }
+
+  .actions {
+    flex: 0 0 auto;
+    min-width: 13.5rem;
+  }
+
+  .ctaButton {
+    flex: none;
+  }
 }
 
 .modal {
   margin: 0 0 1rem;
-  padding: 1rem 1rem 1.1rem;
-  border-radius: 16px;
-}
-
-.modal .eyebrow {
-  margin-bottom: 0.65rem;
-}
-
-.modal .inner {
-  flex-direction: column;
-  gap: 0.9rem;
-}
-
-.modal .tagline {
-  font-size: 0.98rem;
-}
-
-.modal .description {
-  margin-top: 0.5rem;
-  font-size: 0.9rem;
-  line-height: 1.6;
-}
-
-.modal .highlights {
-  gap: 0.5rem;
-  margin-top: 0.75rem;
-}
-
-.modal .highlightItem {
-  font-size: 0.78rem;
+  padding: 1rem;
 }
 
 .modal .actions {
-  width: 100%;
-  min-width: 0;
+  flex-direction: row;
 }
 
 .modal .ctaButton {
   flex: 1 1 11rem;
 }
 
-.modal .featureGrid {
-  grid-template-columns: 1fr;
-  gap: 0.85rem;
-}
-
-.modal .featureCard:last-child {
-  grid-column: auto;
-}
-
-.modal .featureVisual {
-  min-height: 96px;
-}
-
-.modal .featureDescription {
-  font-size: 0.82rem;
-  line-height: 1.6;
-}
+/* ============================================
+   Showcase heading + grid
+   ============================================ */
 
 .showcaseHeader {
-  position: relative;
-  z-index: 1;
-  margin-top: 1.1rem;
-  padding-top: 1rem;
-  border-top: 1px solid rgba(148, 163, 184, 0.18);
+  margin-top: 1.5rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--promo-line);
 }
 
-.showcaseTitle {
+.promo .showcaseTitle {
   margin: 0;
-  font-size: 1rem;
+  font-size: 1.1rem;
   font-weight: 800;
-  letter-spacing: 0.01em;
-  color: #0f172a;
+  letter-spacing: -0.01em;
+  text-wrap: balance;
 }
 
-.showcaseSubtitle {
+.promo .showcaseSubtitle {
   margin: 0.3rem 0 0;
   max-width: 46rem;
   font-size: 0.88rem;
   line-height: 1.6;
-  color: var(--promo-text-muted);
+  color: var(--ink-muted);
+  text-wrap: pretty;
 }
 
 .featureGrid {
-  position: relative;
-  z-index: 1;
+  --stagger: 0s;
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 0.9rem;
-  margin-top: 0.95rem;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 1rem;
+  margin-top: 1rem;
 }
 
-.featureCard {
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  gap: 0.85rem;
-  min-width: 0;
-  padding: 1rem;
-  border-radius: 16px;
-  border: 1px solid rgba(148, 163, 184, 0.18);
-  background:
-    linear-gradient(180deg, rgba(255, 255, 255, 0.84), rgba(255, 255, 255, 0.6)),
-    radial-gradient(circle at top right, rgba(255, 255, 255, 0.45), transparent 52%);
-  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4);
-  overflow: hidden;
-}
-
-.featureCard::before {
-  content: '';
-  position: absolute;
-  inset: 0 auto auto 0;
-  width: 100%;
-  height: 3px;
-  background: var(--card-accent, linear-gradient(135deg, #14b8a6, #0ea5e9));
-}
-
-.featureCardTop {
-  display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  gap: 0.75rem;
-}
-
-.featureBadge {
-  display: inline-flex;
-  align-items: center;
-  min-height: 1.8rem;
-  padding: 0.18rem 0.55rem;
-  font-size: 0.72rem;
-  font-weight: 800;
-  letter-spacing: 0.08em;
-  color: var(--card-badge-color, #0f766e);
-  background: var(--card-badge-bg, rgba(20, 184, 166, 0.12));
-  border-radius: 999px;
-}
-
-.featureStat {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
-  gap: 0.12rem;
-}
-
-.featureStatValue {
-  font-size: 1.12rem;
-  font-weight: 900;
-  line-height: 1;
-  color: #0f172a;
-}
-
-.featureStatLabel {
-  font-size: 0.72rem;
-  font-weight: 700;
-  color: var(--promo-text-muted);
-}
-
-.featureCardBody {
-  min-width: 0;
-}
-
-.featureTitle {
-  margin: 0;
-  font-size: 1.05rem;
-  font-weight: 800;
-  color: #0f172a;
-}
-
-.featureSubtitle {
-  margin: 0.35rem 0 0;
-  font-size: 0.88rem;
-  font-weight: 700;
-  line-height: 1.5;
-  color: var(--card-badge-color, #0f766e);
-}
-
-.featureDescription {
-  margin: 0.55rem 0 0;
-  font-size: 0.84rem;
-  line-height: 1.7;
-  color: var(--promo-text-muted);
-}
-
-.featureHighlights {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.45rem;
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-.featureHighlight {
-  padding: 0.34rem 0.58rem;
-  font-size: 0.74rem;
-  font-weight: 700;
-  line-height: 1.35;
-  color: #0f172a;
-  background: rgba(255, 255, 255, 0.86);
-  border: 1px solid rgba(148, 163, 184, 0.18);
-  border-radius: 999px;
-}
-
-.featureVisual {
-  position: relative;
-  min-height: 108px;
-  padding: 0.8rem;
-  border: 1px solid rgba(148, 163, 184, 0.14);
-  border-radius: 14px;
-  background: rgba(255, 255, 255, 0.6);
-  overflow: hidden;
-}
-
-.featureVisual::after {
-  content: '';
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(120deg, transparent, rgba(255, 255, 255, 0.3), transparent);
-  transform: translateX(-100%);
-  animation: visualSweep 6s ease-in-out infinite;
-  pointer-events: none;
-}
-
-.workflowVisual {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 0.45rem;
-}
-
-.workflowStep {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 2rem;
-  padding: 0.35rem 0.45rem;
-  font-size: 0.72rem;
-  font-weight: 800;
-  color: #0f172a;
-  background: rgba(255, 255, 255, 0.9);
-  border: 1px solid rgba(148, 163, 184, 0.16);
-  border-radius: 999px;
-  animation: workflowPulse 5.6s ease-in-out infinite;
-}
-
-.workflowStep:nth-child(2) {
-  animation-delay: 0.8s;
-}
-
-.workflowStep:nth-child(3) {
-  animation-delay: 1.6s;
-}
-
-.workflowStep:nth-child(4) {
-  animation-delay: 2.4s;
-}
-
-.workflowLine {
-  position: relative;
-  height: 0.4rem;
-  margin-top: 0.8rem;
-  border-radius: 999px;
-  background: rgba(148, 163, 184, 0.18);
-  overflow: hidden;
-}
-
-.workflowProgress {
-  display: block;
-  width: 35%;
-  height: 100%;
-  border-radius: inherit;
-  background: linear-gradient(135deg, #14b8a6, #22d3ee);
-  animation: workflowProgress 4.8s ease-in-out infinite;
-}
-
-.efficientVisual {
-  display: flex;
-  flex-direction: column;
-  gap: 0.55rem;
-}
-
-.agentLane {
-  display: grid;
-  grid-template-columns: minmax(5.5rem, 6.5rem) 1fr;
-  gap: 0.5rem;
-  align-items: center;
-}
-
-.agentLaneName {
-  font-size: 0.72rem;
-  font-weight: 800;
-  color: #0f172a;
-}
-
-.agentLaneTasks {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.35rem;
-}
-
-.agentTaskPill {
-  display: inline-flex;
-  align-items: center;
-  min-height: 1.65rem;
-  padding: 0.25rem 0.5rem;
-  font-size: 0.7rem;
-  font-weight: 700;
-  color: #0f172a;
-  background: rgba(255, 255, 255, 0.86);
-  border: 1px solid rgba(148, 163, 184, 0.16);
-  border-radius: 999px;
-  animation: agentPulse 3.6s ease-in-out infinite;
-}
-
-.agentLane:nth-child(2) .agentTaskPill {
-  animation-delay: 0.35s;
-}
-
-.agentLane:nth-child(3) .agentTaskPill {
-  animation-delay: 0.7s;
-}
-
-.interestingVisual {
-  display: flex;
-  flex-direction: column;
-  gap: 0.7rem;
-}
-
-.galleryViewport {
-  position: relative;
-  overflow: hidden;
-  width: 100%;
-  min-width: 0;
-  mask-image: linear-gradient(90deg, transparent 0, black 6%, black 94%, transparent 100%);
-  -webkit-mask-image: linear-gradient(90deg, transparent 0, black 6%, black 94%, transparent 100%);
-}
-
-.galleryTrack {
-  display: flex;
-  gap: 0.9rem;
-  width: max-content;
-  animation: galleryMarquee 34s linear infinite;
-}
-
-.galleryViewport:hover .galleryTrack {
-  animation-play-state: paused;
-}
-
-.galleryCard {
-  position: relative;
-  flex: 0 0 clamp(5.5rem, 13vw, 7.5rem);
-  aspect-ratio: 1;
-  overflow: hidden;
-  border-radius: 1rem;
-  border: 1px solid rgba(148, 163, 184, 0.18);
-  background: rgba(241, 245, 249, 0.8);
-  box-shadow: 0 10px 24px -18px rgba(0, 0, 0, 0.12);
-}
-
-.galleryImage {
-  display: block;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-.metricRow {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 0.45rem;
-}
-
-.metricCard {
-  display: flex;
-  flex-direction: column;
-  gap: 0.12rem;
-  justify-content: center;
-  min-height: 3.2rem;
-  padding: 0.55rem 0.65rem;
-  border-radius: 12px;
-  background: rgba(255, 255, 255, 0.86);
-  border: 1px solid rgba(148, 163, 184, 0.16);
-}
-
-.metricCard strong {
-  font-size: 0.86rem;
-  line-height: 1.1;
-  color: #0f172a;
-}
-
-.metricCard small {
-  font-size: 0.68rem;
-  font-weight: 700;
-  color: var(--promo-text-muted);
-}
-
-.toneSmart {
-  --card-accent: linear-gradient(135deg, #0f766e, #0ea5a4);
-  --card-badge-bg: rgba(20, 184, 166, 0.12);
-  --card-badge-color: #0f766e;
-}
-
-.toneEfficient {
-  --card-accent: linear-gradient(135deg, #2563eb, #38bdf8);
-  --card-badge-bg: rgba(59, 130, 246, 0.12);
-  --card-badge-color: #1d4ed8;
-}
-
-.toneInteresting {
-  --card-accent: linear-gradient(135deg, #ea580c, #f59e0b);
-  --card-badge-bg: rgba(249, 115, 22, 0.12);
-  --card-badge-color: #c2410c;
-}
-
-:global([data-theme='dark']) .promo {
-  --promo-border: rgba(56, 189, 248, 0.22);
-  --promo-shadow: rgba(2, 132, 199, 0.24);
-  --promo-surface: linear-gradient(135deg, rgba(6, 78, 59, 0.62), rgba(124, 45, 18, 0.34));
-  --promo-text-muted: rgba(226, 232, 240, 0.92);
-}
-
-:global([data-theme='dark']) .eyebrow {
-  color: #99f6e4;
-  background: rgba(15, 23, 42, 0.72);
-}
-
-:global([data-theme='dark']) .tagline {
-  color: #67e8f9;
-}
-
-:global([data-theme='dark']) .ctaSecondary {
-  color: #e2e8f0;
-  background: rgba(15, 23, 42, 0.72);
-  border-color: rgba(148, 163, 184, 0.2);
-}
-
-:global([data-theme='dark']) .ctaSecondary:hover {
-  color: #f8fafc;
-  border-color: rgba(103, 232, 249, 0.36);
-}
-
-:global([data-theme='dark']) .showcaseHeader {
-  border-top-color: rgba(148, 163, 184, 0.16);
-}
-
-:global([data-theme='dark']) .showcaseTitle,
-:global([data-theme='dark']) .featureTitle,
-:global([data-theme='dark']) .featureStatValue {
-  color: #f8fafc;
-}
-
-:global([data-theme='dark']) .featureCard {
-  background:
-    linear-gradient(180deg, rgba(15, 23, 42, 0.72), rgba(15, 23, 42, 0.48)),
-    radial-gradient(circle at top right, rgba(255, 255, 255, 0.08), transparent 52%);
-  border-color: rgba(148, 163, 184, 0.16);
-  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.04);
-}
-
-:global([data-theme='dark']) .featureVisual {
-  background: rgba(2, 6, 23, 0.34);
-  border-color: rgba(148, 163, 184, 0.12);
-}
-
-:global([data-theme='dark']) .featureHighlight {
-  color: #e2e8f0;
-  background: rgba(15, 23, 42, 0.82);
-  border-color: rgba(148, 163, 184, 0.16);
-}
-
-:global([data-theme='dark']) .workflowStep,
-:global([data-theme='dark']) .agentTaskPill,
-:global([data-theme='dark']) .metricCard {
-  color: #e2e8f0;
-  background: rgba(15, 23, 42, 0.78);
-  border-color: rgba(148, 163, 184, 0.16);
-}
-
-:global([data-theme='dark']) .agentLaneName,
-:global([data-theme='dark']) .metricCard strong {
-  color: #f8fafc;
-}
-
-:global([data-theme='dark']) .promo::after {
-  background: linear-gradient(120deg, rgba(255, 255, 255, 0.06), transparent 42%);
-}
-
-:global([data-theme='dark']) .toneSmart {
-  --card-badge-color: #5eead4;
-  --card-badge-bg: rgba(20, 184, 166, 0.18);
-}
-
-:global([data-theme='dark']) .toneEfficient {
-  --card-badge-color: #93c5fd;
-  --card-badge-bg: rgba(59, 130, 246, 0.18);
-}
-
-:global([data-theme='dark']) .toneInteresting {
-  --card-badge-color: #fdba74;
-  --card-badge-bg: rgba(249, 115, 22, 0.18);
-}
-
-:global([data-theme='dark']) .galleryCard {
-  border-color: rgba(255, 255, 255, 0.12);
-  background: rgba(8, 15, 32, 0.6);
-  box-shadow: 0 10px 24px -18px rgba(234, 88, 12, 0.4);
-}
-
-@media (max-width: 767px) {
-  .promo {
-    padding: 1rem;
-    border-radius: 16px;
-  }
-
-  .inner,
-  .page .inner {
-    flex-direction: column;
-  }
-
-  .actions,
-  .page .actions,
-  .modal .actions {
-    width: 100%;
-    min-width: 0;
-    flex-direction: column;
-    align-items: stretch;
-  }
-
-  .ctaButton,
-  .modal .ctaButton {
-    width: 100%;
-    flex: none;
-  }
-
-  .featureGrid {
-    grid-template-columns: 1fr;
-  }
-
-  .featureHighlight {
-    width: 100%;
-    border-radius: 12px;
-  }
-
-  .workflowVisual {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-
-  .agentLane {
-    grid-template-columns: 1fr;
-  }
-
-  .metricRow {
-    grid-template-columns: 1fr;
-  }
-}
-
-@media (min-width: 768px) and (max-width: 1023px) {
+/* Two columns: the third card lies across the bottom, stage left and copy right. */
+@container promo (min-width: 40rem) {
   .featureGrid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .featureCard:last-child {
     grid-column: 1 / -1;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  }
+
+  .featureCard:last-child .stage {
+    border-bottom: 0;
+    border-right: 1px solid var(--stage-line);
   }
 }
 
-@media (max-width: 575px) {
-  .showcaseHeader {
-    margin-top: 0.95rem;
-    padding-top: 0.9rem;
+@container promo (min-width: 62rem) {
+  .featureGrid {
+    --stagger: 0.3s;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
-  .showcaseSubtitle {
-    font-size: 0.84rem;
+  .featureCard:last-child {
+    grid-column: auto;
+    display: flex;
   }
 
-  .featureCard {
-    padding: 0.9rem;
+  .featureCard:last-child .stage {
+    border-right: 0;
+    border-bottom: 1px solid var(--stage-line);
+  }
+}
+
+/* ============================================
+   Card
+   ============================================ */
+
+.featureCard {
+  --hue: 185;
+  --acc: oklch(0.8 0.13 var(--hue));
+  --acc-ink: oklch(0.45 0.12 var(--hue));
+  --d: calc(var(--idx, 0) * var(--stagger, 0s));
+
+  --stage: oklch(0.205 0.03 var(--hue));
+  --stage-ink: oklch(0.95 0.01 var(--hue));
+  --stage-muted: oklch(0.77 0.03 var(--hue));
+  --stage-dim: oklch(0.33 0.04 var(--hue));
+  --stage-line: oklch(0.34 0.04 var(--hue));
+  --stage-row: oklch(0.27 0.035 var(--hue));
+
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  border: 1px solid var(--promo-line);
+  border-radius: 12px;
+  background: var(--card-bg);
+  overflow: hidden;
+  transition: border-color 0.25s;
+}
+
+.featureCard[data-tone='efficient'] {
+  --hue: 255;
+}
+
+.featureCard[data-tone='interesting'] {
+  --hue: 55;
+}
+
+:global([data-theme='dark']) .featureCard {
+  --acc-ink: oklch(0.84 0.1 var(--hue));
+  --stage: oklch(0.175 0.03 var(--hue));
+}
+
+/* Cursor-follow light behind the copy. The stage keeps its own flat surface so text contrast never moves. */
+.featureCard::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  border-radius: inherit;
+  background: radial-gradient(
+    18rem circle at var(--mx, 50%) var(--my, 100%),
+    color-mix(in oklch, var(--acc) 22%, transparent),
+    transparent 65%
+  );
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .featureCard:hover {
+    border-color: color-mix(in oklch, var(--acc-ink) 55%, var(--promo-line));
   }
 
-  .featureCardTop {
-    flex-direction: column;
+  .featureCard:hover::after {
+    opacity: 1;
+  }
+}
+
+/* ============================================
+   Stage (the demo)
+   ============================================ */
+
+.stage {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  background: var(--stage);
+  color: var(--stage-ink);
+  border-bottom: 1px solid var(--stage-line);
+}
+
+.stageChrome {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-height: 2.25rem;
+  padding: 0 0.4rem 0 0.9rem;
+  border-bottom: 1px solid var(--stage-line);
+}
+
+.stageLabel {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.55rem;
+  min-width: 0;
+  margin-right: auto;
+  font-size: 0.7rem;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.stageLabel b {
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  color: var(--acc);
+}
+
+.stageLabel span {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-family: var(--ifm-font-family-monospace);
+  color: var(--stage-muted);
+}
+
+.stageStatus {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.7rem;
+  font-weight: 700;
+  white-space: nowrap;
+  color: var(--stage-ink);
+}
+
+.stageStatus::before {
+  content: '';
+  width: 0.4rem;
+  height: 0.4rem;
+  border-radius: 50%;
+  background: var(--acc);
+}
+
+.replay {
+  display: grid;
+  place-items: center;
+  flex: none;
+  width: 1.75rem;
+  height: 1.75rem;
+  padding: 0;
+  color: var(--stage-muted);
+  background: transparent;
+  border: 0;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: color 0.15s, background-color 0.15s;
+}
+
+.replay svg {
+  width: 0.95rem;
+  height: 0.95rem;
+  stroke: currentColor;
+  stroke-width: 1.5;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.replay:hover {
+  color: var(--stage-ink);
+  background: var(--stage-row);
+}
+
+.replay:focus-visible {
+  outline: 2px solid var(--acc);
+  outline-offset: -2px;
+}
+
+/* Nothing to replay when the stage never animates. */
+.featureCard[data-phase='static'] .replay {
+  visibility: hidden;
+}
+
+.stageFresh {
+  animation: bodyIn 0.4s ease-out;
+}
+
+.stageBody {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 0.85rem;
+  min-height: 12.5rem;
+  padding: 1rem 0.9rem;
+}
+
+/* ============================================
+   Smart: Idea -> Proposal -> Tasks -> Archive
+   ============================================ */
+
+.rail {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.railLine {
+  position: absolute;
+  left: 12.5%;
+  right: 12.5%;
+  top: calc(0.45rem - 1px);
+  height: 2px;
+  background: var(--stage-dim);
+  overflow: hidden;
+}
+
+.railFill {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: var(--acc);
+  transform-origin: left;
+}
+
+.railNode {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.45rem;
+}
+
+.railDot {
+  width: 0.9rem;
+  height: 0.9rem;
+  border-radius: 50%;
+  background: var(--acc);
+  border: 2px solid var(--stage);
+  box-shadow: 0 0 0 2px var(--acc);
+}
+
+.railLabel {
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: var(--stage-ink);
+}
+
+.specRows,
+.report {
+  display: grid;
+  gap: 0.35rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.specRows {
+  grid-auto-rows: minmax(1.9rem, 2.4rem);
+}
+
+/* Taller sibling stages stretch this one; keep rail + checklist together instead of splitting them apart. */
+.stageBody:has(.specRows) {
+  justify-content: center;
+  gap: 1.2rem;
+}
+
+.specRow,
+.reportRow {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-height: 1.9rem;
+  padding: 0.25rem 0.55rem;
+  border-radius: 8px;
+  background: var(--stage-row);
+  font-size: 0.76rem;
+  line-height: 1.3;
+  color: var(--stage-ink);
+}
+
+.check {
+  display: grid;
+  place-items: center;
+  flex: none;
+  width: 1rem;
+  height: 1rem;
+  border-radius: 4px;
+  background: var(--acc);
+  box-shadow: inset 0 0 0 1.5px var(--acc);
+}
+
+.check svg {
+  width: 0.78rem;
+  height: 0.78rem;
+  stroke: var(--stage);
+  stroke-width: 2.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.check path {
+  stroke-dasharray: 1;
+  stroke-dashoffset: 0;
+}
+
+.arrow {
+  flex: none;
+  width: 0.8rem;
+  height: 0.8rem;
+  stroke: var(--stage-muted);
+  stroke-width: 1.5;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+/* ============================================
+   Efficient: several CLI sessions side by side
+   ============================================ */
+
+.cliPanes {
+  display: grid;
+  gap: 0.45rem;
+}
+
+.cliPane {
+  border: 1px solid var(--stage-line);
+  border-radius: 8px;
+  background: var(--stage-row);
+  overflow: hidden;
+}
+
+.cliBar {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-height: 1.6rem;
+  padding: 0 0.55rem;
+  border-bottom: 1px solid var(--stage-line);
+  font-size: 0.7rem;
+  color: var(--stage-ink);
+}
+
+.cliBar b {
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.cliCmd {
+  margin-left: auto;
+  font-family: var(--ifm-font-family-monospace);
+  font-size: 0.66rem;
+  color: var(--stage-muted);
+  white-space: nowrap;
+}
+
+.cliState {
+  position: relative;
+  flex: none;
+  width: 0.75rem;
+  height: 0.75rem;
+}
+
+.cliSpinner,
+.cliDone {
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+}
+
+.cliSpinner {
+  border: 2px solid var(--stage-dim);
+  border-top-color: var(--acc);
+  opacity: 0;
+}
+
+.cliDone {
+  background: var(--acc);
+}
+
+.cliDone::after {
+  content: '';
+  position: absolute;
+  left: 0.27rem;
+  top: 0.12rem;
+  width: 0.2rem;
+  height: 0.38rem;
+  border: solid var(--stage);
+  border-width: 0 1.5px 1.5px 0;
+  rotate: 45deg;
+}
+
+.cliLines {
+  display: grid;
+  gap: 0.2rem;
+  margin: 0;
+  padding: 0.4rem 0.55rem 0.45rem;
+  list-style: none;
+  font-family: var(--ifm-font-family-monospace);
+  font-size: 0.68rem;
+  line-height: 1.35;
+}
+
+.cliLine {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  min-width: 0;
+  color: var(--stage-ink);
+}
+
+.cliLine::before {
+  content: '';
+  flex: none;
+  width: 0.34rem;
+  height: 0.34rem;
+  border-radius: 1px;
+  background: var(--stage-muted);
+}
+
+.cliOk::before {
+  border-radius: 50%;
+  background: var(--acc);
+}
+
+.cliOk .cliText {
+  color: var(--acc);
+}
+
+.cliText,
+.cliFootText {
+  display: block;
+  min-width: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.cliFoot {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  margin: 0;
+  padding-top: 0.7rem;
+  border-top: 1px solid var(--stage-line);
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--stage-ink);
+}
+
+.cliFoot::before {
+  content: '';
+  flex: none;
+  width: 0.4rem;
+  height: 0.4rem;
+  border-radius: 50%;
+  background: var(--acc);
+}
+
+/* ============================================
+   Interesting: hero fan + battle report
+   ============================================ */
+
+.fan {
+  position: relative;
+  height: 6rem;
+}
+
+.fanCard {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  width: 3.9rem;
+  height: 5.2rem;
+  margin-left: -1.95rem;
+  border-radius: 8px;
+  border: 2px solid var(--stage-ink);
+  background: var(--stage-row);
+  overflow: hidden;
+  box-shadow: 0 8px 14px -6px oklch(0.1 0.03 var(--hue) / 0.7);
+  translate: var(--x) var(--y);
+  rotate: var(--r);
+  transition: translate 0.5s var(--spring), rotate 0.5s var(--spring);
+}
+
+.fanCard img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.fanCard:hover {
+  translate: var(--x) calc(var(--y) - 0.7rem);
+  rotate: calc(var(--r) * 0.4);
+}
+
+.reportRow > span:first-child {
+  margin-right: auto;
+  font-weight: 700;
+}
+
+.reportValue {
+  font-variant-numeric: tabular-nums;
+  color: var(--stage-muted);
+}
+
+.reportValue strong {
+  font-size: 0.82rem;
+  color: var(--acc);
+}
+
+.team {
+  display: inline-flex;
+}
+
+.team img {
+  width: 1.3rem;
+  height: 1.3rem;
+  margin-left: -0.4rem;
+  object-fit: cover;
+  border-radius: 5px;
+  border: 2px solid var(--stage-row);
+  background: var(--stage-row);
+}
+
+.team img:first-child {
+  margin-left: 0;
+}
+
+/* ============================================
+   Copy + outcome
+   ============================================ */
+
+.cardBody {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  padding: 1.1rem 1.1rem 1rem;
+}
+
+.promo .featureTitle {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  color: var(--ink);
+}
+
+.promo .featureSubtitle {
+  margin: 0.45rem 0 0;
+  font-size: 0.92rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: var(--acc-ink);
+  text-wrap: balance;
+}
+
+.promo .featureDescription {
+  margin: 0.6rem 0 0;
+  font-size: 0.86rem;
+  line-height: 1.7;
+  color: var(--ink-muted);
+  text-wrap: pretty;
+}
+
+.outcome {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-top: auto;
+  padding-top: 0.8rem;
+  border-top: 1px solid var(--promo-line);
+}
+
+.featureDescription + .srOnly + .outcome {
+  margin-top: 1.1rem;
+}
+
+.outcomeLabel {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--ink-muted);
+}
+
+.outcomeValue {
+  font-size: 1.3rem;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.01em;
+  font-variant-numeric: tabular-nums;
+  color: var(--acc-ink);
+}
+
+.count {
+  --count: var(--to, 0);
+  counter-reset: n var(--count);
+}
+
+.count::after {
+  content: counter(n);
+}
+
+.srOnly {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+  list-style: none;
+}
+
+/* Where subgrid exists, the stages (and the copy blocks) of cards in one row share heights.
+   Kept after the base .featureCard rule so display: grid wins. */
+@supports (grid-template-rows: subgrid) {
+  @container promo (min-width: 40rem) {
+    .featureGrid {
+      grid-template-rows: auto 1fr;
+    }
+
+    .featureCard {
+      display: grid;
+      grid-row: span 2;
+      grid-template-rows: subgrid;
+      row-gap: 0;
+    }
+
+    .featureCard:last-child {
+      grid-row: auto;
+      grid-template-rows: none;
+    }
   }
 
-  .featureStat {
-    align-items: flex-start;
+  @container promo (min-width: 62rem) {
+    .featureCard:last-child {
+      display: grid;
+      grid-row: span 2;
+      grid-template-rows: subgrid;
+      grid-template-columns: none;
+    }
+  }
+}
+
+/* ============================================
+   Starting states (data-phase='pre')
+   ============================================ */
+
+.featureCard[data-phase='pre'] .railFill {
+  transform: scaleX(0);
+}
+
+.featureCard[data-phase='pre'] .cliText,
+.featureCard[data-phase='pre'] .cliFootText {
+  clip-path: inset(0 100% 0 0);
+}
+
+.featureCard[data-phase='pre'] .cliLine::before,
+.featureCard[data-phase='pre'] .cliFoot::before {
+  opacity: 0;
+}
+
+.featureCard[data-phase='pre'] .cliSpinner {
+  opacity: 1;
+}
+
+.featureCard[data-phase='pre'] .cliDone {
+  opacity: 0;
+}
+
+.featureCard[data-phase='pre'] .railDot {
+  background: var(--stage);
+  box-shadow: 0 0 0 2px var(--stage-dim);
+}
+
+.featureCard[data-phase='pre'] .railLabel,
+.featureCard[data-phase='pre'] .specRow {
+  color: var(--stage-muted);
+}
+
+.featureCard[data-phase='pre'] .check {
+  background: transparent;
+  box-shadow: inset 0 0 0 1.5px var(--stage-dim);
+}
+
+.featureCard[data-phase='pre'] .check path {
+  stroke-dashoffset: 1;
+}
+
+.featureCard[data-phase='pre'] .stageStatus {
+  opacity: 0;
+}
+
+.featureCard[data-phase='pre'] .fanCard {
+  translate: 0 0.5rem;
+  rotate: 0deg;
+  scale: 0.86;
+  opacity: 0;
+}
+
+.featureCard[data-phase='pre'] .reportRow {
+  opacity: 0;
+  translate: 0 0.4rem;
+}
+
+.featureCard[data-phase='pre'] .count {
+  --count: 0;
+}
+
+/* ============================================
+   The performance (data-phase='play')
+   ============================================ */
+
+.featureCard[data-phase='play'] .railFill {
+  animation: grow 2.4s linear calc(var(--d) + 0.15s) backwards;
+}
+
+.featureCard[data-phase='play'] .railDot {
+  animation: dotOn 0.5s var(--ease-out) calc(var(--d) + 0.15s + var(--i) * 0.8s) backwards;
+}
+
+.featureCard[data-phase='play'] .railLabel {
+  animation: inkIn 0.4s ease-out calc(var(--d) + 0.15s + var(--i) * 0.8s) backwards;
+}
+
+.featureCard[data-phase='play'] .specRow {
+  animation: inkIn 0.4s ease-out calc(var(--d) + 0.55s + var(--i) * 0.8s) backwards;
+}
+
+.featureCard[data-phase='play'] .check {
+  animation: boxOn 0.3s ease-out calc(var(--d) + 0.55s + var(--i) * 0.8s) backwards;
+}
+
+.featureCard[data-phase='play'] .check path {
+  animation: draw 0.35s ease-out calc(var(--d) + 0.7s + var(--i) * 0.8s) backwards;
+}
+
+.featureCard[data-phase='play'] .stageStatus {
+  animation: statusIn 0.45s var(--ease-out) calc(var(--d) + var(--status-at, 2s)) backwards;
+}
+
+.featureCard[data-phase='play'] .cliText,
+.featureCard[data-phase='play'] .cliFootText {
+  animation: typeIn var(--tdur) steps(var(--n), end) calc(var(--d) + var(--ls)) backwards;
+}
+
+.featureCard[data-phase='play'] .cliLine::before,
+.featureCard[data-phase='play'] .cliFoot::before {
+  animation: markIn 0.2s ease-out calc(var(--d) + var(--ls)) backwards;
+}
+
+.featureCard[data-phase='play'] .cliSpinner {
+  animation:
+    spin 0.7s linear infinite,
+    spinOut 0.2s ease calc(var(--d) + var(--pe)) backwards;
+}
+
+.featureCard[data-phase='play'] .cliDone {
+  animation: doneIn 0.4s var(--ease-out) calc(var(--d) + var(--pe)) backwards;
+}
+
+.featureCard[data-phase='play'] .fanCard {
+  animation: deal 1s var(--spring) calc(var(--d) + 0.1s + var(--k) * 0.08s) backwards;
+}
+
+.featureCard[data-phase='play'] .reportRow {
+  animation: rise 0.5s var(--ease-out) calc(var(--d) + 0.9s + var(--i) * 0.16s) backwards;
+}
+
+.featureCard[data-phase='play'] .count {
+  animation: countUp 1.5s var(--ease-out) calc(var(--d) + 0.3s) backwards;
+}
+
+@keyframes grow {
+  from {
+    transform: scaleX(0);
+  }
+}
+
+@keyframes typeIn {
+  from {
+    clip-path: inset(0 100% 0 0);
+  }
+}
+
+@keyframes markIn {
+  from {
+    opacity: 0;
+  }
+}
+
+@keyframes spin {
+  to {
+    rotate: 360deg;
+  }
+}
+
+@keyframes spinOut {
+  from {
+    opacity: 1;
+  }
+}
+
+@keyframes doneIn {
+  from {
+    opacity: 0;
+    scale: 0.4;
+  }
+}
+
+@keyframes bodyIn {
+  from {
+    opacity: 0;
+  }
+}
+
+@keyframes dotOn {
+  from {
+    background: var(--stage);
+    box-shadow: 0 0 0 2px var(--stage-dim);
+    scale: 1;
+  }
+  55% {
+    scale: 1.4;
+  }
+}
+
+@keyframes inkIn {
+  from {
+    color: var(--stage-muted);
+  }
+}
+
+@keyframes boxOn {
+  from {
+    background: transparent;
+    box-shadow: inset 0 0 0 1.5px var(--stage-dim);
+  }
+}
+
+@keyframes draw {
+  from {
+    stroke-dashoffset: 1;
+  }
+}
+
+@keyframes statusIn {
+  from {
+    opacity: 0;
+    translate: 0 0.3rem;
+  }
+}
+
+@keyframes deal {
+  from {
+    translate: 0 0.5rem;
+    rotate: 0deg;
+    scale: 0.86;
+    opacity: 0;
+  }
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    translate: 0 0.4rem;
+  }
+}
+
+@keyframes countUp {
+  from {
+    --count: 0;
+  }
+}
+
+/* ============================================
+   Small containers: pack the stage a little tighter
+   ============================================ */
+
+@container promo (max-width: 26rem) {
+  .promo .stageBody {
+    padding: 0.9rem 0.75rem;
+  }
+
+  .promo .cardBody {
+    padding: 1rem 0.9rem 0.9rem;
   }
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .ctaButton {
+  .ctaButton,
+  .featureCard,
+  .featureCard::after,
+  .fanCard,
+  .replay {
     transition: none;
   }
-
-  .promo::after {
-    display: none;
-  }
-
-  .featureVisual::after,
-  .workflowStep,
-  .workflowProgress,
-  .agentTaskPill,
-  .galleryTrack {
-    animation: none;
-  }
 }
 
-@keyframes visualSweep {
-  0%,
-  18% {
-    transform: translateX(-100%);
-  }
-  48% {
-    transform: translateX(120%);
-  }
-  100% {
-    transform: translateX(120%);
-  }
-}
-
-@keyframes workflowPulse {
-  0%,
-  100% {
-    transform: translateY(0);
-    box-shadow: none;
-    opacity: 0.72;
-  }
-  18% {
-    transform: translateY(-2px);
-    box-shadow: 0 12px 24px -18px rgba(15, 118, 110, 0.9);
-    opacity: 1;
-  }
-}
-
-@keyframes workflowProgress {
-  0% {
-    transform: translateX(-120%);
-  }
-  45%,
-  55% {
-    transform: translateX(120%);
-  }
-  100% {
-    transform: translateX(120%);
-  }
-}
-
-@keyframes agentPulse {
-  0%,
-  100% {
-    opacity: 0.76;
-    transform: translateY(0);
-  }
-  50% {
-    opacity: 1;
-    transform: translateY(-1px);
-  }
-}
-
-@keyframes galleryMarquee {
-  0% {
-    transform: translateX(0);
-  }
-  100% {
-    transform: translateX(calc(-50% - 0.45rem));
+@media (prefers-contrast: more) {
+  .featureCard,
+  .promo {
+    border-width: 2px;
   }
 }
