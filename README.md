@@ -1,5 +1,8 @@
 # newbe
 
+[![last commit](https://img.shields.io/github/last-commit/HagiCode-org/newbe)](https://github.com/HagiCode-org/newbe/commits/main)
+[![website](https://img.shields.io/website?url=https%3A%2F%2Fnewbe.hagicode.com&label=website)](https://newbe.hagicode.com)
+
 `newbe` 是一个基于 Docusaurus 的静态站点，生产地址为 [newbe.hagicode.com](https://newbe.hagicode.com)。
 
 ## 本地启动
