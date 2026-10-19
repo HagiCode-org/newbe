@@ -3040,14 +3040,14 @@ Electron. 国内直接从官网 https://electronjs.org/ 下载比较困难，需
 
 
 
-
-
-
-
 ## 44.1
 
 - [44.1.0](https://mirrors.huaweicloud.com/electron/44.1.0/)
 - [44.1.1](https://mirrors.huaweicloud.com/electron/44.1.1/)
+
+
+
+
 
 
 
@@ -3098,6 +3098,12 @@ Electron. 国内直接从官网 https://electronjs.org/ 下载比较困难，需
 ## 44.8
 
 - [44.8.0](https://mirrors.huaweicloud.com/electron/44.8.0/)
+
+
+
+## 44.9
+
+- [44.9.0](https://mirrors.huaweicloud.com/electron/44.9.0/)
 
 
 
