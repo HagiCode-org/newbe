@@ -31,7 +31,7 @@ Requires Node.js 24+. The `node --test` suites (plugin integration and footer ch
 - `src/`: site customizations
 - `tests/`: `node:test` suites (`*.test.cjs`) guarding the HagiLight plugin integration
 - `tools/`: Python (Pipenv/invoke) mirror generator, with its own tests in `tools/tests/`
-- `.github/workflows/`: `newbe-deploy-gh-pages.yml` (deploy) and `mirror-update.yml` (daily mirror regeneration that commits to `main`)
+- `.github/workflows/`: `newbe-deploy-gh-pages.yml` (deploy) and `mirror-update.yml` (daily mirror regeneration that commits to `main`); `compress-images.yml` (image compression on PRs/pushes touching jpg/png/webp) and `labeler.yml` (PR labeler)
 - `docusaurus.config.mjs`: Docusaurus configuration (ESM; `@hagicode/hagilight-docusaurus` is ESM-only)
 
 ## Agent Guidelines
