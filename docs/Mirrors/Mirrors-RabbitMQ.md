@@ -154,10 +154,6 @@ RabbitMQ. 国内直接从官网 https://www.rabbitmq.com 下载比较困难，�
 
 
 
-
-
-
-
 ## 3.9
 
 - [v3.9.0](https://repo.huaweicloud.com/rabbitmq-server/v3.9.0/)
@@ -182,6 +178,10 @@ RabbitMQ. 国内直接从官网 https://www.rabbitmq.com 下载比较困难，�
 - [v3.9.27](https://repo.huaweicloud.com/rabbitmq-server/v3.9.27/)
 - [v3.9.28](https://repo.huaweicloud.com/rabbitmq-server/v3.9.28/)
 - [v3.9.29](https://repo.huaweicloud.com/rabbitmq-server/v3.9.29/)
+
+
+
+
 
 
 
@@ -377,6 +377,12 @@ RabbitMQ. 国内直接从官网 https://www.rabbitmq.com 下载比较困难，�
 - [v4.3.4](https://repo.huaweicloud.com/rabbitmq-server/v4.3.4/)
 - [v4.3.5](https://repo.huaweicloud.com/rabbitmq-server/v4.3.5/)
 - [v4.3.6](https://repo.huaweicloud.com/rabbitmq-server/v4.3.6/)
+
+
+
+## 4.4
+
+- [v4.4.0](https://repo.huaweicloud.com/rabbitmq-server/v4.4.0/)
 
 
 
