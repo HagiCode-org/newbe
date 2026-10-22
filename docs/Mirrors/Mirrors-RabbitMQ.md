@@ -377,6 +377,7 @@ RabbitMQ. 国内直接从官网 https://www.rabbitmq.com 下载比较困难，�
 - [v4.3.4](https://repo.huaweicloud.com/rabbitmq-server/v4.3.4/)
 - [v4.3.5](https://repo.huaweicloud.com/rabbitmq-server/v4.3.5/)
 - [v4.3.6](https://repo.huaweicloud.com/rabbitmq-server/v4.3.6/)
+- [v4.3.7](https://repo.huaweicloud.com/rabbitmq-server/v4.3.7/)
 
 
 

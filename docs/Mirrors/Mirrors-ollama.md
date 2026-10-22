@@ -17,25 +17,69 @@ ollama. 国内直接从官网 https://github.com/ollama/ollama/ 下载比较困�
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
-## v0.40.7-rc1
+## v0.40.9-rc1
 
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7-rc1/install.ps1" text="install.ps1" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7-rc1/install.sh" text="install.sh" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7-rc1/ollama-darwin.tgz" text="ollama-darwin.tgz" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7-rc1/Ollama-darwin.zip" text="Ollama-darwin.zip" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7-rc1/ollama-linux-amd64-mlx.tar.zst" text="ollama-linux-amd64-mlx.tar.zst" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7-rc1/ollama-linux-amd64-rocm.tar.zst" text="ollama-linux-amd64-rocm.tar.zst" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7-rc1/ollama-linux-amd64.tar.zst" text="ollama-linux-amd64.tar.zst" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7-rc1/ollama-linux-arm64-jetpack5.tar.zst" text="ollama-linux-arm64-jetpack5.tar.zst" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7-rc1/ollama-linux-arm64-jetpack6.tar.zst" text="ollama-linux-arm64-jetpack6.tar.zst" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7-rc1/ollama-linux-arm64.tar.zst" text="ollama-linux-arm64.tar.zst" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7-rc1/ollama-windows-amd64-mlx.zip" text="ollama-windows-amd64-mlx.zip" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7-rc1/ollama-windows-amd64-rocm.zip" text="ollama-windows-amd64-rocm.zip" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7-rc1/ollama-windows-amd64.zip" text="ollama-windows-amd64.zip" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7-rc1/ollama-windows-arm64.zip" text="ollama-windows-arm64.zip" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7-rc1/Ollama.dmg" text="Ollama.dmg" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7-rc1/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7-rc1/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.9-rc1/install.ps1" text="install.ps1" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.9-rc1/install.sh" text="install.sh" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.9-rc1/ollama-darwin.tgz" text="ollama-darwin.tgz" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.9-rc1/Ollama-darwin.zip" text="Ollama-darwin.zip" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.9-rc1/ollama-linux-amd64-mlx.tar.zst" text="ollama-linux-amd64-mlx.tar.zst" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.9-rc1/ollama-linux-amd64-rocm.tar.zst" text="ollama-linux-amd64-rocm.tar.zst" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.9-rc1/ollama-linux-amd64.tar.zst" text="ollama-linux-amd64.tar.zst" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.9-rc1/ollama-linux-arm64-jetpack5.tar.zst" text="ollama-linux-arm64-jetpack5.tar.zst" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.9-rc1/ollama-linux-arm64-jetpack6.tar.zst" text="ollama-linux-arm64-jetpack6.tar.zst" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.9-rc1/ollama-linux-arm64.tar.zst" text="ollama-linux-arm64.tar.zst" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.9-rc1/ollama-windows-amd64-mlx.zip" text="ollama-windows-amd64-mlx.zip" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.9-rc1/ollama-windows-amd64-rocm.zip" text="ollama-windows-amd64-rocm.zip" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.9-rc1/ollama-windows-amd64.zip" text="ollama-windows-amd64.zip" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.9-rc1/ollama-windows-arm64.zip" text="ollama-windows-arm64.zip" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.9-rc1/Ollama.dmg" text="Ollama.dmg" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.9-rc1/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.9-rc1/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" />
+
+
+
+## v0.40.8
+
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.8/install.ps1" text="install.ps1" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.8/install.sh" text="install.sh" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.8/ollama-darwin.tgz" text="ollama-darwin.tgz" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-3wJtA", "paidShareUrl": null, "isLatest": false, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-10-21T21:48:31.302Z"}]} />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.8/Ollama-darwin.zip" text="Ollama-darwin.zip" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-Z06cA", "paidShareUrl": null, "isLatest": false, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-10-21T21:49:16.252Z"}]} />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.8/ollama-linux-amd64-mlx.tar.zst" text="ollama-linux-amd64-mlx.tar.zst" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.8/ollama-linux-amd64-rocm.tar.zst" text="ollama-linux-amd64-rocm.tar.zst" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-MiocA", "paidShareUrl": null, "isLatest": false, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-10-21T21:52:38.914Z"}]} />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.8/ollama-linux-amd64.tar.zst" text="ollama-linux-amd64.tar.zst" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.8/ollama-linux-arm64-jetpack5.tar.zst" text="ollama-linux-arm64-jetpack5.tar.zst" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.8/ollama-linux-arm64-jetpack6.tar.zst" text="ollama-linux-arm64-jetpack6.tar.zst" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-eKNeA", "paidShareUrl": null, "isLatest": false, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-10-21T21:57:30.137Z"}]} />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.8/ollama-linux-arm64.tar.zst" text="ollama-linux-arm64.tar.zst" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.8/ollama-windows-amd64-mlx.zip" text="ollama-windows-amd64-mlx.zip" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.8/ollama-windows-amd64-rocm.zip" text="ollama-windows-amd64-rocm.zip" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.8/ollama-windows-amd64.zip" text="ollama-windows-amd64.zip" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.8/ollama-windows-arm64.zip" text="ollama-windows-arm64.zip" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.8/Ollama.dmg" text="Ollama.dmg" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-8fmeA", "paidShareUrl": null, "isLatest": false, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-10-21T22:10:13.217Z"}]} />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.8/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.8/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-UnueA", "paidShareUrl": null, "isLatest": false, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-10-21T22:14:37.507Z"}]} />
+
+
+
+## v0.40.7
+
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7/install.ps1" text="install.ps1" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7/install.sh" text="install.sh" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7/ollama-darwin.tgz" text="ollama-darwin.tgz" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7/Ollama-darwin.zip" text="Ollama-darwin.zip" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7/ollama-linux-amd64-mlx.tar.zst" text="ollama-linux-amd64-mlx.tar.zst" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7/ollama-linux-amd64-rocm.tar.zst" text="ollama-linux-amd64-rocm.tar.zst" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7/ollama-linux-amd64.tar.zst" text="ollama-linux-amd64.tar.zst" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7/ollama-linux-arm64-jetpack5.tar.zst" text="ollama-linux-arm64-jetpack5.tar.zst" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7/ollama-linux-arm64-jetpack6.tar.zst" text="ollama-linux-arm64-jetpack6.tar.zst" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7/ollama-linux-arm64.tar.zst" text="ollama-linux-arm64.tar.zst" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7/ollama-windows-amd64-mlx.zip" text="ollama-windows-amd64-mlx.zip" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7/ollama-windows-amd64-rocm.zip" text="ollama-windows-amd64-rocm.zip" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7/ollama-windows-amd64.zip" text="ollama-windows-amd64.zip" repositoryKey="ollama/ollama" />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7/ollama-windows-arm64.zip" text="ollama-windows-arm64.zip" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-YXheA", "paidShareUrl": null, "isLatest": false, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-10-21T17:16:16.303Z"}]} />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7/Ollama.dmg" text="Ollama.dmg" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-rpNcA", "paidShareUrl": null, "isLatest": false, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-10-21T17:17:00.792Z"}]} />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-qMJtA", "paidShareUrl": null, "isLatest": false, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-10-21T17:17:17.084Z"}]} />
+- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.40.7/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-806cA", "paidShareUrl": null, "isLatest": false, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-10-21T17:17:23.444Z"}]} />
 
 
 
@@ -413,6 +457,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v0.33.0
 
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.33.0/install.ps1" text="install.ps1" repositoryKey="ollama/ollama" />
@@ -454,8 +500,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.15/Ollama.dmg" text="Ollama.dmg" repositoryKey="ollama/ollama" />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.15/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.15/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" />
-
-
 
 
 
@@ -631,50 +675,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.7/Ollama.dmg" text="Ollama.dmg" repositoryKey="ollama/ollama" />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.7/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" />
 - <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.7/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" />
-
-
-
-## v0.32.6
-
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.6/install.ps1" text="install.ps1" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.6/install.sh" text="install.sh" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.6/ollama-darwin.tgz" text="ollama-darwin.tgz" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.6/Ollama-darwin.zip" text="Ollama-darwin.zip" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.6/ollama-linux-amd64-mlx.tar.zst" text="ollama-linux-amd64-mlx.tar.zst" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.6/ollama-linux-amd64-rocm.tar.zst" text="ollama-linux-amd64-rocm.tar.zst" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.6/ollama-linux-amd64.tar.zst" text="ollama-linux-amd64.tar.zst" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.6/ollama-linux-arm64-jetpack5.tar.zst" text="ollama-linux-arm64-jetpack5.tar.zst" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.6/ollama-linux-arm64-jetpack6.tar.zst" text="ollama-linux-arm64-jetpack6.tar.zst" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.6/ollama-linux-arm64.tar.zst" text="ollama-linux-arm64.tar.zst" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.6/ollama-windows-amd64-mlx.zip" text="ollama-windows-amd64-mlx.zip" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.6/ollama-windows-amd64-rocm.zip" text="ollama-windows-amd64-rocm.zip" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.6/ollama-windows-amd64.zip" text="ollama-windows-amd64.zip" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.6/ollama-windows-arm64.zip" text="ollama-windows-arm64.zip" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.6/Ollama.dmg" text="Ollama.dmg" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.6/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.6/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" />
-
-
-
-## v0.32.5
-
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.5/install.ps1" text="install.ps1" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.5/install.sh" text="install.sh" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.5/ollama-darwin.tgz" text="ollama-darwin.tgz" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.5/Ollama-darwin.zip" text="Ollama-darwin.zip" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.5/ollama-linux-amd64-mlx.tar.zst" text="ollama-linux-amd64-mlx.tar.zst" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.5/ollama-linux-amd64-rocm.tar.zst" text="ollama-linux-amd64-rocm.tar.zst" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.5/ollama-linux-amd64.tar.zst" text="ollama-linux-amd64.tar.zst" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.5/ollama-linux-arm64-jetpack5.tar.zst" text="ollama-linux-arm64-jetpack5.tar.zst" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.5/ollama-linux-arm64-jetpack6.tar.zst" text="ollama-linux-arm64-jetpack6.tar.zst" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.5/ollama-linux-arm64.tar.zst" text="ollama-linux-arm64.tar.zst" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.5/ollama-windows-amd64-mlx.zip" text="ollama-windows-amd64-mlx.zip" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.5/ollama-windows-amd64-rocm.zip" text="ollama-windows-amd64-rocm.zip" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.5/ollama-windows-amd64.zip" text="ollama-windows-amd64.zip" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.5/ollama-windows-arm64.zip" text="ollama-windows-arm64.zip" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.5/Ollama.dmg" text="Ollama.dmg" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.5/OllamaSetup.exe" text="OllamaSetup.exe" repositoryKey="ollama/ollama" />
-- <GithubMirrorLink link="https://github.com/ollama/ollama/releases/download/v0.32.5/sha256sum.txt" text="sha256sum.txt" repositoryKey="ollama/ollama" />
 
 
 
