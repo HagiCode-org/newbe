@@ -94,6 +94,8 @@ const config = {
           community: [
             { id: 'steam', label: 'Steam', href: 'https://store.steampowered.com/app/4625540/Hagicode/', external: true },
           ],
+          // Genuine site-specific extras: none of these four are in hagilight's bundled
+          // related-sites data (verified against @hagicode/hagilight-core 0.15.1), so keep them.
           relatedSites: [
             { id: 'masuit', name: '懒得勤快', url: 'https://masuit.org' },
             { id: 'whuanle', name: '面向云技术架构 - 痴者工良', url: 'https://www.whuanle.cn/' },
