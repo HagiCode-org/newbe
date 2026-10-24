@@ -22,7 +22,7 @@ npm run typecheck
 node --test tests/*.test.cjs
 ```
 
-Requires Node.js 24+. The `node --test` suites (plugin integration and footer checks) have no npm script.
+Requires Node.js 24+. The `node --test` suites (plugin integration and footer checks) have no npm script. Other scripts: `npm run serve` (preview a built site), `npm run clear`, `npm run write-heading-ids`, `npm run write-translations`.
 
 ## Key Paths
 
@@ -30,7 +30,7 @@ Requires Node.js 24+. The `node --test` suites (plugin integration and footer ch
 - `i18n/zh/`: Chinese translations
 - `src/`: site customizations
 - `tests/`: `node:test` suites (`*.test.cjs`) guarding the HagiLight plugin integration
-- `tools/`: Python (Pipenv/invoke) mirror generator, with its own tests in `tools/tests/`
+- `tools/`: Python (Pipenv/invoke) mirror generator, with its own `unittest` tests in `tools/tests/` (modules import from `tools/`, so run from there, e.g. `python -m unittest discover -s tests`)
 - `.github/workflows/`: `newbe-deploy-gh-pages.yml` (deploy) and `mirror-update.yml` (daily mirror regeneration that commits to `main`); `compress-images.yml` (image compression on PRs/pushes touching jpg/png/webp) and `labeler.yml` (PR labeler)
 - `docusaurus.config.mjs`: Docusaurus configuration (ESM; `@hagicode/hagilight-docusaurus` is ESM-only)
 
