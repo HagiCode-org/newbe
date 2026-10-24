@@ -1,0 +1,132 @@
+{
+  "navigationFallback": {
+    "rewrite": "/index.html"
+  },
+  "routes": [
+    {
+      "route": "/Others/Full-Speed-To-Download-Netcore-Docker-Images/",
+      "redirect": "/Mic/Full-Speed-To-Download-Netcore-Docker-Images/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Others/Dapr-QQ-Channel-Created/",
+      "redirect": "/Mic/Dapr-QQ-Channel-Created/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Others/mvp-onboard/",
+      "redirect": "/Mic/mvp-onboard/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Others/Speed-Up-MCR/",
+      "redirect": "/Projects/Newbe.Mcr/Speed-Up-MCR/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Others/My-Website-Be-Hacked-By-Trick-Decade-Ago/",
+      "redirect": "/Mic/My-Website-Be-Hacked-By-Trick-Decade-Ago/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Use-Dependency-Injection/{page}/",
+      "redirect": "/Tutorial/Use-Dependency-Injection/{page}/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Others/{id}-{page}-IEnumerable/",
+      "redirect": "/Tutorial/IEnumerable/{page}/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Others/{id}-{page}/",
+      "redirect": "/Mic/{page}/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Newbe.ObjectVisitor/Try-Expression-Tree/",
+      "redirect": "/Mic/Try-Expression-Tree/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Newbe.Claptrap/StringPool-For-Your-Code/",
+      "redirect": "/Mic/StringPool-For-Your-Code/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Newbe.Claptrap/Setup-K8s-With-Minikube/",
+      "redirect": "/Mic/Setup-K8s-With-Minikube/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Newbe.LiveCaptioning/Add-A-Live-Caption-Based-On-Blazor/",
+      "redirect": "/Projects/Newbe.LiveCaptioning",
+      "statusCode": 301
+    },
+    {
+      "route": "/Newbe.Claptrap/{page}/",
+      "redirect": "/Projects/Newbe.Claptrap/{page}/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Newbe.Claptrap/Try-Tye-{number}/",
+      "redirect": "/Tutorial/Try-Tye/Try-Tye-{number}/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Newbe.ObjectVisitor/{number}-{page}/",
+      "redirect": "/Projects/Newbe.ObjectVisitor/{page}/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Newbe.Claptrap/Using-Expression-Tree-To-Build-Delegate/",
+      "redirect": "/Mic/Using-Expression-Tree-To-Build-Delegate/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Newbe.Claptrap/How-to-Use-DotTrace/",
+      "redirect": "/Mic/How-to-Use-DotTrace/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Newbe.Translations/001-ASP.NET-Core-Performance-Best-Practices/",
+      "redirect": "/Projects/Newbe.Translations/ASP.NET-Core-Performance-Best-Practices/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Newbe.Mahua/{page}/",
+      "redirect": "/Projects/Newbe.Mahua/{page}/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Newbe.Pct/{page}/",
+      "redirect": "/Projects/Newbe.Pct/{page}/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Net-Conf/2020-07-30-Focus-on-Microservices/",
+      "redirect": "/Mic/x2020-07-30-Focus-on-Microservices/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Newbe.Claptrap/Reactive-In-Server-{number}/",
+      "redirect": "Tutorial/Reactive-in-Server/Reactive-In-Server-{number}/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Newbe.Build.Psake/Newbe-Build-Psake/",
+      "redirect": "/Newbe.Build.Psake/Newbe-Build-Psake/",
+      "statusCode": 301
+    },
+    {
+      "route": "/ChatAI/{page}/",
+      "redirect": "/Mic/{page}/",
+      "statusCode": 301
+    },
+    {
+      "route": "/Build-Your-Own-Blog/{page}/",
+      "redirect": "/Tutorial/Build-Your-Own-Blog/{page}/",
+      "statusCode": 301
+    }
+  ]
+}
