@@ -264,6 +264,7 @@ Etcd. 国内直接从官网 https://etcd.io 下载比较困难，需要一些技
 - [v3.5.32](https://mirrors.huaweicloud.com/etcd/v3.5.32/)
 - [v3.5.33](https://mirrors.huaweicloud.com/etcd/v3.5.33/)
 - [v3.5.34](https://mirrors.huaweicloud.com/etcd/v3.5.34/)
+- [v3.5.35](https://mirrors.huaweicloud.com/etcd/v3.5.35/)
 
 
 
@@ -292,6 +293,7 @@ Etcd. 国内直接从官网 https://etcd.io 下载比较困难，需要一些技
 - [v3.6.13](https://mirrors.huaweicloud.com/etcd/v3.6.13/)
 - [v3.6.14](https://mirrors.huaweicloud.com/etcd/v3.6.14/)
 - [v3.6.15](https://mirrors.huaweicloud.com/etcd/v3.6.15/)
+- [v3.6.16](https://mirrors.huaweicloud.com/etcd/v3.6.16/)
 
 
 
@@ -302,6 +304,7 @@ Etcd. 国内直接从官网 https://etcd.io 下载比较困难，需要一些技
 - [v3.7.0-rc.0](https://mirrors.huaweicloud.com/etcd/v3.7.0-rc.0/)
 - [v3.7.1](https://mirrors.huaweicloud.com/etcd/v3.7.1/)
 - [v3.7.2](https://mirrors.huaweicloud.com/etcd/v3.7.2/)
+- [v3.7.3](https://mirrors.huaweicloud.com/etcd/v3.7.3/)
 
 
 

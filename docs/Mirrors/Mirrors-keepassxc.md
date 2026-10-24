@@ -20,6 +20,24 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 ## 2.8.0
 
+- <GithubMirrorLink link="https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-aarch64.AppImage" text="KeePassXC-2.8.0-1-aarch64.AppImage" repositoryKey="keepassxreboot/keepassxc" />
+- <GithubMirrorLink link="https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-aarch64.AppImage.DIGEST" text="KeePassXC-2.8.0-1-aarch64.AppImage.DIGEST" repositoryKey="keepassxreboot/keepassxc" />
+- <GithubMirrorLink link="https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-aarch64.AppImage.sig" text="KeePassXC-2.8.0-1-aarch64.AppImage.sig" repositoryKey="keepassxreboot/keepassxc" />
+- <GithubMirrorLink link="https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-aarch64.AppImage.zsync" text="KeePassXC-2.8.0-1-aarch64.AppImage.zsync" repositoryKey="keepassxreboot/keepassxc" />
+- <GithubMirrorLink link="https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-aarch64.AppImage.zsync.DIGEST" text="KeePassXC-2.8.0-1-aarch64.AppImage.zsync.DIGEST" repositoryKey="keepassxreboot/keepassxc" />
+- <GithubMirrorLink link="https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-aarch64.AppImage.zsync.sig" text="KeePassXC-2.8.0-1-aarch64.AppImage.zsync.sig" repositoryKey="keepassxreboot/keepassxc" />
+- <GithubMirrorLink link="https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-arm64.dmg" text="KeePassXC-2.8.0-1-arm64.dmg" repositoryKey="keepassxreboot/keepassxc" />
+- <GithubMirrorLink link="https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-arm64.dmg.DIGEST" text="KeePassXC-2.8.0-1-arm64.dmg.DIGEST" repositoryKey="keepassxreboot/keepassxc" />
+- <GithubMirrorLink link="https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-arm64.dmg.sig" text="KeePassXC-2.8.0-1-arm64.dmg.sig" repositoryKey="keepassxreboot/keepassxc" />
+- <GithubMirrorLink link="https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-x86_64.AppImage" text="KeePassXC-2.8.0-1-x86_64.AppImage" repositoryKey="keepassxreboot/keepassxc" />
+- <GithubMirrorLink link="https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-x86_64.AppImage.DIGEST" text="KeePassXC-2.8.0-1-x86_64.AppImage.DIGEST" repositoryKey="keepassxreboot/keepassxc" />
+- <GithubMirrorLink link="https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-x86_64.AppImage.sig" text="KeePassXC-2.8.0-1-x86_64.AppImage.sig" repositoryKey="keepassxreboot/keepassxc" />
+- <GithubMirrorLink link="https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-x86_64.AppImage.zsync" text="KeePassXC-2.8.0-1-x86_64.AppImage.zsync" repositoryKey="keepassxreboot/keepassxc" />
+- <GithubMirrorLink link="https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-x86_64.AppImage.zsync.DIGEST" text="KeePassXC-2.8.0-1-x86_64.AppImage.zsync.DIGEST" repositoryKey="keepassxreboot/keepassxc" />
+- <GithubMirrorLink link="https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-x86_64.AppImage.zsync.sig" text="KeePassXC-2.8.0-1-x86_64.AppImage.zsync.sig" repositoryKey="keepassxreboot/keepassxc" />
+- <GithubMirrorLink link="https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-x86_64.dmg" text="KeePassXC-2.8.0-1-x86_64.dmg" repositoryKey="keepassxreboot/keepassxc" />
+- <GithubMirrorLink link="https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-x86_64.dmg.DIGEST" text="KeePassXC-2.8.0-1-x86_64.dmg.DIGEST" repositoryKey="keepassxreboot/keepassxc" />
+- <GithubMirrorLink link="https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-1-x86_64.dmg.sig" text="KeePassXC-2.8.0-1-x86_64.dmg.sig" repositoryKey="keepassxreboot/keepassxc" />
 - <GithubMirrorLink link="https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-aarch64.AppImage" text="KeePassXC-2.8.0-aarch64.AppImage" repositoryKey="keepassxreboot/keepassxc" />
 - <GithubMirrorLink link="https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-aarch64.AppImage.DIGEST" text="KeePassXC-2.8.0-aarch64.AppImage.DIGEST" repositoryKey="keepassxreboot/keepassxc" />
 - <GithubMirrorLink link="https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-aarch64.AppImage.sig" text="KeePassXC-2.8.0-aarch64.AppImage.sig" repositoryKey="keepassxreboot/keepassxc" />
