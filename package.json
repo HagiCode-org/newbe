@@ -5,13 +5,13 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "dev": "docusaurus start --no-open",
-    "build": "export NODE_ENV=\"${NODE_ENV:-production}\"; docusaurus build",
+    "build": "export NODE_OPTIONS=\"${NODE_OPTIONS:-} --max-old-space-size=8192\"; export NODE_ENV=\"${NODE_ENV:-production}\"; docusaurus build",
     "swizzle": "docusaurus swizzle",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
-    "typecheck": "tsc"
+    "typecheck": "export NODE_OPTIONS=\"${NODE_OPTIONS:-} --max-old-space-size=8192\"; tsc"
   },
   "dependencies": {
     "@docusaurus/core": "3.9.2",
