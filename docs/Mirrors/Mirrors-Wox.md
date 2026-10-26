@@ -18,6 +18,18 @@ WoX是一个适用于Windows的启动器，可以简单地工作。它是Alfred�
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v2.4.8
+
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.4.8/wox-linux-amd64" text="wox-linux-amd64" repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.4.8/wox-linux-amd64.AppImage" text="wox-linux-amd64.AppImage" repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.4.8/wox-linux-amd64.deb" text="wox-linux-amd64.deb" repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.4.8/wox-linux-amd64.rpm" text="wox-linux-amd64.rpm" repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.4.8/wox-mac-amd64.dmg" text="wox-mac-amd64.dmg" repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.4.8/wox-mac-arm64.dmg" text="wox-mac-arm64.dmg" repositoryKey="Wox-launcher/Wox" />
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.4.8/wox-windows-amd64.exe" text="wox-windows-amd64.exe" repositoryKey="Wox-launcher/Wox" />
+
+
+
 ## v2.4.7
 
 - <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.4.7/wox-linux-amd64" text="wox-linux-amd64" repositoryKey="Wox-launcher/Wox" />
@@ -226,6 +238,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v2.0.3
 
 - <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.3/wox-linux-amd64" text="wox-linux-amd64" repositoryKey="Wox-launcher/Wox" />
@@ -233,8 +247,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.3/wox-mac-amd64.dmg" text="wox-mac-amd64.dmg" repositoryKey="Wox-launcher/Wox" />
 - <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.3/wox-mac-arm64.dmg" text="wox-mac-arm64.dmg" repositoryKey="Wox-launcher/Wox" />
 - <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.3/wox-windows-amd64.exe" text="wox-windows-amd64.exe" repositoryKey="Wox-launcher/Wox" />
-
-
 
 
 
@@ -317,15 +329,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.3/wox-mac-amd64.dmg" text="wox-mac-amd64.dmg" repositoryKey="Wox-launcher/Wox" />
 - <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.3/wox-mac-arm64.dmg" text="wox-mac-arm64.dmg" repositoryKey="Wox-launcher/Wox" />
 - <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.3/wox-windows-amd64.exe" text="wox-windows-amd64.exe" repositoryKey="Wox-launcher/Wox" />
-
-
-
-## v2.0.0-beta.2
-
-- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.2/wox-linux-amd64" text="wox-linux-amd64" repositoryKey="Wox-launcher/Wox" />
-- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.2/wox-mac-amd64.dmg" text="wox-mac-amd64.dmg" repositoryKey="Wox-launcher/Wox" />
-- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.2/wox-mac-arm64.dmg" text="wox-mac-arm64.dmg" repositoryKey="Wox-launcher/Wox" />
-- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.2/wox-windows-amd64.exe" text="wox-windows-amd64.exe" repositoryKey="Wox-launcher/Wox" />
 
 
 
