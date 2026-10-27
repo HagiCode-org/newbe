@@ -164,6 +164,7 @@ Openjdk. 国内直接从官网 http://openjdk.java.net 下载比较困难，需�
 
 - [27.0.1](https://mirrors.huaweicloud.com/openjdk/27.0.1/)
 - [27.0.1.0.2](https://mirrors.huaweicloud.com/openjdk/27.0.1.0.2/)
+- [27.0.1.0.3](https://mirrors.huaweicloud.com/openjdk/27.0.1.0.3/)
 - [27](https://mirrors.huaweicloud.com/openjdk/27/)
 
 

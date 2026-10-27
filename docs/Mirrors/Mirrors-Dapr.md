@@ -72,6 +72,7 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.19.0/operator_linux_arm64.tar.gz.sha256" text="operator_linux_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.19.0/operator_windows_amd64.zip" text="operator_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.19.0/operator_windows_amd64.zip.sha256" text="operator_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.19.0/perf-charts-v1.19.0.zip" text="perf-charts-v1.19.0.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.19.0/placement_darwin_amd64.tar.gz" text="placement_darwin_amd64.tar.gz" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.19.0/placement_darwin_amd64.tar.gz.sha256" text="placement_darwin_amd64.tar.gz.sha256" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.19.0/placement_darwin_arm64.tar.gz" text="placement_darwin_arm64.tar.gz" repositoryKey="dapr/dapr" />
@@ -108,6 +109,7 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.19.0/sentry_linux_arm64.tar.gz.sha256" text="sentry_linux_arm64.tar.gz.sha256" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.19.0/sentry_windows_amd64.zip" text="sentry_windows_amd64.zip" repositoryKey="dapr/dapr" />
 - <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.19.0/sentry_windows_amd64.zip.sha256" text="sentry_windows_amd64.zip.sha256" repositoryKey="dapr/dapr" />
+- <GithubMirrorLink link="https://github.com/dapr/dapr/releases/download/v1.19.0/test-report-perf-v1.19.0.json.gz" text="test-report-perf-v1.19.0.json.gz" repositoryKey="dapr/dapr" />
 
 
 

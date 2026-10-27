@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-26T02:49:55.645256+00:00",
-  "recordCount": 2557,
+  "generatedAt": "2026-10-27T03:23:51.943417+00:00",
+  "recordCount": 2559,
   "records": {
     "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.AppImage": {
       "syncedAt": "2026-08-22T07:14:26.809Z",
@@ -3975,6 +3975,16 @@
     "agalwood/Motrix:v2.0.1:Motrix_2.0.1_arm64.deb": {
       "syncedAt": "2026-10-25T18:16:55.589Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-Q2ueA",
+      "status": "synced"
+    },
+    "desktop/desktop:release-3.6.10-beta1:GitHub.Desktop-3.6.10-beta1-checksums.txt": {
+      "syncedAt": "2026-10-26T13:00:14.224Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-RwJtA",
+      "status": "synced"
+    },
+    "desktop/desktop:release-3.6.10-beta1:GitHubDesktop-3.6.10-beta1-arm64-delta.nupkg": {
+      "syncedAt": "2026-10-26T13:34:56.872Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-JuNeA",
       "status": "synced"
     },
     "desktop/desktop:release-3.6.5-beta1:GitHub.Desktop-3.6.5-beta1-checksums.txt": {
