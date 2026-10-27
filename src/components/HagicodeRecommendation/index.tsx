@@ -1,4 +1,5 @@
 import React, { useCallback, useEffect, useId, useRef, useState } from 'react';
+import { gaEventAttributes } from '@hagicode/hagilight-core/analytics-events';
 import styles from './styles.module.css';
 import { HagicodeConfig, HagicodeShowcaseItem, HAGICODE_CONFIG } from '../HagicodeConfig';
 
@@ -422,6 +423,18 @@ export default function HagicodeRecommendation({
   layout = 'page',
 }: HagicodeRecommendationProps) {
   const titleId = useId();
+  // The modal copy sits inside the mirror popup; the page copy sits in the article.
+  const gaLocation = layout === 'modal' ? 'mirror_popup' : 'article_promotion';
+  const installGaAttributes = gaEventAttributes({
+    category: 'promotion',
+    label: 'hagicode_recommendation_install',
+    location: gaLocation,
+  });
+  const videoGaAttributes = gaEventAttributes({
+    category: 'promotion',
+    label: 'hagicode_recommendation_video',
+    location: gaLocation,
+  });
 
   return (
     <section
@@ -444,6 +457,7 @@ export default function HagicodeRecommendation({
             rel="noopener noreferrer"
             className={`${styles.ctaButton} ${styles.ctaPrimary}`}
             aria-label={`${config.modal.ctaButtons.install}（新标签页打开）`}
+            {...installGaAttributes}
           >
             {config.modal.ctaButtons.install}
           </a>
@@ -453,6 +467,7 @@ export default function HagicodeRecommendation({
             rel="noopener noreferrer"
             className={`${styles.ctaButton} ${styles.ctaSecondary}`}
             aria-label={`${config.modal.ctaButtons.video}（新标签页打开）`}
+            {...videoGaAttributes}
           >
             {config.modal.ctaButtons.video}
           </a>

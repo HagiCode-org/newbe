@@ -9,6 +9,7 @@ import {
   PRIMARY_RECOMMENDATION_BADGES,
   isPrimaryRecommendedMirror,
 } from './config';
+import { captureSiteEvent } from '../../lib/posthog-events';
 import styles from './styles.module.css';
 
 const MirrorCard: React.FC<MirrorCardProps> = ({
@@ -31,6 +32,11 @@ const MirrorCard: React.FC<MirrorCardProps> = ({
     setCopyState('copying');
     try {
       await onCopy(mirror.fullUrl);
+      captureSiteEvent('download_mirror_clicked', {
+        mirror: mirror.providerKey,
+        action: 'copy',
+        recommended: mirror.recommended,
+      });
       setCopyState('success');
       setTimeout(() => setCopyState('idle'), 2000);
     } catch {
@@ -42,6 +48,11 @@ const MirrorCard: React.FC<MirrorCardProps> = ({
   const handleOpen = (e: React.MouseEvent) => {
     e.preventDefault();
     e.stopPropagation();
+    captureSiteEvent('download_mirror_clicked', {
+      mirror: mirror.providerKey,
+      action: 'open',
+      recommended: mirror.recommended,
+    });
     window.open(mirror.fullUrl, '_blank', 'noopener,noreferrer');
   };
 

@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { gaEventAttributes } from '@hagicode/hagilight-core/analytics-events';
 import styles from './index.module.css';
 import { HagicodeConfig, HAGICODE_CONFIG } from '../HagicodeConfig';
 
@@ -7,6 +8,18 @@ interface HagicodeAdBannerProps {
 }
 
 const DISMISSAL_STORAGE_KEY = 'hagicode_header_ad_dismissed';
+
+const INSTALL_GA_ATTRIBUTES = gaEventAttributes({
+  category: 'promotion',
+  label: 'hagicode_ad_banner_install',
+  location: 'header',
+});
+
+const VIDEO_GA_ATTRIBUTES = gaEventAttributes({
+  category: 'promotion',
+  label: 'hagicode_ad_banner_video',
+  location: 'header',
+});
 
 /**
  * HagicodeAdBanner Component - Gamified Redesign
@@ -129,6 +142,7 @@ export default function HagicodeAdBanner({ config = HAGICODE_CONFIG }: HagicodeA
               rel="noopener noreferrer"
               className={`${styles.ctaButton} ${styles.ctaPrimary}`}
               aria-label={`${config.modal.ctaButtons.install} - opens in new tab`}
+              {...INSTALL_GA_ATTRIBUTES}
             >
               <span className={styles.ctaText}>{config.modal.ctaButtons.install}</span>
               <span className={styles.ctaGlow}></span>
@@ -142,6 +156,7 @@ export default function HagicodeAdBanner({ config = HAGICODE_CONFIG }: HagicodeA
               rel="noopener noreferrer"
               className={`${styles.ctaButton} ${styles.ctaSecondary}`}
               aria-label={`${config.modal.ctaButtons.video} - opens in new tab`}
+              {...VIDEO_GA_ATTRIBUTES}
             >
               <svg className={styles.playIcon} width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
                 <polygon points="5,3 19,12 5,21"/>
