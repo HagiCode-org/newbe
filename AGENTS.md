@@ -19,6 +19,7 @@ npm install
 npm run dev
 npm run build
 npm run typecheck
+npm test
 node --test tests/*.test.cjs
 ```
 
@@ -43,6 +44,17 @@ Requires Node.js 24+. The `node --test` suites (plugin integration and footer ch
 - Do not re-add `src/theme/Footer`, `themeConfig.footer`, `themeConfig.gtag` or a preset `gtag` option; they duplicate the plugin's footer and analytics.
 - Run `npm run typecheck` to validate TypeScript before building.
 - Do not hand-edit `docs/Mirrors/`; change the generator in `tools/` (or its definition JSON) and let `mirror-update` regenerate the pages. `build/` and `.docusaurus/` are gitignored output.
+
+## PostHog Events
+
+Site events go through `src/lib/posthog-events.ts` (`captureSiteEvent`). It sends nothing when `window.posthog` is missing, the visitor has opted out, or the name is not in `SITE_POSTHOG_EVENTS`, and it never throws.
+
+| Event | Fires when | Properties |
+|-------|------------|------------|
+| `download_mirror_clicked` | A mirror card's copy resolves (`handleCopy`), or a mirror is opened (`handleOpen`) | `mirror` (provider key), `action` (`copy` or `open`), `recommended` (boolean) |
+
+- No event carries a URL, `fullUrl` or any URL text.
+- Deduplication: `HagicodeAdBanner` and `HagicodeRecommendation` CTA links carry `gaEventAttributes`, so a click there can also produce hagilight's `cta_click`. Those links have no business event, so there is no double count. Mirror card buttons carry no `data-ga-*` marker, so `download_mirror_clicked` is their only record. Dashboards must not add `download_mirror_clicked` to `cta_click` counts.
 
 ## References
 
