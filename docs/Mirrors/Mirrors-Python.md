@@ -348,6 +348,7 @@ Python. 国内直接从官网 https://www.python.org 下载比较困难，需要
 - [3.11.15](https://repo.huaweicloud.com/python/3.11.15/)
 - [3.11.16](https://repo.huaweicloud.com/python/3.11.16/)
 - [3.11.17](https://repo.huaweicloud.com/python/3.11.17/)
+- [3.11.18](https://repo.huaweicloud.com/python/3.11.18/)
 
 
 
@@ -369,6 +370,7 @@ Python. 国内直接从官网 https://www.python.org 下载比较困难，需要
 - [3.12.13](https://repo.huaweicloud.com/python/3.12.13/)
 - [3.12.14](https://repo.huaweicloud.com/python/3.12.14/)
 - [3.12.15](https://repo.huaweicloud.com/python/3.12.15/)
+- [3.12.16](https://repo.huaweicloud.com/python/3.12.16/)
 
 
 
@@ -392,6 +394,7 @@ Python. 国内直接从官网 https://www.python.org 下载比较困难，需要
 - [3.13.15](https://repo.huaweicloud.com/python/3.13.15/)
 - [3.13.16](https://repo.huaweicloud.com/python/3.13.16/)
 - [3.13.17](https://repo.huaweicloud.com/python/3.13.17/)
+- [3.13.18](https://repo.huaweicloud.com/python/3.13.18/)
 
 
 
@@ -407,6 +410,7 @@ Python. 国内直接从官网 https://www.python.org 下载比较困难，需要
 - [3.14.7](https://repo.huaweicloud.com/python/3.14.7/)
 - [3.14.8](https://repo.huaweicloud.com/python/3.14.8/)
 - [3.14.9](https://repo.huaweicloud.com/python/3.14.9/)
+- [3.14.10](https://repo.huaweicloud.com/python/3.14.10/)
 
 
 
@@ -414,6 +418,7 @@ Python. 国内直接从官网 https://www.python.org 下载比较困难，需要
 
 - [3.15.0](https://repo.huaweicloud.com/python/3.15.0/)
 - [3.15.1](https://repo.huaweicloud.com/python/3.15.1/)
+- [3.15.2](https://repo.huaweicloud.com/python/3.15.2/)
 
 
 
