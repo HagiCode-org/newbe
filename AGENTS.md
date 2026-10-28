@@ -15,15 +15,15 @@ Run commands from `repos/newbe/`.
 ## Key Commands
 
 ```bash
-npm install
-npm run dev
-npm run build
-npm run typecheck
-npm test
+pnpm install
+pnpm run dev
+pnpm run build
+pnpm run typecheck
+pnpm test
 node --test tests/*.test.cjs
 ```
 
-Requires Node.js 24+. The `node --test` suites (plugin integration and footer checks) have no npm script. Other scripts: `npm run serve` (preview a built site), `npm run clear`, `npm run write-heading-ids`, `npm run write-translations`.
+Requires Node.js 24+. The `node --test` suites (plugin integration and footer checks) have no npm script. Other scripts: `pnpm run serve` (preview a built site), `pnpm run clear`, `pnpm run write-heading-ids`, `pnpm run write-translations`.
 
 ## Key Paths
 
@@ -42,7 +42,7 @@ Requires Node.js 24+. The `node --test` suites (plugin integration and footer ch
 - Treat this as a static documentation site; avoid adding server-side logic.
 - The footer, Google Analytics and 51LA, the promotion banner, SEO metadata and RSS come from `@hagicode/hagilight-docusaurus`; configure them through `hagilightDocusaurus()` in `docusaurus.config.mjs`, and put newbe's own footer links in `links.extraLinks`.
 - Do not re-add `src/theme/Footer`, `themeConfig.footer`, `themeConfig.gtag` or a preset `gtag` option; they duplicate the plugin's footer and analytics.
-- Run `npm run typecheck` to validate TypeScript before building.
+- Run `pnpm run typecheck` to validate TypeScript before building.
 - Do not hand-edit `docs/Mirrors/`; change the generator in `tools/` (or its definition JSON) and let `mirror-update` regenerate the pages. `build/` and `.docusaurus/` are gitignored output.
 
 ## PostHog Events
@@ -59,3 +59,10 @@ Site events go through `src/lib/posthog-events.ts` (`captureSiteEvent`). It send
 ## References
 
 - `README.md`
+
+## Package management
+
+- The repository uses pnpm, pinned in `package.json` `packageManager`. Run `corepack enable` once, then `pnpm install`. `pnpm-lock.yaml` is the only lockfile; do not commit `package-lock.json`.
+- Settings live in `pnpm-workspace.yaml`. `allowBuilds` lists the dependencies whose install scripts may run (reviewed individually, `false` means reviewed and denied); review any new dependency that has an install script and add it there.
+- A local registry mirror belongs in `~/.npmrc` only. Never commit a `registry=` line or a mirror URL; `pnpm run check:registry` (also run in CI) fails on any non-`registry.npmjs.org` `tarball` in the lockfile and on mirror hosts in tracked files.
+- Undeclared imports fail under pnpm's strict layout: declare the package instead of hoisting it.

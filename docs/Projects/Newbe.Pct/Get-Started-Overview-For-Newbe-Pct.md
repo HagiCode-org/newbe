@@ -200,15 +200,15 @@ webdriver-manager start
 在控制台中输入以下命令
 
 ```bash
-npm run testnow
+pnpm run testnow
 ```
 等待所有操作完毕之后，控制台将输入如下内容：
 
 ```bash
-PS D:\Repo\Newbe.Pct> npm run testnow
+PS D:\Repo\Newbe.Pct> pnpm run testnow
 
 > newbe-pct@4.0.0 testnow D:\Repo\Newbe.Pct
-> npm run clean && npm run build && protractor typeScript/config/config.js
+> pnpm run clean && pnpm run build && protractor typeScript/config/config.js
 
 
 > newbe-pct@4.0.0 clean D:\Repo\Newbe.Pct
