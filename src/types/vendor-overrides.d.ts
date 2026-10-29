@@ -33,3 +33,9 @@ declare module '*.module.css' {
   const classes: Record<string, string>;
   export default classes;
 }
+
+// Docusaurus resolves image imports through webpack; its bundled aliases do not cover AVIF.
+declare module '*.avif' {
+  const src: string;
+  export default src;
+}
