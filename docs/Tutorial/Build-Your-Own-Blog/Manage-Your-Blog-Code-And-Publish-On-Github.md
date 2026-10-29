@@ -36,13 +36,13 @@ Github是全球流行的~~同性交友~~代码托管平台以及开源项目聚�
 
 在界面的右上角点击 Star 获取下载权限。
 
-![点击Star获取下载权限](/images/20180429-002.png)
+![点击Star获取下载权限](@site/src/assets/images/20180429-002.avif)
 
 ### 下载文件到自己的账号中
 
 点击下图中的`Fork`，将源代码下载到自己的账号中。
 
-![下载文件到自己的账号中](/images/20180430-001.png)
+![下载文件到自己的账号中](@site/src/assets/images/20180430-001.avif)
 
 经过一段时间的等待之后，浏览器会自动刷新，并打开下载成功的项目。
 
@@ -54,17 +54,17 @@ Github是全球流行的~~同性交友~~代码托管平台以及开源项目聚�
 
 在项目的页面上，选择`Settings`.
 
-![点击Settings](/images/20180430-002.png)
+![点击Settings](@site/src/assets/images/20180430-002.avif)
 
 滚动到下方，在`Github Pages`这个选项上，按照下图所示选择。
 
-![Github Pages 选择](/images/20180430-003.png)
+![Github Pages 选择](@site/src/assets/images/20180430-003.avif)
 
 选择完毕后，点击右侧的`Save`按钮。
 
 页面刷新之后，在此滚动到这个设置，便可以看到自动生成的博客地址。
 
-![生成的博客地址](/images/20180430-004.png)
+![生成的博客地址](@site/src/assets/images/20180430-004.avif)
 
 点击生成的博客地址，便可以查看到发布好的博客内容。
 
@@ -88,7 +88,7 @@ Github是全球流行的~~同性交友~~代码托管平台以及开源项目聚�
 
 点击下图中的一键领取，获得优惠券，购买更便宜。
 
-![领取优惠券](/images/20180430-005.png)
+![领取优惠券](@site/src/assets/images/20180430-005.avif)
 
 按照网站提示，注册并领取成功之后，在浏览器中输入链接地址，进行域名注册。https://wanwang.aliyun.com/
 
@@ -96,7 +96,7 @@ Github是全球流行的~~同性交友~~代码托管平台以及开源项目聚�
 
 域名注册成功之后，回到 Github Pages 的配置页面，将注册好的域名，填入 Custom domain 中。
 
-![生成的博客地址](/images/20180430-006.png)
+![生成的博客地址](@site/src/assets/images/20180430-006.avif)
 
 保存成功之后，在域名管理商中配置你的域名`CNAME`记录到`traceless.github.io`。
 

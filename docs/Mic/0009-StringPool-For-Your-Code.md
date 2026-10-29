@@ -102,11 +102,11 @@ public class NormalDictTest
 
 最后，点击如下图所示的按钮，运行这个测试：
 
-![run dotMemory](/images/20210911-001.png)
+![run dotMemory](@site/src/assets/images/20210911-001.avif)
 
 那么，就会到的如下这样的结果：
 
-![result](/images/20210911-002.png)
+![result](@site/src/assets/images/20210911-002.avif)
 
 故而，我们可以得出这样一个简单的结论。这样一个字典，大约需要 61MB 的内存。
 
@@ -328,7 +328,7 @@ public async Task LoadFromDbAsync()
 
 一切就是这样的轻松愉快。
 
-![diff](/images/20210911-003.png)
+![diff](@site/src/assets/images/20210911-003.avif)
 
 ## 延伸阅读
 

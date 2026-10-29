@@ -30,7 +30,7 @@ top: -999
 
 项目名称**至少**需要包含三部分，形如 AAA.BBB.CCC 的形式。
 
-![新建项目](/images/20170613-d51f6524.png)
+![新建项目](@site/src/assets/images/20170613-d51f6524.avif)
 
 ## 安装 nuget 包
 

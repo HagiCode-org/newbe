@@ -14,7 +14,7 @@ Etcd. 国内直接从官网 https://etcd.io 下载比较困难，需要一些技
 
  
 
-<img src='/images/weixin_public.png' alt='微信' />
+![微信](@site/src/assets/images/weixin_public.avif)
 
 <!-- more -->
 

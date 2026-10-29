@@ -94,7 +94,7 @@ namespace Newbe.Mahua.Samples.ApiExtensions.MahuaEvents
 
 > MahuaApis 文件夹是本 SDK 建议将 API 扩展放置的文件夹位置。也可以不接受建议而添加在其他地方。
 
-![添加获取好友列表](/images/20180107-001.png)
+![添加获取好友列表](@site/src/assets/images/20180107-001.avif)
 
 ```csharp
 using Newbe.Mahua.Apis;
@@ -255,9 +255,9 @@ namespace Newbe.Mahua.Samples.ApiExtensions
 
 以下是 CQP 平台的测试效果。~~其实其他的没测试~~
 
-![API注册](/images/20180107-002.png)
+![API注册](@site/src/assets/images/20180107-002.avif)
 
-![好友消息](/images/20180107-003.png)
+![好友消息](@site/src/assets/images/20180107-003.avif)
 
 ## 总结
 

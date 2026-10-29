@@ -16,7 +16,7 @@ Dapr 是一个可移植的、事件驱动的运行时，它使任何开发人员
 
 截至发文此时，最新的 1.4 版本也已经正在酝酿了。查看 github 上 Are you using Dapr? 的 issue，你可以看到很多已经将该技术用于产线的用例。
 
-![Are you using Dapr](/images/20210913-006.png)
+![Are you using Dapr](@site/src/assets/images/20210913-006.avif)
 
 其中也不乏一些中国知名公司的应用，这里有一些简单的列举：
 
@@ -63,8 +63,8 @@ https://space.bilibili.com/272265720/channel/seriesdetail?sid=285153
 
 https://www.aliyundrive.com/s/ftGM8QTwyBw
 
-![community call1](/images/20210913-007.png)
-![community call2](/images/20210913-008.png)
+![community call1](@site/src/assets/images/20210913-007.avif)
+![community call2](@site/src/assets/images/20210913-008.avif)
 
 ## 和大家一起开始
 
@@ -76,11 +76,11 @@ https://www.aliyundrive.com/s/ftGM8QTwyBw
 
 这里包含部分社群人员的精彩发言：
 
-![m1](/images/20210913-001.png)
-![m2](/images/20210913-002.png)
-![m3](/images/20210913-003.png)
-![m4](/images/20210913-004.png)
-![m5](/images/20210913-005.png)
+![m1](@site/src/assets/images/20210913-001.avif)
+![m2](@site/src/assets/images/20210913-002.avif)
+![m3](@site/src/assets/images/20210913-003.avif)
+![m4](@site/src/assets/images/20210913-004.avif)
+![m5](@site/src/assets/images/20210913-005.avif)
 
 ## 小结
 

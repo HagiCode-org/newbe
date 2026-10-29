@@ -76,7 +76,7 @@ private void YanjiaIsComing(CancellationToken token)
 
 可以初步看一下严架带来的压力有多大：
 
-![CPU 100](/images/20230318-001.png)
+![CPU 100](@site/src/assets/images/20230318-001.avif)
 
 然后我们不妨假设，我们的常驻任务是希望每秒进行一次计数。那么最终在控制台输出的结果应该是 5 或者 6。但如果小于 5，那么就说明我们的常驻任务有问题。
 

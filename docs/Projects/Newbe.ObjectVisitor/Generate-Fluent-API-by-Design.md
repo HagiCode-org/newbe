@@ -48,7 +48,7 @@ stateDiagram
 
 这实际上是 mermaid 状态图标记。转换为图形即为下面这个效果。不需要过多的解释就可以理解：
 
-![SumBuilder](/images/20201115-001.png)
+![SumBuilder](@site/src/assets/images/20201115-001.avif)
 
 有了这个状态图之后，使用 Newbe.ObjectVisitor 中的 `FluentApiDesignParser` 和 `FluentApiFileGenerator` 便可以生成如下代码。
 
@@ -126,7 +126,7 @@ stateDiagram
 
 如图：
 
-![MultipleSumBuilder](/images/20201115-002.png)
+![MultipleSumBuilder](@site/src/assets/images/20201115-002.avif)
 
 ## 创建数据库链接字符串
 
@@ -160,7 +160,7 @@ stateDiagram
 
 如图：
 
-![ConnectionStringBuilder](/images/20201115-003.png)
+![ConnectionStringBuilder](@site/src/assets/images/20201115-003.avif)
 
 有了设计，接下来就是使用生成器啪嗒一下生成代码，然后添加实现，这里只展示需要自己实现的内容：
 
@@ -271,7 +271,7 @@ stateDiagram
 
 上图：
 
-![RequestBuilder](/images/20201115-004.png)
+![RequestBuilder](@site/src/assets/images/20201115-004.avif)
 
 注意，这里引入了一些奇怪的关键词 `share` ，由于这些关键词还未全部定稿，因此不展开说明。
 
@@ -313,7 +313,7 @@ stateDiagram
 
 上图，这个图从出发点出发，不论怎么走都会经过四次 AddWheel 和 一次 AddEngine：
 
-![CarBuilder](/images/20201115-005.png)
+![CarBuilder](@site/src/assets/images/20201115-005.avif)
 
 注意，虽然设计看起来非常复杂，但是，需要手写的代码只有非常简短的两段：
 

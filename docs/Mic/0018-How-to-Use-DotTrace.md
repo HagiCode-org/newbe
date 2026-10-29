@@ -86,17 +86,17 @@ namespace Newbe.DotTrace.Tests
 
 然后，如下图所示，我们将 Rider 中的 profile 模式设置为 Timeline 。
 
-![设置profile模式](/images/20201006-001.png)
+![设置profile模式](@site/src/assets/images/20201006-001.avif)
 
 TimeLine 是多种模式中的一种，相较而言，该模式可以更全面的了解各个线程的工作情况，包括有内存分配、IO 处理、锁、反射等等多维度数据。这将会作为本示例主要使用的一种模式。
 
 接着，如下图所示，通过单元测试左侧的小图标启动对应测试的 profile。
 
-![启动profile](/images/20201006-002.png)
+![启动profile](@site/src/assets/images/20201006-002.avif)
 
 启动 profile 之后，等待一段时间之后，便会出现最新生成的 timeline 报告。查看报告的位置如下所示：
 
-![启动profile](/images/20201006-003.png)
+![启动profile](@site/src/assets/images/20201006-003.avif)
 
 右键选择对应的报告，选择"Open in External Viewer"，便可以使用 dotTrace 打开生成好的报告。
 
@@ -104,7 +104,7 @@ TimeLine 是多种模式中的一种，相较而言，该模式可以更全面�
 
 如下图所示，选择 .Net Memory Allocations 以查看该测试运行过程中分配的内存数额。
 
-![启动profile](/images/20201006-004.png)
+![启动profile](@site/src/assets/images/20201006-004.avif)
 
 根据上图我们可以得出以下结论：
 
@@ -117,7 +117,7 @@ TimeLine 是多种模式中的一种，相较而言，该模式可以更全面�
 
 接着，我们继续按照上面的步骤，查看一下 UsingStringBuilder 方法的报告，如下所示：
 
-![启动profile](/images/20201006-005.png)
+![启动profile](@site/src/assets/images/20201006-005.avif)
 
 根据上图，我们可以得出第二个结论：使用 StringBuilder 可以明显的减少相较于 string 直接拼接所消耗的内存。
 
@@ -202,11 +202,11 @@ namespace Newbe.DotTrace.Tests
 
 UsingClass
 
-![UsingClass](/images/20201006-006.png)
+![UsingClass](@site/src/assets/images/20201006-006.avif)
 
 UsingStruct
 
-![UsingClass](/images/20201006-007.png)
+![UsingClass](@site/src/assets/images/20201006-007.avif)
 
 对比两个报告，可以得出以下这些结论：
 
@@ -259,11 +259,11 @@ namespace Newbe.DotTrace.Tests
 
 Boxing,发生装箱拆箱
 
-![Boxing](/images/20201006-008.png)
+![Boxing](@site/src/assets/images/20201006-008.avif)
 
 NoBoxing，未发生装箱拆箱
 
-![NoBoxing](/images/20201006-009.png)
+![NoBoxing](@site/src/assets/images/20201006-009.avif)
 
 对比两个报告，可以得出以下这些结论：
 
@@ -301,11 +301,11 @@ namespace Newbe.DotTrace.Tests
 
 ThreadSleep
 
-![ThreadSleep](/images/20201006-010.png)
+![ThreadSleep](@site/src/assets/images/20201006-010.avif)
 
 TaskDelay
 
-![TaskDelay](/images/20201006-011.png)
+![TaskDelay](@site/src/assets/images/20201006-011.avif)
 
 对比两个报告，可以得出以下这些结论：
 
@@ -438,11 +438,11 @@ namespace Newbe.DotTrace.Tests
 
 RunReflection，直接使用反射调用。
 
-![RunReflection](/images/20201006-012.png)
+![RunReflection](@site/src/assets/images/20201006-012.avif)
 
 RunExpression，使用表达式树编译一个委托。
 
-![RunExpression](/images/20201006-013.png)
+![RunExpression](@site/src/assets/images/20201006-013.avif)
 
 ## 本篇小结
 

@@ -14,7 +14,7 @@ Git for Windows. 国内直接从官网 http://git-scm.com/download/win 下载比
 
  
 
-<img src='/images/weixin_public.png' alt='微信' />
+![微信](@site/src/assets/images/weixin_public.avif)
 
 <!-- more -->
 

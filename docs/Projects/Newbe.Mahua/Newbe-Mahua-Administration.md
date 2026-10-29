@@ -17,7 +17,7 @@ top: -999
 
 设置中心是 SDK 提供的，可以进行挂载菜单和界面的管理中心。使用者可以通过实现特定的接口来实现一个跨平台的统一管理界面。
 
-![设置中心](/images/20171224-001.png)
+![设置中心](@site/src/assets/images/20171224-001.avif)
 
 ## 扩展菜单
 
@@ -66,7 +66,7 @@ namespace Newbe.Mahua.Plugins.Template
 
 右键点击`MahuaEvents`文件夹，选择 添加->新建项 。 从`Newbe.Mahua`中选取`菜单处理事件`
 
-![新建菜单处理事件](/images/20171224-005.png)
+![新建菜单处理事件](@site/src/assets/images/20171224-005.avif)
 
 实现相关的业务逻辑。
 
@@ -110,15 +110,15 @@ namespace Newbe.Mahua.Plugins.Parrot.MahuaEvents
 
 #### CQP
 
-![新建菜单处理事件](/images/20171224-003.png)
+![新建菜单处理事件](@site/src/assets/images/20171224-003.avif)
 
 #### Amanda
 
-![新建菜单处理事件](/images/20171224-002.png)
+![新建菜单处理事件](@site/src/assets/images/20171224-002.avif)
 
 #### MPQ
 
-![新建菜单处理事件](/images/20171224-004.png)
+![新建菜单处理事件](@site/src/assets/images/20171224-004.avif)
 
 ### 完成
 

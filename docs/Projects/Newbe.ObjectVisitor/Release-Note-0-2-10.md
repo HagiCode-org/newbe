@@ -58,9 +58,9 @@ o.V().WithExtendObject<Yueluo, StringBuilder>().ForEach<Yueluo, StringBuilder, s
 
 详细的数据可以查看项目首页，此处仅给出图表说明。
 
-![FormatString](/images/20201101-002.png)
+![FormatString](@site/src/assets/images/20201101-002.avif)
 
-![MOdifyData](/images/20201101-001.png)
+![MOdifyData](@site/src/assets/images/20201101-001.avif)
 
 ## 文章
 

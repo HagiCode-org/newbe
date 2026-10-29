@@ -52,13 +52,13 @@ Newbe.Claptrap 是一款基于 Actor 模式的开发框架，并且其中进行�
 
 通过对应用的埋点。现在，开发者可以从 Zipkin、Jaeger 等分布式链路监控系统上清楚的看到一个 Claptrap 具体的行为时间点和内容：
 
-![jaeger](/images/20210217-004.png)
+![jaeger](@site/src/assets/images/20210217-004.avif)
 
 ### 立即可用的性能指标报告
 
 分布式应用，性能报表自然也是不可缺少的部分。现在，通过 Grafana，开发者可以快速的查看当前 Claptrap 系统的一些重要指标情况：
 
-![docs4](/images/20210221-005.png)
+![docs4](@site/src/assets/images/20210221-005.avif)
 
 ### 更加酷炫的开发文档
 
@@ -66,13 +66,13 @@ Newbe.Claptrap 是一款基于 Actor 模式的开发框架，并且其中进行�
 
 同时，我们带来了全新的“博客”模块，为开发者分享项目有关的开发经验、版本介绍等等内容。让开发者可以进一步了解项目。
 
-![docs1](/images/20210221-001.png)
+![docs1](@site/src/assets/images/20210221-001.avif)
 
-![docs2](/images/20210221-002.png)
+![docs2](@site/src/assets/images/20210221-002.avif)
 
-![docs3](/images/20210221-003.png)
+![docs3](@site/src/assets/images/20210221-003.avif)
 
-![docs4](/images/20210221-004.png)
+![docs4](@site/src/assets/images/20210221-004.avif)
 
 不过，当前版本的最新帮助文档仍然在持续构建中。如果您对本项目感兴趣，欢迎关注项目，参与项目。
 

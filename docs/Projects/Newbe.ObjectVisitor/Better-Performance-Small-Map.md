@@ -141,7 +141,7 @@ Intel Xeon CPU E5-2678 v3 2.50GHz, 1 CPU, 24 logical and 12 physical cores
 
 ### 图表
 
-![FuncSearch](/images/20201101-005.png)
+![FuncSearch](@site/src/assets/images/20201101-005.avif)
 
 ### 数据
 

@@ -1,6 +1,14 @@
 import React, { useCallback, useEffect, useId, useRef, useState } from 'react';
 import { gaEventAttributes } from '@hagicode/hagilight-core/analytics-events';
 import styles from './styles.module.css';
+import heroCatLine03 from '@site/src/assets/img/hagicode-heroes/cat-line-03.avif';
+import heroAurora04 from '@site/src/assets/img/hagicode-heroes/aurora-04.avif';
+import heroCatSticker02 from '@site/src/assets/img/hagicode-heroes/cat-sticker-02.avif';
+import heroThorn06 from '@site/src/assets/img/hagicode-heroes/thorn-06.avif';
+import heroRoyal10 from '@site/src/assets/img/hagicode-heroes/royal-10.avif';
+import heroTide09 from '@site/src/assets/img/hagicode-heroes/tide-09.avif';
+import heroCatOil09 from '@site/src/assets/img/hagicode-heroes/cat-oil-09.avif';
+import heroCatPaper04 from '@site/src/assets/img/hagicode-heroes/cat-paper-04.avif';
 import { HagicodeConfig, HagicodeShowcaseItem, HAGICODE_CONFIG } from '../HagicodeConfig';
 
 export type HagicodeRecommendationLayout = 'page' | 'modal';
@@ -60,18 +68,17 @@ const PANE_STAGGER = 0.3;
 const TYPE_RATE = 0.045;
 const LINE_GAP = 0.25;
 
+// Imported through webpack, so each file is emitted as `assets/images/<name>-<contenthash>.avif`.
 const HERO_FILES = [
-  'cat-line-03.webp',
-  'aurora-04.webp',
-  'cat-sticker-02.webp',
-  'thorn-06.webp',
-  'royal-10.webp',
-  'tide-09.webp',
-  'cat-oil-09.webp',
-  'cat-paper-04.webp',
+  heroCatLine03,
+  heroAurora04,
+  heroCatSticker02,
+  heroThorn06,
+  heroRoyal10,
+  heroTide09,
+  heroCatOil09,
+  heroCatPaper04,
 ];
-
-const heroSrc = (file: string) => `/img/hagicode-heroes/${file}`;
 
 /** Illustrative demo values for the Hero scenario report, matched to the highlights by position. */
 const REPORT_VALUES: Array<{ value?: string; unit?: string; team?: boolean }> = [
@@ -293,7 +300,7 @@ function InterestingStage({ item }: { item: HagicodeShowcaseItem }) {
                 zIndex: 10 - distance,
               })}
             >
-              <img src={heroSrc(file)} alt="" width={96} height={96} loading="lazy" decoding="async" />
+              <img src={file} alt="" width={96} height={96} loading="lazy" decoding="async" />
             </span>
           );
         })}
@@ -307,7 +314,7 @@ function InterestingStage({ item }: { item: HagicodeShowcaseItem }) {
               {entry?.team ? (
                 <span className={styles.team}>
                   {team.map((file) => (
-                    <img key={file} src={heroSrc(file)} alt="" width={40} height={40} loading="lazy" decoding="async" />
+                    <img key={file} src={file} alt="" width={40} height={40} loading="lazy" decoding="async" />
                   ))}
                 </span>
               ) : entry ? (

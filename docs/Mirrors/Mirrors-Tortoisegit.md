@@ -14,7 +14,7 @@ Tortoisegit. 国内直接从官网 https://tortoisegit.org 下载比较困难，
 
  
 
-<img src='/images/weixin_public.png' alt='微信' />
+![微信](@site/src/assets/images/weixin_public.avif)
 
 <!-- more -->
 

@@ -28,8 +28,8 @@ https://www.bilibili.com/video/BV15y4y1r7pK
 2. 该类库比直接使用反射更快。
 3. 对于非代码热点路径，即使使用非缓存方式调用也仍然在可接受范围内容。
 
-![Cache](/images/20201031-001.png)
+![Cache](@site/src/assets/images/20201031-001.avif)
 
-![NoCache](/images/20201031-002.png)
+![NoCache](@site/src/assets/images/20201031-002.avif)
 
 <!-- md Footer-Newbe-ObjectVisitor.md -->

@@ -95,7 +95,7 @@ Launching Tye Host...
 
 按照以上的提示，在 http://127.0.0.1:8000 成功启动的 tye dashboard。使用浏览器打开 dashboard 便可以查看到已经部署起来的应用列表。如下图所示：
 
-![tye dashboard](/images/20210131-001.png)
+![tye dashboard](@site/src/assets/images/20210131-001.avif)
 
 通过 dashboard ，可以看到测试程序已经启动，并且绑定了 [http://localhost:14099](http://localhost:14099) 和 [https://localhost:14100](https://localhost:14100)。实际在自行测试中，这两个端口是随机选择的，因此会有不同。
 
@@ -287,7 +287,7 @@ ingress:
 
 首先，使用`tye run` 命令可以在本地查看一下这个效果。运行命令之后可能在 dashboard 中查看到以下情况：
 
-![tye dashboard2](/images/20210131-002.png)
+![tye dashboard2](@site/src/assets/images/20210131-002.avif)
 
 其中，https://localhost:8310 就是 ingress 的入口地址。由于我们采用的是域名绑定，因此可以采用两种方式进行访问以验证效果：
 

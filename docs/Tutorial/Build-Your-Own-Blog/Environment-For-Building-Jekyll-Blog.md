@@ -78,7 +78,7 @@ apm install tidy-markdown
 
 设置之后，便可以在文件夹中通过右键，快速打开Atom。
 
-![打开Atom](/images/20180428-002.png)
+![打开Atom](@site/src/assets/images/20180428-002.avif)
 
 ## Docker for Windows
 
@@ -120,11 +120,11 @@ Docker For Windows 是在 Windows 10 上运行 Docker 的必要组件。
 
 安装完毕后，可以通过开始菜单，启动 Docker For Windows。
 
-![开始菜单启动Docker](/images/20180428-025.png)
+![开始菜单启动Docker](@site/src/assets/images/20180428-025.avif)
 
 启动完成之后，可以在任务栏中看到相应的小鲸鱼。
 
-![神秘小鲸鱼](/images/20180428-026.png)
+![神秘小鲸鱼](@site/src/assets/images/20180428-026.avif)
 
 ### 设置国内Docker加速器
 
@@ -139,11 +139,11 @@ Docker For Windows 是在 Windows 10 上运行 Docker 的必要组件。
 
 进入 Docker 的设置界面。
 
-![点击Docker的设置按钮](/images/20180428-027.png)
+![点击Docker的设置按钮](@site/src/assets/images/20180428-027.avif)
 
 在下图位置，设置你的加速器地址。
 
-![配置加速器](/images/20180428-028.png)
+![配置加速器](@site/src/assets/images/20180428-028.avif)
 
 点击确认，稍等一下，便完成了设置。
 
@@ -163,7 +163,7 @@ docker run  -d -p 8656:80 --name nginx nginx
 
 等待一段时间之后，将会nginx就下载完了，并且启动运行，过程图示如下：
 
-![配置加速器](/images/20180428-029.png)
+![配置加速器](@site/src/assets/images/20180428-029.avif)
 
 接下在，继续运行以下命令，便可以成功看到刚刚启动的nginx界面。
 
@@ -171,7 +171,7 @@ docker run  -d -p 8656:80 --name nginx nginx
 start http://127.0.0.1:8656
 ```
 
-![配置加速器](/images/20180428-030.png)
+![配置加速器](@site/src/assets/images/20180428-030.avif)
 
 就此，Docker就已经能够在开发环境上正常运行了。
 
@@ -192,53 +192,53 @@ Git Extensions 是一个开源项目，软件本体发布在Github上，可以�
 
 开始安装GitExtensions
 
-![安装GitExtensions03](/images/20180428-003.png)
+![安装GitExtensions03](@site/src/assets/images/20180428-003.avif)
 
-![安装GitExtensions04](/images/20180428-004.png)
+![安装GitExtensions04](@site/src/assets/images/20180428-004.avif)
 
-![安装GitExtensions05](/images/20180428-005.png)
+![安装GitExtensions05](@site/src/assets/images/20180428-005.avif)
 
-![安装GitExtensions06](/images/20180428-006.png)
+![安装GitExtensions06](@site/src/assets/images/20180428-006.avif)
 
-![安装GitExtensions07](/images/20180428-007.png)
+![安装GitExtensions07](@site/src/assets/images/20180428-007.avif)
 
-![安装GitExtensions08](/images/20180428-008.png)
+![安装GitExtensions08](@site/src/assets/images/20180428-008.avif)
 
-![安装GitExtensions09](/images/20180428-009.png)
+![安装GitExtensions09](@site/src/assets/images/20180428-009.avif)
 
-![安装GitExtensions10](/images/20180428-010.png)
+![安装GitExtensions10](@site/src/assets/images/20180428-010.avif)
 
 中间~~强势~~插入安装Git For Windows
 
-![安装GitExtensions11](/images/20180428-011.png)
+![安装GitExtensions11](@site/src/assets/images/20180428-011.avif)
 
-![安装GitExtensions12](/images/20180428-012.png)
+![安装GitExtensions12](@site/src/assets/images/20180428-012.avif)
 
-![安装GitExtensions13](/images/20180428-013.png)
+![安装GitExtensions13](@site/src/assets/images/20180428-013.avif)
 
-![安装GitExtensions14](/images/20180428-014.png)
+![安装GitExtensions14](@site/src/assets/images/20180428-014.avif)
 
-![安装GitExtensions15](/images/20180428-015.png)
+![安装GitExtensions15](@site/src/assets/images/20180428-015.avif)
 
-![安装GitExtensions16](/images/20180428-016.png)
+![安装GitExtensions16](@site/src/assets/images/20180428-016.avif)
 
-![安装GitExtensions17](/images/20180428-017.png)
+![安装GitExtensions17](@site/src/assets/images/20180428-017.avif)
 
-![安装GitExtensions18](/images/20180428-018.png)
+![安装GitExtensions18](@site/src/assets/images/20180428-018.avif)
 
 中间~~强势~~插入安装KDiff3
 
-![安装GitExtensions19](/images/20180428-019.png)
+![安装GitExtensions19](@site/src/assets/images/20180428-019.avif)
 
-![安装GitExtensions20](/images/20180428-020.png)
+![安装GitExtensions20](@site/src/assets/images/20180428-020.avif)
 
-![安装GitExtensions21](/images/20180428-021.png)
+![安装GitExtensions21](@site/src/assets/images/20180428-021.avif)
 
-![安装GitExtensions22](/images/20180428-022.png)
+![安装GitExtensions22](@site/src/assets/images/20180428-022.avif)
 
-![安装GitExtensions23](/images/20180428-023.png)
+![安装GitExtensions23](@site/src/assets/images/20180428-023.avif)
 
-![安装GitExtensions24](/images/20180428-024.png)
+![安装GitExtensions24](@site/src/assets/images/20180428-024.avif)
 
 ## 总结
 

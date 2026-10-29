@@ -35,7 +35,7 @@ tye init
 
 直接使用`tye run`命令启动应用，我们其实可以在 tye dashboard 中查看到查看到以控制台方式输出的日志：
 
-![console log](/images/20210216-001.png)
+![console log](@site/src/assets/images/20210216-001.avif)
 
 缺陷也非常明显，这种方式非常不利于阅读和分析。
 
@@ -59,15 +59,15 @@ services:
 
 使用`tye run`启动后，可以在 dashboard 中查看到启动好的 seq 服务。
 
-![seq service](/images/20210216-002.png)
+![seq service](@site/src/assets/images/20210216-002.avif)
 
 打开 seq 便可以看到 seq 的查询界面：
 
-![seq search](/images/20210216-003.png)
+![seq search](@site/src/assets/images/20210216-003.avif)
 
 使用浏览器调用一下 swagger 界面中的 API。便可以在 seq 中查看到最新的日志。
 
-![seq logs](/images/20210216-004.png)
+![seq logs](@site/src/assets/images/20210216-004.avif)
 
 这便是使用 seq 最简单的一种方式。
 

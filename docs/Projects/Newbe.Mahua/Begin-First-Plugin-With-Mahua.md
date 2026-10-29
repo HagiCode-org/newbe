@@ -31,11 +31,11 @@ top: -999
 
 项目名称**至少**需要包含三部分，形如 AAA.BBB.CCC 的形式。
 
-![新建项目](/images/20170613-d51f6524.png)
+![新建项目](@site/src/assets/images/20170613-d51f6524.avif)
 
 ## 安装 nuget 包
 
-![安装nuget包](/images/20170613-f51fc24f.png)
+![安装nuget包](@site/src/assets/images/20170613-f51fc24f.avif)
 
 打开 nuget 包管理器，搜索`Mahua`。根据你希望运行的机器人平台安装`Newbe.Mahua.*`的 nuget 包。
 

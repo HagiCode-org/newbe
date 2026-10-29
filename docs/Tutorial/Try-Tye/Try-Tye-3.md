@@ -51,7 +51,7 @@ services:
 
 使用 tye run 便可以在本地启动一个 mongo 并且在 http://localhost:8081 通过 ui 查看 mongo 中的数据情况：
 
-![mongo express](/images/20210215-001.png)
+![mongo express](@site/src/assets/images/20210215-001.avif)
 
 实际上就是使用 Tye 控制 docker desktop 启动 mongo。因此需要提前在本地安装好 docker desktop，以便启动。
 
@@ -196,7 +196,7 @@ services:
 
 打开`swagger`页面，并访问 API，便可以在 mongo express 中查看到数据已经成功完成了写入：
 
-![mongo express 2](/images/20210215-002.png)
+![mongo express 2](@site/src/assets/images/20210215-002.avif)
 
 查看效果之后可以使用`Ctrl`+`C`停止`tye`以移除相关容器。
 

@@ -57,7 +57,7 @@ https://mvp.microsoft.com/zh-cn/MyProfile/EditPersonalInfo
 
 例如，在下图所示的位置，仅仅当被设置为“所有人”时，相关的资料才能在“Find MVP”中查看到。
 
-![设置资料可见性](/images/20210717-002.png)
+![设置资料可见性](@site/src/assets/images/20210717-002.avif)
 
 左边的每一个项目当中都可以进行独立的设置。因此，如果你想全部展示所有的内容，你需要逐条进行编辑。
 
@@ -103,7 +103,7 @@ https://azure.microsoft.com/zh-cn/offers/ms-azr-0036p/?WT.mc_id=DT-MVP-5004283
 
 https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/change-azure-account-profile?WT.mc_id=DT-MVP-5004283
 
-![查看账号的区域](/images/20210717-006.png)
+![查看账号的区域](@site/src/assets/images/20210717-006.avif)
 
 注意，Billing Region 截至目前是无法进行修改的，故而，你需要重新注册一个微软账号来进行权益申请。
 
@@ -183,13 +183,13 @@ https://plugins.jetbrains.com/plugin/8006-material-theme-ui/pricing
 
 并使用你申请全家桶时使用的账号进行登录，便可以在下图所示的位置，查看到可以免费兑换授权的 Discount:
 
-![使用Discount下载付费插件](/images/20210717-004.png)
+![使用Discount下载付费插件](@site/src/assets/images/20210717-004.avif)
 
 点击 Apply 之后，稍后便会收到对应的邮件，按照邮件提示操作便可以轻松取得对应的授权。
 
 然后，你需要进入 IDE 的 “Manage License” 选项卡，便可以将授权与插件匹配生效。
 
-![激活付费插件](/images/20210717-005.png)
+![激活付费插件](@site/src/assets/images/20210717-005.avif)
 
 > 对于常规的开源项目授权也可以使用此方法操作，效果相同。其实，因为 MVP 对应的授权已经被我使用过了，上图就会开源项目授权的示例图。
 
@@ -197,7 +197,7 @@ https://plugins.jetbrains.com/plugin/8006-material-theme-ui/pricing
 
 你可以选择加入 Github MVP Group 来使得你的组织徽标喜加一。
 
-![Github MVP Group](/images/20210717-003.png)
+![Github MVP Group](@site/src/assets/images/20210717-003.avif)
 
 你可以参阅以下地址的内容来获取如何加入该群组的方法：
 

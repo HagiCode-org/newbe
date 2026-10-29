@@ -128,7 +128,7 @@ Actor 模式是天生适合于解决并发问题的设计模式。基于该理�
 
 接下来，结合上面所述的理论。我们直接丢出设计方案。
 
-![Train Ticketing System Design](/images/20200720-001.png)
+![Train Ticketing System Design](@site/src/assets/images/20200720-001.avif)
 
 #### 将同一车次上的每个座位都设计为一个 Claptrap - SeatGrain
 

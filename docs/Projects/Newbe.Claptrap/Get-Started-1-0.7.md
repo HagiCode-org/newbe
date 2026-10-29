@@ -35,7 +35,7 @@ dotnet new --install Newbe.Claptrap.Template
 
 安装完毕后，可以在安装结果中查看到已经安装的项目模板。
 
-![newbe.claptrap.template安装完毕](/images/20200709-001.png)
+![newbe.claptrap.template安装完毕](@site/src/assets/images/20200709-001.avif)
 
 ## 创建项目
 
@@ -87,9 +87,9 @@ dotnet new newbe.claptrap --name HelloClaptrap
 
 导入断点：打开“断点”窗口，点击按钮，从项目下选择`breakpoints.xml`文件。可以通过以下两张截图找到对应的操作位置。
 
-![Open Breakpoints Window](/images/20200709-002.png)
+![Open Breakpoints Window](@site/src/assets/images/20200709-002.avif)
 
-![Import Breakpoints](/images/20200709-003.png)
+![Import Breakpoints](@site/src/assets/images/20200709-003.avif)
 
 ### Rider
 

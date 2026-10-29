@@ -22,19 +22,19 @@ tags:
 
 在界面的右上角点击 Star 获取下载权限。
 
-![点击Star获取下载权限](/images/20180429-002.png)
+![点击Star获取下载权限](@site/src/assets/images/20180429-002.avif)
 
 点击完成之后，滚动滚轮到下图所示位置，依次点击"Clone and Download"和复制按钮，便成功获得了下载地址。
 
-![获取下载地址](/images/20180429-003.png)
+![获取下载地址](@site/src/assets/images/20180429-003.avif)
 
 新建一个空的文件夹，双击进入文件夹，右键点击文件夹空白处，点击 GitExt Clone。
 
-![点击GitExt Clone](/images/20180429-001.png)
+![点击GitExt Clone](@site/src/assets/images/20180429-001.avif)
 
 在下图所示的位置，填入下载地址，然后点击右下角的`Clone`按钮。
 
-![点击GitExt Clone](/images/20180429-004.png)
+![点击GitExt Clone](@site/src/assets/images/20180429-004.avif)
 
 经过一段时间的等待之后，便可以在当前文件夹看到下载成功的源码。
 
@@ -46,13 +46,13 @@ tags:
 
 第一次启动时，Docker 会要求将设置磁盘共享，这是正常情况。要求当前系统用户的用户名和密码。
 
-![Share Disk](/images/20180429-006.png)
+![Share Disk](@site/src/assets/images/20180429-006.avif)
 
-![Enter Username And Password](/images/20180429-007.png)
+![Enter Username And Password](@site/src/assets/images/20180429-007.avif)
 
 第一次启动时，可能需要消耗40秒左右的时间，此时界面可能是空白的，可以等待控制台输出下图信息时，才表明已经启动成功。
 
-![启动博客日志](/images/20180429-005.png)
+![启动博客日志](@site/src/assets/images/20180429-005.avif)
 
 经过一段时间的等待之后，浏览器就会自动打开 http://127.0.0.1:4000 。
 
@@ -89,11 +89,11 @@ tags:
 
 此次演示就输入2018-04-29-My-First-Post.md
 
-![第一篇博文名称](/images/20180429-009.png)
+![第一篇博文名称](@site/src/assets/images/20180429-009.avif)
 
 点击回车之后，文件就创建好了，此时，若没有关闭上节中提到的控制台，那么在控制台的末尾将会输入下图所示的内容。
 
-![触发自动生成](/images/20180429-008.png)
+![触发自动生成](@site/src/assets/images/20180429-008.avif)
 
 最后一行表示，已经自动生成了一片博文。此时博文的内容是看空的，在博客中还找不到。
 

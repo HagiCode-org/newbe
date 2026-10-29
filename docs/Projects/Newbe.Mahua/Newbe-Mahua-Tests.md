@@ -22,7 +22,7 @@ top: -999
 
 ### 新建测试项目
 
-![新建测试项目](/images/20171225-001.png)
+![新建测试项目](@site/src/assets/images/20171225-001.avif)
 
 ### 引入测试框架
 
@@ -159,7 +159,7 @@ namespace Newbe.Mahua.Plugins.Parrot.Tests
 
 ### 运行测试代码
 
-![运行测试](/images/20171225-002.png)
+![运行测试](@site/src/assets/images/20171225-002.avif)
 
 **来吧！真正的勇士，就绿了它们！**
 
@@ -300,7 +300,7 @@ namespace Newbe.Mahua.Plugins.Parrot.Tests
 
 在构建脚本`build.ps1`中，将`$configuration`从`Release`改为`Debug`，然后运行`build.bat`完成构建。
 
-![修改构建参数](/images/20171225-003.png)
+![修改构建参数](@site/src/assets/images/20171225-003.avif)
 
 ### 复制
 
@@ -316,7 +316,7 @@ namespace Newbe.Mahua.Plugins.Parrot.Tests
 
 从 1.6 版本开始，使用 VS 2017.5 及以上的版本，将可以实现无需下载源码，便可以调试源码的目的，只需要在 VS 中打开下图设置即可。
 
-![开启源链接支持](/images/20171230-001.png)
+![开启源链接支持](@site/src/assets/images/20171230-001.avif)
 
 至此，调试便可以正常进行了。
 

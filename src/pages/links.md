@@ -22,7 +22,7 @@ QQ 频道是类似于 QQ 群的一种交流讨论方式，初次之后还可以�
 
 我会不定时在微信公众号上发表一些博客内容，也欢迎你点赞支持。
 
-![微信公众号](/images/weixin_public.png)
+![微信公众号](@site/src/assets/images/weixin_public.avif)
 
 ## Bilibili
 

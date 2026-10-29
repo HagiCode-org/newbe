@@ -927,7 +927,7 @@ top: -99
         if section_index == version_count - offset:
             post += f"""
 
-<img src='/images/weixin_public.png' alt='微信' />
+![微信](@site/src/assets/images/weixin_public.avif)
 
 """
         section_index += 1
@@ -968,7 +968,7 @@ top: -99
 
 {desc_section}
 
-<img src='/images/weixin_public.png' alt='微信' />
+![微信](@site/src/assets/images/weixin_public.avif)
 
 <!-- more -->
 

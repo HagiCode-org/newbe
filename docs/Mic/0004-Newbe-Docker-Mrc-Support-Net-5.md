@@ -25,7 +25,7 @@ tags:
 
 ## 使用方法
 
-![下载方式](/images/20200616-001.png)
+![下载方式](@site/src/assets/images/20200616-001.avif)
 
 存在至少三种方法进行加速：
 
@@ -116,7 +116,7 @@ docker tag newbe36524/aspnet:5.0-buster-slim mcr.microsoft.com/dotnet/aspnet:5.0
 
 更觉确凿的消息， MCR 中国大陆地区镜像 CDN 将会在 2020 年年底上线。因此，我们预计将会很快就能不使用其他工具，体会到急速下载的 MCR 的体验。
 
-![github 消息](/images/20201111-002.png)
+![github 消息](@site/src/assets/images/20201111-002.avif)
 
 可以通过以下链接了解详情：
 

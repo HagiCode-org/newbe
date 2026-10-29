@@ -20,7 +20,7 @@ ChromeDriver 通过添加特定于 Chromium 的功能来扩展 WebDriver。它�
 
 ChromeDriver 可用于 Android 上的 Chrome 和桌面版 Chrome（Mac、Linux、Windows 和 ChromeOS）。
 
-<img src='/images/weixin_public.png' alt='微信' />
+![微信](@site/src/assets/images/weixin_public.avif)
 
 <!-- more -->
 

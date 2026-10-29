@@ -24,7 +24,7 @@ tags:
 
 这一步非常简单，不多说明，成功创建完成之后便可以看到如下所示的界面。
 
-![操作界面](/images/20200816-001.png)
+![操作界面](@site/src/assets/images/20200816-001.avif)
 
 ### 拉取镜像
 
@@ -48,7 +48,7 @@ docker run --name nginx-test -p 8080:80 -d nginx
 
 部署完成之后，界面上会自动出现一个新的按钮，表示当前可以已经部署成功的公网地址，如下图所示：
 
-![公网访问的按钮](/images/20200816-002.png)
+![公网访问的按钮](@site/src/assets/images/20200816-002.avif)
 
 点击按钮便可以在浏览器中访问刚刚部署成功的 nginx 服务。
 
@@ -69,6 +69,6 @@ docker-compose up -d
 ```
 
 脚本运行完成之后，通过“OPEN PORT”打开 10080 端口，便可以查看刚刚部署完成的火车票模拟售票系统。
-![模拟售票系统界面](/images/20200816-003.png)
+![模拟售票系统界面](@site/src/assets/images/20200816-003.avif)
 
 <!-- md Footer-Newbe-Claptrap.md -->

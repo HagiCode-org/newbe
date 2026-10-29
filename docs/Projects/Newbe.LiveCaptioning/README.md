@@ -310,11 +310,11 @@ namespace Newbe.LiveCaptioning.Pages
 
 https://github.com/newbe36524/Newbe.LiveCaptioning/releases
 
-![release](/images/20210725-001.png)
+![release](@site/src/assets/images/20210725-001.avif)
 
 然后，将这个软件包解压到预先创建好的文件夹。
 
-![unzip](/images/20210725-002.png)
+![unzip](@site/src/assets/images/20210725-002.avif)
 
 接着，在 Azure Portal 中创建一个 Cognitive Services。
 
@@ -328,7 +328,7 @@ https://docs.microsoft.com/en-us/dynamics-nav/how-to--sign-up-for-a-microsoft-az
 
 ![create service](/images/20210725-003.gif)
 
-![region and key](/images/20210725-004.png)
+![region and key](@site/src/assets/images/20210725-004.avif)
 
 随后，将生成好的 region 和 key 填入到 `appsettings.Production.json` 中。
 
@@ -336,7 +336,7 @@ https://docs.microsoft.com/en-us/dynamics-nav/how-to--sign-up-for-a-microsoft-az
 
 https://docs.microsoft.com/azure/cognitive-services/speech-service/language-support?WT.mc_id=DT-MVP-5004283
 
-![update appsettings.Production.json](/images/20210725-005.png)
+![update appsettings.Production.json](@site/src/assets/images/20210725-005.avif)
 
 继而，启动 `Newbe.LiveCaptioning.exe`，你可以看到如下这样的提示信息，就说明一切已经正常。
 
@@ -348,11 +348,11 @@ https://docs.microsoft.com/azure/cognitive-services/speech-service/language-supp
 
 首先，打开你的 OBS，并添加一个 browser 组件。
 
-![add browser](/images/20210725-008.png)
+![add browser](@site/src/assets/images/20210725-008.avif)
 
 在组件的 url 中填入 `http://localhost:5000`，并设置一个合适的宽度和高度。
 
-![add browser](/images/20210725-009.png)
+![add browser](@site/src/assets/images/20210725-009.avif)
 
 对着你的话筒话说，字幕就出来了。
 

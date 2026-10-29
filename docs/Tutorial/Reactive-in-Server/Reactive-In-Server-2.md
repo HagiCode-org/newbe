@@ -251,7 +251,7 @@ private async Task SaveManyCoreMany(
 
 笔者是一个完整存储过程都写不出来的人。能够查阅到这些数据库的文档，全靠一款名为 Zeal 的离线文档查看免费软件。推荐给您，您也值得拥有。
 
-![Zeal](/images/20200627-010.png)
+![Zeal](@site/src/assets/images/20200627-010.avif)
 
 Zeal 官网地址：https://zealdocs.org/
 

@@ -57,7 +57,7 @@ services:
 
 运行`tye run`，便可以在 tye dashboard 中查看成功运行的服务实例和 dapr 实例：
 
-![dapr instance](/images/20210217-001.png)
+![dapr instance](@site/src/assets/images/20210217-001.avif)
 
 使用 swagger 页面，可以正常的访问服务。
 
@@ -109,11 +109,11 @@ dotnet new newbe.claptrap --name HelloClaptrap
 
 在解决方案文件夹，使用`tye run`便可以顺利启动项目。启动之后可以在 tye dashboard 上查看到项目模板包含的所有项目：
 
-![newbe.claptrap service](/images/20210217-002.png)
+![newbe.claptrap service](@site/src/assets/images/20210217-002.avif)
 
 进入`helloclaptrap-webapi`服务的 swagger 页面。调用`​/AuctionItems​/{itemId}​/status`API：
 
-![newbe.claptrap AuctionItems​](/images/20210217-003.png)
+![newbe.claptrap AuctionItems​](@site/src/assets/images/20210217-003.avif)
 
 这就说明服务已经全部启动成功了。
 
@@ -121,7 +121,7 @@ dotnet new newbe.claptrap --name HelloClaptrap
 
 调用之后可以在 Jaeger UI 上查看到服务之间的调用关系和性能细节：
 
-![newbe.claptrap AuctionItems​](/images/20210217-004.png)
+![newbe.claptrap AuctionItems​](@site/src/assets/images/20210217-004.avif)
 
 ## 小结
 

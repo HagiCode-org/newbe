@@ -56,8 +56,8 @@ Intel Xeon CPU E5-2678 v3 2.50GHz, 1 CPU, 24 logical and 12 physical cores
 
 从左往右分别是：直接读取属性、缓存委托、不缓存委托和使用 PropertyInfo。
 
-![Getter](/images/20201101-003.png)
-![Setter](/images/20201101-004.png)
+![Getter](@site/src/assets/images/20201101-003.avif)
+![Setter](@site/src/assets/images/20201101-004.avif)
 
 ### 数据
 

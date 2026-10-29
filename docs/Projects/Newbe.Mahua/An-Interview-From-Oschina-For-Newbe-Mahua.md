@@ -68,7 +68,7 @@ Newbe.Mahua.Ipc 则是基于本 SDK 开发的一个插件，它提供其它进�
 
 若将 Newbe.Mahua 这一层展开来看，则包含下图所示内容：
 
-![Newbe.Mahua包结构](/images/20180708-001.png)
+![Newbe.Mahua包结构](@site/src/assets/images/20180708-001.avif)
 
 其中各个模块的简介如下：
 

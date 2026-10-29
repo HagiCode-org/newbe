@@ -18,7 +18,7 @@ top: -999
 
 更新后的`Newbe.Mahua.Template`项目模板，将支持在 Rider IDE 中直接使用。
 
-![使用Rider创建项目](/images/20181220-001.png)
+![使用Rider创建项目](@site/src/assets/images/20181220-001.avif)
 
 开发者可以通过右侧链接了解详细的使用方法：[开始第一个QQ机器人【适用于v1.9-1.14】](./Begin-First-Plugin-With-Mahua-In-v1.9)
 

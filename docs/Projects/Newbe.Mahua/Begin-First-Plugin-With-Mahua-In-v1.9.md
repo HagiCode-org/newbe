@@ -76,7 +76,7 @@ dotnet new -i Newbe.Mahua.Template
 
 出现以下内容，则说明项目模板已经安装成功。
 
-![项目模板安装结果](/images/20181216-001.png)
+![项目模板安装结果](@site/src/assets/images/20181216-001.avif)
 
 ## 新建项目
 
@@ -99,7 +99,7 @@ dotnet new -i Newbe.Mahua.Template
 
 直接使用 Rider 创建项目，可以在 Other 模板分组中找到该框架相关的模板。
 
-![使用Rider创建项目](/images/20181220-001.png)
+![使用Rider创建项目](@site/src/assets/images/20181220-001.avif)
 
 等待 Rider 创建完毕后，进入新建的项目文件夹中。使用控制台执行更新命令，更新相应的组件包到最新：
 
@@ -301,7 +301,7 @@ namespace Newbe.Mahua.Plugins.Parrot
 
 生成项目，然后双击位于项目根目录的`build.bat`文件。
 
-![build.bat执行成功](/images/20171217-002.png)
+![build.bat执行成功](@site/src/assets/images/20171217-002.avif)
 
 ## 复制文件到机器人平台
 

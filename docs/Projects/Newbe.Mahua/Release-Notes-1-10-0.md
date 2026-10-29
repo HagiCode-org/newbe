@@ -31,13 +31,13 @@ Amanda 平台 SDK 已经升级到版本 3，该版本采用了全新的授权码
 
 添加 Network Receiver 并按照如下图设置：
 
-![Network Receiver基础配置](/images/20180624-001.png)
+![Network Receiver基础配置](@site/src/assets/images/20180624-001.avif)
 
-![Network Receiver编码设置](/images/20180624-002.png)
+![Network Receiver编码设置](@site/src/assets/images/20180624-002.avif)
 
 如此，便可以实时查看日志，效果如下：
 
-![Log4View效果](/images/20180624-003.png)
+![Log4View效果](@site/src/assets/images/20180624-003.avif)
 
 ### 全新样例代码
 

@@ -124,19 +124,19 @@ public void Test1()
 
 然后我们在 Rider 中按照下图选择 Profile 选项：
 
-![profile1](/images/20230312-001.png)
+![profile1](@site/src/assets/images/20230312-001.avif)
 
 然后选择 Profile Unit Tests 选项：
 
-![profile2](/images/20230312-002.png)
+![profile2](@site/src/assets/images/20230312-002.avif)
 
 稍等片刻之后，我们就可以双击下图中的报告，来查看线程的生命周期：
 
-![profile3](/images/20230312-003.png)
+![profile3](@site/src/assets/images/20230312-003.avif)
 
 在查看界面中，我们可以通过线程下来框来查看线程运行所花费的时间：
 
-![profile4](/images/20230312-004.png)
+![profile4](@site/src/assets/images/20230312-004.avif)
 
 如果上图，我们可以很直接的看到，t1 线程的生命周期可以说是瞬间就结束了，因为第一次 await 之后，线程就结束了。
 

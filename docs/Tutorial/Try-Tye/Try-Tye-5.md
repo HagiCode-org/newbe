@@ -162,19 +162,19 @@ services:
 
 使用`tye run`，启动应用，便可以在 dashboard 中查看到自动部署起来的 zipkin：
 
-![zipkin in dashboard](/images/20210216-005.png)
+![zipkin in dashboard](@site/src/assets/images/20210216-005.avif)
 
 打开对应链接，便可以看到对应的 zipkin 查询界面：
 
-![zipkin search ui](/images/20210216-006.png)
+![zipkin search ui](@site/src/assets/images/20210216-006.avif)
 
 然后，我们打开 tyetest 服务的 swagger 界面，进行一次调用。然后在回来查询，便可以查询到服务调用的情况：
 
-![zipkin results](/images/20210216-007.png)
+![zipkin results](@site/src/assets/images/20210216-007.avif)
 
 点击其中的 Show 按钮，便可以查看到一次服务调用的详细过程信息：
 
-![one tracing](/images/20210216-008.png)
+![one tracing](@site/src/assets/images/20210216-008.avif)
 
 这就是使用 zipkin 对 http 调用进行追踪的最简易示例。
 
@@ -233,7 +233,7 @@ services:
 
 启用并测试应用。便可以在 jaeger dashboard 得到类似的结果：
 
-![jaeger result](/images/20210216-009.png)
+![jaeger result](@site/src/assets/images/20210216-009.avif)
 
 当然，使用与 Zipkin 兼容的 SkyWalking 也是可以的，开发者可以自行尝试。
 

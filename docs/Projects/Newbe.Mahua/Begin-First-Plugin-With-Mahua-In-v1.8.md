@@ -55,7 +55,7 @@ powershell -command "Set-ExecutionPolicy RemoteSigned -Force"
 
 本插件项目名称使用`Newbe.Mahua.Plugins.Parrot`。
 
-![新建项目](/images/20171216-001.png)
+![新建项目](@site/src/assets/images/20171216-001.avif)
 
 ## 修改插件基本信息
 
@@ -104,11 +104,11 @@ namespace Newbe.Mahua.Plugins.Parrot
 
 > MahuaEvents 文件夹是本 SDK 建议将事件放置的文件夹位置。也可以不接受建议而添加在其他地方。
 
-![添加->新建项](/images/20171216-002.png)
+![添加->新建项](@site/src/assets/images/20171216-002.avif)
 
 如下图所示，选择"来自好友的私聊消息接收事件"。
 
-![新建好友消息处理事件](/images/20171217-001.png)
+![新建好友消息处理事件](@site/src/assets/images/20171217-001.avif)
 
 在`PrivateMessageFromFriendReceivedMahuaEvent.cs`中，调用`IMahuaApi`，将好友消息回发给好友，实现嘤鹉学舌的效果。
 
@@ -212,7 +212,7 @@ namespace Newbe.Mahua.Plugins.Parrot
 
 生成项目，然后双击位于项目根目录的`build.bat`文件。
 
-![build.bat执行成功](/images/20171217-002.png)
+![build.bat执行成功](@site/src/assets/images/20171217-002.avif)
 
 ## 复制文件到机器人平台
 

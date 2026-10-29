@@ -4,7 +4,7 @@ title: 十万同时在线用户，需要多少内存？——Newbe.Claptrap框�
 tags:
   - Newbe.Claptrap
 # photos:
-# - /images/main_banner.png
+# - @site/src/assets/images/main_banner.avif
 ---
 
 Newbe.Claptrap 项目是笔者正在构建以`反应式`、`Actor模式`和`事件溯源`为理论基础的一套服务端开发框架。本篇我们将来了解一下框架在水平扩展方面的能力。
@@ -69,7 +69,7 @@ Newbe.Claptrap 项目是笔者正在构建以`反应式`、`Actor模式`和`事�
 
 ## 调用时序关系
 
-![Timing diagram](/images/20200621-001.png)
+![Timing diagram](@site/src/assets/images/20200621-001.avif)
 
 简要说明：
 
@@ -79,7 +79,7 @@ Newbe.Claptrap 项目是笔者正在构建以`反应式`、`Actor模式`和`事�
 
 ## 物理结构设计
 
-![物理结构设计](/images/20200618-001.png)
+![物理结构设计](@site/src/assets/images/20200618-001.avif)
 
 如上图所示，便是此次进行测试的物理组件：
 
@@ -115,13 +115,13 @@ Newbe.Claptrap 项目是笔者正在构建以`反应式`、`Actor模式`和`事�
 
 默认情况下，刚刚启动 Dashboard 节点时，通过 portainer 可以查看 container 占用的内存约为 200 MB 左右，如下图所示：
 
-![初始内存占用](/images/20200621-002.png)
+![初始内存占用](@site/src/assets/images/20200621-002.avif)
 
 通过测试控制台，向 WebAPI 发出 30,000 次请求。每批 100 个请求，分批发送。
 
 经过约两分钟的等待后，再次查看内存情况，约为 9.2 GB，如下图所示：
 
-![三万用户](/images/20200621-003.png)
+![三万用户](@site/src/assets/images/20200621-003.avif)
 
 因此，我们简单的估算每个在线用户需要消耗的内存情况约为 （9.2\*1024-200）/30000 = 0.3 MB。
 
@@ -129,27 +129,27 @@ Newbe.Claptrap 项目是笔者正在构建以`反应式`、`Actor模式`和`事�
 
 CPU 使用情况
 
-![CPU使用情况](/images/20200621-004.png)
+![CPU使用情况](@site/src/assets/images/20200621-004.avif)
 
 网络吞吐量
 
-![网络吞吐量](/images/20200621-005.png)
+![网络吞吐量](@site/src/assets/images/20200621-005.avif)
 
 Orleans Dashboard 情况。左上角的 TOTAL ACTIVATIONS 中 30,000 即表示当前内存中存在的 UserGrain 数量，另外的 3 个为 Dashboard 使用的 Grain。
 
-![Orleans Dashboard 情况](/images/20200621-006.png)
+![Orleans Dashboard 情况](@site/src/assets/images/20200621-006.avif)
 
 Grafana 中查看 Newbe.Claptrap 的事件平均处理时长约为 100-600 ms。此次测试的主要是内存情况，处理时长的采集时间为 30s 一次，因此样本数并不多。关于处理时长我们将在后续的文章中进行详细测试。
 
-![时间平均处理时长](/images/20200621-007.png)
+![时间平均处理时长](@site/src/assets/images/20200621-007.avif)
 
 Grafana 中查看 Newbe.Claptrap 的事件的保存花费的平均时长约为 50-200 ms。事件的保存时长是事件处理的主要部分。
 
-![三万用户](/images/20200621-009.png)
+![三万用户](@site/src/assets/images/20200621-009.avif)
 
 Grafana 中查看 Newbe.Claptrap 的事件已处理总数。一种登录了三万次，因此事件总数也是三万。
 
-![事件处理的总数](/images/20200621-008.png)
+![事件处理的总数](@site/src/assets/images/20200621-008.avif)
 
 ### 1 Gateway 1 Cluster
 
@@ -192,7 +192,7 @@ Grafana 中查看 Newbe.Claptrap 的事件已处理总数。一种登录了三�
 
 但是，这不意味着不能够继续登录，以下便是 1+1+1 的情况下，十万用户全部登录后的情况。(有十万用户同时在线，加点内存吧，不差钱了。)
 
-![十万用户](/images/20200621-010.png)
+![十万用户](@site/src/assets/images/20200621-010.avif)
 
 ## 源码构建说明
 

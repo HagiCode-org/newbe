@@ -57,7 +57,7 @@ top: -999
 
 同时，依托 VS2017.5 版本的"源链接支持"和"[SourceLink](https://github.com/ctaggart/SourceLink)"的支持，开发者可以实现不需要下载源码，便可以实现调试框架源码的目的。
 
-![开启源链接支持](/images/20171230-001.png)
+![开启源链接支持](@site/src/assets/images/20171230-001.avif)
 
 ### 增加单元测试与调试 SDK 的说明
 

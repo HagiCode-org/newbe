@@ -28,7 +28,7 @@ top: -999
 
 实测效果图：
 
-![最终效果](/images/20171230-003.png)
+![最终效果](@site/src/assets/images/20171230-003.avif)
 
 ## 新建项目
 
@@ -245,7 +245,7 @@ SQLite 数据库操作，通过官方提供的类库便可以完成。
 
 新建`应用程序配置文件`。
 
-![应用程序配置文件](/images/20171230-002.png)
+![应用程序配置文件](@site/src/assets/images/20171230-002.avif)
 
 在应用程序配置文件中配置以下内容：
 
@@ -523,7 +523,7 @@ namespace Newbe.Mahua.Samples.Sqlite
 
 以下是 CQP 平台的测试效果。~~其实其他的没测试~~
 
-![最终效果](/images/20171230-003.png)
+![最终效果](@site/src/assets/images/20171230-003.avif)
 
 ## 总结
 

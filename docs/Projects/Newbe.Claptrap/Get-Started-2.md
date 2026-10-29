@@ -21,7 +21,7 @@ dotnet new --install Newbe.Claptrap.Template
 
 安装完毕后，可以在安装结果中查看到已经安装的项目模板。
 
-![newbe.claptrap.template安装完毕](/images/20200709-001.png)
+![newbe.claptrap.template安装完毕](@site/src/assets/images/20200709-001.avif)
 
 ## 创建项目
 
@@ -45,7 +45,7 @@ tye run
 
 启动之后可以在 tye dashboard 上查看到项目模板包含的所有项目：
 
-![newbe.claptrap service](/images/20210217-002.png)
+![newbe.claptrap service](@site/src/assets/images/20210217-002.avif)
 
 > tye dashboard 的地址通常为 [http://localhost:8000](http://localhost:8000)， 若端口被占用将自动使用其他端口，可以查看命令行上的提示，以得到当前具体的地址。
 
@@ -55,7 +55,7 @@ tye run
 
 在 swagger 页面上，尝试调用`/AuctionItems/{itemId}/status`API：
 
-![newbe.claptrap AuctionItems](/images/20210217-003.png)
+![newbe.claptrap AuctionItems](@site/src/assets/images/20210217-003.avif)
 
 服务返回 200 说明当前服务各个组件已经正常启动。
 

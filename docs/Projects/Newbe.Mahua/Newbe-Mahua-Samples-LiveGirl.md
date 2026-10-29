@@ -28,7 +28,7 @@ B 站直播姬！定时向群友通知群主何时进行女装直播的消息。
 
 收到 "直播姬降落" 的消息后，取消所有定时任务。
 
-![最终效果](/images/20171231-001.png)
+![最终效果](@site/src/assets/images/20171231-001.avif)
 
 ## 新建项目
 
@@ -508,7 +508,7 @@ namespace Newbe.Mahua.Samples.LiveGirl
 
 以下是 CQP 平台的测试效果。~~其实其他的没测试~~
 
-![最终效果](/images/20171231-001.png)
+![最终效果](@site/src/assets/images/20171231-001.avif)
 
 ## 总结
 

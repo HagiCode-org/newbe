@@ -110,7 +110,7 @@ minikube dashboard
 
 稍等片刻，浏览器便会打开 dashboard，你就可以看到集群的基本情况。
 
-![dashboard](/images/20210905-001.png)
+![dashboard](@site/src/assets/images/20210905-001.avif)
 
 ## 使用 lens 查看集群
 
@@ -120,11 +120,11 @@ minikube dashboard
 
 然后打开之后，便可以通过 lens 来查看集群的基本情况。
 
-![lens1](/images/20210905-002.png)
+![lens1](@site/src/assets/images/20210905-002.avif)
 
-![lens2](/images/20210905-003.png)
+![lens2](@site/src/assets/images/20210905-003.avif)
 
-![lens3](/images/20210905-004.png)
+![lens3](@site/src/assets/images/20210905-004.avif)
 
 ## 安装 helm
 
@@ -178,19 +178,19 @@ helm install my-release bitnami/nginx
 
 同时，如果你前面安装了 lens， 那么也可以通过左侧的 APP/Charts 来安装：
 
-![nginx](/images/20210905-005.png)
+![nginx](@site/src/assets/images/20210905-005.avif)
 
 安装好之后，便可以使用 k8s 的 port-forward 功能来查看安装结果。当然，在 lens 上，只需要一次鼠标点击可以：
 
-![nginx-port-forward](/images/20210905-006.png)
+![nginx-port-forward](@site/src/assets/images/20210905-006.avif)
 
-![view nginx](/images/20210905-007.png)
+![view nginx](@site/src/assets/images/20210905-007.avif)
 
 ## 移除安装的 helm chart
 
 通过 lens app/release 菜单，你可以非常简单的移除刚刚安装的 chart。
 
-![remove release](/images/20210905-008.png)
+![remove release](@site/src/assets/images/20210905-008.avif)
 
 ## 停止和移除 minikube 节点
 
