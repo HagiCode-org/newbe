@@ -121,6 +121,17 @@ const config = {
   ],
 
   headTags: [
+    // PWA / platform icons. Their files are fixed-name PNGs under static/images/icons/ on purpose:
+    // browsers and the OS fetch them by the names declared here (see AGENTS.md, "Images").
+    { tagName: 'link', attributes: { rel: 'manifest', href: '/images/icons/site.webmanifest' } },
+    { tagName: 'link', attributes: { rel: 'apple-touch-icon', sizes: '180x180', href: '/images/icons/apple-touch-icon.png' } },
+    { tagName: 'link', attributes: { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/images/icons/favicon-32x32.png' } },
+    { tagName: 'link', attributes: { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/images/icons/favicon-16x16.png' } },
+    { tagName: 'link', attributes: { rel: 'mask-icon', href: '/images/icons/safari-pinned-tab.svg', color: '#000000' } },
+    { tagName: 'meta', attributes: { name: 'msapplication-config', content: '/images/icons/browserconfig.xml' } },
+    { tagName: 'meta', attributes: { name: 'msapplication-TileColor', content: '#ffffff' } },
+    { tagName: 'meta', attributes: { name: 'theme-color', content: '#ffffff', media: '(prefers-color-scheme: light)' } },
+    { tagName: 'meta', attributes: { name: 'theme-color', content: '#1b1b1d', media: '(prefers-color-scheme: dark)' } },
     {
       tagName: 'script',
       attributes: {},
