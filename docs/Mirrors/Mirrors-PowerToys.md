@@ -18,13 +18,25 @@ PowerToys. 国内直接从官网 https://github.com/microsoft/PowerToys/ 下载�
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v0.103.3012
+
+- <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.103.3012/GroupPolicyObjectFiles-0.103.3012.0.zip" text="GroupPolicyObjectFiles-0.103.3012.0.zip" repositoryKey="microsoft/PowerToys" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-bK6cA", "paidShareUrl": null, "isLatest": true, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-10-29T10:41:37.838Z"}]} />
+- <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.103.3012/PowerToysSetup-0.103.3012.0-arm64.exe" text="PowerToysSetup-0.103.3012.0-arm64.exe" repositoryKey="microsoft/PowerToys" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-ufNcA", "paidShareUrl": null, "isLatest": true, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-10-29T23:01:09.146Z"}]} />
+- <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.103.3012/PowerToysSetup-0.103.3012.0-x64.exe" text="PowerToysSetup-0.103.3012.0-x64.exe" repositoryKey="microsoft/PowerToys" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-e2ueA", "paidShareUrl": null, "isLatest": true, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-10-29T23:01:49.718Z"}]} />
+- <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.103.3012/PowerToysUserSetup-0.103.3012.0-arm64.exe" text="PowerToysUserSetup-0.103.3012.0-arm64.exe" repositoryKey="microsoft/PowerToys" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-r0BcA", "paidShareUrl": null, "isLatest": true, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-10-29T23:02:34.796Z"}]} />
+- <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.103.3012/PowerToysUserSetup-0.103.3012.0-x64.exe" text="PowerToysUserSetup-0.103.3012.0-x64.exe" repositoryKey="microsoft/PowerToys" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-wnheA", "paidShareUrl": null, "isLatest": true, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-10-29T23:02:42.346Z"}]} />
+- <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.103.3012/symbols-arm64.zip" text="symbols-arm64.zip" repositoryKey="microsoft/PowerToys" />
+- <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.103.3012/symbols-x64.zip" text="symbols-x64.zip" repositoryKey="microsoft/PowerToys" />
+
+
+
 ## v0.103.3006
 
-- <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.103.3006/GroupPolicyObjectFiles-0.103.3006.0.zip" text="GroupPolicyObjectFiles-0.103.3006.0.zip" repositoryKey="microsoft/PowerToys" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-R2ueA", "paidShareUrl": null, "isLatest": true, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-10-28T17:57:56.625Z"}]} />
-- <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.103.3006/PowerToysSetup-0.103.3006.0-arm64.exe" text="PowerToysSetup-0.103.3006.0-arm64.exe" repositoryKey="microsoft/PowerToys" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-02ueA", "paidShareUrl": null, "isLatest": true, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-10-28T22:45:19.217Z"}]} />
-- <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.103.3006/PowerToysSetup-0.103.3006.0-x64.exe" text="PowerToysSetup-0.103.3006.0-x64.exe" repositoryKey="microsoft/PowerToys" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-K2ueA", "paidShareUrl": null, "isLatest": true, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-10-28T22:46:05.163Z"}]} />
-- <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.103.3006/PowerToysUserSetup-0.103.3006.0-arm64.exe" text="PowerToysUserSetup-0.103.3006.0-arm64.exe" repositoryKey="microsoft/PowerToys" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-mzocA", "paidShareUrl": null, "isLatest": true, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-10-28T22:47:01.418Z"}]} />
-- <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.103.3006/PowerToysUserSetup-0.103.3006.0-x64.exe" text="PowerToysUserSetup-0.103.3006.0-x64.exe" repositoryKey="microsoft/PowerToys" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-ZwJtA", "paidShareUrl": null, "isLatest": true, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-10-28T22:47:50.738Z"}]} />
+- <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.103.3006/GroupPolicyObjectFiles-0.103.3006.0.zip" text="GroupPolicyObjectFiles-0.103.3006.0.zip" repositoryKey="microsoft/PowerToys" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-R2ueA", "paidShareUrl": null, "isLatest": false, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-10-28T17:57:56.625Z"}]} />
+- <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.103.3006/PowerToysSetup-0.103.3006.0-arm64.exe" text="PowerToysSetup-0.103.3006.0-arm64.exe" repositoryKey="microsoft/PowerToys" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-02ueA", "paidShareUrl": null, "isLatest": false, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-10-28T22:45:19.217Z"}]} />
+- <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.103.3006/PowerToysSetup-0.103.3006.0-x64.exe" text="PowerToysSetup-0.103.3006.0-x64.exe" repositoryKey="microsoft/PowerToys" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-K2ueA", "paidShareUrl": null, "isLatest": false, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-10-28T22:46:05.163Z"}]} />
+- <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.103.3006/PowerToysUserSetup-0.103.3006.0-arm64.exe" text="PowerToysUserSetup-0.103.3006.0-arm64.exe" repositoryKey="microsoft/PowerToys" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-mzocA", "paidShareUrl": null, "isLatest": false, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-10-28T22:47:01.418Z"}]} />
+- <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.103.3006/PowerToysUserSetup-0.103.3006.0-x64.exe" text="PowerToysUserSetup-0.103.3006.0-x64.exe" repositoryKey="microsoft/PowerToys" preferredProviders={["123pan"]} resolvedMirrors={[{"providerKey": "123pan", "fullUrl": "https://www.123pan.com/s/zsClvd-ZwJtA", "paidShareUrl": null, "isLatest": false, "displayName": "123pan", "source": "syncer-r2", "status": "synced", "syncedAt": "2026-10-28T22:47:50.738Z"}]} />
 - <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.103.3006/symbols-arm64.zip" text="symbols-arm64.zip" repositoryKey="microsoft/PowerToys" />
 - <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.103.3006/symbols-x64.zip" text="symbols-x64.zip" repositoryKey="microsoft/PowerToys" />
 
@@ -246,6 +258,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v0.94.2
 
 - <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.94.2/GroupPolicyObjectsFiles-0.94.2.zip" text="GroupPolicyObjectsFiles-0.94.2.zip" repositoryKey="microsoft/PowerToys" />
@@ -255,8 +269,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.94.2/PowerToysUserSetup-0.94.2-x64.exe" text="PowerToysUserSetup-0.94.2-x64.exe" repositoryKey="microsoft/PowerToys" />
 - <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.94.2/symbols-arm64.zip" text="symbols-arm64.zip" repositoryKey="microsoft/PowerToys" />
 - <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.94.2/symbols-x64.zip" text="symbols-x64.zip" repositoryKey="microsoft/PowerToys" />
-
-
 
 
 
@@ -364,18 +376,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.90.0/PowerToysUserSetup-0.90.0-x64.exe" text="PowerToysUserSetup-0.90.0-x64.exe" repositoryKey="microsoft/PowerToys" />
 - <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.90.0/symbols-0.90.0-arm64.zip" text="symbols-0.90.0-arm64.zip" repositoryKey="microsoft/PowerToys" />
 - <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.90.0/symbols-0.90.0-x64.zip" text="symbols-0.90.0-x64.zip" repositoryKey="microsoft/PowerToys" />
-
-
-
-## v0.89.0
-
-- <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.89.0/GroupPolicyObjectsFiles-0.89.0.zip" text="GroupPolicyObjectsFiles-0.89.0.zip" repositoryKey="microsoft/PowerToys" />
-- <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.89.0/PowerToysSetup-0.89.0-arm64.exe" text="PowerToysSetup-0.89.0-arm64.exe" repositoryKey="microsoft/PowerToys" />
-- <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.89.0/PowerToysSetup-0.89.0-x64.exe" text="PowerToysSetup-0.89.0-x64.exe" repositoryKey="microsoft/PowerToys" />
-- <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.89.0/PowerToysUserSetup-0.89.0-arm64.exe" text="PowerToysUserSetup-0.89.0-arm64.exe" repositoryKey="microsoft/PowerToys" />
-- <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.89.0/PowerToysUserSetup-0.89.0-x64.exe" text="PowerToysUserSetup-0.89.0-x64.exe" repositoryKey="microsoft/PowerToys" />
-- <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.89.0/symbols-0.89.0-arm64.zip" text="symbols-0.89.0-arm64.zip" repositoryKey="microsoft/PowerToys" />
-- <GithubMirrorLink link="https://github.com/microsoft/PowerToys/releases/download/v0.89.0/symbols-0.89.0-x64.zip" text="symbols-0.89.0-x64.zip" repositoryKey="microsoft/PowerToys" />
 
 
 
