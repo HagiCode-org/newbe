@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T04:01:11.177263+00:00",
-  "recordCount": 2688,
+  "generatedAt": "2026-10-31T03:45:53.223211+00:00",
+  "recordCount": 2717,
   "records": {
     "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.AppImage": {
       "syncedAt": "2026-08-22T07:14:26.809Z",
@@ -1555,6 +1555,11 @@
     "PowerShell/PowerShell:v7.7.0-rc.1:PowerShell-7.7.0-rc.1-win-x86.zip": {
       "syncedAt": "2026-10-29T23:16:04.452Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-L2ueA",
+      "status": "synced"
+    },
+    "PowerShell/PowerShell:v7.7.0-rc.1:PowerShellPreview-7.7.0-rc.1.msixbundle": {
+      "syncedAt": "2026-10-30T10:23:19.013Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-ifNcA",
       "status": "synced"
     },
     "PowerShell/PowerShell:v7.7.0-rc.1:hashes.sha256": {
@@ -4367,6 +4372,16 @@
       "shareUrl": "https://www.123pan.com/s/zsClvd-jXheA",
       "status": "synced"
     },
+    "desktop/desktop:release-3.6.10:GitHub.Desktop-3.6.10-checksums.txt": {
+      "syncedAt": "2026-10-30T12:53:42.215Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-szocA",
+      "status": "synced"
+    },
+    "desktop/desktop:release-3.6.10:GitHubDesktopSetup-x64.exe": {
+      "syncedAt": "2026-10-30T13:55:01.459Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-K0BcA",
+      "status": "synced"
+    },
     "desktop/desktop:release-3.6.5-beta1:GitHub.Desktop-3.6.5-beta1-checksums.txt": {
       "syncedAt": "2026-08-22T06:54:06.830Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-gh6ZA",
@@ -5075,6 +5090,136 @@
     "desktop/desktop:release-3.6.9-beta1:GitHubDesktopSetup-x64.msi": {
       "syncedAt": "2026-10-24T20:51:41.658Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-dYueA",
+      "status": "synced"
+    },
+    "electron/fiddle:v0.39.0:Electron.Fiddle-0.39.0-arm64.AppImage": {
+      "syncedAt": "2026-08-22T07:03:48.856Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-mz8SA",
+      "status": "synced"
+    },
+    "electron/fiddle:v0.39.0:Electron.Fiddle-0.39.0-armv7l.AppImage": {
+      "syncedAt": "2026-08-22T07:04:18.282Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-gKFlA",
+      "status": "synced"
+    },
+    "electron/fiddle:v0.39.0:Electron.Fiddle-0.39.0-x64.AppImage": {
+      "syncedAt": "2026-08-22T07:04:47.159Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-fHklA",
+      "status": "synced"
+    },
+    "electron/fiddle:v0.39.0:Electron.Fiddle-darwin-arm64-0.39.0.zip": {
+      "syncedAt": "2026-08-22T07:04:53.672Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-6ANcA",
+      "status": "synced"
+    },
+    "electron/fiddle:v0.39.0:Electron.Fiddle-darwin-x64-0.39.0.zip": {
+      "syncedAt": "2026-08-22T07:05:22.779Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-GAklA",
+      "status": "synced"
+    },
+    "electron/fiddle:v0.39.0:RELEASES": {
+      "syncedAt": "2026-08-22T07:05:50.559Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-O3WSA",
+      "status": "synced"
+    },
+    "electron/fiddle:v0.39.0:electron-fiddle-0.39.0-1.arm64.rpm": {
+      "syncedAt": "2026-08-22T07:00:07.924Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-rhklA",
+      "status": "synced"
+    },
+    "electron/fiddle:v0.39.0:electron-fiddle-0.39.0-1.armv7hl.rpm": {
+      "syncedAt": "2026-08-22T07:00:38.720Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-MX5SA",
+      "status": "synced"
+    },
+    "electron/fiddle:v0.39.0:electron-fiddle-0.39.0-1.x86_64.rpm": {
+      "syncedAt": "2026-08-22T07:00:46.572Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-g2BcA",
+      "status": "synced"
+    },
+    "electron/fiddle:v0.39.0:electron-fiddle-0.39.0-full.nupkg": {
+      "syncedAt": "2026-08-22T07:01:15.370Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-uHklA",
+      "status": "synced"
+    },
+    "electron/fiddle:v0.39.0:electron-fiddle-0.39.0-win32-ia32-setup.exe": {
+      "syncedAt": "2026-08-22T07:01:46.296Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-BzflA",
+      "status": "synced"
+    },
+    "electron/fiddle:v0.39.0:electron-fiddle-0.39.0-win32-x64-setup.exe": {
+      "syncedAt": "2026-08-22T07:02:14.998Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-3adlA",
+      "status": "synced"
+    },
+    "electron/fiddle:v0.39.0:electron-fiddle_0.39.0_amd64.deb": {
+      "syncedAt": "2026-08-22T07:02:44.648Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-jzflA",
+      "status": "synced"
+    },
+    "electron/fiddle:v0.39.0:electron-fiddle_0.39.0_arm64.deb": {
+      "syncedAt": "2026-08-22T07:02:50.518Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-oJheA",
+      "status": "synced"
+    },
+    "electron/fiddle:v0.39.0:electron-fiddle_0.39.0_armhf.deb": {
+      "syncedAt": "2026-08-22T07:03:19.539Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-CuFlA",
+      "status": "synced"
+    },
+    "electron/fiddle:v1.0.0-alpha.0:Electron.Fiddle-1.0.0-alpha.0-arm64.AppImage": {
+      "syncedAt": "2026-10-30T22:27:10.462Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-du6cA",
+      "status": "synced"
+    },
+    "electron/fiddle:v1.0.0-alpha.0:Electron.Fiddle-1.0.0-alpha.0-x64.AppImage": {
+      "syncedAt": "2026-10-30T22:27:41.645Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-LfNcA",
+      "status": "synced"
+    },
+    "electron/fiddle:v1.0.0-alpha.0:Electron.Fiddle-darwin-arm64-1.0.0-alpha.0.zip": {
+      "syncedAt": "2026-10-30T22:28:10.150Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-j2ueA",
+      "status": "synced"
+    },
+    "electron/fiddle:v1.0.0-alpha.0:Electron.Fiddle-darwin-x64-1.0.0-alpha.0.zip": {
+      "syncedAt": "2026-10-30T22:28:42.142Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-DzocA",
+      "status": "synced"
+    },
+    "electron/fiddle:v1.0.0-alpha.0:Electron.Fiddle-win32-x64-1.0.0-alpha.0.msix": {
+      "syncedAt": "2026-10-30T22:29:22.302Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-XnheA",
+      "status": "synced"
+    },
+    "electron/fiddle:v1.0.0-alpha.0:RELEASES": {
+      "syncedAt": "2026-10-30T16:48:44.984Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-9gJtA",
+      "status": "synced"
+    },
+    "electron/fiddle:v1.0.0-alpha.0:electron-fiddle-1.0.0-alpha.0-win32-x64-setup.exe": {
+      "syncedAt": "2026-10-30T22:24:16.487Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-zfNcA",
+      "status": "synced"
+    },
+    "electron/fiddle:v1.0.0-alpha.0:electron-fiddle-1.0.0.alpha.0-1.arm64.rpm": {
+      "syncedAt": "2026-10-30T22:25:21.339Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-lameA",
+      "status": "synced"
+    },
+    "electron/fiddle:v1.0.0-alpha.0:electron-fiddle-1.0.0.alpha.0-1.x86_64.rpm": {
+      "syncedAt": "2026-10-30T22:25:47.271Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-vu6cA",
+      "status": "synced"
+    },
+    "electron/fiddle:v1.0.0-alpha.0:electron-fiddle_1.0.0.alpha.0_amd64.deb": {
+      "syncedAt": "2026-10-30T22:26:13.084Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-ZuNeA",
+      "status": "synced"
+    },
+    "electron/fiddle:v1.0.0-alpha.0:electron-fiddle_1.0.0.alpha.0_arm64.deb": {
+      "syncedAt": "2026-10-30T22:26:38.726Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-l0BcA",
       "status": "synced"
     },
     "go-gitea/gitea:v1.27.2:gitea-1.27.2-darwin-10.12-amd64": {
@@ -13446,7 +13591,6 @@
   "errors": [
     "microsoft/azuredatastudio: repository_missing (Root manifest index does not cover repository microsoft/azuredatastudio)",
     "OpenAgentPlatform/Dive: repository_missing (Root manifest index does not cover repository OpenAgentPlatform/Dive)",
-    "electron/fiddle: repository_missing (Root manifest index does not cover repository electron/fiddle)",
     "nomic-ai/gpt4all: repository_missing (Root manifest index does not cover repository nomic-ai/gpt4all)",
     "ggml-org/llama.cpp: repository_missing (Root manifest index does not cover repository ggml-org/llama.cpp)"
   ]
