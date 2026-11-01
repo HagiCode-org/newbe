@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T03:45:53.223211+00:00",
-  "recordCount": 2717,
+  "generatedAt": "2026-11-01T03:54:49.721061+00:00",
+  "recordCount": 2723,
   "records": {
     "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.AppImage": {
       "syncedAt": "2026-08-22T07:14:26.809Z",
@@ -4377,9 +4377,34 @@
       "shareUrl": "https://www.123pan.com/s/zsClvd-szocA",
       "status": "synced"
     },
+    "desktop/desktop:release-3.6.10:GitHub.Desktop-arm64.zip": {
+      "syncedAt": "2026-10-31T05:39:40.478Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-ZbhtA",
+      "status": "synced"
+    },
+    "desktop/desktop:release-3.6.10:GitHub.Desktop-x64.zip": {
+      "syncedAt": "2026-10-31T05:40:28.715Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-QCmtA",
+      "status": "synced"
+    },
+    "desktop/desktop:release-3.6.10:GitHubDesktop-3.6.10-x64-delta.nupkg": {
+      "syncedAt": "2026-10-31T05:41:13.529Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-qfNcA",
+      "status": "synced"
+    },
+    "desktop/desktop:release-3.6.10:GitHubDesktop-3.6.10-x64-full.nupkg": {
+      "syncedAt": "2026-10-31T05:42:00.371Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-Z0BcA",
+      "status": "synced"
+    },
     "desktop/desktop:release-3.6.10:GitHubDesktopSetup-x64.exe": {
       "syncedAt": "2026-10-30T13:55:01.459Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-K0BcA",
+      "status": "synced"
+    },
+    "desktop/desktop:release-3.6.10:GitHubDesktopSetup-x64.msi": {
+      "syncedAt": "2026-10-31T05:42:09.228Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-0zocA",
       "status": "synced"
     },
     "desktop/desktop:release-3.6.5-beta1:GitHub.Desktop-3.6.5-beta1-checksums.txt": {
@@ -5200,6 +5225,11 @@
     "electron/fiddle:v1.0.0-alpha.0:electron-fiddle-1.0.0-alpha.0-win32-x64-setup.exe": {
       "syncedAt": "2026-10-30T22:24:16.487Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-zfNcA",
+      "status": "synced"
+    },
+    "electron/fiddle:v1.0.0-alpha.0:electron-fiddle-1.0.0-alpha0-full.nupkg": {
+      "syncedAt": "2026-10-31T05:43:24.691Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-TsueA",
       "status": "synced"
     },
     "electron/fiddle:v1.0.0-alpha.0:electron-fiddle-1.0.0.alpha.0-1.arm64.rpm": {
