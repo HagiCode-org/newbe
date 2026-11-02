@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-01T03:54:49.721061+00:00",
-  "recordCount": 2723,
+  "generatedAt": "2026-11-02T03:58:24.924816+00:00",
+  "recordCount": 2871,
   "records": {
     "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.AppImage": {
       "syncedAt": "2026-08-22T07:14:26.809Z",
@@ -4315,6 +4315,116 @@
     "agalwood/Motrix:v2.1.1:Motrix_2.1.1_arm64.deb": {
       "syncedAt": "2026-10-29T22:52:32.110Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-InheA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.2.0:Motrix-2.2.0-aarch64.flatpak": {
+      "syncedAt": "2026-11-01T17:21:39.694Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-wgJtA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.2.0:Motrix-2.2.0-aarch64.pacman": {
+      "syncedAt": "2026-11-01T22:00:33.222Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-hBmeA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.2.0:Motrix-2.2.0-arm64.AppImage": {
+      "syncedAt": "2026-11-01T22:01:07.686Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-xaNcA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.2.0:Motrix-2.2.0-arm64.AppImage.zsync": {
+      "syncedAt": "2026-11-01T06:46:29.579Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-EOmtA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.2.0:Motrix-2.2.0-arm64.dmg": {
+      "syncedAt": "2026-11-01T17:59:02.626Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-Ju6cA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.2.0:Motrix-2.2.0-arm64.zip": {
+      "syncedAt": "2026-11-01T18:02:18.622Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-ggJtA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.2.0:Motrix-2.2.0-win-arm64.zip": {
+      "syncedAt": "2026-11-01T18:03:04.646Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-4sueA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.2.0:Motrix-2.2.0-win.zip": {
+      "syncedAt": "2026-11-01T07:32:24.611Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-mu6cA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.2.0:Motrix-2.2.0-x64.dmg": {
+      "syncedAt": "2026-11-01T18:03:45.380Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-xsueA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.2.0:Motrix-2.2.0-x64.pacman": {
+      "syncedAt": "2026-11-01T18:04:17.772Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-FgJtA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.2.0:Motrix-2.2.0-x64.zip": {
+      "syncedAt": "2026-11-01T18:04:52.240Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-dLocA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.2.0:Motrix-2.2.0-x86_64.AppImage": {
+      "syncedAt": "2026-11-01T18:05:24.451Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-JOmtA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.2.0:Motrix-2.2.0-x86_64.AppImage.zsync": {
+      "syncedAt": "2026-11-01T08:33:38.158Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-1u6cA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.2.0:Motrix-2.2.0-x86_64.flatpak": {
+      "syncedAt": "2026-11-01T18:05:51.980Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-IOmtA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.2.0:Motrix-2.2.0.aarch64.rpm": {
+      "syncedAt": "2026-11-01T18:06:19.235Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-AaNcA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.2.0:Motrix-2.2.0.x86_64.rpm": {
+      "syncedAt": "2026-11-01T18:07:19.821Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-9aNcA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.2.0:Motrix-Native-Host-2.2.0-linux-arm64.tar.gz": {
+      "syncedAt": "2026-11-01T09:19:53.855Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-DnheA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.2.0:Motrix-Native-Host-2.2.0-linux-x64.tar.gz": {
+      "syncedAt": "2026-11-01T09:20:02.371Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-rnheA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.2.0:Motrix-Setup-2.2.0-arm64.exe": {
+      "syncedAt": "2026-11-01T18:07:50.972Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-MOmtA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.2.0:Motrix-Setup-2.2.0.exe": {
+      "syncedAt": "2026-11-01T09:35:20.271Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-czocA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.2.0:Motrix_2.2.0_amd64.deb": {
+      "syncedAt": "2026-11-01T18:08:33.269Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-Iu6cA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.2.0:Motrix_2.2.0_arm64.deb": {
+      "syncedAt": "2026-11-01T18:09:15.530Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-3LocA",
       "status": "synced"
     },
     "desktop/desktop:release-3.6.10-beta1:GitHub.Desktop-3.6.10-beta1-checksums.txt": {
@@ -9000,6 +9110,636 @@
     "go-gitea/gitea:v28.2.0:gitea-src-28.2.0.tar.gz.sigstore.json": {
       "syncedAt": "2026-10-18T20:57:17.151Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-xfmeA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-darwin-amd64": {
+      "syncedAt": "2026-11-01T18:18:13.108Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-dKBcA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-darwin-amd64.asc": {
+      "syncedAt": "2026-11-01T11:58:02.966Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-pgJtA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-darwin-amd64.sha256": {
+      "syncedAt": "2026-11-01T11:58:10.506Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-LuNeA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-darwin-amd64.sha256.asc": {
+      "syncedAt": "2026-11-01T11:58:16.821Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-KnheA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-darwin-amd64.sha256.sigstore.json": {
+      "syncedAt": "2026-11-01T11:58:21.085Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-5uNeA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-darwin-amd64.sigstore.json": {
+      "syncedAt": "2026-11-01T11:58:36.565Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-quNeA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-darwin-amd64.xz": {
+      "syncedAt": "2026-11-01T18:18:28.922Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-3KBcA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-darwin-amd64.xz.asc": {
+      "syncedAt": "2026-11-01T12:13:57.269Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-xu6cA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-darwin-amd64.xz.sha256": {
+      "syncedAt": "2026-11-01T18:19:09.070Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-hKBcA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-darwin-amd64.xz.sha256.asc": {
+      "syncedAt": "2026-11-01T12:14:07.806Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-unheA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-darwin-amd64.xz.sha256.sigstore.json": {
+      "syncedAt": "2026-11-01T18:19:48.721Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-QLocA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-darwin-amd64.xz.sigstore.json": {
+      "syncedAt": "2026-11-01T18:20:28.523Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-ELocA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-darwin-arm64": {
+      "syncedAt": "2026-11-01T18:20:53.729Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-kLocA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-darwin-arm64.asc": {
+      "syncedAt": "2026-11-01T12:29:40.940Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-oOmtA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-darwin-arm64.sha256": {
+      "syncedAt": "2026-11-01T12:29:46.116Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-fgJtA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-darwin-arm64.sha256.asc": {
+      "syncedAt": "2026-11-01T12:29:50.608Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-mOmtA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-darwin-arm64.sha256.sigstore.json": {
+      "syncedAt": "2026-11-01T12:29:54.954Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-VfNcA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-darwin-arm64.sigstore.json": {
+      "syncedAt": "2026-11-01T12:30:01.638Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-1OmtA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-darwin-arm64.xz": {
+      "syncedAt": "2026-11-01T18:21:10.229Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-oLocA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-darwin-arm64.xz.asc": {
+      "syncedAt": "2026-11-01T12:45:21.582Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-tzocA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-darwin-arm64.xz.sha256": {
+      "syncedAt": "2026-11-01T12:45:26.650Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-pu6cA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-darwin-arm64.xz.sha256.asc": {
+      "syncedAt": "2026-11-01T12:45:33.099Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-HsueA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-darwin-arm64.xz.sha256.sigstore.json": {
+      "syncedAt": "2026-11-01T12:45:38.108Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-i0BcA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-darwin-arm64.xz.sigstore.json": {
+      "syncedAt": "2026-11-01T12:45:43.061Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-UnheA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-freebsd-amd64": {
+      "syncedAt": "2026-11-01T18:21:35.890Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-kaNcA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-freebsd-amd64.asc": {
+      "syncedAt": "2026-11-01T13:01:01.811Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-6uNeA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-freebsd-amd64.sha256": {
+      "syncedAt": "2026-11-01T13:01:07.163Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-6ameA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-freebsd-amd64.sha256.asc": {
+      "syncedAt": "2026-11-01T13:01:13.525Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-jfNcA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-freebsd-amd64.sha256.sigstore.json": {
+      "syncedAt": "2026-11-01T13:01:20.763Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-TaNcA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-freebsd-amd64.sigstore.json": {
+      "syncedAt": "2026-11-01T13:01:26.625Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-yuNeA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-freebsd-amd64.xz": {
+      "syncedAt": "2026-11-01T18:21:55.609Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-2gJtA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-freebsd-amd64.xz.asc": {
+      "syncedAt": "2026-11-01T13:16:44.521Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-yameA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-freebsd-amd64.xz.sha256": {
+      "syncedAt": "2026-11-01T13:16:50.459Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-z0BcA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-freebsd-amd64.xz.sha256.asc": {
+      "syncedAt": "2026-11-01T13:16:55.440Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-vaNcA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-freebsd-amd64.xz.sha256.sigstore.json": {
+      "syncedAt": "2026-11-01T13:16:59.390Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-4OmtA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-freebsd-amd64.xz.sigstore.json": {
+      "syncedAt": "2026-11-01T18:22:35.521Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-oaNcA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-amd64": {
+      "syncedAt": "2026-11-01T18:23:02.986Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-mLocA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-amd64.asc": {
+      "syncedAt": "2026-11-01T13:32:22.590Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-izocA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-amd64.sha256": {
+      "syncedAt": "2026-11-01T13:32:28.047Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-zzocA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-amd64.sha256.asc": {
+      "syncedAt": "2026-11-01T13:32:33.335Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-L0BcA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-amd64.sha256.sigstore.json": {
+      "syncedAt": "2026-11-01T13:32:38.524Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-50BcA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-amd64.sigstore.json": {
+      "syncedAt": "2026-11-01T18:23:43.355Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-3BmeA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-amd64.xz": {
+      "syncedAt": "2026-11-01T18:23:58.465Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-sgJtA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-amd64.xz.asc": {
+      "syncedAt": "2026-11-01T13:48:03.113Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-VameA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-amd64.xz.sha256": {
+      "syncedAt": "2026-11-01T18:24:38.244Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-jameA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-amd64.xz.sha256.asc": {
+      "syncedAt": "2026-11-01T13:48:12.964Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-q0BcA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-amd64.xz.sha256.sigstore.json": {
+      "syncedAt": "2026-11-01T13:48:17.906Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-jameA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-amd64.xz.sigstore.json": {
+      "syncedAt": "2026-11-01T18:25:19.261Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-GOmtA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm-5": {
+      "syncedAt": "2026-11-01T18:25:46.758Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-1UNeA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm-5.asc": {
+      "syncedAt": "2026-11-01T14:03:44.385Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-VuNeA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm-5.sha256": {
+      "syncedAt": "2026-11-01T14:03:49.057Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-5zocA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm-5.sha256.asc": {
+      "syncedAt": "2026-11-01T14:03:53.412Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-juNeA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm-5.sha256.sigstore.json": {
+      "syncedAt": "2026-11-01T14:03:57.846Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-qzocA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm-5.sigstore.json": {
+      "syncedAt": "2026-11-01T14:04:03.580Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-Bu6cA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm-5.xz": {
+      "syncedAt": "2026-11-01T18:26:04.096Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-ynheA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm-5.xz.asc": {
+      "syncedAt": "2026-11-01T18:26:44.031Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-maNcA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm-5.xz.sha256": {
+      "syncedAt": "2026-11-01T14:19:25.665Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-7nheA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm-5.xz.sha256.asc": {
+      "syncedAt": "2026-11-01T14:19:31.204Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-6zocA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm-5.xz.sha256.sigstore.json": {
+      "syncedAt": "2026-11-01T14:19:36.104Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-daNcA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm-5.xz.sigstore.json": {
+      "syncedAt": "2026-11-01T14:19:41.466Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-TBmeA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm-6": {
+      "syncedAt": "2026-11-01T18:27:10.974Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-VnheA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm-6.asc": {
+      "syncedAt": "2026-11-01T14:35:04.532Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-TUNeA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm-6.sha256": {
+      "syncedAt": "2026-11-01T14:35:10.733Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-BgJtA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm-6.sha256.asc": {
+      "syncedAt": "2026-11-01T14:35:16.307Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-bnheA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm-6.sha256.sigstore.json": {
+      "syncedAt": "2026-11-01T18:27:52.624Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-WgJtA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm-6.sigstore.json": {
+      "syncedAt": "2026-11-01T14:35:30.950Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-ZnheA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm-6.xz": {
+      "syncedAt": "2026-11-01T18:28:07.425Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-HKBcA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm-6.xz.asc": {
+      "syncedAt": "2026-11-01T14:50:51.589Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-xOmtA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm-6.xz.sha256": {
+      "syncedAt": "2026-11-01T14:50:55.569Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-vUNeA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm-6.xz.sha256.asc": {
+      "syncedAt": "2026-11-01T14:50:59.958Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-cnheA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm-6.xz.sha256.sigstore.json": {
+      "syncedAt": "2026-11-01T14:51:05.026Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-dUNeA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm-6.xz.sigstore.json": {
+      "syncedAt": "2026-11-01T14:51:12.360Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-3UNeA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm64": {
+      "syncedAt": "2026-11-01T18:28:33.893Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-4UNeA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm64.asc": {
+      "syncedAt": "2026-11-01T15:06:31.917Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-vBmeA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm64.sha256": {
+      "syncedAt": "2026-11-01T15:06:35.984Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-9sueA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm64.sha256.asc": {
+      "syncedAt": "2026-11-01T15:06:40.143Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-60BcA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm64.sha256.sigstore.json": {
+      "syncedAt": "2026-11-01T15:06:45.309Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-JgJtA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm64.sigstore.json": {
+      "syncedAt": "2026-11-01T15:06:49.482Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-3aNcA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm64.xz": {
+      "syncedAt": "2026-11-01T18:28:49.769Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-jnheA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm64.xz.asc": {
+      "syncedAt": "2026-11-01T15:22:05.730Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-QsueA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm64.xz.sha256": {
+      "syncedAt": "2026-11-01T15:22:13.126Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-haNcA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm64.xz.sha256.asc": {
+      "syncedAt": "2026-11-01T18:29:30.205Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-Mu6cA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm64.xz.sha256.sigstore.json": {
+      "syncedAt": "2026-11-01T18:30:10.812Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-POmtA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-arm64.xz.sigstore.json": {
+      "syncedAt": "2026-11-01T15:22:28.346Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-dBmeA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-riscv64": {
+      "syncedAt": "2026-11-01T18:30:33.083Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-CgJtA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-riscv64.asc": {
+      "syncedAt": "2026-11-01T15:37:47.572Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-enheA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-riscv64.sha256": {
+      "syncedAt": "2026-11-01T15:37:51.544Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-EsueA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-riscv64.sha256.asc": {
+      "syncedAt": "2026-11-01T15:37:56.588Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-yzocA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-riscv64.sha256.sigstore.json": {
+      "syncedAt": "2026-11-01T15:38:02.121Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-ksueA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-riscv64.sigstore.json": {
+      "syncedAt": "2026-11-01T15:38:07.277Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-y0BcA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-riscv64.xz": {
+      "syncedAt": "2026-11-01T18:30:48.092Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-NgJtA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-riscv64.xz.asc": {
+      "syncedAt": "2026-11-01T18:31:28.483Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-1aNcA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-riscv64.xz.sha256": {
+      "syncedAt": "2026-11-01T15:53:28.353Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-hUNeA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-riscv64.xz.sha256.asc": {
+      "syncedAt": "2026-11-01T15:53:32.511Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-IgJtA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-riscv64.xz.sha256.sigstore.json": {
+      "syncedAt": "2026-11-01T15:53:37.468Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-HUNeA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-linux-riscv64.xz.sigstore.json": {
+      "syncedAt": "2026-11-01T15:53:42.513Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-AUNeA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-windows-amd64.exe": {
+      "syncedAt": "2026-11-01T18:31:57.841Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-AKBcA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-windows-amd64.exe.asc": {
+      "syncedAt": "2026-11-01T16:09:01.749Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-osueA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-windows-amd64.exe.sha256": {
+      "syncedAt": "2026-11-01T18:32:38.162Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-wu6cA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-windows-amd64.exe.sha256.asc": {
+      "syncedAt": "2026-11-01T18:33:19.122Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-xUNeA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-windows-amd64.exe.sha256.sigstore.json": {
+      "syncedAt": "2026-11-01T16:09:15.900Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-tnheA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-windows-amd64.exe.sigstore.json": {
+      "syncedAt": "2026-11-01T16:09:20.731Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-MgJtA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-windows-amd64.exe.xz": {
+      "syncedAt": "2026-11-01T18:33:35.607Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-9KBcA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-windows-amd64.exe.xz.asc": {
+      "syncedAt": "2026-11-01T16:24:37.869Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-pOmtA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-windows-amd64.exe.xz.sha256": {
+      "syncedAt": "2026-11-01T16:24:42.967Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-msueA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-windows-amd64.exe.xz.sha256.asc": {
+      "syncedAt": "2026-11-01T16:24:48.597Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-fOmtA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-windows-amd64.exe.xz.sha256.sigstore.json": {
+      "syncedAt": "2026-11-01T16:24:53.340Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-aOmtA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-windows-amd64.exe.xz.sigstore.json": {
+      "syncedAt": "2026-11-01T16:24:57.413Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-inheA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-windows-arm64.exe": {
+      "syncedAt": "2026-11-01T18:34:00.227Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-QKBcA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-windows-arm64.exe.asc": {
+      "syncedAt": "2026-11-01T16:40:15.853Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-znheA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-windows-arm64.exe.sha256": {
+      "syncedAt": "2026-11-01T16:40:20.884Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-HaNcA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-windows-arm64.exe.sha256.asc": {
+      "syncedAt": "2026-11-01T16:40:27.436Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-LnheA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-windows-arm64.exe.sha256.sigstore.json": {
+      "syncedAt": "2026-11-01T16:40:32.844Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-5nheA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-windows-arm64.exe.sigstore.json": {
+      "syncedAt": "2026-11-01T16:40:38.099Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-VzocA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-windows-arm64.exe.xz": {
+      "syncedAt": "2026-11-01T18:34:15.203Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-4aNcA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-windows-arm64.exe.xz.asc": {
+      "syncedAt": "2026-11-01T16:55:55.822Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-9UNeA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-windows-arm64.exe.xz.sha256": {
+      "syncedAt": "2026-11-01T16:56:01.172Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-jzocA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-windows-arm64.exe.xz.sha256.asc": {
+      "syncedAt": "2026-11-01T16:56:06.521Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-BOmtA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-windows-arm64.exe.xz.sha256.sigstore.json": {
+      "syncedAt": "2026-11-01T16:56:11.667Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-qnheA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-28.3.0-windows-arm64.exe.xz.sigstore.json": {
+      "syncedAt": "2026-11-01T16:56:15.785Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-QUNeA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-src-28.3.0.tar.gz": {
+      "syncedAt": "2026-11-01T17:07:40.781Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-V0BcA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-src-28.3.0.tar.gz.asc": {
+      "syncedAt": "2026-11-01T17:07:46.042Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-TLocA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-src-28.3.0.tar.gz.sha256": {
+      "syncedAt": "2026-11-01T18:34:57.327Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-1LocA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-src-28.3.0.tar.gz.sha256.asc": {
+      "syncedAt": "2026-11-01T17:07:56.133Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-vLocA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-src-28.3.0.tar.gz.sha256.sigstore.json": {
+      "syncedAt": "2026-11-01T18:35:38.456Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-XOmtA",
+      "status": "synced"
+    },
+    "go-gitea/gitea:v28.3.0:gitea-src-28.3.0.tar.gz.sigstore.json": {
+      "syncedAt": "2026-11-01T17:08:07.506Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-1sueA",
       "status": "synced"
     },
     "marktext/marktext:v0.20.0-rc.1:SHA256SUMS.txt": {

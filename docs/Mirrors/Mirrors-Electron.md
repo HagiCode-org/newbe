@@ -3122,6 +3122,7 @@ Electron. 国内直接从官网 https://electronjs.org/ 下载比较困难，需
 ## 44.10
 
 - [44.10.0](https://mirrors.huaweicloud.com/electron/44.10.0/)
+- [44.10.1](https://mirrors.huaweicloud.com/electron/44.10.1/)
 
 
 
