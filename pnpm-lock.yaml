@@ -182,11 +182,11 @@ importers:
         specifier: ^0.55.0
         version: 0.55.1(@docusaurus/theme-common@3.9.2(@docusaurus/plugin-content-docs@3.9.2(@mdx-js/react@3.1.1(@types/react@18.3.28)(react@18.3.1))(csso@5.0.5)(debug@4.4.3(supports-color@8.1.1))(lightningcss@1.33.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(supports-color@8.1.1)(typescript@6.0.2))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(supports-color@8.1.1))(@mdx-js/react@3.1.1(@types/react@18.3.28)(react@18.3.1))(csso@5.0.5)(lightningcss@1.33.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(supports-color@8.1.1)(typescript@6.0.2)
       '@hagicode/hagilight-core':
-        specifier: 0.20.0
-        version: 0.20.0
+        specifier: 0.21.0
+        version: 0.21.0
       '@hagicode/hagilight-docusaurus':
-        specifier: 0.20.0
-        version: 0.20.0(@docusaurus/core@3.9.2(@mdx-js/react@3.1.1(@types/react@18.3.28)(react@18.3.1))(csso@5.0.5)(debug@4.4.3(supports-color@8.1.1))(lightningcss@1.33.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(supports-color@8.1.1)(typescript@6.0.2))(@docusaurus/theme-classic@3.9.2(@types/react@18.3.28)(csso@5.0.5)(debug@4.4.3(supports-color@8.1.1))(lightningcss@1.33.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(supports-color@8.1.1)(typescript@6.0.2))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(supports-color@8.1.1)
+        specifier: 0.21.0
+        version: 0.21.0(@docusaurus/core@3.9.2(@mdx-js/react@3.1.1(@types/react@18.3.28)(react@18.3.1))(csso@5.0.5)(debug@4.4.3(supports-color@8.1.1))(lightningcss@1.33.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(supports-color@8.1.1)(typescript@6.0.2))(@docusaurus/theme-classic@3.9.2(@types/react@18.3.28)(csso@5.0.5)(debug@4.4.3(supports-color@8.1.1))(lightningcss@1.33.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(supports-color@8.1.1)(typescript@6.0.2))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(supports-color@8.1.1)
       '@mdx-js/react':
         specifier: ^3.0.0
         version: 3.1.1(@types/react@18.3.28)(react@18.3.1)
@@ -1491,16 +1491,16 @@ packages:
       '@noble/hashes':
         optional: true
 
-  '@hagicode/hagilight-core@0.20.0':
-    resolution: {integrity: sha512-golwLXIqESj8vSqr7L7hAvPohEtIk1SZJ0HTZ24Ljfhy18nPkfo1tTvHqUr9MShMzNQYG7LOYu899fKq0QPbVw==}
+  '@hagicode/hagilight-core@0.21.0':
+    resolution: {integrity: sha512-Fc6ASgm/h7ZRb0ayARzImFnYustSvXGoRZWZuV4yZdj5f/d0aw0TxuZu1reHv1gQom1QZWOWBDT90s9mhj3kWA==}
     peerDependencies:
       astro: '>=7'
     peerDependenciesMeta:
       astro:
         optional: true
 
-  '@hagicode/hagilight-docusaurus@0.20.0':
-    resolution: {integrity: sha512-+xJNMX1arANZWaILR0i6eEdQai5Pmg0mTkziEhrXdkny+rio+UdxrARYMnYOc0hqVhI/pcCCcjLTiJO5C2eTsQ==}
+  '@hagicode/hagilight-docusaurus@0.21.0':
+    resolution: {integrity: sha512-43rqy6oWND+ogVvxx7jToipnKDNSUU+emFqnhYA3n0ZLQ//NatM0keB86iLThG1/djjuoJkxE14Y+wVrVo9zow==}
     engines: {node: '>=24.0.0'}
     peerDependencies:
       '@docusaurus/core': ^3.9.2
@@ -8297,16 +8297,16 @@ snapshots:
 
   '@exodus/bytes@1.16.0': {}
 
-  '@hagicode/hagilight-core@0.20.0':
+  '@hagicode/hagilight-core@0.21.0':
     dependencies:
       '@astrojs/rss': 4.0.19
 
-  '@hagicode/hagilight-docusaurus@0.20.0(@docusaurus/core@3.9.2(@mdx-js/react@3.1.1(@types/react@18.3.28)(react@18.3.1))(csso@5.0.5)(debug@4.4.3(supports-color@8.1.1))(lightningcss@1.33.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(supports-color@8.1.1)(typescript@6.0.2))(@docusaurus/theme-classic@3.9.2(@types/react@18.3.28)(csso@5.0.5)(debug@4.4.3(supports-color@8.1.1))(lightningcss@1.33.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(supports-color@8.1.1)(typescript@6.0.2))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(supports-color@8.1.1)':
+  '@hagicode/hagilight-docusaurus@0.21.0(@docusaurus/core@3.9.2(@mdx-js/react@3.1.1(@types/react@18.3.28)(react@18.3.1))(csso@5.0.5)(debug@4.4.3(supports-color@8.1.1))(lightningcss@1.33.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(supports-color@8.1.1)(typescript@6.0.2))(@docusaurus/theme-classic@3.9.2(@types/react@18.3.28)(csso@5.0.5)(debug@4.4.3(supports-color@8.1.1))(lightningcss@1.33.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(supports-color@8.1.1)(typescript@6.0.2))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(supports-color@8.1.1)':
     dependencies:
       '@docusaurus/core': 3.9.2(@mdx-js/react@3.1.1(@types/react@18.3.28)(react@18.3.1))(csso@5.0.5)(debug@4.4.3(supports-color@8.1.1))(lightningcss@1.33.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(supports-color@8.1.1)(typescript@6.0.2)
       '@docusaurus/theme-classic': 3.9.2(@types/react@18.3.28)(csso@5.0.5)(debug@4.4.3(supports-color@8.1.1))(lightningcss@1.33.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(supports-color@8.1.1)(typescript@6.0.2)
       '@docusaurus/types': 3.9.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(supports-color@8.1.1)
-      '@hagicode/hagilight-core': 0.20.0
+      '@hagicode/hagilight-core': 0.21.0
       react: 18.3.1
       react-dom: 18.3.1(react@18.3.1)
     transitivePeerDependencies:
