@@ -18,6 +18,60 @@ Jaeger受到Dapper和OpenZipkin的启发，是一个分布式跟踪平台，由U
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v2.23.0
+
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-2.23.0-darwin-amd64.sha256sum.txt" text="jaeger-2.23.0-darwin-amd64.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-2.23.0-darwin-amd64.tar.gz" text="jaeger-2.23.0-darwin-amd64.tar.gz" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-2.23.0-darwin-amd64.tar.gz.asc" text="jaeger-2.23.0-darwin-amd64.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-2.23.0-darwin-arm64.sha256sum.txt" text="jaeger-2.23.0-darwin-arm64.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-2.23.0-darwin-arm64.tar.gz" text="jaeger-2.23.0-darwin-arm64.tar.gz" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-2.23.0-darwin-arm64.tar.gz.asc" text="jaeger-2.23.0-darwin-arm64.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-2.23.0-linux-amd64.sha256sum.txt" text="jaeger-2.23.0-linux-amd64.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-2.23.0-linux-amd64.tar.gz" text="jaeger-2.23.0-linux-amd64.tar.gz" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-2.23.0-linux-amd64.tar.gz.asc" text="jaeger-2.23.0-linux-amd64.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-2.23.0-linux-arm64.sha256sum.txt" text="jaeger-2.23.0-linux-arm64.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-2.23.0-linux-arm64.tar.gz" text="jaeger-2.23.0-linux-arm64.tar.gz" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-2.23.0-linux-arm64.tar.gz.asc" text="jaeger-2.23.0-linux-arm64.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-2.23.0-linux-ppc64le.sha256sum.txt" text="jaeger-2.23.0-linux-ppc64le.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-2.23.0-linux-ppc64le.tar.gz" text="jaeger-2.23.0-linux-ppc64le.tar.gz" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-2.23.0-linux-ppc64le.tar.gz.asc" text="jaeger-2.23.0-linux-ppc64le.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-2.23.0-linux-s390x.sha256sum.txt" text="jaeger-2.23.0-linux-s390x.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-2.23.0-linux-s390x.tar.gz" text="jaeger-2.23.0-linux-s390x.tar.gz" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-2.23.0-linux-s390x.tar.gz.asc" text="jaeger-2.23.0-linux-s390x.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-2.23.0-windows-amd64.sha256sum.txt" text="jaeger-2.23.0-windows-amd64.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-2.23.0-windows-amd64.tar.gz" text="jaeger-2.23.0-windows-amd64.tar.gz" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-2.23.0-windows-amd64.tar.gz.asc" text="jaeger-2.23.0-windows-amd64.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-2.23.0-windows-amd64.zip" text="jaeger-2.23.0-windows-amd64.zip" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-2.23.0-windows-amd64.zip.asc" text="jaeger-2.23.0-windows-amd64.zip.asc" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-2.23.0.sha256sum.txt" text="jaeger-2.23.0.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-SBOM.spdx.json" text="jaeger-SBOM.spdx.json" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-tools-2.23.0-darwin-amd64.sha256sum.txt" text="jaeger-tools-2.23.0-darwin-amd64.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-tools-2.23.0-darwin-amd64.tar.gz" text="jaeger-tools-2.23.0-darwin-amd64.tar.gz" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-tools-2.23.0-darwin-amd64.tar.gz.asc" text="jaeger-tools-2.23.0-darwin-amd64.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-tools-2.23.0-darwin-arm64.sha256sum.txt" text="jaeger-tools-2.23.0-darwin-arm64.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-tools-2.23.0-darwin-arm64.tar.gz" text="jaeger-tools-2.23.0-darwin-arm64.tar.gz" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-tools-2.23.0-darwin-arm64.tar.gz.asc" text="jaeger-tools-2.23.0-darwin-arm64.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-tools-2.23.0-linux-amd64.sha256sum.txt" text="jaeger-tools-2.23.0-linux-amd64.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-tools-2.23.0-linux-amd64.tar.gz" text="jaeger-tools-2.23.0-linux-amd64.tar.gz" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-tools-2.23.0-linux-amd64.tar.gz.asc" text="jaeger-tools-2.23.0-linux-amd64.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-tools-2.23.0-linux-arm64.sha256sum.txt" text="jaeger-tools-2.23.0-linux-arm64.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-tools-2.23.0-linux-arm64.tar.gz" text="jaeger-tools-2.23.0-linux-arm64.tar.gz" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-tools-2.23.0-linux-arm64.tar.gz.asc" text="jaeger-tools-2.23.0-linux-arm64.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-tools-2.23.0-linux-ppc64le.sha256sum.txt" text="jaeger-tools-2.23.0-linux-ppc64le.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-tools-2.23.0-linux-ppc64le.tar.gz" text="jaeger-tools-2.23.0-linux-ppc64le.tar.gz" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-tools-2.23.0-linux-ppc64le.tar.gz.asc" text="jaeger-tools-2.23.0-linux-ppc64le.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-tools-2.23.0-linux-s390x.sha256sum.txt" text="jaeger-tools-2.23.0-linux-s390x.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-tools-2.23.0-linux-s390x.tar.gz" text="jaeger-tools-2.23.0-linux-s390x.tar.gz" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-tools-2.23.0-linux-s390x.tar.gz.asc" text="jaeger-tools-2.23.0-linux-s390x.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-tools-2.23.0-windows-amd64.sha256sum.txt" text="jaeger-tools-2.23.0-windows-amd64.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-tools-2.23.0-windows-amd64.tar.gz" text="jaeger-tools-2.23.0-windows-amd64.tar.gz" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-tools-2.23.0-windows-amd64.tar.gz.asc" text="jaeger-tools-2.23.0-windows-amd64.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-tools-2.23.0-windows-amd64.zip" text="jaeger-tools-2.23.0-windows-amd64.zip" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/jaeger-tools-2.23.0-windows-amd64.zip.asc" text="jaeger-tools-2.23.0-windows-amd64.zip.asc" repositoryKey="jaegertracing/jaeger" />
+- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.23.0/multiple.intoto.jsonl" text="multiple.intoto.jsonl" repositoryKey="jaegertracing/jaeger" />
+
+
+
 ## v2.22.0
 
 - <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v2.22.0/jaeger-2.22.0-darwin-amd64.sha256sum.txt" text="jaeger-2.22.0-darwin-amd64.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
@@ -1227,6 +1281,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v1.68.0
 
 - <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.68.0/jaeger-1.68.0-darwin-amd64.sha256sum.txt" text="jaeger-1.68.0-darwin-amd64.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
@@ -1301,8 +1357,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.68.0/jaeger-tools-1.68.0-windows-amd64.tar.gz.asc" text="jaeger-tools-1.68.0-windows-amd64.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
 - <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.68.0/jaeger-tools-1.68.0-windows-amd64.zip" text="jaeger-tools-1.68.0-windows-amd64.zip" repositoryKey="jaegertracing/jaeger" />
 - <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.68.0/jaeger-tools-1.68.0-windows-amd64.zip.asc" text="jaeger-tools-1.68.0-windows-amd64.zip.asc" repositoryKey="jaegertracing/jaeger" />
-
-
 
 
 
@@ -1948,59 +2002,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.59.0/jaeger-tools-1.59.0-windows-amd64.tar.gz.asc" text="jaeger-tools-1.59.0-windows-amd64.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
 - <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.59.0/jaeger-tools-1.59.0-windows-amd64.zip" text="jaeger-tools-1.59.0-windows-amd64.zip" repositoryKey="jaegertracing/jaeger" />
 - <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.59.0/jaeger-tools-1.59.0-windows-amd64.zip.asc" text="jaeger-tools-1.59.0-windows-amd64.zip.asc" repositoryKey="jaegertracing/jaeger" />
-
-
-
-## v1.58.1
-
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-1.58.1-darwin-amd64.sha256sum.txt" text="jaeger-1.58.1-darwin-amd64.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-1.58.1-darwin-amd64.tar.gz" text="jaeger-1.58.1-darwin-amd64.tar.gz" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-1.58.1-darwin-amd64.tar.gz.asc" text="jaeger-1.58.1-darwin-amd64.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-1.58.1-darwin-arm64.sha256sum.txt" text="jaeger-1.58.1-darwin-arm64.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-1.58.1-darwin-arm64.tar.gz" text="jaeger-1.58.1-darwin-arm64.tar.gz" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-1.58.1-darwin-arm64.tar.gz.asc" text="jaeger-1.58.1-darwin-arm64.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-1.58.1-linux-amd64.sha256sum.txt" text="jaeger-1.58.1-linux-amd64.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-1.58.1-linux-amd64.tar.gz" text="jaeger-1.58.1-linux-amd64.tar.gz" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-1.58.1-linux-amd64.tar.gz.asc" text="jaeger-1.58.1-linux-amd64.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-1.58.1-linux-arm64.sha256sum.txt" text="jaeger-1.58.1-linux-arm64.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-1.58.1-linux-arm64.tar.gz" text="jaeger-1.58.1-linux-arm64.tar.gz" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-1.58.1-linux-arm64.tar.gz.asc" text="jaeger-1.58.1-linux-arm64.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-1.58.1-linux-ppc64le.sha256sum.txt" text="jaeger-1.58.1-linux-ppc64le.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-1.58.1-linux-ppc64le.tar.gz" text="jaeger-1.58.1-linux-ppc64le.tar.gz" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-1.58.1-linux-ppc64le.tar.gz.asc" text="jaeger-1.58.1-linux-ppc64le.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-1.58.1-linux-s390x.sha256sum.txt" text="jaeger-1.58.1-linux-s390x.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-1.58.1-linux-s390x.tar.gz" text="jaeger-1.58.1-linux-s390x.tar.gz" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-1.58.1-linux-s390x.tar.gz.asc" text="jaeger-1.58.1-linux-s390x.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-1.58.1-windows-amd64.sha256sum.txt" text="jaeger-1.58.1-windows-amd64.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-1.58.1-windows-amd64.tar.gz" text="jaeger-1.58.1-windows-amd64.tar.gz" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-1.58.1-windows-amd64.tar.gz.asc" text="jaeger-1.58.1-windows-amd64.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-1.58.1-windows-amd64.zip" text="jaeger-1.58.1-windows-amd64.zip" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-1.58.1-windows-amd64.zip.asc" text="jaeger-1.58.1-windows-amd64.zip.asc" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-1.58.1.sha256sum.txt" text="jaeger-1.58.1.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-SBOM.spdx.json" text="jaeger-SBOM.spdx.json" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-tools-1.58.1-darwin-amd64.sha256sum.txt" text="jaeger-tools-1.58.1-darwin-amd64.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-tools-1.58.1-darwin-amd64.tar.gz" text="jaeger-tools-1.58.1-darwin-amd64.tar.gz" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-tools-1.58.1-darwin-amd64.tar.gz.asc" text="jaeger-tools-1.58.1-darwin-amd64.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-tools-1.58.1-darwin-arm64.sha256sum.txt" text="jaeger-tools-1.58.1-darwin-arm64.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-tools-1.58.1-darwin-arm64.tar.gz" text="jaeger-tools-1.58.1-darwin-arm64.tar.gz" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-tools-1.58.1-darwin-arm64.tar.gz.asc" text="jaeger-tools-1.58.1-darwin-arm64.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-tools-1.58.1-linux-amd64.sha256sum.txt" text="jaeger-tools-1.58.1-linux-amd64.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-tools-1.58.1-linux-amd64.tar.gz" text="jaeger-tools-1.58.1-linux-amd64.tar.gz" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-tools-1.58.1-linux-amd64.tar.gz.asc" text="jaeger-tools-1.58.1-linux-amd64.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-tools-1.58.1-linux-arm64.sha256sum.txt" text="jaeger-tools-1.58.1-linux-arm64.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-tools-1.58.1-linux-arm64.tar.gz" text="jaeger-tools-1.58.1-linux-arm64.tar.gz" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-tools-1.58.1-linux-arm64.tar.gz.asc" text="jaeger-tools-1.58.1-linux-arm64.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-tools-1.58.1-linux-ppc64le.sha256sum.txt" text="jaeger-tools-1.58.1-linux-ppc64le.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-tools-1.58.1-linux-ppc64le.tar.gz" text="jaeger-tools-1.58.1-linux-ppc64le.tar.gz" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-tools-1.58.1-linux-ppc64le.tar.gz.asc" text="jaeger-tools-1.58.1-linux-ppc64le.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-tools-1.58.1-linux-s390x.sha256sum.txt" text="jaeger-tools-1.58.1-linux-s390x.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-tools-1.58.1-linux-s390x.tar.gz" text="jaeger-tools-1.58.1-linux-s390x.tar.gz" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-tools-1.58.1-linux-s390x.tar.gz.asc" text="jaeger-tools-1.58.1-linux-s390x.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-tools-1.58.1-windows-amd64.sha256sum.txt" text="jaeger-tools-1.58.1-windows-amd64.sha256sum.txt" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-tools-1.58.1-windows-amd64.tar.gz" text="jaeger-tools-1.58.1-windows-amd64.tar.gz" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-tools-1.58.1-windows-amd64.tar.gz.asc" text="jaeger-tools-1.58.1-windows-amd64.tar.gz.asc" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-tools-1.58.1-windows-amd64.zip" text="jaeger-tools-1.58.1-windows-amd64.zip" repositoryKey="jaegertracing/jaeger" />
-- <GithubMirrorLink link="https://github.com/jaegertracing/jaeger/releases/download/v1.58.1/jaeger-tools-1.58.1-windows-amd64.zip.asc" text="jaeger-tools-1.58.1-windows-amd64.zip.asc" repositoryKey="jaegertracing/jaeger" />
 
 
 

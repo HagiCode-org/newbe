@@ -18,6 +18,70 @@ yq是一个轻量级和可移植的命令行YAML处理器。yq使用类似于jq�
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v4.54.2
+
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/checksums" text="checksums" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/checksums-bsd" text="checksums-bsd" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/checksums-bsd.bundle" text="checksums-bsd.bundle" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/checksums.bundle" text="checksums.bundle" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/checksums_hashes_order" text="checksums_hashes_order" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/extract-checksum.sh" text="extract-checksum.sh" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_darwin_amd64" text="yq_darwin_amd64" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_darwin_amd64.tar.gz" text="yq_darwin_amd64.tar.gz" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_darwin_arm64" text="yq_darwin_arm64" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_darwin_arm64.tar.gz" text="yq_darwin_arm64.tar.gz" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_freebsd_386" text="yq_freebsd_386" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_freebsd_386.tar.gz" text="yq_freebsd_386.tar.gz" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_freebsd_amd64" text="yq_freebsd_amd64" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_freebsd_amd64.tar.gz" text="yq_freebsd_amd64.tar.gz" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_freebsd_arm" text="yq_freebsd_arm" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_freebsd_arm.tar.gz" text="yq_freebsd_arm.tar.gz" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_linux_386" text="yq_linux_386" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_linux_386.tar.gz" text="yq_linux_386.tar.gz" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_linux_amd64" text="yq_linux_amd64" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_linux_amd64.tar.gz" text="yq_linux_amd64.tar.gz" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_linux_arm" text="yq_linux_arm" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_linux_arm.tar.gz" text="yq_linux_arm.tar.gz" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_linux_arm64" text="yq_linux_arm64" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_linux_arm64.tar.gz" text="yq_linux_arm64.tar.gz" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_linux_loong64" text="yq_linux_loong64" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_linux_loong64.tar.gz" text="yq_linux_loong64.tar.gz" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_linux_mips" text="yq_linux_mips" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_linux_mips.tar.gz" text="yq_linux_mips.tar.gz" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_linux_mips64" text="yq_linux_mips64" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_linux_mips64.tar.gz" text="yq_linux_mips64.tar.gz" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_linux_mips64le" text="yq_linux_mips64le" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_linux_mips64le.tar.gz" text="yq_linux_mips64le.tar.gz" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_linux_mipsle" text="yq_linux_mipsle" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_linux_mipsle.tar.gz" text="yq_linux_mipsle.tar.gz" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_linux_ppc64" text="yq_linux_ppc64" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_linux_ppc64.tar.gz" text="yq_linux_ppc64.tar.gz" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_linux_ppc64le" text="yq_linux_ppc64le" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_linux_ppc64le.tar.gz" text="yq_linux_ppc64le.tar.gz" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_linux_riscv64" text="yq_linux_riscv64" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_linux_riscv64.tar.gz" text="yq_linux_riscv64.tar.gz" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_linux_s390x" text="yq_linux_s390x" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_linux_s390x.tar.gz" text="yq_linux_s390x.tar.gz" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_man_page_only.tar.gz" text="yq_man_page_only.tar.gz" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_netbsd_386" text="yq_netbsd_386" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_netbsd_386.tar.gz" text="yq_netbsd_386.tar.gz" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_netbsd_amd64" text="yq_netbsd_amd64" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_netbsd_amd64.tar.gz" text="yq_netbsd_amd64.tar.gz" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_netbsd_arm" text="yq_netbsd_arm" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_netbsd_arm.tar.gz" text="yq_netbsd_arm.tar.gz" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_openbsd_386" text="yq_openbsd_386" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_openbsd_386.tar.gz" text="yq_openbsd_386.tar.gz" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_openbsd_amd64" text="yq_openbsd_amd64" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_openbsd_amd64.tar.gz" text="yq_openbsd_amd64.tar.gz" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_windows_386.exe" text="yq_windows_386.exe" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_windows_386.zip" text="yq_windows_386.zip" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_windows_amd64.exe" text="yq_windows_amd64.exe" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_windows_amd64.zip" text="yq_windows_amd64.zip" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_windows_arm64.exe" text="yq_windows_arm64.exe" repositoryKey="mikefarah/yq" />
+- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.2/yq_windows_arm64.zip" text="yq_windows_arm64.zip" repositoryKey="mikefarah/yq" />
+
+
+
 ## v4.54.1
 
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.54.1/checksums" text="checksums" repositoryKey="mikefarah/yq" />
@@ -1218,6 +1282,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v4.45.2
 
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.45.2/checksums" text="checksums" repositoryKey="mikefarah/yq" />
@@ -1277,8 +1343,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_windows_arm.exe.tar.gz" text="yq_windows_arm.exe.tar.gz" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_windows_arm64.exe" text="yq_windows_arm64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.45.2/yq_windows_arm64.zip" text="yq_windows_arm64.zip" repositoryKey="mikefarah/yq" />
-
-
 
 
 
@@ -1789,62 +1853,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_windows_386.zip" text="yq_windows_386.zip" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_windows_amd64.exe" text="yq_windows_amd64.exe" repositoryKey="mikefarah/yq" />
 - <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.41.1/yq_windows_amd64.zip" text="yq_windows_amd64.zip" repositoryKey="mikefarah/yq" />
-
-
-
-## v4.40.7
-
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/checksums" text="checksums" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/checksums-bsd" text="checksums-bsd" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/checksums_hashes_order" text="checksums_hashes_order" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/extract-checksum.sh" text="extract-checksum.sh" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_darwin_amd64" text="yq_darwin_amd64" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_darwin_amd64.tar.gz" text="yq_darwin_amd64.tar.gz" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_darwin_arm64" text="yq_darwin_arm64" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_darwin_arm64.tar.gz" text="yq_darwin_arm64.tar.gz" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_freebsd_386" text="yq_freebsd_386" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_freebsd_386.tar.gz" text="yq_freebsd_386.tar.gz" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_freebsd_amd64" text="yq_freebsd_amd64" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_freebsd_amd64.tar.gz" text="yq_freebsd_amd64.tar.gz" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_freebsd_arm" text="yq_freebsd_arm" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_freebsd_arm.tar.gz" text="yq_freebsd_arm.tar.gz" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_386" text="yq_linux_386" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_386.tar.gz" text="yq_linux_386.tar.gz" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_amd64" text="yq_linux_amd64" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_amd64.tar.gz" text="yq_linux_amd64.tar.gz" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_arm" text="yq_linux_arm" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_arm.tar.gz" text="yq_linux_arm.tar.gz" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_arm64" text="yq_linux_arm64" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_arm64.tar.gz" text="yq_linux_arm64.tar.gz" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_mips" text="yq_linux_mips" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_mips.tar.gz" text="yq_linux_mips.tar.gz" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_mips64" text="yq_linux_mips64" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_mips64.tar.gz" text="yq_linux_mips64.tar.gz" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_mips64le" text="yq_linux_mips64le" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_mips64le.tar.gz" text="yq_linux_mips64le.tar.gz" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_mipsle" text="yq_linux_mipsle" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_mipsle.tar.gz" text="yq_linux_mipsle.tar.gz" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_ppc64" text="yq_linux_ppc64" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_ppc64.tar.gz" text="yq_linux_ppc64.tar.gz" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_ppc64le" text="yq_linux_ppc64le" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_ppc64le.tar.gz" text="yq_linux_ppc64le.tar.gz" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_s390x" text="yq_linux_s390x" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_linux_s390x.tar.gz" text="yq_linux_s390x.tar.gz" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_man_page_only.tar.gz" text="yq_man_page_only.tar.gz" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_netbsd_386" text="yq_netbsd_386" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_netbsd_386.tar.gz" text="yq_netbsd_386.tar.gz" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_netbsd_amd64" text="yq_netbsd_amd64" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_netbsd_amd64.tar.gz" text="yq_netbsd_amd64.tar.gz" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_netbsd_arm" text="yq_netbsd_arm" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_netbsd_arm.tar.gz" text="yq_netbsd_arm.tar.gz" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_openbsd_386" text="yq_openbsd_386" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_openbsd_386.tar.gz" text="yq_openbsd_386.tar.gz" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_openbsd_amd64" text="yq_openbsd_amd64" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_openbsd_amd64.tar.gz" text="yq_openbsd_amd64.tar.gz" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_windows_386.exe" text="yq_windows_386.exe" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_windows_386.zip" text="yq_windows_386.zip" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_windows_amd64.exe" text="yq_windows_amd64.exe" repositoryKey="mikefarah/yq" />
-- <GithubMirrorLink link="https://github.com/mikefarah/yq/releases/download/v4.40.7/yq_windows_amd64.zip" text="yq_windows_amd64.zip" repositoryKey="mikefarah/yq" />
 
 
 
