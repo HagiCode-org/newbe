@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T04:46:57.416309+00:00",
-  "recordCount": 2993,
+  "generatedAt": "2026-11-07T04:15:36.170280+00:00",
+  "recordCount": 3004,
   "records": {
     "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.AppImage": {
       "syncedAt": "2026-08-22T07:14:26.809Z",
@@ -11612,6 +11612,26 @@
       "shareUrl": "https://www.123pan.com/s/zsClvd-XuNeA",
       "status": "synced"
     },
+    "microsoft/PowerToys:v0.102.3101:GroupPolicyObjectFiles-0.102.3101.0.zip": {
+      "syncedAt": "2026-11-06T19:39:27.267Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-EFJtA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.102.3101:PowerToysSetup-0.102.3101.0-arm64.exe": {
+      "syncedAt": "2026-11-06T19:39:36.364Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-2KBcA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.102.3101:PowerToysSetup-0.102.3101.0-x64.exe": {
+      "syncedAt": "2026-11-06T19:39:45.326Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-kFJtA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.102.3101:PowerToysUserSetup-0.102.3101.0-x64.exe": {
+      "syncedAt": "2026-11-06T19:41:25.491Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-sLocA",
+      "status": "synced"
+    },
     "microsoft/PowerToys:v0.103.3006:GroupPolicyObjectFiles-0.103.3006.0.zip": {
       "syncedAt": "2026-10-28T17:57:56.625Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-R2ueA",
@@ -11690,6 +11710,11 @@
     "microsoft/PowerToys:v0.103.3062:GroupPolicyObjectFiles-0.103.3062.0.zip": {
       "syncedAt": "2026-11-04T06:22:50.031Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-Du6cA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.103.3062:PowerToysSetup-0.103.3062.0-arm64.exe": {
+      "syncedAt": "2026-11-06T06:44:27.607Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-8aNcA",
       "status": "synced"
     },
     "microsoft/PowerToys:v0.103.3062:PowerToysSetup-0.103.3062.0-x64.exe": {
@@ -13965,6 +13990,36 @@
     "ollama/ollama:v0.40.15-rc1:sha256sum.txt": {
       "syncedAt": "2026-11-05T14:34:59.911Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-UsueA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.40.15:OllamaSetup.exe": {
+      "syncedAt": "2026-11-06T09:20:00.068Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-9FJtA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.40.15:ollama-darwin.tgz": {
+      "syncedAt": "2026-11-06T19:43:27.150Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-lu6cA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.40.15:ollama-linux-amd64-rocm.tar.zst": {
+      "syncedAt": "2026-11-06T07:31:42.270Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-uUNeA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.40.15:ollama-linux-arm64-jetpack5.tar.zst": {
+      "syncedAt": "2026-11-06T07:47:18.050Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-HFJtA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.40.15:ollama-linux-arm64-jetpack6.tar.zst": {
+      "syncedAt": "2026-11-06T07:47:26.775Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-AFJtA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.40.15:sha256sum.txt": {
+      "syncedAt": "2026-11-06T09:20:08.173Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-Uu6cA",
       "status": "synced"
     },
     "ollama/ollama:v0.40.1:Ollama.dmg": {

@@ -20,6 +20,33 @@ OmniRoute 是一个聚合多家大模型与 Agent 能力的 AI 网关，同时�
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v3.8.53
+
+- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/CHANGELOG-v3.8.53.md" text="CHANGELOG-v3.8.53.md" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/latest-linux-arm64.yml" text="latest-linux-arm64.yml" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/latest-linux.yml" text="latest-linux.yml" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/latest-mac.yml" text="latest-mac.yml" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/latest.yml" text="latest.yml" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/OmniRoute-3.8.53-arm64.AppImage" text="OmniRoute-3.8.53-arm64.AppImage" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/OmniRoute-3.8.53.AppImage" text="OmniRoute-3.8.53.AppImage" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/OmniRoute-3.8.53.dmg" text="OmniRoute-3.8.53.dmg" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/omniroute-desktop_3.8.53_amd64.deb" text="omniroute-desktop_3.8.53_amd64.deb" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/omniroute-desktop_3.8.53_arm64.deb" text="omniroute-desktop_3.8.53_arm64.deb" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/OmniRoute-v3.8.53.source.tar.gz" text="OmniRoute-v3.8.53.source.tar.gz" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/OmniRoute-v3.8.53.source.zip" text="OmniRoute-v3.8.53.source.zip" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/OmniRoute.3.8.53.exe" text="OmniRoute.3.8.53.exe" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/OmniRoute.exe" text="OmniRoute.exe" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/OmniRoute.Setup.3.8.53.exe" text="OmniRoute.Setup.3.8.53.exe" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/optional-pack-browser-runtime-0dc8ebdd9a7b739e0c5f6409daeff6dc50cc7a294db4b396a2de0d8e04de659a.tar.gz" text="optional-pack-browser-runtime-0dc8ebdd9a7b739e0c5f6409daeff6dc50cc7a294db4b396a2de0d8e04de659a.tar.gz" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/optional-pack-browser-runtime-96d636cca638d9dde3ac3bd22db1940b1fec93b1a57707c2a8a8c897f6c5a180.tar.gz" text="optional-pack-browser-runtime-96d636cca638d9dde3ac3bd22db1940b1fec93b1a57707c2a8a8c897f6c5a180.tar.gz" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/optional-pack-browser-runtime-b58491d77a3a875ea70a2ce060b31cd82a8aa942b5a7ad589dcc05fcf1c727ee.tar.gz" text="optional-pack-browser-runtime-b58491d77a3a875ea70a2ce060b31cd82a8aa942b5a7ad589dcc05fcf1c727ee.tar.gz" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/optional-pack-ml-runtime-2c9a0437752e3910b6f7f709f8c77a04d344ce75b054a7262481927252163db5.tar.gz" text="optional-pack-ml-runtime-2c9a0437752e3910b6f7f709f8c77a04d344ce75b054a7262481927252163db5.tar.gz" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/optional-pack-ml-runtime-397548791dd6f5d61534ae5d7ae254d6962ee0ba48a44b4c15d51fef1484504d.tar.gz" text="optional-pack-ml-runtime-397548791dd6f5d61534ae5d7ae254d6962ee0ba48a44b4c15d51fef1484504d.tar.gz" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/optional-pack-ml-runtime-3cbd11739ebe381bbc8ca4a2d9f2ae21c655036f87873bee798b83cf8d83e8dc.tar.gz" text="optional-pack-ml-runtime-3cbd11739ebe381bbc8ca4a2d9f2ae21c655036f87873bee798b83cf8d83e8dc.tar.gz" repositoryKey="diegosouzapw/OmniRoute" />
+- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.53/sbom-npm.cdx.json" text="sbom-npm.cdx.json" repositoryKey="diegosouzapw/OmniRoute" />
+
+
+
 ## v3.8.52
 
 - <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.52/CHANGELOG-v3.8.52.md" text="CHANGELOG-v3.8.52.md" repositoryKey="diegosouzapw/OmniRoute" />
@@ -343,6 +370,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v3.8.34
 
 - <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.34/OmniRoute-3.8.34-arm64.AppImage" text="OmniRoute-3.8.34-arm64.AppImage" repositoryKey="diegosouzapw/OmniRoute" />
@@ -357,8 +386,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.34/OmniRoute.exe" text="OmniRoute.exe" repositoryKey="diegosouzapw/OmniRoute" />
 - <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.34/OmniRoute.Setup.3.8.34.exe" text="OmniRoute.Setup.3.8.34.exe" repositoryKey="diegosouzapw/OmniRoute" />
 - <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.34/sbom-npm.cdx.json" text="sbom-npm.cdx.json" repositoryKey="diegosouzapw/OmniRoute" />
-
-
 
 
 
@@ -511,22 +538,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.25/OmniRoute.exe" text="OmniRoute.exe" repositoryKey="diegosouzapw/OmniRoute" />
 - <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.25/OmniRoute.Setup.3.8.25.exe" text="OmniRoute.Setup.3.8.25.exe" repositoryKey="diegosouzapw/OmniRoute" />
 - <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.25/sbom-npm.cdx.json" text="sbom-npm.cdx.json" repositoryKey="diegosouzapw/OmniRoute" />
-
-
-
-## v3.8.24
-
-- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.24/OmniRoute-3.8.24-arm64.AppImage" text="OmniRoute-3.8.24-arm64.AppImage" repositoryKey="diegosouzapw/OmniRoute" />
-- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.24/OmniRoute-3.8.24-arm64.dmg" text="OmniRoute-3.8.24-arm64.dmg" repositoryKey="diegosouzapw/OmniRoute" />
-- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.24/OmniRoute-3.8.24.AppImage" text="OmniRoute-3.8.24.AppImage" repositoryKey="diegosouzapw/OmniRoute" />
-- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.24/OmniRoute-3.8.24.dmg" text="OmniRoute-3.8.24.dmg" repositoryKey="diegosouzapw/OmniRoute" />
-- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.24/omniroute-desktop_3.8.24_amd64.deb" text="omniroute-desktop_3.8.24_amd64.deb" repositoryKey="diegosouzapw/OmniRoute" />
-- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.24/omniroute-desktop_3.8.24_arm64.deb" text="omniroute-desktop_3.8.24_arm64.deb" repositoryKey="diegosouzapw/OmniRoute" />
-- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.24/OmniRoute-v3.8.24.source.tar.gz" text="OmniRoute-v3.8.24.source.tar.gz" repositoryKey="diegosouzapw/OmniRoute" />
-- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.24/OmniRoute-v3.8.24.source.zip" text="OmniRoute-v3.8.24.source.zip" repositoryKey="diegosouzapw/OmniRoute" />
-- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.24/OmniRoute.3.8.24.exe" text="OmniRoute.3.8.24.exe" repositoryKey="diegosouzapw/OmniRoute" />
-- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.24/OmniRoute.exe" text="OmniRoute.exe" repositoryKey="diegosouzapw/OmniRoute" />
-- <GithubMirrorLink link="https://github.com/cheaper-inference/OmniRoute/releases/download/v3.8.24/OmniRoute.Setup.3.8.24.exe" text="OmniRoute.Setup.3.8.24.exe" repositoryKey="diegosouzapw/OmniRoute" />
 
 
 
