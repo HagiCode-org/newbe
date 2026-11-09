@@ -83,6 +83,12 @@ Openresty. 国内直接从官网 https://openresty.org/cn/ 下载比较困难，
 
 
 
+## 1.31
+
+- [v1.31.8.1](https://mirrors.huaweicloud.com/openresty/v1.31.8.1/)
+
+
+
 
 找不到想要的版本？您可以访问 [索引页](https://mirrors.huaweicloud.com/openresty/) 以下载更多版本。
 
