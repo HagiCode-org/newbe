@@ -3181,6 +3181,7 @@ Electron. 国内直接从官网 https://electronjs.org/ 下载比较困难，需
 - [46.0.0-alpha.5](https://mirrors.huaweicloud.com/electron/46.0.0-alpha.5/)
 - [46.0.0-alpha.6](https://mirrors.huaweicloud.com/electron/46.0.0-alpha.6/)
 - [46.0.0-alpha.7](https://mirrors.huaweicloud.com/electron/46.0.0-alpha.7/)
+- [46.0.0-alpha.8](https://mirrors.huaweicloud.com/electron/46.0.0-alpha.8/)
 
 
 
