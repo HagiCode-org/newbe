@@ -18,6 +18,15 @@ mRemoteNG. 国内直接从官网 https://github.com/mRemoteNG/mRemoteNG/ 下载�
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## 20261111-v1.78.2-NB-(3782)
+
+- <GithubMirrorLink link="https://github.com/mRemoteNG/mRemoteNG/releases/download/20261111-v1.78.2-NB-%283782%29/mRemoteNG-20261110-v1.78.2-NB-3782-arm64-FD.zip" text="mRemoteNG-20261110-v1.78.2-NB-3782-arm64-FD.zip" repositoryKey="mRemoteNG/mRemoteNG" />
+- <GithubMirrorLink link="https://github.com/mRemoteNG/mRemoteNG/releases/download/20261111-v1.78.2-NB-%283782%29/mRemoteNG-20261110-v1.78.2-NB-3782-arm64-SC.zip" text="mRemoteNG-20261110-v1.78.2-NB-3782-arm64-SC.zip" repositoryKey="mRemoteNG/mRemoteNG" />
+- <GithubMirrorLink link="https://github.com/mRemoteNG/mRemoteNG/releases/download/20261111-v1.78.2-NB-%283782%29/mRemoteNG-20261111-v1.78.2-NB-3782-x64-FD.zip" text="mRemoteNG-20261111-v1.78.2-NB-3782-x64-FD.zip" repositoryKey="mRemoteNG/mRemoteNG" />
+- <GithubMirrorLink link="https://github.com/mRemoteNG/mRemoteNG/releases/download/20261111-v1.78.2-NB-%283782%29/mRemoteNG-20261111-v1.78.2-NB-3782-x64-SC.zip" text="mRemoteNG-20261111-v1.78.2-NB-3782-x64-SC.zip" repositoryKey="mRemoteNG/mRemoteNG" />
+
+
+
 ## 20261002-v1.78.2-NB-(3725)
 
 - <GithubMirrorLink link="https://github.com/mRemoteNG/mRemoteNG/releases/download/20261002-v1.78.2-NB-%283725%29/mRemoteNG-20261002-v1.78.2-NB-3725-arm64-FD.zip" text="mRemoteNG-20261002-v1.78.2-NB-3725-arm64-FD.zip" repositoryKey="mRemoteNG/mRemoteNG" />
@@ -167,14 +176,14 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v1.76.15
 
 - <GithubMirrorLink link="https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76.15/mRemoteNG-Installer-1.76.15.31277.msi" text="mRemoteNG-Installer-1.76.15.31277.msi" repositoryKey="mRemoteNG/mRemoteNG" />
 - <GithubMirrorLink link="https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76.15/mRemoteNG-Portable-1.76.15.31330.zip" text="mRemoteNG-Portable-1.76.15.31330.zip" repositoryKey="mRemoteNG/mRemoteNG" />
 - <GithubMirrorLink link="https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76.15/mRemoteNG-Portable-symbols-1.76.15.31330.zip" text="mRemoteNG-Portable-symbols-1.76.15.31330.zip" repositoryKey="mRemoteNG/mRemoteNG" />
 - <GithubMirrorLink link="https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76.15/mRemoteNG-symbols-1.76.15.31277.zip" text="mRemoteNG-symbols-1.76.15.31277.zip" repositoryKey="mRemoteNG/mRemoteNG" />
-
-
 
 
 
@@ -256,15 +265,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76.6/mRemoteNG-Portable-1.76.6.14631.zip" text="mRemoteNG-Portable-1.76.6.14631.zip" repositoryKey="mRemoteNG/mRemoteNG" />
 - <GithubMirrorLink link="https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76.6/mRemoteNG-Portable-symbols-1.76.6.14631.zip" text="mRemoteNG-Portable-symbols-1.76.6.14631.zip" repositoryKey="mRemoteNG/mRemoteNG" />
 - <GithubMirrorLink link="https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76.6/mRemoteNG-symbols-1.76.6.14594.zip" text="mRemoteNG-symbols-1.76.6.14594.zip" repositoryKey="mRemoteNG/mRemoteNG" />
-
-
-
-## v1.76.5
-
-- <GithubMirrorLink link="https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76.5/mRemoteNG-Installer-1.76.5.31190.msi" text="mRemoteNG-Installer-1.76.5.31190.msi" repositoryKey="mRemoteNG/mRemoteNG" />
-- <GithubMirrorLink link="https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76.5/mRemoteNG-Portable-1.76.5.31227.zip" text="mRemoteNG-Portable-1.76.5.31227.zip" repositoryKey="mRemoteNG/mRemoteNG" />
-- <GithubMirrorLink link="https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76.5/mRemoteNG-Portable-symbols-1.76.5.31227.zip" text="mRemoteNG-Portable-symbols-1.76.5.31227.zip" repositoryKey="mRemoteNG/mRemoteNG" />
-- <GithubMirrorLink link="https://github.com/mRemoteNG/mRemoteNG/releases/download/v1.76.5/mRemoteNG-symbols-1.76.5.31190.zip" text="mRemoteNG-symbols-1.76.5.31190.zip" repositoryKey="mRemoteNG/mRemoteNG" />
 
 
 

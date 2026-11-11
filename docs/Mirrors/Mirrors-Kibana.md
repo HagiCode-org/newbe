@@ -683,6 +683,7 @@ Kibana. 国内直接从官网 https://www.elastic.co 下载比较困难，需要
 - [8.19.22](https://mirrors.huaweicloud.com/kibana/8.19.22/)
 - [8.19.23](https://mirrors.huaweicloud.com/kibana/8.19.23/)
 - [8.19.24](https://mirrors.huaweicloud.com/kibana/8.19.24/)
+- [8.19.25](https://mirrors.huaweicloud.com/kibana/8.19.25/)
 
 
 
