@@ -1,5 +1,13 @@
 # pnpm settings (pnpm 12 reads these here, not from package.json).
 
+# Replaces the npm `overrides` field.
+overrides:
+  # Critical in `pnpm audit`; all four arrive via @docusaurus/core (latest stable 3.10.2 still pins tinypool ^1).
+  proxy-addr: ^2.0.8
+  shell-quote: ^1.8.4
+  websocket-driver: ^0.7.5
+  tinypool: ^2.1.2
+
 # Dependency lifecycle scripts run only for approved packages. Reviewed from the old lockfile's
 # `hasInstallScript` entries:
 #   core-js - postinstall only prints a donation banner, denied.
