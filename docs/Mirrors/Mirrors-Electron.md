@@ -3134,6 +3134,7 @@ Electron. 国内直接从官网 https://electronjs.org/ 下载比较困难，需
 
 - [44.11.0](https://mirrors.huaweicloud.com/electron/44.11.0/)
 - [44.11.1](https://mirrors.huaweicloud.com/electron/44.11.1/)
+- [44.11.2](https://mirrors.huaweicloud.com/electron/44.11.2/)
 
 
 
@@ -3185,6 +3186,7 @@ Electron. 国内直接从官网 https://electronjs.org/ 下载比较困难，需
 
 - [45.3.0](https://mirrors.huaweicloud.com/electron/45.3.0/)
 - [45.3.1](https://mirrors.huaweicloud.com/electron/45.3.1/)
+- [45.3.2](https://mirrors.huaweicloud.com/electron/45.3.2/)
 
 
 

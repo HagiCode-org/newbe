@@ -21,6 +21,11 @@ chatbox. 国内直接从官网 https://github.com/Bin-Huang/chatbox/ 下载比�
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v1.24.4
+
+
+
+
 ## v1.24.3
 
 
@@ -125,9 +130,9 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v1.15.4
-
-
 
 
 
@@ -325,25 +330,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.6.3/latest-linux.yml" text="latest-linux.yml" repositoryKey="Bin-Huang/chatbox" />
 - <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.6.3/latest-mac.yml" text="latest-mac.yml" repositoryKey="Bin-Huang/chatbox" />
 - <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.6.3/latest.yml" text="latest.yml" repositoryKey="Bin-Huang/chatbox" />
-
-
-
-## v0.6.2
-
-- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.6.2/Chatbox-0.6.2-arm64-mac.zip" text="Chatbox-0.6.2-arm64-mac.zip" repositoryKey="Bin-Huang/chatbox" />
-- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.6.2/Chatbox-0.6.2-arm64-mac.zip.blockmap" text="Chatbox-0.6.2-arm64-mac.zip.blockmap" repositoryKey="Bin-Huang/chatbox" />
-- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.6.2/Chatbox-0.6.2-arm64.dmg" text="Chatbox-0.6.2-arm64.dmg" repositoryKey="Bin-Huang/chatbox" />
-- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.6.2/Chatbox-0.6.2-arm64.dmg.blockmap" text="Chatbox-0.6.2-arm64.dmg.blockmap" repositoryKey="Bin-Huang/chatbox" />
-- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.6.2/Chatbox-0.6.2-mac.zip" text="Chatbox-0.6.2-mac.zip" repositoryKey="Bin-Huang/chatbox" />
-- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.6.2/Chatbox-0.6.2-mac.zip.blockmap" text="Chatbox-0.6.2-mac.zip.blockmap" repositoryKey="Bin-Huang/chatbox" />
-- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.6.2/Chatbox-0.6.2-Setup.exe" text="Chatbox-0.6.2-Setup.exe" repositoryKey="Bin-Huang/chatbox" />
-- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.6.2/Chatbox-0.6.2-Setup.exe.blockmap" text="Chatbox-0.6.2-Setup.exe.blockmap" repositoryKey="Bin-Huang/chatbox" />
-- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.6.2/Chatbox-0.6.2.AppImage" text="Chatbox-0.6.2.AppImage" repositoryKey="Bin-Huang/chatbox" />
-- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.6.2/Chatbox-0.6.2.dmg" text="Chatbox-0.6.2.dmg" repositoryKey="Bin-Huang/chatbox" />
-- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.6.2/Chatbox-0.6.2.dmg.blockmap" text="Chatbox-0.6.2.dmg.blockmap" repositoryKey="Bin-Huang/chatbox" />
-- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.6.2/latest-linux.yml" text="latest-linux.yml" repositoryKey="Bin-Huang/chatbox" />
-- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.6.2/latest-mac.yml" text="latest-mac.yml" repositoryKey="Bin-Huang/chatbox" />
-- <GithubMirrorLink link="https://github.com/chatboxai/chatbox/releases/download/v0.6.2/latest.yml" text="latest.yml" repositoryKey="Bin-Huang/chatbox" />
 
 
 
