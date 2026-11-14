@@ -18,6 +18,13 @@ Translate-Subtitle-File. 国内直接从官网 https://github.com/1c7/Translate-
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v5.9.0
+
+- <GithubMirrorLink link="https://github.com/1c7/Translate-Subtitle-File/releases/download/v5.9.0/Zimoo-darwin-arm64-5.9.0.zip" text="Zimoo-darwin-arm64-5.9.0.zip" repositoryKey="1c7/Translate-Subtitle-File" />
+- <GithubMirrorLink link="https://github.com/1c7/Translate-Subtitle-File/releases/download/v5.9.0/Zimoo-win32-x64-5.9.0.zip" text="Zimoo-win32-x64-5.9.0.zip" repositoryKey="1c7/Translate-Subtitle-File" />
+
+
+
 ## v5.8.0
 
 - <GithubMirrorLink link="https://github.com/1c7/Translate-Subtitle-File/releases/download/v5.8.0/Zimoo-darwin-arm64-5.8.0.zip" text="Zimoo-darwin-arm64-5.8.0.zip" repositoryKey="1c7/Translate-Subtitle-File" />
@@ -151,12 +158,12 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v5.5.12
 
 - <GithubMirrorLink link="https://github.com/1c7/Translate-Subtitle-File/releases/download/v5.5.12/Zimoo-darwin-arm64-5.5.12.zip" text="Zimoo-darwin-arm64-5.5.12.zip" repositoryKey="1c7/Translate-Subtitle-File" />
 - <GithubMirrorLink link="https://github.com/1c7/Translate-Subtitle-File/releases/download/v5.5.12/Zimoo-win32-x64-5.5.12.zip" text="Zimoo-win32-x64-5.5.12.zip" repositoryKey="1c7/Translate-Subtitle-File" />
-
-
 
 
 
@@ -220,13 +227,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 - <GithubMirrorLink link="https://github.com/1c7/Translate-Subtitle-File/releases/download/v5.5.1/Zimoo-darwin-arm64-5.5.1.zip" text="Zimoo-darwin-arm64-5.5.1.zip" repositoryKey="1c7/Translate-Subtitle-File" />
 - <GithubMirrorLink link="https://github.com/1c7/Translate-Subtitle-File/releases/download/v5.5.1/Zimoo-win32-x64-5.5.1.zip" text="Zimoo-win32-x64-5.5.1.zip" repositoryKey="1c7/Translate-Subtitle-File" />
-
-
-
-## v5.5.0
-
-- <GithubMirrorLink link="https://github.com/1c7/Translate-Subtitle-File/releases/download/v5.5.0/Zimoo-darwin-arm64-5.5.0.zip" text="Zimoo-darwin-arm64-5.5.0.zip" repositoryKey="1c7/Translate-Subtitle-File" />
-- <GithubMirrorLink link="https://github.com/1c7/Translate-Subtitle-File/releases/download/v5.5.0/Zimoo-win32-x64-5.5.0.zip" text="Zimoo-win32-x64-5.5.0.zip" repositoryKey="1c7/Translate-Subtitle-File" />
 
 
 
