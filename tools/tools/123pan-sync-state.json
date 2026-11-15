@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-14T04:38:33.931997+00:00",
-  "recordCount": 3200,
+  "generatedAt": "2026-11-15T04:28:04.563243+00:00",
+  "recordCount": 3205,
   "records": {
     "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.AppImage": {
       "syncedAt": "2026-08-22T07:14:26.809Z",
@@ -11717,6 +11717,11 @@
       "shareUrl": "https://www.123pan.com/s/zsClvd-ISNeA",
       "status": "synced"
     },
+    "marktext/marktext:v0.24.0-rc.2:marktext-linux-0.24.0-rc.2.snap": {
+      "syncedAt": "2026-11-14T06:24:10.218Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-wuBcA",
+      "status": "synced"
+    },
     "marktext/marktext:v0.24.0-rc.2:marktext-linux-0.24.0-rc.2.tar.gz": {
       "syncedAt": "2026-11-13T19:45:42.651Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-aBNcA",
@@ -12535,6 +12540,26 @@
     "microsoft/PowerToys:v0.103.3151:GroupPolicyObjectFiles-0.103.3151.0.zip": {
       "syncedAt": "2026-11-13T11:07:08.117Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-f5ocA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.103.3151:PowerToysSetup-0.103.3151.0-arm64.exe": {
+      "syncedAt": "2026-11-14T06:25:11.686Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-BsheA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.103.3151:PowerToysSetup-0.103.3151.0-x64.exe": {
+      "syncedAt": "2026-11-14T06:25:59.987Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-sU6cA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.103.3151:PowerToysUserSetup-0.103.3151.0-arm64.exe": {
+      "syncedAt": "2026-11-14T06:26:47.763Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-EJmeA",
+      "status": "synced"
+    },
+    "microsoft/PowerToys:v0.103.3151:PowerToysUserSetup-0.103.3151.0-x64.exe": {
+      "syncedAt": "2026-11-14T06:26:55.872Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-WU6cA",
       "status": "synced"
     },
     "mudler/LocalAI:v4.10.0:LocalAI-v4.10.0-checksums.txt": {
