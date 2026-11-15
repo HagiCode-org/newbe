@@ -655,14 +655,6 @@
     },
     {
       "type": "github",
-      "softwareName": "OmniRoute",
-      "officialSite": "https://github.com/diegosouzapw/OmniRoute/",
-      "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",
-      "markdownFilename": "Mirrors-OmniRoute.md",
-      "createDate": "2026-05-20"
-    },
-    {
-      "type": "github",
       "softwareName": "cc-switch",
       "officialSite": "https://github.com/farion1231/cc-switch/",
       "mirrorPrefix": "https://github.abskoop.workers.dev/https://github.com",

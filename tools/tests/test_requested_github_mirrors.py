@@ -27,11 +27,6 @@ REQUESTED_MIRRORS = [
         "markdownFilename": "Mirrors-OpenHuman.md",
     },
     {
-        "softwareName": "OmniRoute",
-        "officialSite": "https://github.com/diegosouzapw/OmniRoute/",
-        "markdownFilename": "Mirrors-OmniRoute.md",
-    },
-    {
         "softwareName": "cc-switch",
         "officialSite": "https://github.com/farion1231/cc-switch/",
         "markdownFilename": "Mirrors-cc-switch.md",
