@@ -37,9 +37,9 @@ const FORBIDDEN_KEYS: ReadonlySet<string> = new Set([
 // Replace the entries below for each site. Keys are snake_case event names (object before action).
 export const SITE_POSTHOG_EVENTS: SiteEventTable = Object.freeze({
   download_mirror_clicked: Object.freeze({
-    mirror: { kind: 'string' },
-    action: { kind: 'enum', values: ['copy', 'open'] },
-    recommended: { kind: 'boolean' },
+    mirror: { kind: 'string' as const },
+    action: { kind: 'enum' as const, values: ['copy', 'open'] },
+    recommended: { kind: 'boolean' as const },
   }),
 });
 

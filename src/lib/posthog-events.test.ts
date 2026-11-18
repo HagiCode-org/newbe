@@ -5,7 +5,7 @@ const FORBIDDEN_SUPER_KEYS = ['site_id', 'site_framework', 'hagilight_version', 
 const EVENT_NAME = 'download_mirror_clicked';
 
 function fakePostHog(options: { loaded?: boolean; optedOut?: boolean; throws?: boolean } = {}) {
-  const capture = vi.fn(() => {
+  const capture = vi.fn((_event: string, _properties?: Record<string, unknown>) => {
     if (options.throws) throw new Error('capture failed');
   });
   const hasOptedOut = vi.fn(() => options.optedOut === true);
