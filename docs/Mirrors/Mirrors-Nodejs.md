@@ -2827,6 +2827,7 @@ Nodejs. 国内直接从官网 https://nodejs.org/en/download/ 下载比较困难
 
 - [v27.0.0-alpha.0.0.0](https://repo.huaweicloud.com/nodejs/v27.0.0-alpha.0.0.0/)
 - [v27.0.0-alpha.0.1.0](https://repo.huaweicloud.com/nodejs/v27.0.0-alpha.0.1.0/)
+- [v27.0.0-alpha.0.1.1](https://repo.huaweicloud.com/nodejs/v27.0.0-alpha.0.1.1/)
 
 
 

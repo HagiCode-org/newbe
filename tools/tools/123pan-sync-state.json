@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T05:38:52.648784+00:00",
-  "recordCount": 3432,
+  "generatedAt": "2026-11-19T05:37:00.893602+00:00",
+  "recordCount": 3437,
   "records": {
     "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.AppImage": {
       "syncedAt": "2026-08-22T07:14:26.809Z",
@@ -5435,6 +5435,11 @@
     "agalwood/Motrix:v2.4.2:Motrix_2.4.2_arm64.deb": {
       "syncedAt": "2026-11-15T19:01:35.215Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-WuBcA",
+      "status": "synced"
+    },
+    "agalwood/Motrix:v2.4.3:Motrix-2.4.3-13-dsm-arm64.spk": {
+      "syncedAt": "2026-11-18T07:26:01.950Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-7JmeA",
       "status": "synced"
     },
     "agalwood/Motrix:v2.4.3:Motrix-2.4.3-13-dsm-arm64.spk.abi.json": {
@@ -13598,8 +13603,8 @@
       "status": "synced"
     },
     "mudler/LocalAI:dev-master:local-ai-master-darwin-arm64.sha256": {
-      "syncedAt": "2026-11-17T21:27:34.498Z",
-      "shareUrl": "https://www.123pan.com/s/zsClvd-TJNcA",
+      "syncedAt": "2026-11-18T13:33:35.502Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-YDmtA",
       "status": "synced"
     },
     "mudler/LocalAI:dev-master:local-ai-master-linux-amd64": {
@@ -13608,7 +13613,7 @@
       "status": "synced"
     },
     "mudler/LocalAI:dev-master:local-ai-master-linux-amd64.sha256": {
-      "syncedAt": "2026-11-17T21:28:28.728Z",
+      "syncedAt": "2026-11-18T13:34:20.426Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-quBcA",
       "status": "synced"
     },
@@ -13618,7 +13623,7 @@
       "status": "synced"
     },
     "mudler/LocalAI:dev-master:local-ai-master-linux-arm64.sha256": {
-      "syncedAt": "2026-11-17T21:29:59.637Z",
+      "syncedAt": "2026-11-18T13:50:13.692Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-vCueA",
       "status": "synced"
     },
@@ -13815,6 +13820,26 @@
     "mudler/LocalAI:v4.9.0:local-ai-v4.9.0-linux-arm64": {
       "syncedAt": "2026-08-22T09:20:14.261Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-H2BcA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v5.0.0:LocalAI-v5.0.0-checksums.txt": {
+      "syncedAt": "2026-11-18T20:50:16.150Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-iJmeA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v5.0.0:LocalAI-v5.0.0-source.tar.gz": {
+      "syncedAt": "2026-11-18T20:50:35.790Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-LSNeA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v5.0.0:local-ai-v5.0.0-linux-amd64": {
+      "syncedAt": "2026-11-18T20:49:32.174Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-TqocA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v5.0.0:local-ai-v5.0.0-linux-arm64": {
+      "syncedAt": "2026-11-18T20:50:11.060Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-OYJtA",
       "status": "synced"
     },
     "ollama/ollama:v0.33.0-rc2:Ollama-darwin.zip": {
