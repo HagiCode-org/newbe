@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-19T05:37:00.893602+00:00",
-  "recordCount": 3437,
+  "generatedAt": "2026-11-20T05:24:29.532026+00:00",
+  "recordCount": 3446,
   "records": {
     "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.AppImage": {
       "syncedAt": "2026-08-22T07:14:26.809Z",
@@ -13822,6 +13822,36 @@
       "shareUrl": "https://www.123pan.com/s/zsClvd-H2BcA",
       "status": "synced"
     },
+    "mudler/LocalAI:v5.0.0:LocalAI-Launcher-5.0.0-arm64-mac.zip": {
+      "syncedAt": "2026-11-19T20:43:10.139Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-LJmeA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v5.0.0:LocalAI-Launcher-5.0.0-arm64-mac.zip.sha256": {
+      "syncedAt": "2026-11-19T07:39:49.452Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-xJNcA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v5.0.0:LocalAI-Launcher-arm64.AppImage": {
+      "syncedAt": "2026-11-19T20:43:36.422Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-2DmtA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v5.0.0:LocalAI-Launcher-arm64.AppImage.sha256": {
+      "syncedAt": "2026-11-19T20:44:20.007Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-KYJtA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v5.0.0:LocalAI-Launcher-x86_64.AppImage": {
+      "syncedAt": "2026-11-19T20:44:47.966Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-DCueA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v5.0.0:LocalAI-Launcher-x86_64.AppImage.sha256": {
+      "syncedAt": "2026-11-19T08:10:31.319Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-DYJtA",
+      "status": "synced"
+    },
     "mudler/LocalAI:v5.0.0:LocalAI-v5.0.0-checksums.txt": {
       "syncedAt": "2026-11-18T20:50:16.150Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-iJmeA",
@@ -13830,6 +13860,21 @@
     "mudler/LocalAI:v5.0.0:LocalAI-v5.0.0-source.tar.gz": {
       "syncedAt": "2026-11-18T20:50:35.790Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-LSNeA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v5.0.0:LocalAI.dmg": {
+      "syncedAt": "2026-11-19T20:45:11.472Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-5JmeA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v5.0.0:LocalAI.dmg.sha256": {
+      "syncedAt": "2026-11-19T08:25:51.076Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-vqocA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v5.0.0:local-ai-v5.0.0-darwin-arm64": {
+      "syncedAt": "2026-11-19T07:27:16.786Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-EUBcA",
       "status": "synced"
     },
     "mudler/LocalAI:v5.0.0:local-ai-v5.0.0-linux-amd64": {

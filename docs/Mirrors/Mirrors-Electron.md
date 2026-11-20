@@ -3029,6 +3029,8 @@ Electron. 国内直接从官网 https://electronjs.org/ 下载比较困难，需
 - [43.8.8](https://mirrors.huaweicloud.com/electron/43.8.8/)
 - [43.8.9](https://mirrors.huaweicloud.com/electron/43.8.9/)
 - [43.8.10](https://mirrors.huaweicloud.com/electron/43.8.10/)
+- [43.8.11](https://mirrors.huaweicloud.com/electron/43.8.11/)
+- [43.8.12](https://mirrors.huaweicloud.com/electron/43.8.12/)
 
 
 
@@ -3138,6 +3140,7 @@ Electron. 国内直接从官网 https://electronjs.org/ 下载比较困难，需
 - [44.11.2](https://mirrors.huaweicloud.com/electron/44.11.2/)
 - [44.11.3](https://mirrors.huaweicloud.com/electron/44.11.3/)
 - [44.11.4](https://mirrors.huaweicloud.com/electron/44.11.4/)
+- [44.11.5](https://mirrors.huaweicloud.com/electron/44.11.5/)
 
 
 
@@ -3206,6 +3209,7 @@ Electron. 国内直接从官网 https://electronjs.org/ 下载比较困难，需
 - [46.0.0-alpha.1](https://mirrors.huaweicloud.com/electron/46.0.0-alpha.1/)
 - [46.0.0-alpha.10](https://mirrors.huaweicloud.com/electron/46.0.0-alpha.10/)
 - [46.0.0-alpha.11](https://mirrors.huaweicloud.com/electron/46.0.0-alpha.11/)
+- [46.0.0-alpha.12](https://mirrors.huaweicloud.com/electron/46.0.0-alpha.12/)
 - [46.0.0-alpha.2](https://mirrors.huaweicloud.com/electron/46.0.0-alpha.2/)
 - [46.0.0-alpha.3](https://mirrors.huaweicloud.com/electron/46.0.0-alpha.3/)
 - [46.0.0-alpha.4](https://mirrors.huaweicloud.com/electron/46.0.0-alpha.4/)
