@@ -18,6 +18,19 @@ GitVersion. 国内直接从官网 https://github.com/GitTools/GitVersion/ 下载
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## 7.0.1
+
+- <GithubMirrorLink link="https://github.com/GitTools/GitVersion/releases/download/7.0.1/gitversion-linux-arm64-7.0.1.tar.gz" text="gitversion-linux-arm64-7.0.1.tar.gz" repositoryKey="GitTools/GitVersion" />
+- <GithubMirrorLink link="https://github.com/GitTools/GitVersion/releases/download/7.0.1/gitversion-linux-musl-arm64-7.0.1.tar.gz" text="gitversion-linux-musl-arm64-7.0.1.tar.gz" repositoryKey="GitTools/GitVersion" />
+- <GithubMirrorLink link="https://github.com/GitTools/GitVersion/releases/download/7.0.1/gitversion-linux-musl-x64-7.0.1.tar.gz" text="gitversion-linux-musl-x64-7.0.1.tar.gz" repositoryKey="GitTools/GitVersion" />
+- <GithubMirrorLink link="https://github.com/GitTools/GitVersion/releases/download/7.0.1/gitversion-linux-x64-7.0.1.tar.gz" text="gitversion-linux-x64-7.0.1.tar.gz" repositoryKey="GitTools/GitVersion" />
+- <GithubMirrorLink link="https://github.com/GitTools/GitVersion/releases/download/7.0.1/gitversion-osx-arm64-7.0.1.tar.gz" text="gitversion-osx-arm64-7.0.1.tar.gz" repositoryKey="GitTools/GitVersion" />
+- <GithubMirrorLink link="https://github.com/GitTools/GitVersion/releases/download/7.0.1/gitversion-osx-x64-7.0.1.tar.gz" text="gitversion-osx-x64-7.0.1.tar.gz" repositoryKey="GitTools/GitVersion" />
+- <GithubMirrorLink link="https://github.com/GitTools/GitVersion/releases/download/7.0.1/gitversion-win-arm64-7.0.1.zip" text="gitversion-win-arm64-7.0.1.zip" repositoryKey="GitTools/GitVersion" />
+- <GithubMirrorLink link="https://github.com/GitTools/GitVersion/releases/download/7.0.1/gitversion-win-x64-7.0.1.zip" text="gitversion-win-x64-7.0.1.zip" repositoryKey="GitTools/GitVersion" />
+
+
+
 ## 7.0.0
 
 - <GithubMirrorLink link="https://github.com/GitTools/GitVersion/releases/download/7.0.0/gitversion-linux-arm64-7.0.0.tar.gz" text="gitversion-linux-arm64-7.0.0.tar.gz" repositoryKey="GitTools/GitVersion" />
@@ -264,6 +277,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## 6.0.2
 
 - <GithubMirrorLink link="https://github.com/GitTools/GitVersion/releases/download/6.0.2/gitversion-linux-arm64-6.0.2.tar.gz" text="gitversion-linux-arm64-6.0.2.tar.gz" repositoryKey="GitTools/GitVersion" />
@@ -274,8 +289,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/GitTools/GitVersion/releases/download/6.0.2/gitversion-osx-x64-6.0.2.tar.gz" text="gitversion-osx-x64-6.0.2.tar.gz" repositoryKey="GitTools/GitVersion" />
 - <GithubMirrorLink link="https://github.com/GitTools/GitVersion/releases/download/6.0.2/gitversion-win-arm64-6.0.2.zip" text="gitversion-win-arm64-6.0.2.zip" repositoryKey="GitTools/GitVersion" />
 - <GithubMirrorLink link="https://github.com/GitTools/GitVersion/releases/download/6.0.2/gitversion-win-x64-6.0.2.zip" text="gitversion-win-x64-6.0.2.zip" repositoryKey="GitTools/GitVersion" />
-
-
 
 
 
@@ -394,20 +407,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/GitTools/GitVersion/releases/download/6.0.0-beta.3/gitversion-win-arm64-6.0.0-beta.3.zip" text="gitversion-win-arm64-6.0.0-beta.3.zip" repositoryKey="GitTools/GitVersion" />
 - <GithubMirrorLink link="https://github.com/GitTools/GitVersion/releases/download/6.0.0-beta.3/gitversion-win-x64-6.0.0-beta.3.zip" text="gitversion-win-x64-6.0.0-beta.3.zip" repositoryKey="GitTools/GitVersion" />
 - <GithubMirrorLink link="https://github.com/GitTools/GitVersion/releases/download/6.0.0-beta.3/gitversion-win-x86-6.0.0-beta.3.zip" text="gitversion-win-x86-6.0.0-beta.3.zip" repositoryKey="GitTools/GitVersion" />
-
-
-
-## 6.0.0-beta.2
-
-- <GithubMirrorLink link="https://github.com/GitTools/GitVersion/releases/download/6.0.0-beta.2/gitversion-linux-arm64-6.0.0-beta.2.tar.gz" text="gitversion-linux-arm64-6.0.0-beta.2.tar.gz" repositoryKey="GitTools/GitVersion" />
-- <GithubMirrorLink link="https://github.com/GitTools/GitVersion/releases/download/6.0.0-beta.2/gitversion-linux-musl-arm64-6.0.0-beta.2.tar.gz" text="gitversion-linux-musl-arm64-6.0.0-beta.2.tar.gz" repositoryKey="GitTools/GitVersion" />
-- <GithubMirrorLink link="https://github.com/GitTools/GitVersion/releases/download/6.0.0-beta.2/gitversion-linux-musl-x64-6.0.0-beta.2.tar.gz" text="gitversion-linux-musl-x64-6.0.0-beta.2.tar.gz" repositoryKey="GitTools/GitVersion" />
-- <GithubMirrorLink link="https://github.com/GitTools/GitVersion/releases/download/6.0.0-beta.2/gitversion-linux-x64-6.0.0-beta.2.tar.gz" text="gitversion-linux-x64-6.0.0-beta.2.tar.gz" repositoryKey="GitTools/GitVersion" />
-- <GithubMirrorLink link="https://github.com/GitTools/GitVersion/releases/download/6.0.0-beta.2/gitversion-osx-arm64-6.0.0-beta.2.tar.gz" text="gitversion-osx-arm64-6.0.0-beta.2.tar.gz" repositoryKey="GitTools/GitVersion" />
-- <GithubMirrorLink link="https://github.com/GitTools/GitVersion/releases/download/6.0.0-beta.2/gitversion-osx-x64-6.0.0-beta.2.tar.gz" text="gitversion-osx-x64-6.0.0-beta.2.tar.gz" repositoryKey="GitTools/GitVersion" />
-- <GithubMirrorLink link="https://github.com/GitTools/GitVersion/releases/download/6.0.0-beta.2/gitversion-win-arm64-6.0.0-beta.2.zip" text="gitversion-win-arm64-6.0.0-beta.2.zip" repositoryKey="GitTools/GitVersion" />
-- <GithubMirrorLink link="https://github.com/GitTools/GitVersion/releases/download/6.0.0-beta.2/gitversion-win-x64-6.0.0-beta.2.zip" text="gitversion-win-x64-6.0.0-beta.2.zip" repositoryKey="GitTools/GitVersion" />
-- <GithubMirrorLink link="https://github.com/GitTools/GitVersion/releases/download/6.0.0-beta.2/gitversion-win-x86-6.0.0-beta.2.zip" text="gitversion-win-x86-6.0.0-beta.2.zip" repositoryKey="GitTools/GitVersion" />
 
 
 
