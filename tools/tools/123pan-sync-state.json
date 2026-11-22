@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-21T05:17:00.853067+00:00",
-  "recordCount": 3485,
+  "generatedAt": "2026-11-22T04:43:12.770298+00:00",
+  "recordCount": 3508,
   "records": {
     "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.AppImage": {
       "syncedAt": "2026-08-22T07:14:26.809Z",
@@ -14047,6 +14047,51 @@
       "shareUrl": "https://www.123pan.com/s/zsClvd-OYJtA",
       "status": "synced"
     },
+    "mudler/LocalAI:v5.0.1:LocalAI-Launcher-5.0.1-arm64-mac.zip.sha256": {
+      "syncedAt": "2026-11-21T07:29:40.452Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-nJNcA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v5.0.1:LocalAI-Launcher-Setup-x64.exe": {
+      "syncedAt": "2026-11-21T19:27:26.652Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-WS6cA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v5.0.1:LocalAI-Launcher-Setup-x64.exe.sha256": {
+      "syncedAt": "2026-11-21T08:00:37.081Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-klNeA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v5.0.1:LocalAI-Launcher-arm64.AppImage": {
+      "syncedAt": "2026-11-21T19:26:52.549Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-gUBcA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v5.0.1:LocalAI-Launcher-arm64.AppImage.sha256": {
+      "syncedAt": "2026-11-21T07:45:05.802Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-2JNcA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v5.0.1:LocalAI-Launcher-win-x64.zip": {
+      "syncedAt": "2026-11-21T19:28:04.683Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-wqocA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v5.0.1:LocalAI-Launcher-win-x64.zip.sha256": {
+      "syncedAt": "2026-11-21T19:28:55.138Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-gqocA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v5.0.1:LocalAI-Launcher-x86_64.AppImage": {
+      "syncedAt": "2026-11-21T19:29:35.838Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-0JNcA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v5.0.1:LocalAI-Launcher-x86_64.AppImage.sha256": {
+      "syncedAt": "2026-11-21T08:31:27.326Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-olNeA",
+      "status": "synced"
+    },
     "mudler/LocalAI:v5.0.1:LocalAI-v5.0.1-checksums.txt": {
       "syncedAt": "2026-11-20T20:37:02.867Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-oWheA",
@@ -14055,6 +14100,36 @@
     "mudler/LocalAI:v5.0.1:LocalAI-v5.0.1-source.tar.gz": {
       "syncedAt": "2026-11-20T20:37:18.961Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-1qocA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v5.0.1:LocalAI.dmg": {
+      "syncedAt": "2026-11-21T19:30:06.736Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-FUBcA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v5.0.1:LocalAI.dmg.sha256": {
+      "syncedAt": "2026-11-21T08:46:52.059Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-mlNeA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v5.0.1:local-ai-v5.0.1-darwin-arm64": {
+      "syncedAt": "2026-11-21T07:11:39.988Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-fqocA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v5.0.1:local-ai-v5.0.1-linux-amd64": {
+      "syncedAt": "2026-11-21T07:12:30.256Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-ElNeA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v5.0.1:local-ai-v5.0.1-linux-arm64": {
+      "syncedAt": "2026-11-21T07:13:19.689Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-aqocA",
+      "status": "synced"
+    },
+    "mudler/LocalAI:v5.0.1:local-ai-v5.0.1-windows-amd64.exe": {
+      "syncedAt": "2026-11-21T07:14:12.865Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-iCueA",
       "status": "synced"
     },
     "ollama/ollama:v0.33.0-rc2:Ollama-darwin.zip": {
@@ -16425,6 +16500,46 @@
     "ollama/ollama:v0.40.17-rc2:ollama-linux-arm64-jetpack6.tar.zst": {
       "syncedAt": "2026-11-20T13:20:24.211Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-MS6cA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.40.17:Ollama.dmg": {
+      "syncedAt": "2026-11-21T19:57:02.664Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-wWheA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.40.17:OllamaSetup.exe": {
+      "syncedAt": "2026-11-21T11:22:50.395Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-rEPtA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.40.17:ollama-darwin.tgz": {
+      "syncedAt": "2026-11-21T19:32:02.779Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-6CueA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.40.17:ollama-linux-amd64-rocm.tar.zst": {
+      "syncedAt": "2026-11-21T09:34:11.926Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-sJNcA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.40.17:ollama-linux-arm64-jetpack5.tar.zst": {
+      "syncedAt": "2026-11-21T09:49:53.521Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-WJNcA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.40.17:ollama-linux-arm64-jetpack6.tar.zst": {
+      "syncedAt": "2026-11-21T09:50:03.117Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-CJNcA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.40.17:ollama-windows-amd64-rocm.zip": {
+      "syncedAt": "2026-11-21T19:50:39.064Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-MWheA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.40.17:sha256sum.txt": {
+      "syncedAt": "2026-11-21T11:22:56.272Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-8EPtA",
       "status": "synced"
     },
     "ollama/ollama:v0.40.1:Ollama.dmg": {
