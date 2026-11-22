@@ -91,9 +91,6 @@ const config = {
             { id: 'newbe-focus', label: '重点关注', href: '/links', external: false },
             { id: 'newbe-privacy', label: '隐私策略', href: '/privacy', external: false },
           ],
-          community: [
-            { id: 'steam', label: 'Steam', href: 'https://store.steampowered.com/app/4625540/Hagicode/', external: true },
-          ],
           // Genuine site-specific extras: none of these four are in hagilight's bundled
           // related-sites data (verified against @hagicode/hagilight-core 0.15.1), so keep them.
           relatedSites: [
