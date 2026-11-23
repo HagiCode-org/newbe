@@ -20,6 +20,694 @@ llama.cpp 是一个面向本地大模型推理的 C/C++ 运行时项目，强调
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## b12648
+
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/cudart-llama-b12648-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12648-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/cudart-llama-b12648-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12648-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/cudart-llama-b12648-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12648-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-bin-android-arm64-snapdragon.tar.gz" text="llama-b12648-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-bin-android-arm64.tar.gz" text="llama-b12648-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12648-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-bin-macos-arm64.tar.gz" text="llama-b12648-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-bin-macos-x64.tar.gz" text="llama-b12648-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12648-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-bin-ubuntu-arm64.tar.gz" text="llama-b12648-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12648-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12648-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12648-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12648-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12648-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-bin-ubuntu-s390x.tar.gz" text="llama-b12648-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12648-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12648-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12648-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12648-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-bin-ubuntu-x64.tar.gz" text="llama-b12648-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12648-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-bin-win-cpu-arm64.zip" text="llama-b12648-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-bin-win-cpu-x64.zip" text="llama-b12648-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-bin-win-cuda-12.4-x64.zip" text="llama-b12648-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-bin-win-cuda-13.5-arm64.zip" text="llama-b12648-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-bin-win-cuda-13.5-x64.zip" text="llama-b12648-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-bin-win-opencl-adreno-arm64.zip" text="llama-b12648-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12648-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-bin-win-rocm-10.0-x64.zip" text="llama-b12648-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-bin-win-sycl-x64.zip" text="llama-b12648-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-bin-win-vulkan-arm64.zip" text="llama-b12648-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-bin-win-vulkan-x64.zip" text="llama-b12648-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-ui.tar.gz" text="llama-b12648-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12648/llama-b12648-xcframework.zip" text="llama-b12648-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
+
+
+
+## b12647
+
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/cudart-llama-b12647-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12647-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/cudart-llama-b12647-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12647-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/cudart-llama-b12647-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12647-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-bin-android-arm64-snapdragon.tar.gz" text="llama-b12647-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-bin-android-arm64.tar.gz" text="llama-b12647-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12647-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-bin-macos-arm64.tar.gz" text="llama-b12647-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-bin-macos-x64.tar.gz" text="llama-b12647-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12647-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-bin-ubuntu-arm64.tar.gz" text="llama-b12647-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12647-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12647-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12647-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12647-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12647-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-bin-ubuntu-s390x.tar.gz" text="llama-b12647-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12647-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12647-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12647-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12647-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-bin-ubuntu-x64.tar.gz" text="llama-b12647-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12647-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-bin-win-cpu-arm64.zip" text="llama-b12647-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-bin-win-cpu-x64.zip" text="llama-b12647-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-bin-win-cuda-12.4-x64.zip" text="llama-b12647-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-bin-win-cuda-13.5-arm64.zip" text="llama-b12647-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-bin-win-cuda-13.5-x64.zip" text="llama-b12647-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-bin-win-opencl-adreno-arm64.zip" text="llama-b12647-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12647-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-bin-win-rocm-10.0-x64.zip" text="llama-b12647-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-bin-win-sycl-x64.zip" text="llama-b12647-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-bin-win-vulkan-arm64.zip" text="llama-b12647-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-bin-win-vulkan-x64.zip" text="llama-b12647-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-ui.tar.gz" text="llama-b12647-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12647/llama-b12647-xcframework.zip" text="llama-b12647-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
+
+
+
+## b12646
+
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/cudart-llama-b12646-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12646-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/cudart-llama-b12646-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12646-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/cudart-llama-b12646-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12646-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-bin-android-arm64-snapdragon.tar.gz" text="llama-b12646-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-bin-android-arm64.tar.gz" text="llama-b12646-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12646-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-bin-macos-arm64.tar.gz" text="llama-b12646-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-bin-macos-x64.tar.gz" text="llama-b12646-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12646-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-bin-ubuntu-arm64.tar.gz" text="llama-b12646-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12646-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12646-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12646-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12646-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12646-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-bin-ubuntu-s390x.tar.gz" text="llama-b12646-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12646-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12646-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12646-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12646-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-bin-ubuntu-x64.tar.gz" text="llama-b12646-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12646-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-bin-win-cpu-arm64.zip" text="llama-b12646-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-bin-win-cpu-x64.zip" text="llama-b12646-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-bin-win-cuda-12.4-x64.zip" text="llama-b12646-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-bin-win-cuda-13.5-arm64.zip" text="llama-b12646-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-bin-win-cuda-13.5-x64.zip" text="llama-b12646-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-bin-win-opencl-adreno-arm64.zip" text="llama-b12646-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12646-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-bin-win-rocm-10.0-x64.zip" text="llama-b12646-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-bin-win-sycl-x64.zip" text="llama-b12646-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-bin-win-vulkan-arm64.zip" text="llama-b12646-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-bin-win-vulkan-x64.zip" text="llama-b12646-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-ui.tar.gz" text="llama-b12646-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12646/llama-b12646-xcframework.zip" text="llama-b12646-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
+
+
+
+## b12645
+
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/cudart-llama-b12645-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12645-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/cudart-llama-b12645-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12645-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/cudart-llama-b12645-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12645-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-bin-android-arm64-snapdragon.tar.gz" text="llama-b12645-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-bin-android-arm64.tar.gz" text="llama-b12645-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12645-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-bin-macos-arm64.tar.gz" text="llama-b12645-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-bin-macos-x64.tar.gz" text="llama-b12645-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12645-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-bin-ubuntu-arm64.tar.gz" text="llama-b12645-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12645-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12645-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12645-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12645-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12645-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-bin-ubuntu-s390x.tar.gz" text="llama-b12645-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12645-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12645-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12645-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12645-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-bin-ubuntu-x64.tar.gz" text="llama-b12645-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12645-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-bin-win-cpu-arm64.zip" text="llama-b12645-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-bin-win-cpu-x64.zip" text="llama-b12645-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-bin-win-cuda-12.4-x64.zip" text="llama-b12645-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-bin-win-cuda-13.5-arm64.zip" text="llama-b12645-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-bin-win-cuda-13.5-x64.zip" text="llama-b12645-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-bin-win-opencl-adreno-arm64.zip" text="llama-b12645-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12645-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-bin-win-rocm-10.0-x64.zip" text="llama-b12645-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-bin-win-sycl-x64.zip" text="llama-b12645-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-bin-win-vulkan-arm64.zip" text="llama-b12645-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-bin-win-vulkan-x64.zip" text="llama-b12645-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-ui.tar.gz" text="llama-b12645-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12645/llama-b12645-xcframework.zip" text="llama-b12645-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
+
+
+
+## b12644
+
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/cudart-llama-b12644-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12644-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/cudart-llama-b12644-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12644-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/cudart-llama-b12644-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12644-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-bin-android-arm64-snapdragon.tar.gz" text="llama-b12644-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-bin-android-arm64.tar.gz" text="llama-b12644-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12644-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-bin-macos-arm64.tar.gz" text="llama-b12644-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-bin-macos-x64.tar.gz" text="llama-b12644-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12644-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-bin-ubuntu-arm64.tar.gz" text="llama-b12644-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12644-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12644-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12644-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12644-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12644-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-bin-ubuntu-s390x.tar.gz" text="llama-b12644-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12644-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12644-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12644-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12644-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-bin-ubuntu-x64.tar.gz" text="llama-b12644-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12644-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-bin-win-cpu-arm64.zip" text="llama-b12644-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-bin-win-cpu-x64.zip" text="llama-b12644-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-bin-win-cuda-12.4-x64.zip" text="llama-b12644-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-bin-win-cuda-13.5-arm64.zip" text="llama-b12644-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-bin-win-cuda-13.5-x64.zip" text="llama-b12644-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-bin-win-opencl-adreno-arm64.zip" text="llama-b12644-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12644-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-bin-win-rocm-10.0-x64.zip" text="llama-b12644-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-bin-win-sycl-x64.zip" text="llama-b12644-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-bin-win-vulkan-arm64.zip" text="llama-b12644-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-bin-win-vulkan-x64.zip" text="llama-b12644-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-ui.tar.gz" text="llama-b12644-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12644/llama-b12644-xcframework.zip" text="llama-b12644-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
+
+
+
+## b12643
+
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/cudart-llama-b12643-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12643-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/cudart-llama-b12643-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12643-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/cudart-llama-b12643-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12643-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-bin-android-arm64-snapdragon.tar.gz" text="llama-b12643-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-bin-android-arm64.tar.gz" text="llama-b12643-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12643-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-bin-macos-arm64.tar.gz" text="llama-b12643-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-bin-macos-x64.tar.gz" text="llama-b12643-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12643-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-bin-ubuntu-arm64.tar.gz" text="llama-b12643-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12643-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12643-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12643-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12643-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12643-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-bin-ubuntu-s390x.tar.gz" text="llama-b12643-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12643-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12643-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12643-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12643-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-bin-ubuntu-x64.tar.gz" text="llama-b12643-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12643-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-bin-win-cpu-arm64.zip" text="llama-b12643-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-bin-win-cpu-x64.zip" text="llama-b12643-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-bin-win-cuda-12.4-x64.zip" text="llama-b12643-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-bin-win-cuda-13.5-arm64.zip" text="llama-b12643-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-bin-win-cuda-13.5-x64.zip" text="llama-b12643-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-bin-win-opencl-adreno-arm64.zip" text="llama-b12643-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12643-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-bin-win-rocm-10.0-x64.zip" text="llama-b12643-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-bin-win-sycl-x64.zip" text="llama-b12643-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-bin-win-vulkan-arm64.zip" text="llama-b12643-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-bin-win-vulkan-x64.zip" text="llama-b12643-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-ui.tar.gz" text="llama-b12643-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12643/llama-b12643-xcframework.zip" text="llama-b12643-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
+
+
+
+## b12642
+
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/cudart-llama-b12642-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12642-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/cudart-llama-b12642-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12642-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/cudart-llama-b12642-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12642-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-bin-android-arm64-snapdragon.tar.gz" text="llama-b12642-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-bin-android-arm64.tar.gz" text="llama-b12642-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12642-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-bin-macos-arm64.tar.gz" text="llama-b12642-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-bin-macos-x64.tar.gz" text="llama-b12642-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12642-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-bin-ubuntu-arm64.tar.gz" text="llama-b12642-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12642-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12642-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12642-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12642-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12642-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-bin-ubuntu-s390x.tar.gz" text="llama-b12642-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12642-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12642-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12642-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12642-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-bin-ubuntu-x64.tar.gz" text="llama-b12642-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12642-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-bin-win-cpu-arm64.zip" text="llama-b12642-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-bin-win-cpu-x64.zip" text="llama-b12642-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-bin-win-cuda-12.4-x64.zip" text="llama-b12642-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-bin-win-cuda-13.5-arm64.zip" text="llama-b12642-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-bin-win-cuda-13.5-x64.zip" text="llama-b12642-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-bin-win-opencl-adreno-arm64.zip" text="llama-b12642-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12642-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-bin-win-rocm-10.0-x64.zip" text="llama-b12642-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-bin-win-sycl-x64.zip" text="llama-b12642-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-bin-win-vulkan-arm64.zip" text="llama-b12642-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-bin-win-vulkan-x64.zip" text="llama-b12642-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-ui.tar.gz" text="llama-b12642-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12642/llama-b12642-xcframework.zip" text="llama-b12642-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
+
+
+
+## b12641
+
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/cudart-llama-b12641-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12641-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/cudart-llama-b12641-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12641-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/cudart-llama-b12641-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12641-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-bin-android-arm64-snapdragon.tar.gz" text="llama-b12641-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-bin-android-arm64.tar.gz" text="llama-b12641-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12641-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-bin-macos-arm64.tar.gz" text="llama-b12641-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-bin-macos-x64.tar.gz" text="llama-b12641-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12641-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-bin-ubuntu-arm64.tar.gz" text="llama-b12641-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12641-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12641-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12641-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12641-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12641-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-bin-ubuntu-s390x.tar.gz" text="llama-b12641-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12641-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12641-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12641-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12641-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-bin-ubuntu-x64.tar.gz" text="llama-b12641-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12641-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-bin-win-cpu-arm64.zip" text="llama-b12641-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-bin-win-cpu-x64.zip" text="llama-b12641-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-bin-win-cuda-12.4-x64.zip" text="llama-b12641-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-bin-win-cuda-13.5-arm64.zip" text="llama-b12641-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-bin-win-cuda-13.5-x64.zip" text="llama-b12641-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-bin-win-opencl-adreno-arm64.zip" text="llama-b12641-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12641-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-bin-win-rocm-10.0-x64.zip" text="llama-b12641-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-bin-win-sycl-x64.zip" text="llama-b12641-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-bin-win-vulkan-arm64.zip" text="llama-b12641-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-bin-win-vulkan-x64.zip" text="llama-b12641-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-ui.tar.gz" text="llama-b12641-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12641/llama-b12641-xcframework.zip" text="llama-b12641-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
+
+
+
+## b12640
+
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/cudart-llama-b12640-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12640-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/cudart-llama-b12640-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12640-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/cudart-llama-b12640-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12640-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-bin-android-arm64-snapdragon.tar.gz" text="llama-b12640-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-bin-android-arm64.tar.gz" text="llama-b12640-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12640-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-bin-macos-arm64.tar.gz" text="llama-b12640-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-bin-macos-x64.tar.gz" text="llama-b12640-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12640-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-bin-ubuntu-arm64.tar.gz" text="llama-b12640-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12640-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12640-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12640-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12640-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12640-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-bin-ubuntu-s390x.tar.gz" text="llama-b12640-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12640-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12640-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12640-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12640-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-bin-ubuntu-x64.tar.gz" text="llama-b12640-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12640-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-bin-win-cpu-arm64.zip" text="llama-b12640-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-bin-win-cpu-x64.zip" text="llama-b12640-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-bin-win-cuda-12.4-x64.zip" text="llama-b12640-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-bin-win-cuda-13.5-arm64.zip" text="llama-b12640-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-bin-win-cuda-13.5-x64.zip" text="llama-b12640-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-bin-win-opencl-adreno-arm64.zip" text="llama-b12640-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12640-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-bin-win-rocm-10.0-x64.zip" text="llama-b12640-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-bin-win-sycl-x64.zip" text="llama-b12640-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-bin-win-vulkan-arm64.zip" text="llama-b12640-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-bin-win-vulkan-x64.zip" text="llama-b12640-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-ui.tar.gz" text="llama-b12640-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12640/llama-b12640-xcframework.zip" text="llama-b12640-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
+
+
+
+## b12638
+
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/cudart-llama-b12638-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12638-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/cudart-llama-b12638-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12638-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/cudart-llama-b12638-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12638-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-bin-android-arm64-snapdragon.tar.gz" text="llama-b12638-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-bin-android-arm64.tar.gz" text="llama-b12638-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12638-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-bin-macos-arm64.tar.gz" text="llama-b12638-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-bin-macos-x64.tar.gz" text="llama-b12638-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12638-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-bin-ubuntu-arm64.tar.gz" text="llama-b12638-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12638-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12638-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12638-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12638-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12638-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-bin-ubuntu-s390x.tar.gz" text="llama-b12638-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12638-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12638-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12638-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12638-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-bin-ubuntu-x64.tar.gz" text="llama-b12638-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12638-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-bin-win-cpu-arm64.zip" text="llama-b12638-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-bin-win-cpu-x64.zip" text="llama-b12638-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-bin-win-cuda-12.4-x64.zip" text="llama-b12638-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-bin-win-cuda-13.5-arm64.zip" text="llama-b12638-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-bin-win-cuda-13.5-x64.zip" text="llama-b12638-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-bin-win-opencl-adreno-arm64.zip" text="llama-b12638-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12638-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-bin-win-rocm-10.0-x64.zip" text="llama-b12638-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-bin-win-sycl-x64.zip" text="llama-b12638-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-bin-win-vulkan-arm64.zip" text="llama-b12638-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-bin-win-vulkan-x64.zip" text="llama-b12638-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-ui.tar.gz" text="llama-b12638-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12638/llama-b12638-xcframework.zip" text="llama-b12638-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
+
+
+
+## b12635
+
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/cudart-llama-b12635-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12635-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/cudart-llama-b12635-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12635-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/cudart-llama-b12635-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12635-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-bin-android-arm64-snapdragon.tar.gz" text="llama-b12635-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-bin-android-arm64.tar.gz" text="llama-b12635-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12635-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-bin-macos-arm64.tar.gz" text="llama-b12635-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-bin-macos-x64.tar.gz" text="llama-b12635-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12635-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-bin-ubuntu-arm64.tar.gz" text="llama-b12635-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12635-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12635-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12635-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12635-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12635-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-bin-ubuntu-s390x.tar.gz" text="llama-b12635-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12635-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12635-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12635-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12635-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-bin-ubuntu-x64.tar.gz" text="llama-b12635-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12635-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-bin-win-cpu-arm64.zip" text="llama-b12635-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-bin-win-cpu-x64.zip" text="llama-b12635-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-bin-win-cuda-12.4-x64.zip" text="llama-b12635-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-bin-win-cuda-13.5-arm64.zip" text="llama-b12635-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-bin-win-cuda-13.5-x64.zip" text="llama-b12635-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-bin-win-opencl-adreno-arm64.zip" text="llama-b12635-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12635-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-bin-win-rocm-10.0-x64.zip" text="llama-b12635-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-bin-win-sycl-x64.zip" text="llama-b12635-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-bin-win-vulkan-arm64.zip" text="llama-b12635-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-bin-win-vulkan-x64.zip" text="llama-b12635-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-ui.tar.gz" text="llama-b12635-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12635/llama-b12635-xcframework.zip" text="llama-b12635-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
+
+
+
+## b12633
+
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/cudart-llama-b12633-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12633-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/cudart-llama-b12633-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12633-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/cudart-llama-b12633-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12633-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-android-arm64-snapdragon.tar.gz" text="llama-b12633-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-android-arm64.tar.gz" text="llama-b12633-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12633-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-macos-arm64.tar.gz" text="llama-b12633-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-macos-x64.tar.gz" text="llama-b12633-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12633-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-ubuntu-arm64.tar.gz" text="llama-b12633-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12633-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12633-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12633-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12633-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12633-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-ubuntu-s390x.tar.gz" text="llama-b12633-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12633-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12633-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12633-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12633-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-ubuntu-x64.tar.gz" text="llama-b12633-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12633-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-win-cpu-arm64.zip" text="llama-b12633-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-win-cpu-x64.zip" text="llama-b12633-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-win-cuda-12.4-x64.zip" text="llama-b12633-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-win-cuda-13.5-arm64.zip" text="llama-b12633-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-win-cuda-13.5-x64.zip" text="llama-b12633-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-win-opencl-adreno-arm64.zip" text="llama-b12633-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12633-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-win-rocm-10.0-x64.zip" text="llama-b12633-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-win-sycl-x64.zip" text="llama-b12633-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-win-vulkan-arm64.zip" text="llama-b12633-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-win-vulkan-x64.zip" text="llama-b12633-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-ui.tar.gz" text="llama-b12633-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-xcframework.zip" text="llama-b12633-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
+
+
+
+## b12632
+
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/cudart-llama-b12632-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12632-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/cudart-llama-b12632-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12632-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/cudart-llama-b12632-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12632-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-bin-android-arm64-snapdragon.tar.gz" text="llama-b12632-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-bin-android-arm64.tar.gz" text="llama-b12632-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12632-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-bin-macos-arm64.tar.gz" text="llama-b12632-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-bin-macos-x64.tar.gz" text="llama-b12632-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12632-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-bin-ubuntu-arm64.tar.gz" text="llama-b12632-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12632-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12632-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12632-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12632-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12632-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-bin-ubuntu-s390x.tar.gz" text="llama-b12632-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12632-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12632-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12632-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12632-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-bin-ubuntu-x64.tar.gz" text="llama-b12632-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12632-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-bin-win-cpu-arm64.zip" text="llama-b12632-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-bin-win-cpu-x64.zip" text="llama-b12632-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-bin-win-cuda-12.4-x64.zip" text="llama-b12632-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-bin-win-cuda-13.5-arm64.zip" text="llama-b12632-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-bin-win-cuda-13.5-x64.zip" text="llama-b12632-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-bin-win-opencl-adreno-arm64.zip" text="llama-b12632-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12632-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-bin-win-rocm-10.0-x64.zip" text="llama-b12632-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-bin-win-sycl-x64.zip" text="llama-b12632-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-bin-win-vulkan-arm64.zip" text="llama-b12632-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-bin-win-vulkan-x64.zip" text="llama-b12632-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-ui.tar.gz" text="llama-b12632-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12632/llama-b12632-xcframework.zip" text="llama-b12632-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
+
+
+
+## b12631
+
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/cudart-llama-b12631-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12631-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/cudart-llama-b12631-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12631-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/cudart-llama-b12631-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12631-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-bin-android-arm64-snapdragon.tar.gz" text="llama-b12631-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-bin-android-arm64.tar.gz" text="llama-b12631-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12631-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-bin-macos-arm64.tar.gz" text="llama-b12631-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-bin-macos-x64.tar.gz" text="llama-b12631-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12631-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-bin-ubuntu-arm64.tar.gz" text="llama-b12631-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12631-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12631-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12631-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12631-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12631-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-bin-ubuntu-s390x.tar.gz" text="llama-b12631-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12631-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12631-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12631-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12631-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-bin-ubuntu-x64.tar.gz" text="llama-b12631-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12631-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-bin-win-cpu-arm64.zip" text="llama-b12631-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-bin-win-cpu-x64.zip" text="llama-b12631-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-bin-win-cuda-12.4-x64.zip" text="llama-b12631-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-bin-win-cuda-13.5-arm64.zip" text="llama-b12631-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-bin-win-cuda-13.5-x64.zip" text="llama-b12631-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-bin-win-opencl-adreno-arm64.zip" text="llama-b12631-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12631-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-bin-win-rocm-10.0-x64.zip" text="llama-b12631-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-bin-win-sycl-x64.zip" text="llama-b12631-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-bin-win-vulkan-arm64.zip" text="llama-b12631-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-bin-win-vulkan-x64.zip" text="llama-b12631-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-ui.tar.gz" text="llama-b12631-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12631/llama-b12631-xcframework.zip" text="llama-b12631-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
+
+
+
+## b12629
+
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/cudart-llama-b12629-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12629-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/cudart-llama-b12629-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12629-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/cudart-llama-b12629-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12629-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-bin-android-arm64-snapdragon.tar.gz" text="llama-b12629-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-bin-android-arm64.tar.gz" text="llama-b12629-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12629-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-bin-macos-arm64.tar.gz" text="llama-b12629-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-bin-macos-x64.tar.gz" text="llama-b12629-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12629-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-bin-ubuntu-arm64.tar.gz" text="llama-b12629-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12629-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12629-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12629-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12629-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12629-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-bin-ubuntu-s390x.tar.gz" text="llama-b12629-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12629-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12629-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12629-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12629-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-bin-ubuntu-x64.tar.gz" text="llama-b12629-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12629-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-bin-win-cpu-arm64.zip" text="llama-b12629-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-bin-win-cpu-x64.zip" text="llama-b12629-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-bin-win-cuda-12.4-x64.zip" text="llama-b12629-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-bin-win-cuda-13.5-arm64.zip" text="llama-b12629-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-bin-win-cuda-13.5-x64.zip" text="llama-b12629-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-bin-win-opencl-adreno-arm64.zip" text="llama-b12629-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12629-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-bin-win-rocm-10.0-x64.zip" text="llama-b12629-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-bin-win-sycl-x64.zip" text="llama-b12629-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-bin-win-vulkan-arm64.zip" text="llama-b12629-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-bin-win-vulkan-x64.zip" text="llama-b12629-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-ui.tar.gz" text="llama-b12629-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12629/llama-b12629-xcframework.zip" text="llama-b12629-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
+
+
+
+## b12628
+
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/cudart-llama-b12628-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12628-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/cudart-llama-b12628-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12628-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/cudart-llama-b12628-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12628-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-android-arm64-snapdragon.tar.gz" text="llama-b12628-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-android-arm64.tar.gz" text="llama-b12628-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12628-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-macos-arm64.tar.gz" text="llama-b12628-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-macos-x64.tar.gz" text="llama-b12628-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12628-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-ubuntu-arm64.tar.gz" text="llama-b12628-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12628-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12628-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12628-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12628-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12628-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-ubuntu-s390x.tar.gz" text="llama-b12628-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12628-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12628-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12628-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12628-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-ubuntu-x64.tar.gz" text="llama-b12628-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12628-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-win-cpu-arm64.zip" text="llama-b12628-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-win-cpu-x64.zip" text="llama-b12628-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-win-cuda-12.4-x64.zip" text="llama-b12628-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-win-cuda-13.5-arm64.zip" text="llama-b12628-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-win-cuda-13.5-x64.zip" text="llama-b12628-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-win-opencl-adreno-arm64.zip" text="llama-b12628-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12628-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-win-rocm-10.0-x64.zip" text="llama-b12628-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-win-sycl-x64.zip" text="llama-b12628-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-win-vulkan-arm64.zip" text="llama-b12628-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-bin-win-vulkan-x64.zip" text="llama-b12628-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-ui.tar.gz" text="llama-b12628-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
+- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12628/llama-b12628-xcframework.zip" text="llama-b12628-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
+
+
+
 ## b12627
 
 - <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12627/cudart-llama-b12627-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12627-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
@@ -189,6 +877,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12624/llama-b12624-bin-win-vulkan-x64.zip" text="llama-b12624-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
 - <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12624/llama-b12624-ui.tar.gz" text="llama-b12624-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
 - <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12624/llama-b12624-xcframework.zip" text="llama-b12624-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
+
+
 
 
 
@@ -619,696 +1309,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12612/llama-b12612-bin-win-vulkan-x64.zip" text="llama-b12612-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
 - <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12612/llama-b12612-ui.tar.gz" text="llama-b12612-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
 - <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12612/llama-b12612-xcframework.zip" text="llama-b12612-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
-
-
-
-## b12611
-
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/cudart-llama-b12611-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12611-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/cudart-llama-b12611-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12611-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/cudart-llama-b12611-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12611-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-bin-android-arm64-snapdragon.tar.gz" text="llama-b12611-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-bin-android-arm64.tar.gz" text="llama-b12611-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12611-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-bin-macos-arm64.tar.gz" text="llama-b12611-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-bin-macos-x64.tar.gz" text="llama-b12611-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12611-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-bin-ubuntu-arm64.tar.gz" text="llama-b12611-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12611-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12611-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12611-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12611-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12611-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-bin-ubuntu-s390x.tar.gz" text="llama-b12611-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12611-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12611-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12611-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12611-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-bin-ubuntu-x64.tar.gz" text="llama-b12611-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12611-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-bin-win-cpu-arm64.zip" text="llama-b12611-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-bin-win-cpu-x64.zip" text="llama-b12611-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-bin-win-cuda-12.4-x64.zip" text="llama-b12611-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-bin-win-cuda-13.5-arm64.zip" text="llama-b12611-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-bin-win-cuda-13.5-x64.zip" text="llama-b12611-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-bin-win-opencl-adreno-arm64.zip" text="llama-b12611-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12611-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-bin-win-rocm-10.0-x64.zip" text="llama-b12611-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-bin-win-sycl-x64.zip" text="llama-b12611-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-bin-win-vulkan-arm64.zip" text="llama-b12611-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-bin-win-vulkan-x64.zip" text="llama-b12611-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-ui.tar.gz" text="llama-b12611-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12611/llama-b12611-xcframework.zip" text="llama-b12611-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
-
-
-
-## b12609
-
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/cudart-llama-b12609-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12609-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/cudart-llama-b12609-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12609-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/cudart-llama-b12609-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12609-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-android-arm64-snapdragon.tar.gz" text="llama-b12609-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-android-arm64.tar.gz" text="llama-b12609-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12609-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-macos-arm64.tar.gz" text="llama-b12609-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-macos-x64.tar.gz" text="llama-b12609-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12609-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-ubuntu-arm64.tar.gz" text="llama-b12609-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12609-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12609-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12609-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12609-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12609-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-ubuntu-s390x.tar.gz" text="llama-b12609-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12609-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12609-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12609-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12609-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-ubuntu-x64.tar.gz" text="llama-b12609-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12609-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-win-cpu-arm64.zip" text="llama-b12609-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-win-cpu-x64.zip" text="llama-b12609-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-win-cuda-12.4-x64.zip" text="llama-b12609-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-win-cuda-13.5-arm64.zip" text="llama-b12609-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-win-cuda-13.5-x64.zip" text="llama-b12609-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-win-opencl-adreno-arm64.zip" text="llama-b12609-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12609-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-win-rocm-10.0-x64.zip" text="llama-b12609-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-win-sycl-x64.zip" text="llama-b12609-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-win-vulkan-arm64.zip" text="llama-b12609-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-bin-win-vulkan-x64.zip" text="llama-b12609-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-ui.tar.gz" text="llama-b12609-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12609/llama-b12609-xcframework.zip" text="llama-b12609-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
-
-
-
-## b12608
-
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/cudart-llama-b12608-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12608-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/cudart-llama-b12608-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12608-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/cudart-llama-b12608-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12608-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-bin-android-arm64-snapdragon.tar.gz" text="llama-b12608-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-bin-android-arm64.tar.gz" text="llama-b12608-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12608-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-bin-macos-arm64.tar.gz" text="llama-b12608-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-bin-macos-x64.tar.gz" text="llama-b12608-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12608-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-bin-ubuntu-arm64.tar.gz" text="llama-b12608-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12608-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12608-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12608-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12608-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12608-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-bin-ubuntu-s390x.tar.gz" text="llama-b12608-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12608-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12608-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12608-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12608-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-bin-ubuntu-x64.tar.gz" text="llama-b12608-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12608-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-bin-win-cpu-arm64.zip" text="llama-b12608-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-bin-win-cpu-x64.zip" text="llama-b12608-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-bin-win-cuda-12.4-x64.zip" text="llama-b12608-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-bin-win-cuda-13.5-arm64.zip" text="llama-b12608-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-bin-win-cuda-13.5-x64.zip" text="llama-b12608-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-bin-win-opencl-adreno-arm64.zip" text="llama-b12608-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12608-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-bin-win-rocm-10.0-x64.zip" text="llama-b12608-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-bin-win-sycl-x64.zip" text="llama-b12608-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-bin-win-vulkan-arm64.zip" text="llama-b12608-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-bin-win-vulkan-x64.zip" text="llama-b12608-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-ui.tar.gz" text="llama-b12608-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12608/llama-b12608-xcframework.zip" text="llama-b12608-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
-
-
-
-## b12606
-
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/cudart-llama-b12606-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12606-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/cudart-llama-b12606-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12606-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/cudart-llama-b12606-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12606-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-bin-android-arm64-snapdragon.tar.gz" text="llama-b12606-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-bin-android-arm64.tar.gz" text="llama-b12606-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12606-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-bin-macos-arm64.tar.gz" text="llama-b12606-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-bin-macos-x64.tar.gz" text="llama-b12606-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12606-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-bin-ubuntu-arm64.tar.gz" text="llama-b12606-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12606-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12606-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12606-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12606-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12606-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-bin-ubuntu-s390x.tar.gz" text="llama-b12606-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12606-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12606-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12606-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12606-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-bin-ubuntu-x64.tar.gz" text="llama-b12606-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12606-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-bin-win-cpu-arm64.zip" text="llama-b12606-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-bin-win-cpu-x64.zip" text="llama-b12606-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-bin-win-cuda-12.4-x64.zip" text="llama-b12606-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-bin-win-cuda-13.5-arm64.zip" text="llama-b12606-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-bin-win-cuda-13.5-x64.zip" text="llama-b12606-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-bin-win-opencl-adreno-arm64.zip" text="llama-b12606-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12606-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-bin-win-rocm-10.0-x64.zip" text="llama-b12606-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-bin-win-sycl-x64.zip" text="llama-b12606-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-bin-win-vulkan-arm64.zip" text="llama-b12606-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-bin-win-vulkan-x64.zip" text="llama-b12606-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-ui.tar.gz" text="llama-b12606-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12606/llama-b12606-xcframework.zip" text="llama-b12606-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
-
-
-
-## b12604
-
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/cudart-llama-b12604-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12604-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/cudart-llama-b12604-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12604-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/cudart-llama-b12604-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12604-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-android-arm64-snapdragon.tar.gz" text="llama-b12604-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-android-arm64.tar.gz" text="llama-b12604-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12604-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-macos-arm64.tar.gz" text="llama-b12604-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-macos-x64.tar.gz" text="llama-b12604-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12604-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-ubuntu-arm64.tar.gz" text="llama-b12604-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12604-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12604-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12604-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12604-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12604-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-ubuntu-s390x.tar.gz" text="llama-b12604-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12604-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12604-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12604-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12604-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-ubuntu-x64.tar.gz" text="llama-b12604-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12604-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-win-cpu-arm64.zip" text="llama-b12604-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-win-cpu-x64.zip" text="llama-b12604-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-win-cuda-12.4-x64.zip" text="llama-b12604-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-win-cuda-13.5-arm64.zip" text="llama-b12604-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-win-cuda-13.5-x64.zip" text="llama-b12604-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-win-opencl-adreno-arm64.zip" text="llama-b12604-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12604-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-win-rocm-10.0-x64.zip" text="llama-b12604-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-win-sycl-x64.zip" text="llama-b12604-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-win-vulkan-arm64.zip" text="llama-b12604-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-bin-win-vulkan-x64.zip" text="llama-b12604-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-ui.tar.gz" text="llama-b12604-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12604/llama-b12604-xcframework.zip" text="llama-b12604-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
-
-
-
-## b12603
-
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/cudart-llama-b12603-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12603-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/cudart-llama-b12603-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12603-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/cudart-llama-b12603-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12603-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-android-arm64-snapdragon.tar.gz" text="llama-b12603-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-android-arm64.tar.gz" text="llama-b12603-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12603-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-macos-arm64.tar.gz" text="llama-b12603-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-macos-x64.tar.gz" text="llama-b12603-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12603-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-ubuntu-arm64.tar.gz" text="llama-b12603-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12603-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12603-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12603-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12603-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12603-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-ubuntu-s390x.tar.gz" text="llama-b12603-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12603-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12603-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12603-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12603-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-ubuntu-x64.tar.gz" text="llama-b12603-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12603-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-win-cpu-arm64.zip" text="llama-b12603-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-win-cpu-x64.zip" text="llama-b12603-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-win-cuda-12.4-x64.zip" text="llama-b12603-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-win-cuda-13.5-arm64.zip" text="llama-b12603-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-win-cuda-13.5-x64.zip" text="llama-b12603-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-win-opencl-adreno-arm64.zip" text="llama-b12603-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12603-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-win-rocm-10.0-x64.zip" text="llama-b12603-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-win-sycl-x64.zip" text="llama-b12603-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-win-vulkan-arm64.zip" text="llama-b12603-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-bin-win-vulkan-x64.zip" text="llama-b12603-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-ui.tar.gz" text="llama-b12603-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12603/llama-b12603-xcframework.zip" text="llama-b12603-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
-
-
-
-
-
-## b12602
-
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/cudart-llama-b12602-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12602-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/cudart-llama-b12602-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12602-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/cudart-llama-b12602-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12602-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-android-arm64-snapdragon.tar.gz" text="llama-b12602-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-android-arm64.tar.gz" text="llama-b12602-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12602-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-macos-arm64.tar.gz" text="llama-b12602-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-macos-x64.tar.gz" text="llama-b12602-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12602-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-ubuntu-arm64.tar.gz" text="llama-b12602-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12602-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12602-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12602-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12602-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12602-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-ubuntu-s390x.tar.gz" text="llama-b12602-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12602-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12602-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12602-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12602-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-ubuntu-x64.tar.gz" text="llama-b12602-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12602-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-win-cpu-arm64.zip" text="llama-b12602-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-win-cpu-x64.zip" text="llama-b12602-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-win-cuda-12.4-x64.zip" text="llama-b12602-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-win-cuda-13.5-arm64.zip" text="llama-b12602-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-win-cuda-13.5-x64.zip" text="llama-b12602-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-win-opencl-adreno-arm64.zip" text="llama-b12602-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12602-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-win-rocm-10.0-x64.zip" text="llama-b12602-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-win-sycl-x64.zip" text="llama-b12602-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-win-vulkan-arm64.zip" text="llama-b12602-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-bin-win-vulkan-x64.zip" text="llama-b12602-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-ui.tar.gz" text="llama-b12602-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12602/llama-b12602-xcframework.zip" text="llama-b12602-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
-
-
-
-## b12600
-
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/cudart-llama-b12600-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12600-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/cudart-llama-b12600-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12600-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/cudart-llama-b12600-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12600-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-bin-android-arm64-snapdragon.tar.gz" text="llama-b12600-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-bin-android-arm64.tar.gz" text="llama-b12600-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12600-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-bin-macos-arm64.tar.gz" text="llama-b12600-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-bin-macos-x64.tar.gz" text="llama-b12600-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12600-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-bin-ubuntu-arm64.tar.gz" text="llama-b12600-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12600-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12600-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12600-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12600-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12600-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-bin-ubuntu-s390x.tar.gz" text="llama-b12600-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12600-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12600-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12600-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12600-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-bin-ubuntu-x64.tar.gz" text="llama-b12600-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12600-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-bin-win-cpu-arm64.zip" text="llama-b12600-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-bin-win-cpu-x64.zip" text="llama-b12600-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-bin-win-cuda-12.4-x64.zip" text="llama-b12600-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-bin-win-cuda-13.5-arm64.zip" text="llama-b12600-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-bin-win-cuda-13.5-x64.zip" text="llama-b12600-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-bin-win-opencl-adreno-arm64.zip" text="llama-b12600-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12600-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-bin-win-rocm-10.0-x64.zip" text="llama-b12600-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-bin-win-sycl-x64.zip" text="llama-b12600-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-bin-win-vulkan-arm64.zip" text="llama-b12600-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-bin-win-vulkan-x64.zip" text="llama-b12600-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-ui.tar.gz" text="llama-b12600-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12600/llama-b12600-xcframework.zip" text="llama-b12600-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
-
-
-
-## b12599
-
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/cudart-llama-b12599-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12599-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/cudart-llama-b12599-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12599-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/cudart-llama-b12599-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12599-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-bin-android-arm64-snapdragon.tar.gz" text="llama-b12599-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-bin-android-arm64.tar.gz" text="llama-b12599-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12599-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-bin-macos-arm64.tar.gz" text="llama-b12599-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-bin-macos-x64.tar.gz" text="llama-b12599-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12599-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-bin-ubuntu-arm64.tar.gz" text="llama-b12599-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12599-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12599-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12599-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12599-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12599-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-bin-ubuntu-s390x.tar.gz" text="llama-b12599-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12599-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12599-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12599-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12599-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-bin-ubuntu-x64.tar.gz" text="llama-b12599-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12599-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-bin-win-cpu-arm64.zip" text="llama-b12599-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-bin-win-cpu-x64.zip" text="llama-b12599-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-bin-win-cuda-12.4-x64.zip" text="llama-b12599-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-bin-win-cuda-13.5-arm64.zip" text="llama-b12599-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-bin-win-cuda-13.5-x64.zip" text="llama-b12599-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-bin-win-opencl-adreno-arm64.zip" text="llama-b12599-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12599-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-bin-win-rocm-10.0-x64.zip" text="llama-b12599-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-bin-win-sycl-x64.zip" text="llama-b12599-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-bin-win-vulkan-arm64.zip" text="llama-b12599-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-bin-win-vulkan-x64.zip" text="llama-b12599-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-ui.tar.gz" text="llama-b12599-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12599/llama-b12599-xcframework.zip" text="llama-b12599-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
-
-
-
-## b12597
-
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/cudart-llama-b12597-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12597-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/cudart-llama-b12597-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12597-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/cudart-llama-b12597-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12597-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-bin-android-arm64-snapdragon.tar.gz" text="llama-b12597-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-bin-android-arm64.tar.gz" text="llama-b12597-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12597-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-bin-macos-arm64.tar.gz" text="llama-b12597-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-bin-macos-x64.tar.gz" text="llama-b12597-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12597-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-bin-ubuntu-arm64.tar.gz" text="llama-b12597-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12597-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12597-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12597-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12597-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12597-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-bin-ubuntu-s390x.tar.gz" text="llama-b12597-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12597-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12597-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12597-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12597-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-bin-ubuntu-x64.tar.gz" text="llama-b12597-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12597-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-bin-win-cpu-arm64.zip" text="llama-b12597-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-bin-win-cpu-x64.zip" text="llama-b12597-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-bin-win-cuda-12.4-x64.zip" text="llama-b12597-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-bin-win-cuda-13.5-arm64.zip" text="llama-b12597-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-bin-win-cuda-13.5-x64.zip" text="llama-b12597-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-bin-win-opencl-adreno-arm64.zip" text="llama-b12597-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12597-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-bin-win-rocm-10.0-x64.zip" text="llama-b12597-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-bin-win-sycl-x64.zip" text="llama-b12597-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-bin-win-vulkan-arm64.zip" text="llama-b12597-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-bin-win-vulkan-x64.zip" text="llama-b12597-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-ui.tar.gz" text="llama-b12597-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12597/llama-b12597-xcframework.zip" text="llama-b12597-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
-
-
-
-## b12596
-
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/cudart-llama-b12596-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12596-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/cudart-llama-b12596-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12596-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/cudart-llama-b12596-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12596-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-android-arm64-snapdragon.tar.gz" text="llama-b12596-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-android-arm64.tar.gz" text="llama-b12596-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12596-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-macos-arm64.tar.gz" text="llama-b12596-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-macos-x64.tar.gz" text="llama-b12596-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12596-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-ubuntu-arm64.tar.gz" text="llama-b12596-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12596-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12596-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12596-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12596-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12596-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-ubuntu-s390x.tar.gz" text="llama-b12596-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12596-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12596-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12596-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12596-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-ubuntu-x64.tar.gz" text="llama-b12596-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12596-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-win-cpu-arm64.zip" text="llama-b12596-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-win-cpu-x64.zip" text="llama-b12596-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-win-cuda-12.4-x64.zip" text="llama-b12596-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-win-cuda-13.5-arm64.zip" text="llama-b12596-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-win-cuda-13.5-x64.zip" text="llama-b12596-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-win-opencl-adreno-arm64.zip" text="llama-b12596-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12596-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-win-rocm-10.0-x64.zip" text="llama-b12596-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-win-sycl-x64.zip" text="llama-b12596-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-win-vulkan-arm64.zip" text="llama-b12596-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-bin-win-vulkan-x64.zip" text="llama-b12596-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-ui.tar.gz" text="llama-b12596-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12596/llama-b12596-xcframework.zip" text="llama-b12596-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
-
-
-
-## b12591
-
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/cudart-llama-b12591-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12591-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/cudart-llama-b12591-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12591-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/cudart-llama-b12591-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12591-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-android-arm64-snapdragon.tar.gz" text="llama-b12591-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-android-arm64.tar.gz" text="llama-b12591-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12591-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-macos-arm64.tar.gz" text="llama-b12591-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-macos-x64.tar.gz" text="llama-b12591-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12591-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-ubuntu-arm64.tar.gz" text="llama-b12591-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12591-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12591-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12591-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12591-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12591-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-ubuntu-s390x.tar.gz" text="llama-b12591-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12591-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12591-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12591-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12591-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-ubuntu-x64.tar.gz" text="llama-b12591-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12591-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-win-cpu-arm64.zip" text="llama-b12591-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-win-cpu-x64.zip" text="llama-b12591-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-win-cuda-12.4-x64.zip" text="llama-b12591-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-win-cuda-13.5-arm64.zip" text="llama-b12591-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-win-cuda-13.5-x64.zip" text="llama-b12591-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-win-opencl-adreno-arm64.zip" text="llama-b12591-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12591-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-win-rocm-10.0-x64.zip" text="llama-b12591-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-win-sycl-x64.zip" text="llama-b12591-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-win-vulkan-arm64.zip" text="llama-b12591-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-bin-win-vulkan-x64.zip" text="llama-b12591-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-ui.tar.gz" text="llama-b12591-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12591/llama-b12591-xcframework.zip" text="llama-b12591-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
-
-
-
-## b12590
-
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/cudart-llama-b12590-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12590-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/cudart-llama-b12590-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12590-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/cudart-llama-b12590-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12590-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-bin-android-arm64-snapdragon.tar.gz" text="llama-b12590-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-bin-android-arm64.tar.gz" text="llama-b12590-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12590-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-bin-macos-arm64.tar.gz" text="llama-b12590-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-bin-macos-x64.tar.gz" text="llama-b12590-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12590-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-bin-ubuntu-arm64.tar.gz" text="llama-b12590-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12590-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12590-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12590-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12590-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12590-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-bin-ubuntu-s390x.tar.gz" text="llama-b12590-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12590-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12590-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12590-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12590-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-bin-ubuntu-x64.tar.gz" text="llama-b12590-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12590-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-bin-win-cpu-arm64.zip" text="llama-b12590-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-bin-win-cpu-x64.zip" text="llama-b12590-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-bin-win-cuda-12.4-x64.zip" text="llama-b12590-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-bin-win-cuda-13.5-arm64.zip" text="llama-b12590-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-bin-win-cuda-13.5-x64.zip" text="llama-b12590-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-bin-win-opencl-adreno-arm64.zip" text="llama-b12590-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12590-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-bin-win-rocm-10.0-x64.zip" text="llama-b12590-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-bin-win-sycl-x64.zip" text="llama-b12590-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-bin-win-vulkan-arm64.zip" text="llama-b12590-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-bin-win-vulkan-x64.zip" text="llama-b12590-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-ui.tar.gz" text="llama-b12590-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12590/llama-b12590-xcframework.zip" text="llama-b12590-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
-
-
-
-## b12589
-
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/cudart-llama-b12589-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12589-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/cudart-llama-b12589-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12589-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/cudart-llama-b12589-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12589-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-bin-android-arm64-snapdragon.tar.gz" text="llama-b12589-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-bin-android-arm64.tar.gz" text="llama-b12589-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12589-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-bin-macos-arm64.tar.gz" text="llama-b12589-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-bin-macos-x64.tar.gz" text="llama-b12589-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12589-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-bin-ubuntu-arm64.tar.gz" text="llama-b12589-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12589-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12589-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12589-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12589-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12589-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-bin-ubuntu-s390x.tar.gz" text="llama-b12589-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12589-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12589-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12589-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12589-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-bin-ubuntu-x64.tar.gz" text="llama-b12589-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12589-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-bin-win-cpu-arm64.zip" text="llama-b12589-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-bin-win-cpu-x64.zip" text="llama-b12589-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-bin-win-cuda-12.4-x64.zip" text="llama-b12589-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-bin-win-cuda-13.5-arm64.zip" text="llama-b12589-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-bin-win-cuda-13.5-x64.zip" text="llama-b12589-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-bin-win-opencl-adreno-arm64.zip" text="llama-b12589-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12589-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-bin-win-rocm-10.0-x64.zip" text="llama-b12589-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-bin-win-sycl-x64.zip" text="llama-b12589-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-bin-win-vulkan-arm64.zip" text="llama-b12589-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-bin-win-vulkan-x64.zip" text="llama-b12589-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-ui.tar.gz" text="llama-b12589-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12589/llama-b12589-xcframework.zip" text="llama-b12589-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
-
-
-
-## b12588
-
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/cudart-llama-b12588-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12588-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/cudart-llama-b12588-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12588-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/cudart-llama-b12588-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12588-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-bin-android-arm64-snapdragon.tar.gz" text="llama-b12588-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-bin-android-arm64.tar.gz" text="llama-b12588-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12588-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-bin-macos-arm64.tar.gz" text="llama-b12588-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-bin-macos-x64.tar.gz" text="llama-b12588-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12588-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-bin-ubuntu-arm64.tar.gz" text="llama-b12588-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12588-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12588-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12588-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12588-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12588-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-bin-ubuntu-s390x.tar.gz" text="llama-b12588-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12588-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12588-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12588-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12588-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-bin-ubuntu-x64.tar.gz" text="llama-b12588-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12588-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-bin-win-cpu-arm64.zip" text="llama-b12588-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-bin-win-cpu-x64.zip" text="llama-b12588-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-bin-win-cuda-12.4-x64.zip" text="llama-b12588-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-bin-win-cuda-13.5-arm64.zip" text="llama-b12588-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-bin-win-cuda-13.5-x64.zip" text="llama-b12588-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-bin-win-opencl-adreno-arm64.zip" text="llama-b12588-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12588-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-bin-win-rocm-10.0-x64.zip" text="llama-b12588-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-bin-win-sycl-x64.zip" text="llama-b12588-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-bin-win-vulkan-arm64.zip" text="llama-b12588-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-bin-win-vulkan-x64.zip" text="llama-b12588-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-ui.tar.gz" text="llama-b12588-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12588/llama-b12588-xcframework.zip" text="llama-b12588-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
-
-
-
-## b12584
-
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/cudart-llama-b12584-bin-ubuntu-cuda-12.8-x64.tar.gz" text="cudart-llama-b12584-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/cudart-llama-b12584-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="cudart-llama-b12584-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/cudart-llama-b12584-bin-ubuntu-cuda-13.5-x64.tar.gz" text="cudart-llama-b12584-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/cudart-llama-bin-win-cuda-12.4-x64.zip" text="cudart-llama-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/cudart-llama-bin-win-cuda-13.5-arm64.zip" text="cudart-llama-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/cudart-llama-bin-win-cuda-13.5-x64.zip" text="cudart-llama-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-bin-android-arm64-snapdragon.tar.gz" text="llama-b12584-bin-android-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-bin-android-arm64.tar.gz" text="llama-b12584-bin-android-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-bin-linux-arm64-snapdragon.tar.gz" text="llama-b12584-bin-linux-arm64-snapdragon.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-bin-macos-arm64.tar.gz" text="llama-b12584-bin-macos-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-bin-macos-x64.tar.gz" text="llama-b12584-bin-macos-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-bin-ubuntu-26.04-s390x.tar.gz" text="llama-b12584-bin-ubuntu-26.04-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-bin-ubuntu-arm64.tar.gz" text="llama-b12584-bin-ubuntu-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-bin-ubuntu-cuda-12.8-x64.tar.gz" text="llama-b12584-bin-ubuntu-cuda-12.8-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-bin-ubuntu-cuda-13.5-arm64.tar.gz" text="llama-b12584-bin-ubuntu-cuda-13.5-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-bin-ubuntu-cuda-13.5-x64.tar.gz" text="llama-b12584-bin-ubuntu-cuda-13.5-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" text="llama-b12584-bin-ubuntu-openvino-2026.4.1-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-bin-ubuntu-rocm-10.0-x64.tar.gz" text="llama-b12584-bin-ubuntu-rocm-10.0-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-bin-ubuntu-s390x.tar.gz" text="llama-b12584-bin-ubuntu-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-bin-ubuntu-sycl-fp16-x64.tar.gz" text="llama-b12584-bin-ubuntu-sycl-fp16-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-bin-ubuntu-sycl-fp32-x64.tar.gz" text="llama-b12584-bin-ubuntu-sycl-fp32-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-bin-ubuntu-vulkan-arm64.tar.gz" text="llama-b12584-bin-ubuntu-vulkan-arm64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-bin-ubuntu-vulkan-x64.tar.gz" text="llama-b12584-bin-ubuntu-vulkan-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-bin-ubuntu-x64.tar.gz" text="llama-b12584-bin-ubuntu-x64.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-bin-ubuntu-zdnn-s390x.tar.gz" text="llama-b12584-bin-ubuntu-zdnn-s390x.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-bin-win-cpu-arm64.zip" text="llama-b12584-bin-win-cpu-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-bin-win-cpu-x64.zip" text="llama-b12584-bin-win-cpu-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-bin-win-cuda-12.4-x64.zip" text="llama-b12584-bin-win-cuda-12.4-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-bin-win-cuda-13.5-arm64.zip" text="llama-b12584-bin-win-cuda-13.5-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-bin-win-cuda-13.5-x64.zip" text="llama-b12584-bin-win-cuda-13.5-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-bin-win-opencl-adreno-arm64.zip" text="llama-b12584-bin-win-opencl-adreno-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-bin-win-openvino-2026.4.1-x64.zip" text="llama-b12584-bin-win-openvino-2026.4.1-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-bin-win-rocm-10.0-x64.zip" text="llama-b12584-bin-win-rocm-10.0-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-bin-win-sycl-x64.zip" text="llama-b12584-bin-win-sycl-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-bin-win-vulkan-arm64.zip" text="llama-b12584-bin-win-vulkan-arm64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-bin-win-vulkan-x64.zip" text="llama-b12584-bin-win-vulkan-x64.zip" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-ui.tar.gz" text="llama-b12584-ui.tar.gz" repositoryKey="ggml-org/llama.cpp" />
-- <GithubMirrorLink link="https://github.com/ggml-org/llama.cpp/releases/download/b12584/llama-b12584-xcframework.zip" text="llama-b12584-xcframework.zip" repositoryKey="ggml-org/llama.cpp" />
 
 
 

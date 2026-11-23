@@ -20,6 +20,49 @@ CodeWhale 是一个运行在终端里的 DeepSeek Coding Agent，适合偏好 TU
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v0.10.3
+
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codew-android-arm64" text="codew-android-arm64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codew-linux-arm64" text="codew-linux-arm64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codew-linux-x64" text="codew-linux-x64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codew-macos-arm64" text="codew-macos-arm64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codew-macos-x64" text="codew-macos-x64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codew-ohos-arm64" text="codew-ohos-arm64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codew-windows-arm64.exe" text="codew-windows-arm64.exe" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codew-windows-x64.exe" text="codew-windows-x64.exe" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codewhale-android-arm64" text="codewhale-android-arm64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codewhale-android-arm64.tar.gz" text="codewhale-android-arm64.tar.gz" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codewhale-artifacts-sha256.txt" text="codewhale-artifacts-sha256.txt" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codewhale-bundles-sha256.txt" text="codewhale-bundles-sha256.txt" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codewhale-linux-arm64" text="codewhale-linux-arm64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codewhale-linux-arm64.tar.gz" text="codewhale-linux-arm64.tar.gz" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codewhale-linux-x64" text="codewhale-linux-x64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codewhale-linux-x64.tar.gz" text="codewhale-linux-x64.tar.gz" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codewhale-macos-arm64" text="codewhale-macos-arm64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codewhale-macos-arm64.tar.gz" text="codewhale-macos-arm64.tar.gz" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codewhale-macos-x64" text="codewhale-macos-x64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codewhale-macos-x64.tar.gz" text="codewhale-macos-x64.tar.gz" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codewhale-ohos-arm64" text="codewhale-ohos-arm64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codewhale-ohos-arm64.tar.gz" text="codewhale-ohos-arm64.tar.gz" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codewhale-tui-android-arm64" text="codewhale-tui-android-arm64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codewhale-tui-linux-arm64" text="codewhale-tui-linux-arm64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codewhale-tui-linux-x64" text="codewhale-tui-linux-x64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codewhale-tui-macos-arm64" text="codewhale-tui-macos-arm64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codewhale-tui-macos-x64" text="codewhale-tui-macos-x64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codewhale-tui-ohos-arm64" text="codewhale-tui-ohos-arm64" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codewhale-tui-windows-arm64.exe" text="codewhale-tui-windows-arm64.exe" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codewhale-tui-windows-x64.exe" text="codewhale-tui-windows-x64.exe" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codewhale-windows-arm64-portable.zip" text="codewhale-windows-arm64-portable.zip" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codewhale-windows-arm64.exe" text="codewhale-windows-arm64.exe" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codewhale-windows-arm64.zip" text="codewhale-windows-arm64.zip" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codewhale-windows-x64-portable.zip" text="codewhale-windows-x64-portable.zip" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codewhale-windows-x64.exe" text="codewhale-windows-x64.exe" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codewhale-windows-x64.zip" text="codewhale-windows-x64.zip" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/codewhale.bat" text="codewhale.bat" repositoryKey="Hmbown/CodeWhale" />
+- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.3/CodeWhaleSetup.exe" text="CodeWhaleSetup.exe" repositoryKey="Hmbown/CodeWhale" />
+
+
+
 ## v0.10.2
 
 - <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.10.2/codew-android-arm64" text="codew-android-arm64" repositoryKey="Hmbown/CodeWhale" />
@@ -740,6 +783,8 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
 
+
+
 ## v0.8.65
 
 - <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.8.65/codew-linux-arm64" text="codew-linux-arm64" repositoryKey="Hmbown/CodeWhale" />
@@ -770,8 +815,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.8.65/codewhale-windows-x64.zip" text="codewhale-windows-x64.zip" repositoryKey="Hmbown/CodeWhale" />
 - <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.8.65/codewhale.bat" text="codewhale.bat" repositoryKey="Hmbown/CodeWhale" />
 - <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.8.65/CodeWhaleSetup.exe" text="CodeWhaleSetup.exe" repositoryKey="Hmbown/CodeWhale" />
-
-
 
 
 
@@ -1015,33 +1058,6 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 - <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.8.56/codewhale-windows-x64.zip" text="codewhale-windows-x64.zip" repositoryKey="Hmbown/CodeWhale" />
 - <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.8.56/codewhale.bat" text="codewhale.bat" repositoryKey="Hmbown/CodeWhale" />
 - <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.8.56/CodeWhaleSetup.exe" text="CodeWhaleSetup.exe" repositoryKey="Hmbown/CodeWhale" />
-
-
-
-## v0.8.55
-
-- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.8.55/codewhale-artifacts-sha256.txt" text="codewhale-artifacts-sha256.txt" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.8.55/codewhale-linux-arm64" text="codewhale-linux-arm64" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.8.55/codewhale-linux-arm64.tar.gz" text="codewhale-linux-arm64.tar.gz" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.8.55/codewhale-linux-riscv64" text="codewhale-linux-riscv64" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.8.55/codewhale-linux-riscv64.tar.gz" text="codewhale-linux-riscv64.tar.gz" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.8.55/codewhale-linux-x64" text="codewhale-linux-x64" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.8.55/codewhale-linux-x64.tar.gz" text="codewhale-linux-x64.tar.gz" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.8.55/codewhale-macos-arm64" text="codewhale-macos-arm64" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.8.55/codewhale-macos-arm64.tar.gz" text="codewhale-macos-arm64.tar.gz" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.8.55/codewhale-macos-x64" text="codewhale-macos-x64" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.8.55/codewhale-macos-x64.tar.gz" text="codewhale-macos-x64.tar.gz" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.8.55/codewhale-tui-linux-arm64" text="codewhale-tui-linux-arm64" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.8.55/codewhale-tui-linux-riscv64" text="codewhale-tui-linux-riscv64" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.8.55/codewhale-tui-linux-x64" text="codewhale-tui-linux-x64" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.8.55/codewhale-tui-macos-arm64" text="codewhale-tui-macos-arm64" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.8.55/codewhale-tui-macos-x64" text="codewhale-tui-macos-x64" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.8.55/codewhale-tui-windows-x64.exe" text="codewhale-tui-windows-x64.exe" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.8.55/codewhale-windows-x64-portable.zip" text="codewhale-windows-x64-portable.zip" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.8.55/codewhale-windows-x64.exe" text="codewhale-windows-x64.exe" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.8.55/codewhale-windows-x64.zip" text="codewhale-windows-x64.zip" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.8.55/codewhale.bat" text="codewhale.bat" repositoryKey="Hmbown/CodeWhale" />
-- <GithubMirrorLink link="https://github.com/codewhale-hq/Codewhale/releases/download/v0.8.55/CodeWhaleSetup.exe" text="CodeWhaleSetup.exe" repositoryKey="Hmbown/CodeWhale" />
 
 
 
