@@ -20,6 +20,7 @@ import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 ## v2.5.0
 
+- <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.5.0/SHA256SUMS" text="SHA256SUMS" repositoryKey="Wox-launcher/Wox" />
 - <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.5.0/wox-linux-amd64" text="wox-linux-amd64" repositoryKey="Wox-launcher/Wox" />
 - <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.5.0/wox-linux-amd64.AppImage" text="wox-linux-amd64.AppImage" repositoryKey="Wox-launcher/Wox" />
 - <GithubMirrorLink link="https://github.com/Wox-launcher/Wox/releases/download/v2.5.0/wox-linux-amd64.deb" text="wox-linux-amd64.deb" repositoryKey="Wox-launcher/Wox" />

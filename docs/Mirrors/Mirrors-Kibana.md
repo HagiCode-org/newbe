@@ -684,6 +684,7 @@ Kibana. 国内直接从官网 https://www.elastic.co 下载比较困难，需要
 - [8.19.23](https://mirrors.huaweicloud.com/kibana/8.19.23/)
 - [8.19.24](https://mirrors.huaweicloud.com/kibana/8.19.24/)
 - [8.19.25](https://mirrors.huaweicloud.com/kibana/8.19.25/)
+- [8.19.26](https://mirrors.huaweicloud.com/kibana/8.19.26/)
 
 
 
@@ -757,6 +758,7 @@ Kibana. 国内直接从官网 https://www.elastic.co 下载比较困难，需要
 - [9.4.6](https://mirrors.huaweicloud.com/kibana/9.4.6/)
 - [9.4.8](https://mirrors.huaweicloud.com/kibana/9.4.8/)
 - [9.4.9](https://mirrors.huaweicloud.com/kibana/9.4.9/)
+- [9.4.10](https://mirrors.huaweicloud.com/kibana/9.4.10/)
 
 
 
@@ -767,6 +769,7 @@ Kibana. 国内直接从官网 https://www.elastic.co 下载比较困难，需要
 - [9.5.3](https://mirrors.huaweicloud.com/kibana/9.5.3/)
 - [9.5.5](https://mirrors.huaweicloud.com/kibana/9.5.5/)
 - [9.5.6](https://mirrors.huaweicloud.com/kibana/9.5.6/)
+- [9.5.7](https://mirrors.huaweicloud.com/kibana/9.5.7/)
 
 
 
