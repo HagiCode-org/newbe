@@ -311,7 +311,7 @@ namespace Newbe.Mahua.Plugins.Parrot
 
 以 CQP 为例，进行一次复制过程如下图所示：
 
-![CQP复制插件](/images/20180916-001.gif)
+![CQP复制插件](@site/src/assets/images/20180916-001.avif)
 
 各机器人软件下载地址：
 
@@ -329,7 +329,7 @@ namespace Newbe.Mahua.Plugins.Parrot
 
 按照下图所示，开启开发者模式。
 
-![开启开发者模式](/images/20171218-001.jpg)
+![开启开发者模式](@site/src/assets/images/20171218-001.avif)
 
 打开插件管理将插件启用。
 

@@ -66,7 +66,7 @@ namespace Newbe.LiveCaptioning.Services
 
 例如，上面这句话进行连续阅读时，可能会出现如下效果：
 
-![live caption display](/images/20210724-001.gif)
+![live caption display](@site/src/assets/images/20210724-001.avif)
 
 主要需要注意的是，在判断是要更新当前行还是进行换行，这部分逻辑需要注意进行处理。
 
@@ -326,7 +326,7 @@ https://azure.microsoft.com/pricing/details/cognitive-services/speech-services/?
 
 https://docs.microsoft.com/en-us/dynamics-nav/how-to--sign-up-for-a-microsoft-azure-subscription?WT.mc_id=DT-MVP-5004283
 
-![create service](/images/20210725-003.gif)
+![create service](@site/src/assets/images/20210725-003.avif)
 
 ![region and key](@site/src/assets/images/20210725-004.avif)
 
@@ -340,7 +340,7 @@ https://docs.microsoft.com/azure/cognitive-services/speech-service/language-supp
 
 继而，启动 `Newbe.LiveCaptioning.exe`，你可以看到如下这样的提示信息，就说明一切已经正常。
 
-![region and key](/images/20210725-006.gif)
+![region and key](@site/src/assets/images/20210725-006.avif)
 
 最后，你可以使用浏览器打开`http://localhost:5000`，并对着你的话筒说话，这样便可以实时产生字幕了。
 

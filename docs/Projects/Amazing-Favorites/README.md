@@ -30,7 +30,7 @@ Amazing Favorites 0.5 UX 增强，改进了多处对于 Tag 操作的用户体�
 
 添加 Tag 时将可以从已有的 Tag 中进行搜索和选择
 
-![智能提示](/images/20210613-002.gif)
+![智能提示](@site/src/assets/images/20210613-002.avif)
 
 #### 弹出框添加 Tag 交互增强
 
@@ -40,7 +40,7 @@ Amazing Favorites 0.5 UX 增强，改进了多处对于 Tag 操作的用户体�
 
 逗号分隔字符串将会被视为添加多个 Tag。
 
-![添加多个Tag](/images/20210613-003.gif)
+![添加多个Tag](@site/src/assets/images/20210613-003.avif)
 
 ### 结构性调整
 

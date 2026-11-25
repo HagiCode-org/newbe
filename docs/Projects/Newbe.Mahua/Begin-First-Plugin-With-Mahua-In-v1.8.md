@@ -236,7 +236,7 @@ namespace Newbe.Mahua.Plugins.Parrot
 
 按照下图所示，开启开发者模式。
 
-![开启开发者模式](/images/20171218-001.jpg)
+![开启开发者模式](@site/src/assets/images/20171218-001.avif)
 
 打开插件管理将插件启用。
 

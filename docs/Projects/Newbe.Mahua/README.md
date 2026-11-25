@@ -93,7 +93,7 @@ mahua.bat InstallMahua
 
 以下便是一次安装的效果图：
 
-![mahua.bat 安装效果图](/images/20190125-001.gif)
+![mahua.bat 安装效果图](@site/src/assets/images/20190125-001.avif)
 
 ## 启用 Newbe.Mahua.Agent 插件
 
@@ -103,7 +103,7 @@ mahua.bat InstallMahua
 
 按照下图所示，开启开发者模式。
 
-![开启开发者模式](/images/20171218-001.jpg)
+![开启开发者模式](@site/src/assets/images/20171218-001.avif)
 
 打开插件管理将插件启用。
 
@@ -132,7 +132,7 @@ Content-Type: application/json
 
 实际效果如下：
 
-![测试发送消息](/images/20190125-002.gif)
+![测试发送消息](@site/src/assets/images/20190125-002.avif)
 
 ## 实现回调订阅与处理
 

@@ -21,7 +21,7 @@ pnpm run build
 pnpm run typecheck
 pnpm test
 node --test tests/*.test.cjs
-node scripts/convert-to-avif.mjs <file...>   # PNG/WebP under src/assets -> AVIF next to the source
+node scripts/convert-to-avif.mjs <file...>   # PNG/WebP/JPEG under src/assets -> AVIF next to the source
 ```
 
 Requires Node.js 24+. The `node --test` suites (plugin integration and footer checks) have no npm script. Other scripts: `pnpm run serve` (preview a built site), `pnpm run clear`, `pnpm run write-heading-ids`, `pnpm run write-translations`.
@@ -50,9 +50,10 @@ Requires Node.js 24+. The `node --test` suites (plugin integration and footer ch
 
 - Raster images are AVIF and live in `src/assets/` (`src/assets/images/`, `src/assets/img/`, ...), never in `static/`. A file under `static/` is published at a fixed address, so a client that cached it never sees a newer copy.
 - Reference them through the build so the emitted name carries a content hash (`assets/images/x-<contenthash>.avif`): in Markdown `![alt](@site/src/assets/images/x.avif)`, in React/JS `import src from '@site/src/assets/images/x.avif'`. Do not write `<img src="/images/x.avif">` or `![](/images/x.avif)`; those point at `static/`.
-- To add a PNG/WebP: drop it under `src/assets/`, run `node scripts/convert-to-avif.mjs <file>` (needs `pnpm install`; it writes `x.avif` next to it and deletes the source).
-- `tests/image-format.test.cjs` fails on a tracked PNG/WebP, on any AVIF under `static/`, and on a bare `/images/...avif` reference.
-- Exempt: `static/images/icons/` (favicons, manifest and tile icons are fixed-name PNG files). They are wired in `docusaurus.config.mjs` `headTags` (manifest, apple-touch-icon, PNG favicons, `msapplication-config`) and `tests/pwa-icons.test.cjs` checks the declared sizes. Also exempt: JPEG/GIF, which this rule does not cover. Docusaurus inlines files under 10 KB as data URIs (accepted, e.g. `weixin_public.avif`).
+- To add a PNG, WebP or JPEG: drop it under `src/assets/`, run `node scripts/convert-to-avif.mjs <file>` (needs `pnpm install`; it writes `x.avif` next to it and deletes the source).
+- To add an animated GIF: sharp writes only still AVIF, so use ffmpeg (`ffmpeg -i x.gif -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" -c:v libaom-av1 -crf 45 -b:v 0 -cpu-used 6 -pix_fmt yuv420p -an x.avif`) and place the result under `src/assets/` the same way.
+- `tests/image-format.test.cjs` fails on a tracked PNG, WebP, JPEG or GIF, on any AVIF under `static/`, and on a bare `/images/...avif` reference.
+- Exempt: `static/images/icons/` (favicons, manifest and tile icons are fixed-name PNG files). They are wired in `docusaurus.config.mjs` `headTags` (manifest, apple-touch-icon, PNG favicons, `msapplication-config`) and `tests/pwa-icons.test.cjs` checks the declared sizes. Also exempt: `static/img/docusaurus-social-card.jpg`, the Open Graph card (social crawlers need JPEG or PNG). Docusaurus inlines files under 10 KB as data URIs (accepted, e.g. `weixin_public.avif`).
 
 ## PostHog Events
 

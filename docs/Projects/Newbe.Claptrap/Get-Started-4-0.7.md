@@ -29,7 +29,7 @@ tags:
 
 Minion 是一种特殊的 Claptrap，它与其 MasterClaptrap 之间的关系如下图所示：
 
-![Minion](/images/20190228-002.gif)
+![Minion](@site/src/assets/images/20190228-002.avif)
 
 其主体开发流程和 Claptrap 类似，只是有所删减。对比如下：
 

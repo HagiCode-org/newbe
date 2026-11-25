@@ -25,35 +25,35 @@ Newbe.Claptrap 项目周报 1，第一周代码写了一点。但主要还是考
 
 Actor 特性一：Actor 的状态是通过外部调用 Actor 而改变的。
 
-![更新Actor状态](/images/20190226-001.gif)
+![更新Actor状态](@site/src/assets/images/20190226-001.avif)
 
 Actor 特性一补 1：Actor 的状态不与外部进行共享。
 
-![共享Actor状态](/images/20190226-003.gif)
+![共享Actor状态](@site/src/assets/images/20190226-003.avif)
 
 Actor 特性一补 2：外部可以读取 Actor 状态。
 
-![读取Actor状态](/images/20190226-002.gif)
+![读取Actor状态](@site/src/assets/images/20190226-002.avif)
 
 Actor 特性二：Actor 是“单线程”工作的，每次只能处理一个请求。
 
-![并发调用Actor](/images/20190226-004.gif)
+![并发调用Actor](@site/src/assets/images/20190226-004.avif)
 
 Actor 特性二补 1：并发读取状态可以不是“单线程”。
 
-![并发读取Actor](/images/20190226-005.gif)
+![并发读取Actor](@site/src/assets/images/20190226-005.avif)
 
 框架定义的 Actor 类型——Claptrap：通过事件模式，产生事件并通过事件改变自身状态的 Actor。
 
-![Claptrap](/images/20190228-001.gif)
+![Claptrap](@site/src/assets/images/20190228-001.avif)
 
 框架定义的 Actor 类型——Minion：与 Claptrap 对比，Minion 不产生事件而是读取对应 Claptrap 的事件来改变自身的状态。允许存在多个 Minion 对应一个 Claptrap。
 
-![Minion](/images/20190228-002.gif)
+![Minion](@site/src/assets/images/20190228-002.avif)
 
 通过 Claptrap 和 Minion 配合完成“转账”业务。
 
-![Claptrap & Minion](/images/20190228-003.gif)
+![Claptrap & Minion](@site/src/assets/images/20190228-003.avif)
 
 > 月落大佬名言警句 1：世界上本也不存在“银弹”。一套框架解决不了所有问题。
 > 月落大佬名言警句 2：业务复杂度是不会因为系统设计变化而减少的，它只是从一个地方转移到了另外的地方。
@@ -107,7 +107,7 @@ Actor 特性二补 1：并发读取状态可以不是“单线程”。
 
 按照前篇的“转账”业务场景的流程设计，此处采用相同的方式设计一下购买的逻辑。如下图所示：
 
-![链形设计](/images/20190307-001.gif)
+![链形设计](@site/src/assets/images/20190307-001.avif)
 
 分析一下这个设计方案：
 
@@ -125,7 +125,7 @@ Claptrap S 将事件推送给 Minion S 之后便可以继续响应新的请求�
 
 也存在另外一种设计方案。如下图所示：
 
-![树形设计](/images/20190307-002.gif)
+![树形设计](@site/src/assets/images/20190307-002.avif)
 
 分析一下这个设计方案：
 
@@ -135,9 +135,9 @@ Claptrap S 将事件推送给 Minion S 之后便可以继续响应新的请求�
 
 并且由于 Minion W 的存在，这个设计方案也可以将部分的调用交由 Minion 来进行，所以这个方案也可以是以下两种形式。
 
-![树形设计](/images/20190307-003.gif)
+![树形设计](@site/src/assets/images/20190307-003.avif)
 
-![树形设计](/images/20190307-004.gif)
+![树形设计](@site/src/assets/images/20190307-004.avif)
 
 基于形状上的原因，这种设计方案被命名为 **“树形设计（Tree-Like Design）”**。
 
@@ -165,7 +165,7 @@ Claptrap S 将事件推送给 Minion S 之后便可以继续响应新的请求�
 - 将 Claptrap 和对应的 Minion 合并
 - 用“因为...所以...”的句式来代替图形中的实线调用
 
-![链形设计](/images/20190307-001.gif)
+![链形设计](@site/src/assets/images/20190307-001.avif)
 
 那么结合上图的链形设计就可以表述为：
 
@@ -177,7 +177,7 @@ Claptrap S 将事件推送给 Minion S 之后便可以继续响应新的请求�
 - 因为购买而扣除了库存，所以进一步扣减余额
 - 因为购买而扣减了余额，所以要进一步扣减积分
 
-![树形设计](/images/20190307-002.gif)
+![树形设计](@site/src/assets/images/20190307-002.avif)
 
 上图树形设计就可以表述为：
 

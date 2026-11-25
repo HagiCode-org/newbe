@@ -19,7 +19,7 @@ MVP portal 的地址是 https://mvp.microsoft.com/。这实际上就是你进行
 
 探索这个区域，是你接下来非常值得做的一件事情。
 
-![MVP Portal](/images/20210717-001.jpg)
+![MVP Portal](@site/src/assets/images/20210717-001.avif)
 
 ## 常见问题
 

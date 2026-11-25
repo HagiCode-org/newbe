@@ -74,7 +74,7 @@ apm install tidy-markdown
 
 为方便在资源浏览器中打开Atom，可以通过在Atom中进行以下设置：
 
-![设置Atom](/images/20180428-001.gif)
+![设置Atom](@site/src/assets/images/20180428-001.avif)
 
 设置之后，便可以在文件夹中通过右键，快速打开Atom。
 

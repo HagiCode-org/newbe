@@ -15,7 +15,7 @@ Newbe.Claptrap 框架中为什么用 Claptrap 和 Minion 两个词？最近整�
 
 简单来说 Claptrap = [Actor](https://claptrap.newbe.pro/zh_Hans/2-Glossary/Actor-Pattern) + [事件溯源](https://claptrap.newbe.pro/zh_Hans/2-Glossary/Event-Sourcing)
 
-![Claptrap](/images/20190228-001.gif)
+![Claptrap](@site/src/assets/images/20190228-001.avif)
 
 Claptrap 是本框架定义的一种特殊 Actor。除了上文中提到 Actor 两种特性之外，Claptrap 还被定义为具有以下特性：
 
@@ -25,7 +25,7 @@ Claptrap 是本框架定义的一种特殊 Actor。除了上文中提到 Actor �
 
 ## Minon
 
-![Minion](/images/20190228-002.gif)
+![Minion](@site/src/assets/images/20190228-002.avif)
 
 Minion 是本框架定义的一种特殊 Claptrap 。是在 Claptrap 基础上做出的调整。其具备以下特性：
 

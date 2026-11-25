@@ -15,7 +15,7 @@ tags:
 
 并且也都体会到了这次凑成三连的金 scott 是什么效果（啊哈，三连。
 
-![scott](/images/20201111-001.jpg)
+![scott](@site/src/assets/images/20201111-001.avif)
 
 不过，目前在中国大陆地区拉取 MCR 上发布的 docker 镜像依旧是一件令人感到失望的事情。
 
