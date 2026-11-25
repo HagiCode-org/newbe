@@ -39,8 +39,13 @@ function LearningPathStep({ step, showArrow }: LearningPathStepProps): JSX.Eleme
   return content;
 }
 
-export default function LearningPath(): JSX.Element {
+export default function LearningPath(): JSX.Element | null {
   const steps = homepageContent.learningPath;
+
+  // Hide the whole section rather than render a heading with nothing under it.
+  if (steps.length === 0) {
+    return null;
+  }
 
   return (
     <section className={styles.learningPathSection} aria-label="学习路径">
