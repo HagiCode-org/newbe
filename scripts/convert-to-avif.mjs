@@ -22,7 +22,7 @@ const args = process.argv.slice(2);
 const keep = args.includes('--keep');
 const explicit = args.filter((arg) => !arg.startsWith('--'));
 
-const SOURCE_EXT = new Set(['.png', '.webp']);
+const SOURCE_EXT = new Set(['.png', '.webp', '.jpg', '.jpeg']);
 // Screenshots carry text, so keep full-resolution chroma (4:4:4) and a high quality.
 const AVIF_OPTIONS = { quality: 62, effort: 6, chromaSubsampling: '4:4:4' };
 

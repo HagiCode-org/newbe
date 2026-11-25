@@ -18,17 +18,21 @@ const tracked = execFileSync('git', ['ls-files', '-z'], { cwd: repoRoot, encodin
   .filter(Boolean)
   .filter((file) => fs.existsSync(path.join(repoRoot, file)));
 
-test('no PNG or WebP image is tracked in the site sources', () => {
+// The Open Graph card is the one raster that must stay JPEG: social crawlers do not read AVIF.
+const SOCIAL_CARD = 'static/img/docusaurus-social-card.jpg';
+
+test('no PNG, WebP, JPEG or GIF image is tracked in the site sources, except icons and the social card', () => {
   const raster = tracked.filter(
     (file) =>
-      /\.(png|webp)$/i.test(file) &&
+      /\.(png|webp|jpe?g|gif)$/i.test(file) &&
       /^(static|src|docs|i18n)\//.test(file) &&
-      !file.startsWith('static/images/icons/'),
+      !file.startsWith('static/images/icons/') &&
+      file !== SOCIAL_CARD,
   );
-  assert.deepEqual(raster, [], 'convert these with `node scripts/convert-to-avif.mjs <file>`');
+  assert.deepEqual(raster, [], 'convert these with `node scripts/convert-to-avif.mjs <file>` (animated GIF: see AGENTS.md)');
 });
 
-test('site sources reference no local PNG or WebP image', () => {
+test('site sources reference no local PNG, WebP, JPEG or GIF image', () => {
   const scanned = tracked.filter(
     (file) =>
       /^(src|docs|i18n|tools)\//.test(file) &&
@@ -37,12 +41,13 @@ test('site sources reference no local PNG or WebP image', () => {
       !file.startsWith('tools/MirrorDescription/'),
   );
   // External URLs (https://...) are not ours to convert; only local paths count.
-  const localRaster = /(?<![:\w/.-])(?:\/|\.\/|\.\.\/|@site\/)[^\s"'()<>`]*\.(?:png|webp)\b/gi;
+  const localRaster = /(?<![:\w/.-])(?:\/|\.\/|\.\.\/|@site\/)[^\s"'()<>`]*\.(?:png|webp|jpe?g|gif)\b/gi;
   const offenders = [];
   for (const file of scanned) {
     // A reference inside an HTML comment renders nothing, so it is not an image reference.
     const text = fs.readFileSync(path.join(repoRoot, file), 'utf8').replace(/<!--[\s\S]*?-->/g, '');
     for (const match of text.matchAll(localRaster)) {
+      if (match[0].endsWith('/docusaurus-social-card.jpg')) continue;
       offenders.push(`${file}: ${match[0]}`);
     }
   }
