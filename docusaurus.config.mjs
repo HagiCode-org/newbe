@@ -16,12 +16,7 @@ function reverseSidebarItems(items) {
   // Reverse items in categories
   const result = items.map((item) => {
     if (item.type === 'category') {
-      if (item.label === '随笔') {
-        item.items.reverse();
-        return {...item, items: item.items};
-      }else{
-        return {...item, items: reverseSidebarItems(item.items)};
-      }
+      return {...item, items: reverseSidebarItems(item.items)};
     }
     return item;
   });
@@ -87,7 +82,7 @@ const config = {
         siteId: 'newbe-blog',
         extraLinks: {
           quick: [
-            { id: 'newbe-home', label: 'Newbe 博客', href: '/', external: false },
+            { id: 'newbe-home', label: 'Newbe 首页', href: '/', external: false },
             { id: 'newbe-focus', label: '重点关注', href: '/links', external: false },
             { id: 'newbe-privacy', label: '隐私策略', href: '/privacy', external: false },
           ],
@@ -208,7 +203,7 @@ var _mtac = {};
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: '博客',
+            label: '开源镜像',
           },
           {
             label: 'QQ 群 610394020',

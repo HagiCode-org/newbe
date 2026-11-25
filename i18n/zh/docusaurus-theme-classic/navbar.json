@@ -3,12 +3,12 @@
     "message": "Newbe Logo",
     "description": "The alt text of navbar logo"
   },
-  "item.label.博客": {
-    "message": "博客",
-    "description": "Navbar item with label 博客"
-  },
   "item.label.GitHub": {
     "message": "GitHub",
     "description": "Navbar item with label GitHub"
+  },
+  "item.label.开源镜像": {
+    "message": "开源镜像",
+    "description": "Navbar item with label 开源镜像"
   }
 }
