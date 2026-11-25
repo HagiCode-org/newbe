@@ -9,11 +9,6 @@
       "statusCode": 301
     },
     {
-      "route": "/Others/Dapr-QQ-Channel-Created/",
-      "redirect": "/Mic/Dapr-QQ-Channel-Created/",
-      "statusCode": 301
-    },
-    {
       "route": "/Others/mvp-onboard/",
       "redirect": "/Mic/mvp-onboard/",
       "statusCode": 301

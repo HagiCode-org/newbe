@@ -16,4 +16,4 @@
 
 ## 社区与联系
 
-QQ 频道、QQ 群、微信公众号、Bilibili 等社区与联系入口，请见站点的[相关链接](https://newbe.hagicode.com/links)页面。
+QQ 群、微信公众号、Bilibili 等社区与联系入口，请见站点的[相关链接](https://newbe.hagicode.com/links)页面。
