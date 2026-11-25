@@ -28,10 +28,10 @@ Requires Node.js 24+. The `node --test` suites (plugin integration and footer ch
 
 ## Key Paths
 
-- `docs/`: Docusaurus content; `docs/Mirrors/` is generated output
+- `docs/`: Docusaurus content; `docs/Mirrors/` is generated output. The site is mirror-only: the only other published page is `docs/intro.md` (homepage). The former blog sections (`Mic`, `Projects`, `Tutorial`) were removed, so do not add a directory under `docs/` (`tests/mirror-only-content.test.cjs` fails on one)
 - `i18n/zh/`: Chinese translations
 - `src/`: site customizations
-- `tests/`: `node:test` suites (`*.test.cjs`) guarding the HagiLight plugin integration
+- `tests/`: `node:test` suites (`*.test.cjs`) guarding the HagiLight plugin integration and the mirror-only content rule (`mirror-only-content.test.cjs`: no stray `docs/` directory, no orphaned AVIF under `src/assets/`)
 - `tools/`: Python (Pipenv/invoke) mirror generator, with its own `unittest` tests in `tools/tests/` (modules import from `tools/`, so run from there, e.g. `python -m unittest discover -s tests`)
 - `.github/workflows/`: `newbe-deploy-gh-pages.yml` (deploy) and `mirror-update.yml` (daily mirror regeneration that commits to `main`); `labeler.yml` (PR labeler)
 - `docusaurus.config.mjs`: Docusaurus configuration (ESM; `@hagicode/hagilight-docusaurus` is ESM-only)
@@ -53,6 +53,7 @@ Requires Node.js 24+. The `node --test` suites (plugin integration and footer ch
 - To add a PNG, WebP or JPEG: drop it under `src/assets/`, run `node scripts/convert-to-avif.mjs <file>` (needs `pnpm install`; it writes `x.avif` next to it and deletes the source).
 - To add an animated GIF: sharp writes only still AVIF, so use ffmpeg (`ffmpeg -i x.gif -vf "scale=trunc(iw/2)*2:trunc(ih/2)*2" -c:v libaom-av1 -crf 45 -b:v 0 -cpu-used 6 -pix_fmt yuv420p -an x.avif`) and place the result under `src/assets/` the same way.
 - `tests/image-format.test.cjs` fails on a tracked PNG, WebP, JPEG or GIF, on any AVIF under `static/`, and on a bare `/images/...avif` reference.
+- Every AVIF under `src/assets/` must be referenced by its file name from a text source under `docs/`, `src/`, `i18n/`, `tools/` or `docusaurus.config.mjs`. `tests/mirror-only-content.test.cjs` fails on an orphan, so delete an image together with the page or component that used it, and keep `static/` free of content images and sources.
 - Exempt: `static/images/icons/` (favicons, manifest and tile icons are fixed-name PNG files). They are wired in `docusaurus.config.mjs` `headTags` (manifest, apple-touch-icon, PNG favicons, `msapplication-config`) and `tests/pwa-icons.test.cjs` checks the declared sizes. Also exempt: `static/img/docusaurus-social-card.jpg`, the Open Graph card (social crawlers need JPEG or PNG). Docusaurus inlines files under 10 KB as data URIs (accepted, e.g. `weixin_public.avif`).
 
 ## PostHog Events
