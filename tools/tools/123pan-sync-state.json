@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-24T08:00:56.129853+00:00",
-  "recordCount": 3516,
+  "generatedAt": "2026-11-25T06:38:39.110639+00:00",
+  "recordCount": 3525,
   "records": {
     "Eugeny/tabby:v1.0.235:tabby-1.0.235-linux-arm64.AppImage": {
       "syncedAt": "2026-08-22T07:14:26.809Z",
@@ -6735,6 +6735,21 @@
     "desktop/desktop:release-3.6.9:GitHubDesktopSetup-x64.exe": {
       "syncedAt": "2026-11-02T16:50:17.926Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-aaNcA",
+      "status": "synced"
+    },
+    "desktop/desktop:release-3.7.1-beta1:GitHub.Desktop-3.7.1-beta1-checksums.txt": {
+      "syncedAt": "2026-11-24T22:25:33.055Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-CWheA",
+      "status": "synced"
+    },
+    "desktop/desktop:release-3.7.1-beta1:GitHubDesktop-3.7.1-beta1-arm64-delta.nupkg": {
+      "syncedAt": "2026-11-24T22:28:46.564Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-zEPtA",
+      "status": "synced"
+    },
+    "desktop/desktop:release-3.7.1-beta1:GitHubDesktop-3.7.1-beta1-x64-delta.nupkg": {
+      "syncedAt": "2026-11-24T22:29:47.116Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-SqocA",
       "status": "synced"
     },
     "electron/fiddle:v0.39.0:Electron.Fiddle-0.39.0-arm64.AppImage": {
@@ -16579,6 +16594,36 @@
     },
     "ollama/ollama:v0.40.17:sha256sum.txt": {
       "syncedAt": "2026-11-21T11:22:56.272Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-8EPtA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.40.18:Ollama-darwin.zip": {
+      "syncedAt": "2026-11-24T22:39:33.364Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-FImeA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.40.18:OllamaSetup.exe": {
+      "syncedAt": "2026-11-24T13:19:33.439Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-WWheA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.40.18:ollama-darwin.tgz": {
+      "syncedAt": "2026-11-24T22:38:47.917Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-tyNtA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.40.18:ollama-linux-amd64.tar.zst": {
+      "syncedAt": "2026-11-24T22:45:22.101Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-ENueA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.40.18:ollama-linux-arm64-jetpack6.tar.zst": {
+      "syncedAt": "2026-11-24T22:46:10.958Z",
+      "shareUrl": "https://www.123pan.com/s/zsClvd-CUBcA",
+      "status": "synced"
+    },
+    "ollama/ollama:v0.40.18:sha256sum.txt": {
+      "syncedAt": "2026-11-24T23:00:45.050Z",
       "shareUrl": "https://www.123pan.com/s/zsClvd-8EPtA",
       "status": "synced"
     },

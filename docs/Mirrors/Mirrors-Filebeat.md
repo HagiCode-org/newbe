@@ -704,6 +704,7 @@ Filebeat. 国内直接从官网 https://www.elastic.co 下载比较困难，需�
 - [9.4.6](https://mirrors.huaweicloud.com/filebeat/9.4.6/)
 - [9.4.8](https://mirrors.huaweicloud.com/filebeat/9.4.8/)
 - [9.4.9](https://mirrors.huaweicloud.com/filebeat/9.4.9/)
+- [9.4.10](https://mirrors.huaweicloud.com/filebeat/9.4.10/)
 
 
 

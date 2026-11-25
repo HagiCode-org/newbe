@@ -3031,6 +3031,7 @@ Electron. 国内直接从官网 https://electronjs.org/ 下载比较困难，需
 - [43.8.10](https://mirrors.huaweicloud.com/electron/43.8.10/)
 - [43.8.11](https://mirrors.huaweicloud.com/electron/43.8.11/)
 - [43.8.12](https://mirrors.huaweicloud.com/electron/43.8.12/)
+- [43.8.13](https://mirrors.huaweicloud.com/electron/43.8.13/)
 
 
 
@@ -3112,16 +3113,16 @@ Electron. 国内直接从官网 https://electronjs.org/ 下载比较困难，需
 
 
 
-
-
-
-
 ## 44.9
 
 - [44.9.0](https://mirrors.huaweicloud.com/electron/44.9.0/)
 - [44.9.1](https://mirrors.huaweicloud.com/electron/44.9.1/)
 - [44.9.2](https://mirrors.huaweicloud.com/electron/44.9.2/)
 - [44.9.3](https://mirrors.huaweicloud.com/electron/44.9.3/)
+
+
+
+
 
 
 
@@ -3141,6 +3142,7 @@ Electron. 国内直接从官网 https://electronjs.org/ 下载比较困难，需
 - [44.11.3](https://mirrors.huaweicloud.com/electron/44.11.3/)
 - [44.11.4](https://mirrors.huaweicloud.com/electron/44.11.4/)
 - [44.11.5](https://mirrors.huaweicloud.com/electron/44.11.5/)
+- [44.11.6](https://mirrors.huaweicloud.com/electron/44.11.6/)
 
 
 
@@ -3201,6 +3203,12 @@ Electron. 国内直接从官网 https://electronjs.org/ 下载比较困难，需
 ## 45.4
 
 - [45.4.1](https://mirrors.huaweicloud.com/electron/45.4.1/)
+
+
+
+## 45.5
+
+- [45.5.0](https://mirrors.huaweicloud.com/electron/45.5.0/)
 
 
 
