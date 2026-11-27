@@ -18,6 +18,15 @@ KeeAnywhere是一个KeePass插件，提供对云存储供应商（云驱动器�
 import GithubMirrorLink from '../../src/components/GithubMirrorLink';
 
 
+## v2.3.0
+
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v2.3.0/KeeAnywhere-2.3.0.plgx" text="KeeAnywhere-2.3.0.plgx" repositoryKey="Kyrodan/KeeAnywhere" />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v2.3.0/KeeAnywhere-2.3.0.zip" text="KeeAnywhere-2.3.0.zip" repositoryKey="Kyrodan/KeeAnywhere" />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v2.3.0/keepass-plugin-keeanywhere.2.3.0.nupkg" text="keepass-plugin-keeanywhere.2.3.0.nupkg" repositoryKey="Kyrodan/KeeAnywhere" />
+- <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v2.3.0/SHA256SUMS.txt" text="SHA256SUMS.txt" repositoryKey="Kyrodan/KeeAnywhere" />
+
+
+
 ## v2.2.1
 
 - <GithubMirrorLink link="https://github.com/Kyrodan/KeeAnywhere/releases/download/v2.2.1/KeeAnywhere-2.2.1.plgx" text="KeeAnywhere-2.2.1.plgx" repositoryKey="Kyrodan/KeeAnywhere" />
