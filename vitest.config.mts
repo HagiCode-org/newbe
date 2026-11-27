@@ -3,13 +3,7 @@ import { defineConfig } from 'vitest/config';
 
 export default defineConfig({
   // Docusaurus resolves `@site/...` to the site root; mirror it so image imports resolve under test.
-  resolve: {
-    alias: {
-      '@site': fileURLToPath(new URL('.', import.meta.url)),
-      // `@docusaurus/Link` exists only inside a Docusaurus build; tests get a plain anchor stand-in.
-      '@docusaurus/Link': fileURLToPath(new URL('./src/testing/docusaurus-link.tsx', import.meta.url)),
-    },
-  },
+  resolve: { alias: { '@site': fileURLToPath(new URL('.', import.meta.url)) } },
   test: {
     // Memory bound: cap the worker count and give every worker a V8 heap ceiling, so a leaking test file fails with an OOM
     // instead of exhausting the machine.
