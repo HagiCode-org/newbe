@@ -3,19 +3,12 @@ import FeaturedDocCard from './FeaturedDocCard';
 import styles from './styles.module.css';
 import { homepageContent } from './config';
 
-export default function FeaturedDocsSection(): JSX.Element | null {
-  const docs = homepageContent.featuredDocs;
-
-  // Hide the whole section rather than render a heading with nothing under it.
-  if (docs.length === 0) {
-    return null;
-  }
-
+export default function FeaturedDocsSection(): JSX.Element {
   return (
     <section className={styles.featuredDocsSection} aria-label="热门推荐文章">
       <h2 className={styles.sectionTitle}>热门推荐</h2>
       <div className={styles.featuredDocsGrid}>
-        {docs.map((doc, index) => (
+        {homepageContent.featuredDocs.map((doc, index) => (
           <FeaturedDocCard
             key={index}
             title={doc.title}
