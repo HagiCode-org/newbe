@@ -20,4 +20,5 @@ import HomepageContent from '@site/src/components/HomepageContent';
 ## 关于我
 
 - 👨‍💻 All of my projects are available at https://www.github.com/newbe36524
+- 📝 I regularly write articles on https://newbe.hagicode.com
 - 📫 How to reach me newbe36524@qq.com
